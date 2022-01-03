@@ -1,5 +1,7 @@
 # HackTheNorth2021
 
+### Click [here](https://www.youtube.com/watch?v=4kxW-Gs9OlM) to watch a video on how the app works. 
+
 ## **Inspiration**
 
 Going through all those newspapers and magazines trying to figure out how your stocks and investments are doing? Your stock value dropping because someone made a social media post? Being anxious and stressed about when to sell or buy?
