@@ -2,6 +2,12 @@
 
 ### Click [here](https://www.youtube.com/watch?v=4kxW-Gs9OlM) to watch a video on how the app works. 
 
+## App screenshots:
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/662/447/datas/gallery.jpg)
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/662/448/datas/gallery.jpg)
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/662/449/datas/gallery.jpg)
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/662/450/datas/gallery.jpg)
+
 ## **Inspiration**
 
 Going through all those newspapers and magazines trying to figure out how your stocks and investments are doing? Your stock value dropping because someone made a social media post? Being anxious and stressed about when to sell or buy?
