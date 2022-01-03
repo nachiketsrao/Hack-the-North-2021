@@ -1,0 +1,26 @@
+This list is based on research I made for a YouTube video. If you prefer to see it as a video instead it is available [here](https://youtu.be/gM0-ZqYSmWc).
+
+This list shows the biggest IPOs in 2020 based on the market cap or value at the closing of the markets on December 28th, 2020. I’ve used multiple sources to compile the list. If I missed some deals please let me know in the comments.
+
+|||*Market Cap*|*Increase Since IPO*|
+|:-|:-|:-|:-|
+|\#1|**AirBNB**|$89.6 Billion|91%|
+|\#2|**Snowflake**|$85.7 Billion|158%|
+|\#3|**Doordash**|$50.3 Billion|55%|
+|\#4|**Palantir**|$47.0 Billion|114%|
+|\#5|**Unity Technologies**|$42.4 Billion|209%|
+|\#6|**Rocket Companies**|$40.7 Billion|13%|
+|\#7|**X Peng**|$30.0 Billion|173%|
+|\#8|**Li Auto**|$24.2 Billion|73%|
+|\#9|**Warner Music Group**|$19.0 Billion|50%|
+|\#10|**GoodRX**|$17.1 Billion|32%|
+
+# Observations and Comments
+
+**AirBNB** \- When Covid-19 hit in March 2020 AirBNB found themselves in a life-threatening crisis. Their bookings simply went to almost zero in a matter of weeks. Still, they managed to raise some money, and then on December 10th they IPO’d. This really is an incredible comeback story. In March of this year, they looked like a doomed company, a company fighting for survival. 9 months later and they are the biggest IPO of 2020 - well-played AirBNB!
+
+**Investing in IPOs** \- It has been a really good year to invest in IPO’s the top 10 companies have on AVERAGE grown 97% in value since their IPO, that is pretty impressive..
+
+**Age** \- It obviously takes some time to build this kind of value and the average age of the companies on the list is 17.7 years old. However, there are a couple of companies here that just push up the average age. 8 out of the 10 of the companies are actually between 5 and 17 years old, to me that is actually pretty young.
+
+**B2C vs. B2B** \- If we look at startups in general there will be fewer consumer-facing, usually more startups are B2B. However, when we look at this list 7 out of 10 companies are consumer-facing. So companies that IPO  tend to be more consumer-facing.

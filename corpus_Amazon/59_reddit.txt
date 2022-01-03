@@ -1,0 +1,18 @@
+IMHO, the investors are very cautious and uncertain currently judging from the mixed futures prices among the global market such as US (DJIA, SP500), Hong Kong (Hang Seng) and China. US futures normally have a positive correlation until recently where there are significant divergence from one another. The SPY recent price action also shows that its daily range are narrowing, a sign of market trading sideways, awaiting the next catalysts or bad news. 
+
+Moreover, recently digested market data also indicates that analysts have overestimated the economic recovery from COVID with notables examples like Amazon and US NFP (Non-Farm Payroll) considerable negative variance. Central banks around the world are winding back their quantitative easing program and hinted at hiking up the interest rates. Current market headwinds are the lockdown (huge contributor to global demand), Delta COVID strain, central banks policy, trade war rhetoric and etc. 
+
+Furthermore, bond yields (i.e. 5 and 10 years US treasury bonds) are decreasing which indicates that investors are moving their money in ‘risk-free’ government bonds because rising bond prices will reduce its yield (fixed coupon bond). US Dollar Index (DXY) has also risen tremendously recently and this signal a shift to lower risks assets such as bonds (USD priced government bonds) and away from share. Historically speaking, falling bond yields and a strengthening DXY normally indicates a correction might be incoming. SP500 has slowed recently and this trend could be attributed towards investors downgrading their valuation based on the recently announced earnings.
+
+In relation to SPY, the price has been trading on the upper end of the Bollinger Bands but didn’t show any signs of breaking out. The linear regression shows that the price is moving around its historical average (red line) and didn’t show any signs of breaking out too. Those indicators supports the hypothesis that the market is unsure and waiting for a catalysts.
+US is currently in earnings seasons and multiple companies earnings has been published and some of them are a disappointment (lower than estimates). US mining stocks underperform Global Sector Basic Material (MXI) average while its other sector like utilities and healthcare outperformed the Global sector after digesting the overall poor earnings results. Looking at the monthly growth of those ETF above, investors are currently taking a defensive and low risk approach by investing in utilities, healthcare and real estate. In an aggressive bull markets, technology and financial sector will do very well which is on the contrary to the above data.
+
+In conclusion, the market is very likely to correct/downgrade in the coming weeks, once their earnings play are over as I can’t see any positive catalysts coming up. 
+
+MY PLAY: SPY Strangle 
+
+I doubt the market will breakout higher, I just want to protect my downside. 
+
+SPY ($ 442.52 current)STRANGLE: 20th Aug (2 x $ 437 PUT@1.85) and 1 x $447 CALL@1.27) 
+
+Newbie here, please comment and enlighten me.

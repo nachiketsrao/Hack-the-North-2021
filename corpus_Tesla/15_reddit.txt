@@ -1,0 +1,33 @@
+Everything here is not financial advice. I just want to know if someone can do it better.
+
+**Prediction:**
+
+Personally, I'm banking on a quick crash of 30%-40% of the overall market followed by a lengthy recovery time.
+
+With the public consciousness being aware of the rapid inflation, the Great Resignation, the ending of the eviction moratorium, rising tensions within and out of the country, scrambled supply lines accompanied with mass shortages, and blah-blah-blah, I think a lot of investors have their fingers hovering over the sell button. This, along with the addition of short sellers ready to dogpile on the beginning of a downward trend, should result in a sharp decline in several securities' prices. However, unlike the Covid-19 crash, I do not believe we'll experience a quick bull rally after the market bottoms out.
+
+The flash crash of 2020 was driven by the fear of an unknown virus and the suspicion of an overdue recession, but once heavy government intervention was in place, investors had their confidence restored. This time around, the U.S. is facing a likely default on it's debt and dealing with almost irreparable internal economic problems, and the general confidence in our institutions has greatly withered since then. I think America's government is very limited with how it can intervene and I have trouble seeing the market whales and many retail traders easily jumping right back in after any announcement has been made; leading to a prolonged stagnation.
+
+Now, I am certainly not a professional in market predictions or knowing what the hell the powers that be can do alter markets. I'm just someone who likes trading and has been keeping up with the news. You should take this prediction with a FISTFUL of salt.
+
+**My Plan:**
+
+Sadly, my broker restricts much of what I can do (no naked options, no covered puts, no margin account for options, etc.), which restricts how much I can grow my account. Nevertheless, I worked a way around these rules and plan for a FAT gain.
+
+With that said, I want to combine my money with borrowed cash from friends/family (people who are outside the market) and a personal loan, plus whatever my brokerage will give me in my margin account. Estimated leverage should be roughly x3.5. After gathering the capital, I will short the ever-loving shit out of SPXL (a 3x leverage ETF of the SP500) and use the new founded cash along with some of the account's original capital to buy ATM puts. Next, using a majority of the remaining capital, I'll buy shares of SPXS (a 3x leverage inverse ETF of the SP500) and sell deep OTM calls because of the increased volatility due to panic selling. What's left of the account will be spent on ATM calls of SPXS.
+
+I chose SPXL and SPXS for the fact they follow the very stable and predictable SP500, but with more bang for their buck. I know WSB isn't known for it's safer gambles, but with the increased risk of using so much borrowed money and a falling market, I needed something to sound somewhat safe and reasonable to place the bet.
+
+If this portion of the plan fails, all I have to simply do is consolidate all my debt and then become Wendy's personal bitch boy for the better portion of my life, reflecting on where I went wrong as I shovel grease into the mouths of meatbags. If this portion of the plan succeeds, then after paying back the principle and one to two month's worth of interest (how long I think the decline will last), I should obtain a return of at least x10.
+
+***NOTE:*** *i failed math class. number may vary.*
+
+Next up is the stagnation period of the crash. I will be taking some of the gains out of the brokerage account lock in my win. The rest will be scaled into discounted stocks (likely blue chips with decent dividend yields and leveraged ETFs). On top of scaling in, selling iron condors would also be considered. If it turns out that the economy will undergo another v-shaped recovery like last time, I'll kiss goodbye to most of my winnings, but still make it out with a profit.
+
+**Questions:**
+
+Anyone got a better alternative for taking advantage of the market crash without going full retard and yoloing your mortgage in deep OTM Tesla calls expiring in six minutes? Am I overlooking an opportunity or flaw in my plan? Did you even bother reading all of the post? Is everyone still holding onto GME?
+
+**TL;DR:**
+
+I'm certainly not a doomer (or god forbid, a gay bear), but I do recognize crashes do happen and I just want to utilize extreme leverage to make a hefty gain after it's all said and done. But I do struggle to make five bucks on a ten thousand dollar account, so what the fuck do I know.

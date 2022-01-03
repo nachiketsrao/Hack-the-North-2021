@@ -1,0 +1,278 @@
+&#x200B;
+
+# Part 0: Intro
+
+Sup freaks. Just came back from the moon and that shit is glorious. Here to officially introduce you to a play I’ve been loading up on for weeks. The company is Genius Sports Limited, ticker $GENI, aka GENIE, or as Forrest Gump would say Jennaaaaay. You may be wondering why I’m here? I’m clearly (newly) rich, I should get a life. The answer is simple. I’m a degenerate and it's short hunting season. Pow Pow. The FUD’r of interest is forensic bitch and noted short seller Spruce Point Capital Management. These guys are incredibly ***unsuccessful*** in their calls so I take this as a major bull flag that they released a short report on GENI. Spruce’s past successes include: MGNI (moon shot/money printer), DBX (DropBox), Nova (rose 88% after their post, talk about poor timing). These guys have the Midas Touch, ***anything their*** ***fungus filled fingernails*** ***stroke eventually end up moonshotting***; I’m here to expedite the process.
+
+&#x200B;
+
+https://i.redd.it/kw02izf6xbm71.gif
+
+Anyway, Genius Sports Limited (GENI) is a tech company that collects data from sports events, processes it, and sells it to major gambling companies to run their sportsbooks (SKLZ, DKNG, Fanduel, Caesars etc). They are the [pick & shovel](https://www.investopedia.com/terms/p/pick-and-shovel-play.asp) play of a rapidly growing sports gambling segment ([gambling record $44bn in revenue 2021](https://www.forbes.com/sites/willyakowicz/2021/08/10/us-gambling-revenue-to--break-44-billion-record-in-2021/)). They have 4 competitors (large moat) but only Sportradar offers any real competition. GENI has deals with NASCAR, MLB, NBA, NCAA and the English Premier League amongst others. They are also the [official data partner of the NFL](https://www.cnbc.com/2021/04/01/nfl-agrees-to-data-rights-deal-with-genius-sports.html) holding exclusive rights; dump truck sized moat. Prominent investors include Cathie Wood, Mrs “Average Down at all Costs”, Anpanaman “God Tier SPAC Wizard & [wsb Yolo’r](https://www.reddit.com/r/wallstreetbets/comments/oyjk9i/geni_spruce_point_smash_grab_shorts_disclose_your/) (1.1m+ [😳](https://emojipedia.org/flushed-face/))”, amongst others (institutional ownership is 90%+). But, before we get into more specifics about the company + setup please watch this educational video:
+
+[https://www.youtube.com/watch?v=kIDWgqDBNXA](https://www.youtube.com/watch?v=kIDWgqDBNXA)
+
+Yup, I also love Christina Aguilera. So, gals put on your crop top and cargo pants, and fellas that backward fitted & baggy jeans. Let’s get groovy 90s style. Oh and Christina, please slide in my DM.
+
+&#x200B;
+
+https://i.redd.it/bug2kfcaxbm71.gif
+
+pls respond
+
+# Part 1: Institutional fuckery
+
+Spruce Point Capital Management [issued a hit piece](https://www.casino.org/news/genius-sports-stock-could-see-big-declines-says-noted-short-seller/) on Genie. Their primary claim is that Genius is a “middleman” with an “inferior business model” saying the stock could fall 60% to 80%, so a PT of $3.25 to $6.50. Well first off Spruce, fuck your bitch and the clique you claim.
+
+&#x200B;
+
+https://i.redd.it/uk0m1vhlxbm71.gif
+
+With that being said, Spruce is so so so wrong.  Given Spruce’s history of abject failure I would go further and say this report is baseless FUD. So, why would Spruce put itself in the path of a runaway train like Jenaay? Seems crazy tbh. Welp they’re known as a [“Smash & Grab” short seller,](https://www.bloomberg.com/news/articles/2021-01-27/reddit-jolts-activist-short-hedge-funds-into-adapt-or-die-mode) so these guys give friends an early view of their calls so they can front run the market before it's released to the public, profiting from the panic.  Spruce’s hit piece was released Aug 5th, the stock rose the entire day and it’s been in a legit uptrend since then, no panic lol. If this is Spruce’y bois M.O. they just fukd their company and their friends with another horrible call. [It seems like Sprucey’s gone into hiding, hoping this all blows over. ](https://www.reddit.com/r/wallstreetbets/comments/oyjk9i/geni_spruce_point_smash_grab_shorts_disclose_your/)
+
+&#x200B;
+
+https://i.redd.it/enqy9vfmxbm71.gif
+
+Now it’s Cathie Wood’s/Ark Capital turn to polish off Spruce’s beautiful thighs. Cathie started loading the boat Aug 5, the same day of Spruce’y bois FUD article, and the same day of the DKNG/GENI transformative deal \[[source](https://finance.yahoo.com/news/draftkings-genius-sports-sign-transformative-110000399.html)\]
+
+&#x200B;
+
+https://preview.redd.it/mkj42psoxbm71.png?width=1196&format=png&auto=webp&s=04cf19309a136cec0b60564b0d881b2db1894769
+
+Can’t help but respect Cathie’s bullish buying. More importantly however, is this rising floor Cathie is building into the stock price. She is known for having strong convictions and sticking to them. She’ll buy the triple layered guacamole sized dip & take the ride.
+
+[But don’t take my word for it. Check out this big, green, dildo. Cathie, you bad.](https://cathiesark.com/arkw/trends)
+
+If you need any more proof, let’s take a look at the near-100%-of-float institution rate. It’s almost as if GENI has an unconscionably small float that’s being aggressively bought by diamond handz Cathie while the MM buys remaining float shares to hedge calls.
+
+&#x200B;
+
+https://preview.redd.it/6qtw0aerxbm71.png?width=570&format=png&auto=webp&s=b125abc619b0d2f3f96966ac63eff445603328cf
+
+&#x200B;
+
+https://i.redd.it/ipnyrecsxbm71.gif
+
+# Part 2: Fundamentals
+
+GENI is the backbone/infrastructure play on sports betting since they supply the  data that major gambling companies use.  GENI offers a suite of four products:
+
+* **GeniusLive**: this is a vertically integrated video service that allows teams or sports leagues to launch something like NBA League Pass. So the platform supports payments, live statistics, advertising, live streaming, and video on-demand, without having to buy a bunch of extra software/hardware.
+* **Sporttech:** Data capture, management and analysis tools that help leagues run their sport, unlock new revenue streams, and protect the integrity of their competitions. This is essentially the shit that has turned Facebook from some site used to scam on girls in  college into a company with revenues of over $10B a year. GENI collects all the data from degenerate bets, and provides the information gathered from them to their partners for future use.
+* **Sportsbook:** GENI provides the capability (but not requirement) to build out an entire sportsbook platform for their partners.  This provides all the benefits of having a sportsbook with none of the risk of spending capital on a field GENI partners are unfamiliar with.
+* **Media & Engagement:**  GENI has the platform capabilities to allow their partners sports betting experience to enter into the world of social media.  You can chat in real time with other sports betters and complain that Nick Chubb stepped out at the 1 yard line and completely boned your 3 bet parlay. Through this platform GENI can leverage their fan engagement capabilities to drive advertising revenue and also promote future bets that may be to your liking based on your prior activity.
+
+As  mentioned Genie’s only real competition in this space is Sportradar, but Sportradar’s [SPAC merger fell through](https://www.casino.org/news/sportradar-filed-for-a-highly-anticipated-ipo-on-tuesday/) after GENI swooped the exclusive rights to the NFL from under them -- ya know, the ole’ Bulgarian ambush perfected by Vlad.
+
+The NFL deal is pretty significant so let’s dive into it:
+
+* **Expensive af**: Genius will [pay the NFL $120 million a year over six years](https://www.legalsportsreport.com/53865/nfl-betting-official-league-data-dispute/), with half paid in warrants making the [NFL own roughly 5% of GENI](https://www.yahoo.com/now/nfl-stake-genius-nearly-15-215504358.html).
+* **Locked in profit**:  Sportradar was pulling in 1.5% to 2% of in-play gross gaming revenue (GGR) on NFL wagers \[[source](https://sportshandle.com/sportradar-genius-nfl-data/)\].  Genius decided to go the opposite route by jacking up rates; asking for around 4% of operators’ pre-match NFL betting revenues and 6% of in-play \[[source](https://www.legalsportsreport.com/53865/nfl-betting-official-league-data-dispute/)\]. Operators are big mad about this:
+
+>*"They don’t really have anything new,” said another operator exec. “They are charging 4x for the same dataset.”*
+
+These guys are forced to use Genie’s official NFL Data either because they are official partners of the NFL (FanDuel, DraftKings, Caesar), state regulations require use of official data, or the TV networks force them to subscribe to Genie data to advertise.  As of now, [DraftKings has already partnered with GENI in a multi year deal](https://www.cnbc.com/2021/08/05/draftkings-partners-with-genius-sports-for-sports-betting.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1628161383), PointsBet, WynnBet, BetMGM, Caesars, and Fox Bet have also signed deals w/ Genius ([NFL names Fox Bet, PointsBet, BetMGM and WynnBet as Approved Sportsbook Operators](https://www.gamblinginsider.com/news/12973/nfl-names-fox-bet-pointsbet-betmgm-and-wynnbet-as-approved-sportsbook-operators)).  This leaves only Fanduel as yet to be disclosed, but likely already signed with Genie. Senior operator exec’s legit crying that [its a monopoly.](https://www.legalsportsreport.com/53865/nfl-betting-official-league-data-dispute/)lol. Sucks for them, great for us.
+
+* **Sticky**: The Sportradar deal was inked in 2019 and they got cucked in 2021. Sad. GENI is proactively making moves to make the deal last longer than 6yrs by hiring a good amount of NFL vets. Including [Steve Bornstein](https://www.sportico.com/personalities/executives/2021/genius-sports-steve-bornstein-1234637226/), he now leads GENI’s US business. Mans spent a decade at the NFL managing the media strategy, and spent multiple decades at ESPN and ABC.  He also was the CEO of ESPN for a cool min.
+* **NFL shills for GENI**:  This cannot be reinforced enough: the NFL’s chief concern is the integrity of the data provided, and they are entrusting GENI, and ONLY GENI, with that.  They will also force anyone who wants to do business with the NFL to adhere to the NFL’s core integrity policies by [agreeing to license all Official League Data from GENI](https://www.nfl.com/news/nfl-announces-agreements-with-four-approved-sportsbook-operators)
+
+To put this in simpler terms: the NFL is telling the world -if you want us, you’re gettin’ some GENI.   GENI also issued warrants to the NFL (5% stake in GENI)  meaning when GENI is successful the NFL is successful so they are locked in and incentivized to push GENI to anyone who wants to work with them.
+
+&#x200B;
+
+https://i.redd.it/l3e1xpncxbm71.gif
+
+The reason I’m bullish on Genie and jacked with shares/options other than the regular “*it could squeeeeez*e” play which I know, love, and bang the shit out of, and will explain this angle later, is because Genie secured the NFL deal at the perfect time. So, 3 yrs ago the supreme court overturned the ban on sports betting. The NFL has responded by moving its business model towards generating significant amts of revenue through betting. Sucks for Sporttrader, since for most of the time they held the  exclusive rights to NFL data, the [NFL actually considered gambling to be threat](https://www.washingtonpost.com/sports/2021/08/25/nfl-sports-betting/)**😱**, what a bad position to be in going into the gambling golden age.
+
+The NFL expects to make $270m in revenue from sports-betting this yr, and  NFL execs are super bullish about their future sports betting revenue, here’s a quote from one:
+
+>*You can definitely see the market growing to $1 billion-plus of league opportunity over this decade.\[*[*source*](https://www.washingtonpost.com/sports/2021/08/25/nfl-sports-betting/)*\]*
+
+The ideal sports-gambling legislation, the NFL concluded, would include substantive licensing requirements creating clear and transparent markets that protect consumers. Bets needed to be resolved using the league’s official data (GENI!! - fuck you, pay me.)\[[source](https://www.washingtonpost.com/sports/2021/08/25/nfl-sports-betting/)\]
+
+***So, when I invest I try to think of analogies that speak to me. This lets me invest in a more  logical and clear headed way. I compare this situation to the girl that sat next to you pre-OnlyFans. She used to eat ramen for lunch. A couple years later she has a poodle, a G Wagon, and goes by “Cyrstal like the champagne” instead of Bernice. Yah, she twerking on cam because she found a money printer, the NFL will twerk to online-betting.  Analogy.***
+
+*The whole industry will be twerking.*
+
+Cathie Wood’s a month before she started yolo’n on Jenaaay estimated x10 increase in domestic sports betting handle (the amount of money wagered by bettors is called “handle”), to $180 billion by 2025 , with revenue’s for the sector projected to sky at a 31% CAGR.
+
+One reason for this bullish prediction is the New Jersey example; since NJ legalized online sports betting mid-2018, they've seen online handle moon to $15 billion, 1/2 of this took place in 2020. (*Don’t know why people would yolo on sports and* [*not options*](https://www.reddit.com/r/wallstreetbets/comments/pg9jpn/why_doesnt_everyone_only_trade_options_0_dte_spy/)*, but to each their own lulz*).
+
+Sportsbetting is picking up so much steam, ESPN keeps their own tracker for up to date info on which states are going to let you yolo rent $ on Appalachian State vs Syracuse:
+
+&#x200B;
+
+https://preview.redd.it/g68ri70exbm71.png?width=1272&format=png&auto=webp&s=95e3af4ca366eb8d64ba23ac0f970d51bdac69b8
+
+There are only 3 states (Utah, Idaho, and Wisconsin - which btw if you live in any of these places - move the fuck out) that do not currently allow for sports betting and/or are in the process of allowing it.  Ground floor opportunity here.
+
+[Earlier this month, Wyoming Awarded Genius Sports Inaugural Sports Betting License - upping the number of states GENI can operate in to 15. ](https://finance.yahoo.com/news/wyoming-awards-genius-sports-inaugural-213000130.html)
+
+So clearly Jenaayy is a growth stock but let’s look at the fundamentals & also how Genie compares to the competition. (Genie, Jenaayy, GENI, Genius … lol sorry I’m  dislexic). Ya so  Sportradar (Genie’s rival)  is slated to go public this year and will likely trade in the $10-12B valuation range \[[article/source](https://www.sportico.com/business/finance/2021/sportradar-ten-billion-valuation-1234623092/)\].
+
+Sportradar filed its S-1 a few weeks ago which provides historical financial performance.  Making some simple assumptions on continued revenue growth (based on historic CAGR) we can figure out Sportradar’s valuation multiples which we’ll compare to Jenaayyy’s.  I’m also throwing in Draftkings in the comparison as a high growth (but unprofitable), pure play sportsbook leader.  You can see below how the financials compare:
+
+&#x200B;
+
+https://preview.redd.it/1f6alqkfxbm71.png?width=1258&format=png&auto=webp&s=0c25a5c75f0ca5b4498d9883053284138e273ec7
+
+I would argue Genie and Sportradar should trade at a premium to Draftkings as they have an effective duopoly on the sports betting data market.  Draftkings’ sports book market is getting more competition from new players, which is causing customer acquisition costs to skyrocket.  HOWEVER, as more of these players enter the market, they’ll have to buy all their official sports data from Jenaayy!
+
+&#x200B;
+
+https://i.redd.it/fk2cxfmgxbm71.gif
+
+Let’s get serious for a sec,, below is a valuation comparison and as you can see Genie trades at a discount to DKNG and at a premium to Sportradar’s expected IPO pricing valuation of $26-29 or $7.4B - $8.2B. It’s expected that Sportradar will trade in the $10B - $12B range once it starts trading.  Genie should probs trade at a premium to Sportradar valuation given the enormous potential of its exclusive NFL deal over the coming years. Vauling Genie at a premium would imply a conservaitve estimate of $25 to $30 price per share based on the company’s CURRENT projections..
+
+&#x200B;
+
+https://preview.redd.it/f75x253ixbm71.png?width=1260&format=png&auto=webp&s=d5a6d0efe77944fcd133102ba7e3424f6b93b026
+
+Genie reported Q2 earnings on 9/8 which beat estimates.  Revenue was $55.8M and EBITDA $5.2M vs. street estimates of revenue $53.8M and EBITDA $1.7M.  Genie tightened its FY2022E guidance to $250M-$260M of revenue (which was increased in Q1 from $190M) and EBITDA of $10M-$20M.
+
+Don’t take my word for i though, Wall Street analysts agree with their Price Targets:
+
+* Benchmark BUY $33 PT
+* Oppenheimer BUY $32 PT
+* Goldman Sachs BUY $31 PT
+* Craig Hallum BUY $30 PT
+* Needham BUY $28 PT
+* Singular Research BUY $28 PT
+
+These 12-month price targets equate to an average $30.33 or 43 % upside from the current stock price.
+
+Some other data points:
+
+* GENI is in a $330M net cash position
+* Does it pay a dividend? Of course not
+* Free cash flow is absolutely atrocious - the company is in reinvest and GROWTH mode
+* Holy fuck is price to sales looks steep based on 2020A at 27.9x, but gets cut in half by 2022E at 12.3x due to massive growth
+* Positive seasonality outlook, very volatile but shows recently strong performance
+* Sales forecast looks great, with a forecasted growth of 126% from 2020 to 2022
+* First quarter group revenues of 52% year-over year
+* First quarter group adj. EBITDA up 414% to 9.3M
+* 6-year exclusive partnership with NFL
+* Has exclusive events with almost every professional sports agency, as well as tournaments
+
+&#x200B;
+
+https://preview.redd.it/74rp8m1jxbm71.png?width=1268&format=png&auto=webp&s=09b50991702a45037e079fd174fc5bf6f870269c
+
+&#x200B;
+
+https://i.redd.it/hyzbzw4kxbm71.gif
+
+# Part 3: Float and Lizard
+
+Lizard theory has evolved since my [$NEGG](https://www.reddit.com/r/wallstreetbets/comments/ofojpw/whats_going_on_with_negg_a_ticker_with_35m_float/) and SPuRT posts. Other redditors have come up with extensions of the general idea. I’m going to do a breakdown of similar data from past analysis, including FTD rates and float comparisons, institutional ownership and recalculation of all this data (differs from online).
+
+As of now, the outstanding shares listed on Yahoo and sites such as [Stock Analysis](https://stockanalysis.com/stocks/geni/statistics/) is 191.51M shares. \[However, the float varies, with Yahoo listing it as 63.36M and other sites listing it as 58.66M.\]
+
+\*\*The current float can be calculated as follows:\*\*SPAC IPO:    27.6M shares
+
+Unlocked PIPE:   33M shares
+
+Follow-On Offering:   22M shares
+
+**Total tradable float:**   **82.6M shares**
+
+**Lock up:**
+
+Management (34.9M shares / 18% ownership) lockup expires on 11/17 and the SPAC Sponsor lockup (6.825M shares / 3.5% ownership) lockup expires on 10/17.  Apax, the private equity owner of Genius (60.2M shares / 30.9% ownership) lockup will expire on 10/17.  The gory details are all laid out here
+
+&#x200B;
+
+https://preview.redd.it/i8iutvjtxbm71.png?width=1304&format=png&auto=webp&s=7afe38c8d0b516d5493ec4251cd9458f73f19d49
+
+They also list the institutional ownership as around 44-45% but doing some calculations shows this is higher.
+
+**So is this an overcount or undercount? Lets see.**
+
+**Begin Math:**
+
+Given **191.51M shares outstanding** as the general consensus across various financial sources, we can look into the overall preferred shares and institutional buyouts across several 13F filings and aggregated data on Fintel and StockAnalysis:
+
+**Top 3 Institutional Holdings:**
+
+1. Caledonia Investments - 16,305,582 shares
+2. Fred Alger Management - 15,046,102 shares
+3. Dmy Sponsor LLC - 6,825,000 shares
+
+These top 3 holders combined have 38176684 shares or about 19.93% of the shares outstanding.
+
+There are 137 other funds that also own shares directly, for a total of 63694543 shares or about another 33.26% of the shares outstanding.
+
+Therefore, institutional ownership alone is around (19.93% + 33.26%) or 53.19% of shares outstanding.
+
+Next we can take a look at the insider transactions. This has a general consensus of 19.25%, indicating that a total of 72.44% of the outstanding shares are owned currently.
+
+Now lets take a look at merger deals, ETFs and ownership through mutual funds.
+
+We can see that the top holders for Q2 of 2021 in aggregate own 17,422,176 shares or about 9.10% of shares outstanding.  \[source fintel\]
+
+**Our total ownership of outstanding shares becomes 81.54%.**
+
+However, now we need to account for any institutions holding shares through these funds and for this reason some ETFs are excluded. Fred Alger Management has 15,046,102 shares of GENI yet through the ATFV Alger’s ETF, they end up owning approximately… oh wait.. Lol… approximately an equivalent of 75 shares of GENI. Okay so looking at these ETFs looks like they have negligible impact on the float.
+
+**TLDR; The float for $GENI is about 35,352,746 shares or about 18.46% of outstanding shares.**  **With 4.14M** shares shorted this means that approximately **11.7% of the float is shorted.**
+
+&#x200B;
+
+https://preview.redd.it/dvse6w5vxbm71.png?width=1310&format=png&auto=webp&s=ab367a73760c2e67324adb2459b7797512f474f7
+
+From the FTD angle we see that nice giant spike with the price staying stable/bleeding up. This type of pattern I’ve found to give more pop, and it’s something I looked for.
+
+&#x200B;
+
+https://i.redd.it/cudusyyvxbm71.gif
+
+# Part 4: Option Flow
+
+&#x200B;
+
+&#x200B;
+
+Order Sentiment: ***Bullish*** AF. 🌈🐻rekt. 77% of options activity over the last 30 days has been ***bullish.*** 66% of money invested has been placed on ***bullish*** bets of the stock rising.
+
+&#x200B;
+
+https://preview.redd.it/2b0lfz87vcm71.png?width=1336&format=png&auto=webp&s=4e26893ae05f3530e50ada76fe42cbe61464be0b
+
+Call OI has been trending up over the last month, you can see an increase in OI for higher strikes as GENI’s share price has increased 34.43% over the last month. The smart money has been betting on the price increase continuing.
+
+The option chain: there are only monthly options, and the options chain itself is somewhat condensed to near the money strikes. This is all actually a good thing. It is forcing investors to streamline their investments into a more concentrated area, which has a greater overall impact on both hedging requirements and overall stock price. This is exactly how a MM or a shorty in duress would ***not*** want the options chain to look.
+
+&#x200B;
+
+https://i.redd.it/8iic9s54vcm71.gif
+
+# Part 5: Positions & Prayer
+
+20k shares
+
+x100 25c 1/21/2022
+
+x220 22.5c 10/15
+
+x200 30c 1/21/2022
+
+x220 22.5c 10/15
+
+# END:
+
+&#x200B;
+
+https://i.redd.it/gfrl0qivtcm71.gif
+
+TLDR; High short interest. Next gme. Blah blah blah. Stonks only go up. Let’s ride
+
+Big ups & thanks to: u/apan-man (aka SpacMan) , u/ropirito, u/gointothebreak for ***HUGE*** help
+
+\------------------------
+
+EDIT: u/apan-man has graced us with a post that list near term catalyst for Jenaayy:
+
+* [https://www.reddit.com/r/wallstreetbets/comments/pl3boi/geni\_upcoming\_catalysts\_dd\_and\_24m\_position\_update/](https://www.reddit.com/r/wallstreetbets/comments/pl3boi/geni_upcoming_catalysts_dd_and_24m_position_update/)
+
+&#x200B;

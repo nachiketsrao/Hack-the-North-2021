@@ -1,0 +1,197 @@
+&#x200B;
+
+[The GME thesis, which I aim to explain via the comparison with VW and TSLA \(daily chart\)](https://preview.redd.it/e96lpakez1z61.jpg?width=2388&format=pjpg&auto=webp&s=862612bd4206afdb06123d26047d374f8a07e176)
+
+&#x200B;
+
+Sup, honorable apecitizens! Recently I’ve been working on this fascinating piece of TA, and now I am finally ready to share that with [you](https://www.reddit.com/r/wallstreetbets/comments/msv8n1/tbh_i_only_trust_retards/). I am so confident in it, that I dared to put my beard (which I have for five years already) on the line! Worth your full read, I promise! I decided to structure the analysis in the following way: first we'll take a look at the VW short squeeze, revisiting its origins and background as the very first step of the discussion - in order to better understand the fundamental context of TA; after that I'll lay down the main technical parameters and frameworks, through which the [GMESS](https://imgur.com/a/Sd4uE1b) thesis will be dissected, applying all of those to VWSS and explaining the TA core on the Volkswagen example; then, the process will be repeated, but this time TSLASS anatomy will be elaborated upon. Finally, all of the data accumulated in the process, as well as the major findings made, will be applied to the current technical state of GME, in order to construct at least a potential forecast and the probable price action. Buckle up and eat a crayon, let's start.
+
+Oh, and one more thing! I really encourage you to dive deep into the ANALysis with me, because the thesis can only be understood if all of the technical factors at play are considered in the sharpest detail first - and then in the aggregate: zooming out and looking at the bigger picture through the prism of coincidences, interdependences and probabilities. Dafaq did I just write? - Dunno, but that's exactly what I meant!
+
+(Not a financial advice, as I am not a professional advisor, just an amateur ANALyzer)
+
+&#x200B;
+
+&#x200B;
+
+# Volkswagen - Das Short-Squeeze: Sep 2007 - Mar 2009
+
+&#x200B;
+
+&#x200B;
+
+Remember, when VW became the most valued company in the world for a brief wild period of trading? I bet, Pepperidge apes remember. The squeeze played out right in the midst of the global financial crisis, and such an occurrence was fueled by a curious background scenario, orchestrated largely by one very interesting person. Back then, the former President of Porsche, Wendelin Wiedeking (must be a cousin of Battlefield Counterstrike), was pursuing a goal of taking over Volkswagen. In this process, he used cash-settled options to circumvent the transparency and disclosure of Porsche’s market operations. While being acquired by Porsche, Volkswagen had its ordinary shares premium risen to disproportionately high levels compared to its preference shares.
+
+As the general public was finding out about Wendysking’s takeover plan, hedge funds and particularly short-sellers set their eyes on the fact that Volkswagen’s preferred shares were traded at a significant discount to the ordinaries (approximately 70%). While the price of the ordinary stock gradually increased, the preferential shares stayed put - and the hedge funds smelt an arbitrage opportunity. They started shorting the stock and buying the preferred shares to profit on the massive divergence. For a moment, there was no news of Porsche continuing its purchase of VW ordinaries from the market, and that fact gave the hedge funds additional confidence. Only to get blindsided, as it turned out later. One shorts-frying weekend, Porsche announced its total holding in VW, cornering the substantial part of the float, and leaving only 6% in free float. In the meantime, short sales had risen to 12% of total stock outstanding. When the market found out that Porsche had acquired 74.1% of the outstanding shares through the in-transparent cash-settled options, VWSS happened - briefly making Volkswagen the largest company in the world, and finally allowing the shorting side to [GUH](https://www.reddit.com/r/wallstreetbets/comments/dpnzup/i_recorded_todays_marketopen_and_the_instant/):
+
+&#x200B;
+
+>It was mathematically impossible for every short-seller to buy a share, and therefore close their position. In other words, half the room were going to be left in a burning building with no way out. A panicked dash for the exit began.
+
+&#x200B;
+
+— A spot on metaphor by Jamie Powell, an FT journalist. Hedge funds are estimated to have lost $20 to $30 billion by betting against VW ordinary stock.
+
+What is really ironic (in Palpatine voice) - even though Porsche managed to burn many short sellers, the company couldn’t pay up for the huge positions it had created, and ended up being acquired by VW instead.
+
+https://preview.redd.it/3w0ajhk1f2z61.jpg?width=1722&format=pjpg&auto=webp&s=a4d29a8a0c5ccacfdd193f3e2d5100d0cfdee74b
+
+Also, interestingly enough, after his departure from Porsche, Wiedeking was charged with market manipulation for his role in the takeover bid. The charges were dropped in July 2016 due to a too little chance of success. Lucking Fegend.
+
+&#x200B;
+
+**Now let’s take a look at how this epic event was incorporated into the chart:**
+
+[VWSS, Daily Chart](https://preview.redd.it/d3pfzvb202z61.jpg?width=2388&format=pjpg&auto=webp&s=e497ddf6518faec188269120c44df64ab6cb1791)
+
+Even though it all looks overwhelming from the first glance, don't worry, I'll explain. There are only two major TA instruments used here, namely Fibonacci retracement 🌈tool (useful for assessing 'altitude' and the crucial support/resistance levels, check out the in-depth explanation of this TA tool [in my other post](https://www.reddit.com/r/wallstreetbets/comments/mwevzz/the_big_short_20_why_bears_may_soon_reconsider/)). The second one is the trend based Fibonacci extension for time periods (pink vertical grid with numbers 0, 0.382, 0.618 and so on) - for setting the major time landmarks and zones. Furthermore, you should have noticed the three catchy geometric figures, and the purple line - which is actually a good starting point to unfold the technical thesis.
+
+In the process of working with VW, TSLA and GME charts, I managed to identify several peculiar characteristics and patterns, that were of an evident nature and have been manifested on all of the three charts, to one degree or another. The most prominent one, in my opinion, is the killer purple resistance/support level. For the current VW example, it is somewhere around $30 mark, or $29.27 if you like precision.
+
+One may observe on the chart above, that this level is indeed the most significant level through the complete history of VWSS. First, the preliminary to the squeeze major bull run, which solidly accelerated in the middle of September 2007, was held back and repulsed by this level's resistance on the last day of October. It took almost half a year for the price action to catch up to it again in late March 2008. This was followed by a consolidation (with several failed attempts of breakout) just below this level, which lasted for more than 100 days, before the price action finally torn the resistance apart with the powerful gap on the 16th of July '08. And guess what? Even after that, the level played the major supportive role for the price action, with one final retest before the squeeze finally lift off it in the middle of September 2008. You should also make a note of how the price was still magnetized by this level during the final stages of the squeeze. The signifficance of this price level for the whole chart of VW above is difficult to underestimate. Seeing the importance of this level and being a fan of Jimi Hendrix, I decided to name it "**Purple Haze**".
+
+Let's inspect the fancy geometric shapes now. These are actually much more reasoned and circumspective than it may seem from the first glance. The first one, in orange, is a cup shaped consolidation (let it be called the "**Squeezy Grail**", because why not?) - taking place above 100% Fibo and just below the 'Purple Haze'  - which commenced as soon as this major resistance level had been tested for the first time. It is subsequently followed by the second consolidation of a flatter nature \[if you know what else is of a flatter nature, comment and if the joke is good enough I may give you an award\], which again plays around the main $30 level on the chart. The second consolidation, highlighted by the pink rectangle (a.k.a. the "**Runway**"), is actually more important than the first one, because here is the point where the paramount breakout happens: the 'Purple Haze' resistance is blew off (in the middle of 0.382 period). Based on that observation, it is also appropriate to assume that in order for the squeeze to initiate, the 'Purple Haze' has to be conquered at some point inside 0.382 Fibo time zone, during the 'Runway' stage. Finally, the triangular "**Squieezluminati Confirmed**" part is self explanatory, imho. Oh, just one commentary worth being made here: take a look at how the squeeze itself is proportionate, bipartite, and fits well into the isosceles triangle. The nature surely knows how to play with stonks, too.
+
+Especially, when we talk about Fibonacci. The horizontal 🌈 grid, Fibo retracement, is often used to estimate the possible corrective trend's depth, as well as to identify the key support and resistance levels of it. This one is comfortably applied to the beninging and the apex point of the trend (see the gray dash and dash line on the chart above), and its relevance is subsequently confirmed by how the price action plays around the levels in the triangle. The 12th of September '07 seems to be a good starting point for Fibo retracement application, because on that day another important resistance of $20.72 was penetrated for the first time (then confirmed as support with the beautiful bear trap candle on 23 Jan '08). Furthermore, $20.72 level works like an ideal 100% Fibo retrace level for the current example, and supports the 'Holy Grail' comparable to how my granny supports me. Also, take a note of the 'Purple Haze' being relatively in the middle, in between 78.6% and 100% of Fibo retracement - an important factor that will enable us to apply this retracement to GME later.
+
+Not only the 12th of September fits well as Fibo retracement starting point, it is also a perfect spot to start stretching out the trend-based Fib time grid (TBFTG - to be fucked then go, alternatively). This one is a complex instrument, so take this quick explanation for granted or do your own research in relation to it. Just like Fibo retracement, TBFTG is based on Fibonacci sequence, but this one applies to time periods, instead of the price action and levels. In order to use this instrument properly, it is necessary to identify the preliminary major trend, that will serve as the core measurement for the sequent time periods. Oh, it took me a lot of time to inspect that parameter and to identify those initial pink dash and dash trends, trust me! Tbh, it was one of the most difficult tasks to accomplish in the preparation of this TA. But the result was worth the effort! I noticed the following correlation applicable to both VWSS and TSLASS (and hypothetically to GME too): TBFTG pink dash measurement must involve the major preliminary impulse of the prior main trend, plus 'Squeezy Grail' phase. The staring point of TBFTG is particularly tricky to be identified, and I'm talking about all of the examples, but possible - especially when looking at the TA as a whole, referring to how the grid applies to the price action, and comparing the examples between each other. That is pure rocket science, if you ask me. And most importantly, the TBFTG measurement duration (pink dash and dash trend) seem to be very similar in length to 'Squieezluminati' basis - check the bars measurements on all of the charts (blue lines for VW).
+
+Pay attention to the following features, which really help to dissect the squeezes' anatomies and to build the suitable technical framework: *the 'Purple Haze' breakout occurs in 0.382 TBFTG zone; and the squeeze lifts off in the first half of 0.618 zone, peaking at 1*; *TBFTG pink dash measurement includes major preliminary trend plus 'Squeezy Grail', as it has been mentioned above. Furthermore, the correlation in duration of TBFTG measurement and the triangle basis must once again be emphasized.*
+
+Noice, but let's move further.
+
+&#x200B;
+
+&#x200B;
+
+# Tesla, or how Elon Mask truly “is become meme, Destroyer of shorts”: Apr 2019 - Apr 2020
+
+&#x200B;
+
+&#x200B;
+
+Tesla and the founder Elon Musk have confronted the short sellers on a regular basis, and even after the run-ins with the Securities and Exchange Commission (SEC), for now, the former have been winning. The TSLA shorters were sitting on mark-to-market losses of over $40 billion in late 2020, as the company’s shares exploded 740% last year. This information is based on data collected by Ihor Dusaniwsky, managing director of predictive analytics at S3 Partners, a fin-anal company.
+
+Remember the not so distant in past Tesla 'mania'? The prospects of Tesla’s business and the furious opposition of bulls and bears, including famous fund managers like David Einhorn and Mark Spiegel (who still hold a strong opinion that TSLA is a house of cards ready to collapse), have over the years contributed to an extreme volatility in the stock price. Elon Musk openly criticized the short-sellers and their motivation to dig out and spread negative sentiment about the company. The 'taking Tesla private' play seemed to work out for the short-sellers as the stock price collapsed by about 50% from November 2018 to May 2019. After that, amidst Tesla’s opening of the Shanghai Gigafactory and the announcement of the company's first annual operating profit exceeding analyst expectations, the tables have turned and the bear-beaten TSLA shares skyrocketed in price (not without noble WSBetters help, definitely). Needless to say, that previously steady short-sellers started getting anxious and scrambled to cover their positions.
+
+&#x200B;
+
+Dusaniwsky told Institutional Investor (B2B media) that shorting Tesla is:
+
+>The longest unprofitable short I’ve ever seen!
+
+&#x200B;
+
+Well, Mr. Dusaniwsky, WSB seem to have an answer for everything:
+
+https://preview.redd.it/h3l5hayu02z61.jpg?width=1668&format=pjpg&auto=webp&s=ecc69df97a282c4a22663e8487cf316488ed9d32
+
+&#x200B;
+
+While companies and founders often hold a scorn on short sellers, because they can bring down stock prices and cause the cost of capital to rise (or even do worse things, if you know what I mean), Musk’s disdain for the short selling community is unrivaled. In the middle of 2020, Musk took a dig at short sellers by releasing 'short shorts'. These now sell at a premium on Ebay. It's all nice and good, but I have another cool merch idea - '**shortz r fuk**':
+
+[TSLASS, Daily Chart](https://preview.redd.it/f0qbrpqn22z61.jpg?width=2388&format=pjpg&auto=webp&s=479c78e6763043f81e9ac2c75cf8a6c769d9eee4)
+
+&#x200B;
+
+Beautiful, isn't it? Let's quickly run through the short squeeze anatomy checklist, thoroughly elaborated in the previous TA chapter via the example of VW. First things first, the 'Squeezy Grail' is present, but it resembles more of a V shape structure. Next, the 'Runway' stage is good-looking: a fucking massive gap happened there, and this time 78.6% Fibo level is tested during the 'Runway', being indicative of the TSLA bulls' crazy power. 'Squieezluminati Confirmed' is also really interesting here, as this time there is no isosceles triangle at its core structure, but rather a 'chainsaw'-like volatile price action taking place. Furthermore, you may see that inside of the triangle, there is the after-peak 78.6% Fibo zone retest, which in turn hedl and bounced the price back in the direction of... Moon. Blessed be the bulls!
+
+Looking at the 'Purple Haze' (which is again in between Fibo 78.6% and 100% \[important!\]), for TSLASS the major price level manifested at $52.46. During the first half of 2019, this level played a role of a magnetizing support, with the subsequent testing in March and the breakout to the downside in late April. Again, a lengthy, half a year long consolidation is taking place just below this level, and above Fibo 100% retracement. The breakout occurs, you guessed, right in the TBFTG 0.382 zone. And what is really fascinating, is the fact that, after the breakout, the 'Purple Haze' has never been retested. But who knows what the future holds?
+
+And the Fibos. The retracement, again, apples perfectly onto the complete squeeze structure: 78.6% is trialed several times; all of the upper levels except for 38.2% were broken with the subsequent retrace and and some with the retest. A particularly intensive price action was occurring for about two weeks near the 23.6% Fibo level, and the high of $189.4 level was penetrated and then touched gently during the initial squeeze. Ah, almost forgot, 100% ($35.75) Fibo level firmly holds the 'Squeezy Grail' in hand again.
+
+Current TBFTG should be of an interest for fellow TAnaLyzators too. Particularly, the downtrend, as opposed to VW uptrend, serves as the core for TBFTG's application (again, refer to the dash and dash pinkish line). This core is composed of the pre-'Squeezy Grail' downtrend plus the Grail itself. Take a look at gray measurements, which cover this phase and the triangle duration - again these two follow the tendency of being proportionate in the length as phases. *Crucially, the 'Purple Haze' breakout occurs in 0.382 TBFTG zone again; then one more time the squeeze lifts off in the first half of 0.618 zone, with the false first peak during the final stages of 0.618 and the proper peak at 1*.
+
+Too many coincidences and congruences between the two TA examples discussed above, if you ask me. Especially if the fact that such events happen once in ten years or so is taken into account. Two quotes are of a relevance here:
+
+&#x200B;
+
+>Coincidences mean you're on the right path - *Simon van Booy*
+
+&#x200B;
+
+>If you gaze long enough into an asshole, the asshole will gaze back into you - u/roman_axt
+
+&#x200B;
+
+Some additional food for thought from TSLA:
+
+[For redditors with a different floor](https://preview.redd.it/gnd0yienc2z61.jpg?width=1668&format=pjpg&auto=webp&s=b8b72e1671ad69cf871cde154ae386e52835e94a)
+
+&#x200B;
+
+&#x200B;
+
+# Game stopped, or it is just a beginning?
+
+&#x200B;
+
+&#x200B;
+
+I am absolutely confident that you all know even more than myself about the fundamental factors at play for GME, so I will not bother you here with the background explanation. There is a plenty of good HQ DD all around reddit, so let's jump straight to the sweet sweet TA:
+
+[GMESS, Daily Chart](https://preview.redd.it/ko1ppnasc2z61.jpg?width=2388&format=pjpg&auto=webp&s=1d3f7c2a78135696d66a0a70e8e2a34ad4a04dbf)
+
+&#x200B;
+
+At this point, I feel that a disclaimer is necessary. Let me briefly remind you that this analysis is a thesis, or a hypothesis that has to be proven in the future. I do believe that there is a solid probability for things to play out this way, and my beard supports my manly confidence. However, this is the market, and it all may go another way at any point in time, that's the nature of things! Think critically, learn and do your own DD and TA. In a good memory of u/ControlTheNarrative, at least.
+
+And so, it begins. Despite it may seem that there are too many unknown or at least questionable variables for now in this GMESS TA, I believe that I was able to identify the most crucial parameters to build the core of this technical analysis's thesis, since VWSS and TSLASS provided many clues and identifiable characteristics to refer to. The first and most important one is surely the 'Purple Haze'. I should remind you, that this mystically sounding level persistently held back the price for both of the squeeze examples discussed, and only upon the breakout of this level the short squeezes were initiated. For GME this major price level seems to be at about $233 mark, with two intensive tests in Jan and Mar, which proved it to be the most significant resistance on the chart above.
+
+Then, the shapes. The 'Squeezy Grail' (again occurring in between 78.6% and 100%) consolidation is also easily identifiable here, and it is yet again followed by the rectangular 'Runway' consolidation, where the price action currently stands. Remember, how historically (in TSLA and VW) the 'Purple Haze' breakout occurred somewhere near the spot of the current GME price action, in 0.382 Fibo time zone? Well, to paraphrase Ian Fleming: once is (VW) happenstance. Twice is (TSLA) coincidence. Three times is GMenemy action.
+
+Fibos. Applying these two instruments to GME was real pain in the ass. Firstly, because the retracement is not usually used as a predictive instrument, being ordinarily applied to the completed trend. But since the situation is not ordinary at all, I played smarter (or more autistic, if you like). Due to the fact that the 'Purple Haze' level was approximately in between 78.6% and 100% Fibo in both of the previous examples, I assumed exactly that to be applicable here too. My belief is firmly backed up by this soft touch of 78.6% by the price action on Jan 28th. And when these two major levels were identified, the Fibo retracement horizontal grid just stretched out on GME itself.
+
+Identifying the starting points for the trend for both Fibos was the most tricky part. After countless attempts and failures I found what I believe to be the cornerstone to the squeeze:
+
+[Fibos' initiation point zoomed in](https://preview.redd.it/t2ouren1d2z61.jpg?width=1668&format=pjpg&auto=webp&s=1cd87d96bb42ac20451c86059295f7560c8c44e8)
+
+&#x200B;
+
+Why? Because this                        ☝️ is clearly where the fun started.
+
+And now it all matches perfectly. So, I am patiently waiting for the 'Purple Haze' to be broken. And what do you do, fellow retard?
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+They say, that coincidence doesn't happen a third time. I say, we shall see.
+
+**TL;DR** is in the comments.
+
+P.S. Here is the most precious thing that I can offer you: my Crayon summative drawings:
+
+https://preview.redd.it/cqzfkxh7d2z61.jpg?width=2388&format=pjpg&auto=webp&s=82c47698d81cb9e4641df74272e98dd4fcce5337
+
+https://preview.redd.it/dg3zkwh8d2z61.jpg?width=2388&format=pjpg&auto=webp&s=906b9a497c366a48566e37651d3f6d9acc16d8ac
+
+https://preview.redd.it/c5ui5of9d2z61.jpg?width=2388&format=pjpg&auto=webp&s=ddd3069eba69f52889bc6571557740d08ec7f6e6
+
+&#x200B;
+
+EDIT.
+
+Here you go boy, proof of beard:
+
+https://preview.redd.it/bsx1hemba4z61.jpg?width=4032&format=pjpg&auto=webp&s=a7d38277f706f1944d10e27adf84f17e19ae10d8
+
+I also decided to raise my bets, so I will also shave my hairy legs, if I'm wrong:
+
+https://preview.redd.it/wo2u9g9da4z61.jpg?width=4032&format=pjpg&auto=webp&s=967dbbe4f4b75f52d94869b38fc2837badb8b710
+
+And yeah, the reddit avatar will also get the new style.
+
+&#x200B;
+
+EDIT 2.
+
+You fucking whining bastards started criticizing my beard and its quality. Here is a better shot. Like you got a better one, wankers!
+
+https://preview.redd.it/eyv1f5nxh4z61.jpg?width=3023&format=pjpg&auto=webp&s=72e21e223d3e02d58c4fa387c119e9641b00232c
+
+&#x200B;

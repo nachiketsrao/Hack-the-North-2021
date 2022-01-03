@@ -1,0 +1,91 @@
+Note: I made this at 3am est. and tried posting it earlier, hopefully it can be seen now.
+
+&#x200B;
+
+I'm going to keep this post relatively quick; I wanted to look into why $CCJ's momentum fell off on Monday. I've outlined a few key-points that were gathered from EOD data following Monday's close.
+
+**TLDR: The market is setting up a face-ripping rally that will send CCJ's Sept 17th calls to mars.**
+
+&#x200B;
+
+# I. NAV Premium
+
+As many of you know, the driver behind Uranium's rapid rise has been Sprott Assett Management. Basically, they have created a fund to allow investors to gain exposure to physical holdings of Uranium, and in doing so, they have attracted a geometric fuck-ton of attention and funding from the public.
+
+We can consider Sprott to be the "Fuel" behind the rise in not only Uranium's Spot, but also the meteoric 50+% monthly increases in Uranium stocks. My question after Monday was whether or not this fuel was running out, and what I've gathered is that the answer is overwhelmingly NO.
+
+First and foremost, we heard at the end of last week that Sprott was going to issue an additional $1b (billion, with a fucking b) of shares to fund more Uranium purchases through the coming days. The mechanism which drives these purchases is simple; they put all of their cash into uranium. Taking that one step further, the question you should be asking is "Where do they get their cash?" That's also simple, when their NAV falls below the market's pricing of the fund (aka, investors are paying more money for Uranium exposure than its spot price indicates it's worth), they issue more shares of stock. This gives them direct access to cash, which, in essence, gives them direct access to more uranium.
+
+What we can see below is the fund's valuation (green) against the NAV of their holdings (essentially all uranium). **There was already a huge gap between Sprott's valuation and it's NAV, but that gap has soared significantly after Monday's close. This is the catalyst for more buying; Uranium's momentum isn't slowing down, its speeding up.**
+
+&#x200B;
+
+[Sprott's Uranium Fund NAV \(Yellow\) vs. Price \(Green\)](https://preview.redd.it/hiqf144yein71.png?width=673&format=png&auto=webp&s=de198c42a21b4f33677e8712719d17bf056be05d)
+
+Shown another way, below is the actual premium of NAV to price that the fund is being traded at. **It is trading over 28% higher than it's value (up from just 16% on Friday).**
+
+&#x200B;
+
+[Historical NAV Premium](https://preview.redd.it/5x7oy5gzein71.png?width=693&format=png&auto=webp&s=3857fdd5c96fcb75991c6d55f11f4088dc128cbc)
+
+# II. Uranium
+
+Really quickly, I just want to show you Uranium's Spot price for the year.
+
+&#x200B;
+
+[Uranium Spot Price\/Pound](https://preview.redd.it/7uqvhkv0fin71.png?width=754&format=png&auto=webp&s=88c2ff8b7ebae0def2ddaa9c8ca7f543bf02657d)
+
+You can see the exact moment Sprott started purchasing uranium on July 19th, and they haven't slowed down one bit. I expected to see spot prices down Monday when $CCJ behaved as it did, but **Uranium is up another 4% on the day.** That's not a small increase at all!
+
+The real question becomes this: "How high can Uranium go? Isn't it already up so far that we likely missed the play?"
+
+Well, to that I say zoom out:
+
+&#x200B;
+
+[25Y Uranium Spot Price\/Pound](https://preview.redd.it/wddt5f72fin71.png?width=753&format=png&auto=webp&s=f466e1df0729597b32121f16b6ed254421dce95f)
+
+This won't happen in a week, but we haven't seen shit yet.
+
+# III. Gamma (A Lesson in Greek)
+
+For those of you who are smart enough to get your investment advice from wallstreetbets, gamma is the one that tells you how much an option's delta will change with respect to a price change in the underlying stock price. For those of you who are smart enough to put your life savings on weeklies (not pointing fingers at anyone but myself here), delta is the one that tells you how much your option's value will change with respect to a price change in the underlying stock. This is important to know when understanding how a gamma squeeze works.
+
+It's also important to know how market makers hedge their portfolio against those OTM call options they just sold you. As you (hopefully) know, an option gives you exposure to 100 shares of a stock (no, really, if you don't know that you honestly shouldn't be touching options. You're so fucking fucked). When you multiply 100 by the delta of a given option contract, you essentially find the amount of shares of stock a market maker would need to buy to completely hedge their exposure to the options that they are short.
+
+**The key detail, however, is that hedging that way only hedges their position at that exact moment.** The delta of an option that is very in-the-money is about 1 (delta essentially tells you how likely it is that your option will expire in the money according to the complicated brain of the market). The delta of an option that is very far out of the money is about 0. It's dependent on price. **So while market makers may be hedged well today, if the price of $CCJ rises before Friday, the delta of every call option will increase.**
+
+This means that they will have to buy more shares of stock to hedge their position again, causing the price to rise further, causing the delta of the options to rise further, causing them to buy more shares to hedge their position again... you get the fucking idea. A gamma squeeze!
+
+For this to happen, though, there needs to be enough outstanding options to fuel such a price movement. So lets take a look at the options chain for $CCJ; first I'll show you the options chain for the end of next week:
+
+&#x200B;
+
+[Sept 24 Options Chain for CCJ](https://preview.redd.it/ejp9o3f4fin71.png?width=1005&format=png&auto=webp&s=5624d393c893b432a4437b67726cae8988efef6b)
+
+Looking at the open interest, we can see that there aren't that many options expiring on the 24th. Even the most commonly traded strike of $25 only has 1403 contracts outstanding, indicating 140,300 shares of exposure (that may sound like a lot of shares, but this is a huge company and that kind of volume wouldn't move shit).
+
+So now lets compare this to this Friday's option chain:
+
+&#x200B;
+
+[Sept 17th Options Chain for CCJ](https://preview.redd.it/5kuec4f5fin71.png?width=999&format=png&auto=webp&s=5c9907c243724a1092f44b753d9abe540530e6d1)
+
+Good fucking god.
+
+I'll remind you that the price movement from a gamma squeeze comes from a **change in delta**. This means that the contracts that have a delta close to 1 (the in-the-money ones, pretty much anything below the 20 dollar strike) will not do much to push a gamma squeeze further.
+
+But look at the amount of exposure in the ATM and OTM contracts! **2,543,400 shares of exposure at $24, 7,656,800 shares at $25, and almost 10,000,000 more shares that are out of the money** (these are the real focus). There are even more contracts beyond that $29 strike. If we see $CCJ move up a few dollars during the week, market makers are going to take things much further when they have to hedge their short with millions of shares.
+
+What's going to drive the price up a few dollars you ask? How about uranium's fucking spot price? What we saw Monday and the start of today in $CCJ was nothing more than a lack of confidence; I wouldn't be surprised if $CCJ smashes through $35 by Friday, my confident bet is that we will at least break through $30.
+
+&#x200B;
+
+**Positions:**
+
+35x CCJ $26/$27 call debit spreads. (Playing it safe, $3.5k max value)
+
+100x CCJ $28/$30 call debit spreads. (The money maker, $20k max value)
+
+250x CCJ $35/$37 call debit spreads. (I'm a fucking degenerate gambler, $50k max value)

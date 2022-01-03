@@ -1,0 +1,51 @@
+Paysafe is a new entrant to the fintech field. They went public via spac titled ' **Foley Trasimene Acquisition II Corp** '. And just like every other SPAC in the last 6 months, the stock price has run up then gotten crushed. I personally hate spacs, however if the underlying company is valuable once the merger is complete they can be a good investment.
+
+ The Spac is sponsored by Bill Foley, a notable entertainment investor. He made a fortune investing in wineries, golf courses, sports franchises, and hotels. Their CEO is Phil Mchugh, who has a track record working at citibank and barclays. Overall the management team seems pretty impressive. (Especially considering citi handles all wire transfers on earth. The CEO has a lot of experience with credit and merchant payments. I did notice that his linkdin profile is written in the third person, which could be a red flag. 
+
+Paysafe is fundamentally a transaction handler. They serve mostly medium and smaller merchants, and transfer money between merchants, currencies, and forms of credit. They have some larger customers, notably including fortnite, twitch, and spotify. The firm handled 92 billion $ of transactions in 2020. They focus much of their business on gaming, and gambling. Which are both attractive and growing markets. 
+
+Taking a look at the companies SEC filings, the notable risk factors they list include risk due to brexit, risk of accidentally processing fraudulent claims, and heavy reliance on third parties for much of their processes (payment processing, banking, routing/connectivity, customer support, IT). This leaves me with the question what do they really do? My understanding is that the company provides value to customers by the middleman and acting as a connection between merchants, local banks, and larger financial institutions. They process payments and take a processing fee. 
+
+Other notable risks would be the major competitors that the company faces in the fintech world. They are partnered with visa and mastercard, but will have to compete with COIN, SQ, SOFI and many others. 
+
+Advantages? The firm has a solid hold in the European and international markets. It's in a quickly growing industry, and has good leadership. 
+
+&#x200B;
+
+Finances.
+
+PSFE has a market cap of $9.7 Billion. Their trailing 12 months revenue is $1.4 billion, and their gross profit was $891 million or 62.5%, very nice. 
+
+The market cap/gross profit ratio is 9.7bil/891mil=10.8. At this ratio the company is pretty attractively priced. (If you bought the entire company, you'd make 100% profit in 10.8 years assuming no change in valuation). For reference, this ratio on a few other firms.
+
+PLTR-68
+
+COST-6.3
+
+AAPL-19.1
+
+MCD- 17.1
+
+INTC-6.03
+
+SPOT-27
+
+SQ-42.6
+
+PYPL-31.6
+
+VISA-28.8
+
+Relatively speaking, the price/earnings on this company is a bit low. Especially compared to their most similar competitors PYPL and SQ. 
+
+Taking a look at the balance sheet it isn't so sexy, they have a lot of liabilities and long term debt. Not the worst I've seen, they still have more assets. Their quick ratio is 1.35. Perhaps this explains the low P/E. 
+
+&#x200B;
+
+Overall, the company has stiff competition, but good leadership and valuable customers. They are also specializing in a very attractive market. The company is very undervalued in my opinion, and could potentially have a significant run up to reach a more reasonable multiplier. If it's multiplier were to be similar to its peers (SQ,PYPL), the company would 3x in valuation. 
+
+I started off this DD hating this company because it was a SPAC, however after looking into it I think I may invest.
+
+Edit: another notable risk I just at thought of for these guys is currency valuations, they do a lot of transferring between currencies as they have a very large international presence. Also fixed market cap # because google is a liar
+
+I do not have a position in psfe currently

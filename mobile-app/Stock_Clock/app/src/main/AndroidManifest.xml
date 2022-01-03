@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.company.stockclock">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_wo_name"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyInformationBook">
+        <activity
+            android:name=".fragments.NPL_Reddit"
+            android:exported="true" />
+        <activity android:name=".AddCompanyActivity" />
+        <activity android:name=".Activities.WondersActivity" />
+        <activity android:name=".Activities.MuseumsActivity" />
+        <activity android:name=".Activities.LeadersActivity" />
+        <activity android:name=".Activities.DisplayDetails" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:theme="@style/MyTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

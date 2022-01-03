@@ -1,0 +1,264 @@
+# **Behavioral and Historical Finance**
+
+# **Jason Zweig Your Money and Your Brain**
+
+- Neuroeconomics
+  - A monetary loss or gain causes a biological change that has profound physical effects on the body
+  - Neural activity of someone making money in investments are indistinguishable from someone high on cocaine
+  - After 2 repetitions of a stimulus, the human brain automatically, unconsciously, and uncontrollably expects a 3 repetition
+  - Once people conclude that an investment return is predictable, their brains respond with alarm if the pattern is broken
+  - Financial loss is processed in the same areas where we respond to mortal danger
+  - Anticipating a gain and actually receiving it are expressed in different areas. Helps explain why money does not buy happiness
+  - Expecting both good and bad events is often more intense than experiencing them
+- Greed
+  - There is only one sure thing on Wall Street. And this is there are NO sure things
+  - Lightning seldom strikes twice
+  - Lock up your &quot;Mad Money&quot; and throw away the key. If you can&#39;t stop yourself from gambling in the market, then limit the amount
+  - Control your cues. Turn off CNBC
+  - Think twice before making any decisions. Calm yourself down
+- Prediction
+  - Our incorrigible search for patterns leads us to assume that order exists where there is non
+  - Whenever you are confronted with anything random, you WILL search for patterns in it
+  - People hate randomness
+  - If a reward is big enough, it will carry a long-lasting memory that is difficult to break. This is why chart analysts get into trouble because they think they &quot;got it&quot;
+  - Investors have a recency bias – what has happened they think will continue to happen, even if it is unpredictable. This causes investors to think that a bull market will continue and a bear market will also. This also causes them to buy the hottest mutual funds
+  - Control what you can in the market – don&#39;t look for the next Google
+    - Expectations – set realistic goals
+    - Risk – ask not how much you can gain, but also how much you can lose
+    - Readiness – think twice
+    - Expenses – keep them low
+    - Commissions – keep them low too
+    - Taxes – don&#39;t day trade, you get hit with short term taxes
+    - Yourself – don&#39;t try to predict
+  - Don&#39;t try to predict the market – DCA is a good strategy to prevent this
+  - Most mutual fund managers fail to beat the market. Answer to this is to DCA into index mutual funds
+  - Correlation is not causation
+  - Take a break – if you take a break, it resets your &quot;gamblers fallacy&quot; IE – a coin is flipped 7 times and comes up heads 7 times in a row, the next flip is &quot;due&quot; for a tail.
+  - Don&#39;t obsess – if owning stocks is a long-term project for you, then following changes constantly is a very, very bad idea.
+- Confidence
+  - Create a &quot;too hard&quot; pile. Know what you don&#39;t know.
+  - Measure 2x cut 1x. Have an overconfidence discount of 25% so if a stock according to your valuation is worth between $40-60. Make it $30-45.
+  - Don&#39;t get stuck on your own companies&#39; stock
+  - Diversification is the best defense
+- Risk
+  - Take a time out. Do not buy or sell an investment on the spur of the moment
+  - When the price drops, so does risk.
+  - Try to prove yourself wrong. Listen to another person&#39;s opinion
+  - Know yourself and your risk tolerance
+- Surprise
+  - If everyone knows something. It is already embedded in the price of the stock
+  - High hopes can cause big trouble
+- Regret
+  - Expecting regret often hurts worse than experiencing it
+  - The more you can automate your investing, the better
+  - Face your loss.
+  - If you have a truly diversified portfolio, then you will guarantee yourself, by definition, that some of your assets will do well while some will do badly. You have to look at the whole portfolio
+  - Don&#39;t chase hot sectors or stocks. The cure for chasing is to rebalance. Decide on a number and stick with it
+  - Rebalancing over the long-term increases returns and lowers risks. It is buying low and selling high
+- Happiness
+  - If you earn enough cash to live on. Then more money won&#39;t make you happier
+  - Know that money is a means, not an end in itself
+- Summary
+  - Take a global view. Look at total net worth, not changes in each holding
+  - Hope for the best but expect the worst. Diversifying can keep you from panicking during bad times which will occur
+  - Investigate before you invest. A stock isn&#39;t just a price. It is a company
+  - Never say always. Never put more than 10% of your investments into a single stock
+  - Know what you don&#39;t know.
+  - The past is not the prologue. What goes up must come down and what goes way up usually comes down with a crunch. Never buy an investment because it is going up. Smart investors buy low and sell high
+  - If it sounds too good to be true, it probably is. Anyone who offers a high return at low risk is probably a fraud
+  - Costs are killers. Trading costs eat up your profits
+  - Don&#39;t put all your eggs in one basket. Spread out between US, foreign, bonds, and cash. It is not a good idea to invest heavily in industries that your job is tied too. If you lose your job, your stock would be likely to fall also.
+
+# **Edward Chancellor Devil Take the Hindmost A History of Financial Speculation**
+
+- After fiat money was introduced in Rome during the 3rd century A.D, currency crises became common
+- Journalist Mike Royko described the market as manic-depressive. All you have to do is listen to the daily broadcasts and you think you are hearing the latest medical report on someone who ought to be in therapy or tied to a bed.
+- Bull phase – market is frenetic and expectations become unrealistic
+- Bear phase – market is depressed, activity is slow and universal pessimism replaces universal optimism
+- Ben Graham – In the short term, the market is a voting machine, in the long term, a weighing machine
+  - **Dutch Tulip Crisis**
+- During Tulipomania there was little attempt to justify the prices paid for tulips, most speculators entered into contracts with the intention of quickly selling at a higher price
+- The Tulip market crashed on February 3, 1637. There was no clear reason for the panic
+- In the aftermath of the tulip crisis, tulipomania gave way to tulip phobia – a revulsion analogous to the public distaste for common stocks after the crash of 1929 and Japan after 1989
+- The course of the tulip mania was similar to many later crashes. Initially started with a rise in prices for the precious Semper Augustus bulbs which attracted new entrants into the market, so stock market booms are commonly triggered by a sharp climb in the share prices of a particular sector.
+- As a bull market mania progresses, the quality of the stocks (or tulips) that attract speculation declines – a rising tide floats all ships, even those unseaworthy. Rumors fuel the boom, rapid growth of leverage through the use of futures and credit, sharply rising prices followed by sudden panic without cause and initial government passivity followed by intervention
+- Austrian economist J.A Schumpeter observed that speculative manias commonly occur at the inception of a new industry or technology when people overestimate the potential gains and too much capital is attracted to new ventures
+- John Stewart Mill said the seeds of each boom are sown during the preceding crisis, when the liquidation of credit causes asset prices to decline so severely that they become genuine bargains. Their subsequent sharp rise from a low-level lead to a revival of speculation. Unable to remember the past, investors are doomed to repeat it
+  - **Stockjobbing in Change Alley London**
+- Charles Kindleberger suggests that speculative manias typically commence with a displacement which excites speculative interest. The displacement may come either from an entirely new object of investment or from the increased profitability of established investments. It is followed by a positive feedback loop as rising share prices induce inexperienced investors to enter the market, and results in euphoria. Speculation becomes more diffuse and spreads to different classes of assets. New companies are floated, investors leverage their gains, credit becomes overextended, swindling and fraud are common, then the economy enters a period of financial distress which is the prelude to the onset of a crisis
+- The success of legitimate Captain Philips diving expedition and the East India Company caused promotors to cash in on investor euphoria to float new ventures which were fraudulent
+- The mania played out as a series of mini-bubbles. Shares were driven above their intrinsic values by speculators using financial derivatives (futures, options, credit). The boom lost momentum after expectations were disappointing and business failed.
+- An impatience to be rich, a contempt for those slow but sure gains which are proper reward of industry, patience and thrift, spread though society
+  - **South Sea Scheme**
+- Sir Isaac Newton – &quot;I can calculate the motions of the heavenly bodies, but not the madness of men.&quot;
+- There was a company stock floated (IPO) during the bubble which said &quot;For carrying on an undertaking of great advantage but no one to know what it is.&quot;
+- Only 4 of 190 bubble companies founded in 1720 survived
+- Speculators did not buy bubble companies shares as long-term investments, they bought them with the intention of selling them on to greater fools
+- Many buyers of the stock knew they were purchasing at absurd prices and that the long-term prospects of the company were hopeless; however, they all believed or hoped that they would be able to sell before the price plummeted
+- Joseph Schumpeter – &quot;The mania of 1720 was exactly as were later manias of this kind, induced by a preceding period of innovation which transformed the economic structure and upset the preexisting state of things.&quot;
+- The South Sea Company bribed both the Court and Parliament.
+  - **Fool&#39;s Gold**
+- The most common practice of projectors seeking to promote their companies was to employ members of Parliament and their peers as directors
+- Emerging market speculation tends to appear at a juncture in the economic cycle when declining yields on domestic bonds combine with an excess of capital to make foreign investments particularly attractive.
+- The boom of 1822-1825 can be understood as the product of easy credit conditions
+- During the boom, the unrestricted growth of credit caused asset prices to rise, stimulating further credit creation. The situation reached a turning point in the spring of 1825, after which declining asset prices undermined confidence, caused a contraction of credit, and eventually brought on a crisis.
+- When owners of savings are not finding their usual kind of investments, they rush into anything that promises speciously, and when they find that these specious investments can be disposed of at a high profit, the rush into them more and more.
+- During the upturn in the cycle, people become convinced the prosperity will last forever.
+- After 1825, there was a succession of booms and crises at roughly 10-year intervals
+  - **England Railway Mania**
+- Joseph Schumpeter, Speculators are in the vanguard of capitalist process. Once an innovation has been established and produces steady returns, speculation gives way to investment, which is more concerned with safety of principal and regularity of income than with capital gains. &quot;Unlike the speculator, the investor is primarily interested in the current state of affairs; insofar as he anticipates the future at all, he hopes that it will be a seamless continuation of the present.&quot;
+- Innovations and novelties have always excited speculators.
+- The railway journals were enthusiastic and uncritical supporters of railway schemes. They &quot;puffed&quot; new offerings and in return got hundreds of thousands of pounds spent on weekly advertisements
+- There was an abundant of oversupply in terms of proposals for the very same rail-lines; each of these stock companies would all trade a premium even though it was known that only one of them would succeed and actually be allowed to build
+- Economist article &quot;There is not a single dabbler in scrip who does not steadfastly believe-first, that a crash sooner or later, in inevitable; and, secondly, that he himself will escape it. When the luck turns, and the crack play devil take the hindmost, no one fancies that the last mail train from PANIC station will leave him behind. In this &#39;Men deem all men mortal but themselves.&#39;&quot;
+- There was an &quot;extraordinary diversion of capital from traditional purposes to the construction of railways.&quot; It took nearly 2 years for the full impact of the reckless railway speculation to be felt in the economy at large.
+  - **The Gilded Age**
+- The aim of the corner was to acquire a sufficient number of shares to force up the price and catch out the bears who had sold short
+  - He who sells what isn&#39;t his&#39;n, must buy it back or go to pris&#39;n
+- Corners were normally undertaken by informal speculative partnerships and accompanied by market manipulation. It is a tense game that often fails.
+- &quot;Call&quot; or &quot;Margin&quot; loans became common and increased volatility in the market
+- During a market crisis, call rates rose sharply and loans were withdrawn, but because liquidity in the stock market dried up and borrowers were unable to sell securities, banks often experienced difficulty in retrieving their loans. This makes banks vulnerable to panics
+- Congress passed a law outlawing trading in gold futures, but this only caused panic and gold shot up by 33%
+- Some speculators, known as &quot;panic birds&quot; came to the market only once prices had crashed and money was scarce; the bought carefully, locked up their investments, and kept away from Wall Street until the next calamity stuck.
+- But most speculators got caught up in the carnival atmosphere and remained until they lost everything
+- Although the market is better regulated today, the speculators propensity for manipulation has not diminished with time
+  - **The Crash of 1929**
+- &quot;Stock prices have reached what looks like a permanently high plateau.&quot; Yale economist Irving Fisher a few weeks before the crash
+  - He believed that America had entered a &quot;new era&quot; of limitless prosperity
+- People tend to &quot;fancy the prosperity they see will always last, that it is only the beginning of a greater prosperity.&quot;
+- People believe we are living in a &quot;new era&quot; and that old rules and principles and precedents of finance were obsolete. That things could safely be done today which had been dangerous and impossible in the past
+- Some time passes and people forget the past lessons and the same arguments come back and the same lessons must be relearned
+- The rich became richer during the 1920&#39;s, but the workers were unable to enjoy the benefits of their improved productivity.
+  - Unable to maintain their share of the economic surplus, workers experienced a decline in real wages during the decade as corporate profits rose
+  - Capitalism, however, requires consumers as much as savers. But the demand was maintained by a massive expansion of consumer credit
+  - Consumers, in their appetite for immediate gratification, were devouring their future. And when that future finally arrived, the cupboard was bare.
+- Margin loans were being used to invest in the stock market, further pushing up asset prices. This created a vicious circle
+- The federal reserve ignited a bubble by lowering interest rates to help the bank of England stop the flow of Gold
+  - Once the fed realized they created a bubble, they increased rates from an all-time low of 3.5% back to 6%. But this interest was too low to reduce speculation while also being too high for the economy as a whole
+- Lots of new brokerage houses opened at the peak. Usually, to sell to retail investors who were not as financially literate
+- Charles Mitchell became the most prominent cheerleader of the bull market and &quot;new era&quot; investing. He stated stocks were as safe as bonds. He went bankrupt after the crash
+- The most striking thing about the stock market boom of the 1920&#39;s was how speculation became central to the culture
+- A dominate feature of the 1920&#39;s stock market was the use of debt to pyramid investments and enhance gains.
+- Groucho Marx &quot;No need to employ a financial advisor to select your stocks. You can close your eyes, stick your finger any place on the big board and the stock you bought would start rising.&quot;
+- Leverage was not confined to individuals&#39; speculators margin holdings; it became built into the financial structure of corporate America
+- History, which has a painful way of repeating itself, has taught mankind that speculative overexpansion invariably ends in over contraction and distress…. If orgies of speculation are permitted to spread too far, however, the ultimate collapse is certain not only to affect the speculators themselves, but also to bring about a general depression involving the entire country.
+- Shares were trading at 30 P/E&#39;s
+- Crowds and bull markets are inherently unstable; it has no stasis, no point of equilibrium, and is driven by the dynamic either to grow or shrink. At the moment of its dispersal, a crowd frequently succumbs to panic, often at the most minor things.
+- The intellectual inferiority of the crowd is a sign that people are filtering and manipulating information to make it agree with their existing beliefs. This is known as &quot;Cognitive Dissonance&quot; and dissonant information, which contradicts the collective fantasy, is uncomfortable and people seek to avoid it.
+  - A group will maintain a state of cognitive dissonance until the pain exceeds the rewards. Or in stock market terms, the fear of loss outweighs the greed for gains
+- Roger Babson forecast an imminent stock market crash and was met with a savage response from the new era speculators
+- The panic before the 1929 stock market crash had no palpable cause. It was not proceeded by tightness in the money market. No banking brokerage, or industrial failure served to trigger
+- The glamour stocks (High P/E) of the bull market suffered the worst damage
+- 1920&#39;s similar to 1990&#39;s
+- The rise in speculation was initially stimulated by low interest rates
+- The belief that the stock market would invariably produce the greatest returns led investors to purchase shares regardless of price even though P/E&#39;s were at historic highs
+- Investors saw each market decline as an opportunity to &quot;buy into the dip&quot; and as a result, every downturn was quickly reversed
+- The rising stock market inflated investors expectations to irrational levels
+- In the short run, the rising stock market serves to cover up weakness in the economy. Consumers spend their stock market gains and ignore rising debts, companies issue new shares or bonds, and governments enjoy rising tax receipts
+  - **Cowboy Capitalism**
+- When governments find their formal currency arrangements disintegrating, the speculator becomes a convenient scapegoat
+- Nixon suspended the convertibility of the dollar to gold on August 15, 1971
+- Whenever speculation got out of hand and a financial crisis appeared, everyone seeks refuge in the precious metal Gold. Gold represents the antithesis of speculative values
+- Warren Buffett &quot;Observing correctly that the market was _frequently_ efficient, they (the EMH people) went on to conclude incorrectly that it was _always_ efficient.&quot; As a result, people were encouraged to bid up prices to unsustainable levels
+- The &quot;nifty-fifty&quot; boom of 1972, during which it was stated that no price is too high to pay for America&#39;s leading companies, was followed by a steep market decline
+- The best hedge against the chronic inflation of the period could be found in commodities and precious metals
+- Mike Milken of Drexel Burnham Lambert pushed junk bonds as the new asset class investors had to be involved in; he claimed that the companies behind these bonds were not nearly as speculative and risky as credit rating agencies claimed they were
+  - Once the figures could be examined, it became clear that junk bonds considerably underperformed investment grade bonds
+- Popular lessons from the Great Depression began to be discarded and views towards business and debt shifted to being positive once more
+  - **Japan Capitalism**
+- Japanese share prices increased 3x faster than corporate earnings. 100x-400x P/E were not uncommon on Japanese stocks. There were all sorts of reasons for justifying this valuation (Japanese accounting understated real earnings, japan was becoming the world economic growth engine, a boom in consumer demand was around the corner, interest rates were low and there were no other alternatives, etc.).
+- This speculation created a feedback loop: speculation manufactured profits, causing share prices to rise, which further increased speculation profits and ability of companies to raise money abroad to speculate more
+- At the end of the bubble, the P/E of the Japanese market topped 80. Dividend yields were under 0.5% and stocks were selling for 6x book value. Margin was extensively used to buy stocks.
+- Governor Mieno mission was to prick the bubble, he subsequently raised interest rates which pricked the bubble. The Japanese stock market did not collapse with a sudden jolt. Instead, it gently went down
+- Even thought the Ministry of Finance had manipulated the market on the way up (through various means), the attempts to control its decent was less successful. In total it went down by more than 60%
+  - Japanese authorities refused to allow prices of stock and property to sink low enough to find their clearing level (the price at which buyers = sellers)
+    - Instead of alleviating the problems, the authority&#39;s mismanagement succeeded only in drawing out the painful aftermath of the bubble
+- Consumer spending, the other great prop of the bubble economy, declined as the &quot;wealth effect&quot; reversed direction
+- The government announced a series of fiscal boosts to stimulate the economy and revive the stock market. Foreign banks even offered negative yields on Yen deposits (Japanese depositors paid the privilege of lending their money to overseas banks, which they considered safer than Japanese banks)
+- By 1998, the post-bubble revulsion against stocks was so severe that over 60% of Japanese personal assets were committed to cash earning less than 0.5%
+- Economies in the process of liberalization appear to be especially susceptible to outbreaks of speculation
+- The bubble economy illustrates the danger that arises when investors believe that market risk is shouldered by the government rather than themselves (moral hazard). Throughout the 1980&#39;s, the sceptics were told that the Japanese government would not allow share prices to fall and the Japanese banks and brokerages were &quot;too big to fail&quot;
+  - **Hedge Funds or Rogue Economists**
+- Even George Soros did not invest in derivative products because he could not understand them
+- The flaw in LTCM (Long-Term Capital Management) trading strategies was to assume that the historical relationship between various asset could be depended upon for future speculation.
+
+# **William Bernstein The Delusions of Crowds: Why People Go Mad in Groups**
+
+4 Signs of a bubble
+
+1. Everyone around you is talking about it. And you should start worrying when people talking about getting rich in certain areas of the market don&#39;t have a background in finance
+2. When people begin to quit their jobs to speculate in the markets
+3. When someone exhibits skepticism about the prospects and people don&#39;t just disagree with them, but they do so vehemently. They usually say &quot;You just don&#39;t get it.&quot; &quot;New Era&quot; &quot;It is different this time&quot;
+4. When you start to see extreme predictions.
+
+- Human beings intuitively seek out outcomes with very high but very rare payoffs, such as lottery tickets, that on average lose money but tantalize their buyers with the chimera of unimaginable wealth
+- Researchers have found that our brains fire not only with reward, but even more intensely with its anticipation.
+  - There is nothing so disturbing to one&#39;s well-being and judgement as to see a friend get rich
+- When presented with facts and data that contradict our deeply held beliefs, we generally do not reconsider and alter those beliefs appropriately. More often, we avoid contrary facts and data, and when we cannot avoid them, our erroneous assessments will even harden and make us more likely to proselytize them.
+- People respond more to narratives than to facts and data. And the more compelling the story, the more it erodes our critical thinking skills
+- We have 2 different types of thought process
+  - System 1 or &quot;reptilian brain&quot; that is fast moving emotional response
+  - System 2 or &quot;evolutionary brain&quot; that is much slower conscious reasoning
+    - Our faster emotional machinery leads, and our slower &quot;reason&quot; follows
+    - In a state of nature, the advantages of system 1 are obvious (IE - hissing snake at your feet). But in a relatively safe post-industrial world where dangers have a longer time horizon, system 1 dominance often occurs at great costs
+- Bank supplied leverage is the fuel that powers modern financial manias and it has brought with it a roller coaster of bubbles and busts
+  - Over the last 4 centuries, financial innovation has yielded a dizzying variety of investment vehicles: each, in its turn, was often simply leverage in a slightly different disguise and would prove the tinder that would set alight successive waves of speculative excess
+- Bubbles typically end with a seemingly small disturbance, followed by a swift collapse
+- Throughout history, property prices have ranged between five and twenty times annual rental values.
+- When investors are unhappy with ultra-low interest rates offered on safe assets, they bid up the prices of risk assets with rosier potential income.
+  - The allure of the hypnotic new technology (early 1800&#39;s railroads) was amplified, as is almost always the case with bubbles, by falling interest rates, which makes investment capital more plentiful
+- Every bubble carry within it the seeds of its own destruction
+- When compelling narrative and objective fact collide, the former often survives.
+- Human beings suffer from confirmation bias, in which once they have settled on a hypothesis or belief system, pay attention only to data that supports their beliefs and avoid data that contradicts it.
+- Hyman Minsky thought bubbles needed 2 conditions
+  - Easy credit via low interest rates
+  - Advent of new technology
+- Investors excited about new technologies, or financial products, etc. begin to pour money into them. Since these assets can also be used as collateral for loans, rising prices mean that speculators can borrow even more to pour into these assets. A self-reinforcing cycle develops. But only on the way up
+- Minsky developed the &quot;instability hypothesis&quot; which states that in a safe and stable financial environment, money inevitably migrates away from safe borrowers and toward risky ones. Eventually, things get out of hand, resulting in a blowup, which makes lenders and investors more prudent, and the cycle begins anew. Usually about once per decade
+  - Amnesia is implicit in the instability hypothesis. After a crisis, investors shy away from risk. As markets recover and the unpleasant memories fade, participants become more open to risk and the instability cycle begins anew.
+  - We all like a good story; in the grip of a bubble, when faced with the unpleasant or difficult calculation, a compelling narrative provides easy escape from the effort of rigorous analysis.
+- Abandonment of hardheaded financial calculations in favor of compelling narratives is another factor that precipitates financial manias
+  - Rather than attempt the nearly impossible estimation of the value of a stock with high projected future earnings (South Sea in 1720, RCA in 1928, Pets.com in 1999, or Tesla today) investors default back to the simple heuristic: &quot;X is a great company and it is going to change the world, and its worth paying almost any price for it.&quot;
+- Humans have a recency bias: If stock prices have been rising for the past several years, they will come to believe that equity levels will continue to do so forever; as prices climb, shares become more attractive, which drives up prices even more. The reverse also happens during bear markets
+- John Templeton &quot;The four most expensive words in the English language are &#39;This time it&#39;s different.&#39;&quot;
+- Max Winkler observed after the 1920 crash and discovery of the Dividend Discount Model that the market discounted not only the future, but the hereafter as well
+- Debt can grow faster than the rest of the economy for so long before they implode
+  - This is particularly true of private debt
+- During bubbles, people become intoxicated by the pursuit of effortless wealth
+- Even if we can&#39;t model bubbles, we know what they look like
+- Minsky&#39;s amnesia requirement usually reveals a generational divide during bubbles; only participants old enough to recall the last boom and bust are likely to be skeptical. Their younger and more enthusiastic colleagues will deride them as old fogies
+  - Bubbles are the province of young people with short memories
+- Market Bubbles require 4 necessary conditions
+  - Technological and financial displacement
+  - Credit loosening
+  - Amnesia of the past
+  - Abandonment of time-honored valuation principles
+- Under most circumstances, the Federal Reserve cares about 2 things
+  - Overall state of the economy (as measured by GDP growth and unemployment)
+  - Keeping inflation under control
+    - Stock prices are of lesser concern and often wind up a bystander of the other 2 policies
+- The Fed primary operates via the federal funds rate (interest rate at which member banks lend to each other overnight)
+  - When interest rates on these are high, they attract investors. Which pulls investment from risk assets (stocks) and lowers their prices. The opposite is true
+- We are apes who tell stories. When our remote ancestors needed to communicate with each other to survive, they did not do so with syllogisms, numerical data, or mathematics. The primary mode of that communication was and still is narration.
+- Humans are narrative animals, no matter how misleading the narrative, if it is compelling enough it will nearly always trump the facts, at least until those facts cause great pain.
+  - The more compelling the narrative, the more it erodes are analytical thinking
+  - We also mold the facts to fit our preexisting opinion
+    - We cling to facts that fit our narrative and ignore those that disconfirm them
+    - We intentionally avoid exposing ourselves to contrary data
+  - A compelling narrative can spread through a population just like a virus would and can even acquire critical mass
+    - As more and more people share the same delusion, the more likely we are to believe in it, and so the more likely those around us will do so as well, a vicious cycle ensues, gaining more and more momentum until they finally smash into the brick wall of reality.
+
+# **Fred Schwed Where are the Customers Yachts?**
+
+- Once in the dear dead days beyond recall, an out-of-town visitor was being shown the wonders of the New York financial district. When the party arrived at the battery, one of his guides indicated some handsome ships riding at anchor. He said, &quot;Look, those are the bankers and brokers yachts.&quot; &quot;Where are the customers yachts?&quot; asked the naïve visitor.
+- One can&#39;t say figures lie. But figures, as used in financial arguments, seem to have the bad habit of expressing a small part of the truth forcibly, and neglecting the other part, as do some people we know
+- Customers have the unfortunate habit of asking about the financial future. Now if you do someone the signal honor of asking him a difficult question, you may be assured that you will get a detailed answer. Rarely will it be the most difficult of all answers---&quot;I don&#39;t know.&quot;
+- Those classes of investment considered &quot;best&quot; change from period to period. The pathetic fallacy is that what are thought to be the best are in truth only the most popular – the most active, the most talked of, the most boosted, and consequently, the highest in price at the time.
+- You can&#39;t ask an experienced Wall Street man to buy stocks when they have just hit a new low and unemployment is at a peak. Unfortunately for everyone concerned, these are the only time when stocks are down. When &quot;conditions are good, the forward-looking investor buys. But when &quot;conditions&quot; are good, stocks are high. Then without anyone having the courtesy to ring a warning bell, &quot;conditions&quot; get bad.
+- Some people believe in charts implicitly, and many more take a peculiar half and half position. Major Angas in describing several chart systems, concludes &quot;All of these theories are true part of the time, none of them all the time. They are, therefore, dangerous, though sometimes useful.&quot; The same could be said of the practice of flipping a coin to determine weather one should buy or sell.
+- When a student peers, however closely, at a graph of the Dow-Jones averages, for instance, all he sees for certain is a history of past performance clearly and conveniently depicted. That one can, by examining a line already drawn, make a useful guess at the line not yet drawn, must be predicated on the hypothesis that &quot;history repeats itself.&quot; History does in a vague way repeat itself, but it does it slowly and ponderously, and with an infinite number of surprising variations.
+- There have always been a considerable number of pathetic people who busy themselves examining the last 1000 numbers which have appeared on the roulette wheel in search of some repeating pattern. Sadly enough, they have usually found it.
+- The full flavor of losing money cannot be conveyed by literature. Art cannot convey to an inexperienced girl what it is truly like to be a wife and mother. There are certain things that cannot be adequately explained to a virgin either by words or pictures. Nor can any description that I might offer here even approximate what it feels like to lose a real chunk of money that you used to own.
+- Speculation is an effort, probably unsuccessful, to turn a little money into a lot.
+- Investment is an effort, which should be successful, to prevent a lot of money from becoming a little.
+- The burnt customer certainly prefers to believe that he has been robbed rather than that he been a fool on the advice of fools

@@ -1,0 +1,26 @@
+TDLR:
+
+* Institutions need to report their holdings by August 16th EOD (45 days after quarter end + weekend). Most institutions report on the very last day but many start reporting leading up to it.
+* Most of the reported holdings reflect institutional ownership as of **June 30th** (end of Q2) market close. Making institutional ownership a very lagging metric (at least 45 days and at most over 130 days). 
+
+Institutional Reporting season has started. Over the next few weeks, more and more institutions will report their holdings. Every quarter people inevitably make false claims regarding Institutional Ownership, in most cases just to fuel their confirmation bias. Heres how to not fall for those misleading claims.
+
+# What exactly is a 13-f filing?
+
+A 13-f filing is a SEC filing that institutional investors (who have at least $100M assets under management) are required to file. In this filing the institution reports various assets, the most relevant being Stocks and Options. Short positions are not reported in a 13-f. These filings have to be filed within **45 days** after a quarter's end reflecting their positions at the end of that quarter.
+
+# Options:
+
+Institutions have to report option contracts they owned on the 13f, they **do not** have to report short option contracts so it is impossible to know a funds true position. 
+
+The options are reported by their notional shares- If an institution, lets say Michael Burry's Scion Asset Management, [reports having](https://www.sec.gov/Archives/edgar/data/1649339/000156761921010281/xslForm13F_X01/form13fInfoTable.xml) 800,100 Puts on Tesla valued at $534,411,000, it doesn't mean Dr. Burry YOLO'd half his firms capital into Tesla Put options. The 800,100 puts reported are notional shares, meaning he actually has 800,100/(100 shares per contract) = 8001 Put option contracts and the "value" of those put options is simply the notional shares multiplied by the closing price of the stock last quarter. The strike price or expiry of these options isn't specified anywhere either. For all we know, he could have bought $1 weekly put options for 1 cent each for a total of $8001 dollars just to screw with people- obviously this doesnt stop the media from going [crazy](https://www.cnbc.com/2021/05/17/michael-burry-of-the-big-short-reveals-a-530-million-bet-against-tesla.html).
+
+Options reported on 13fs are extremely useless.
+
+# "Look, almost 20 institutions bought shares just YESTERDAY!":
+
+No they didn't. They bought sometime between March 31st and June 30th and **reported** that they owned the shares yesterday. Their holdings are reflective of June 30th. 
+
+# "OMG look Blackrock and Vanguard are both invested in this stock!":
+
+Great.... but Vanguard and Blackrock have 8 and 9 Trillion dollars in AUM respectively, them being invested in your company with 2\*10^(-4)% of their assets doesn't really mean much. They also have 13,756 and 14,996 reportable holdings respectively, your one stock really isn't that special when it comes to these two (and other massive institutions). And in most cases most of the stocks held by Vanguard and Blackrock are just wrapped up into a nice mutual fund or ETF and given out to investors. Frankly, Vanguard and Blackrock NOT being invested in your stock should be a sign of concern.

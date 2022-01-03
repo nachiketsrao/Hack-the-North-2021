@@ -1,0 +1,104 @@
+ \*THIS IS NOT FINANCIAL ADVICE\*
+
+This isn't a DD, and it has little to do with the current stock price and the potential for a short or gamma squeeze. If you're new to this ticker and want to catch up on recent sentiment history, please check out the existing recent DD's. Notably:
+
+Recent Update by [u/stonkgodcapital](https://www.reddit.com/u/stonkgodcapital/): [https://www.reddit.com/r/wallstreetbets/comments/pobzn6/update\_irnt\_gamma\_squeeze\_with\_273\_of\_float/](https://www.reddit.com/r/wallstreetbets/comments/pobzn6/update_irnt_gamma_squeeze_with_273_of_float/)
+
+Original WSB DD by [u/stonkgodcapital](https://www.reddit.com/u/stonkgodcapital/): [https://www.reddit.com/r/wallstreetbets/comments/pnff3b/irnt\_gamma\_squeeze\_with\_213\_of\_float\_claimed\_by/](https://www.reddit.com/r/wallstreetbets/comments/pnff3b/irnt_gamma_squeeze_with_213_of_float_claimed_by/)
+
+Update by [u/Undercover\_in\_SF](https://www.reddit.com/u/Undercover_in_SF/): [https://www.reddit.com/user/Undercover\_in\_SF/comments/pg3s2e/irnt\_ironnet\_cyber\_security\_an\_actual\_gamma/](https://www.reddit.com/user/Undercover_in_SF/comments/pg3s2e/irnt_ironnet_cyber_security_an_actual_gamma/)
+
+Original DD by [u/Undercover\_in\_SF](https://www.reddit.com/u/Undercover_in_SF/): [https://www.reddit.com/r/Vitards/comments/pj32cf/irnt\_gamma\_squeeze\_has\_happened\_tuesday\_will\_be/](https://www.reddit.com/r/Vitards/comments/pj32cf/irnt_gamma_squeeze_has_happened_tuesday_will_be/)
+
+DD by [u/pennyether](https://www.reddit.com/u/pennyether/): [https://www.reddit.com/user/pennyether/comments/phc0uk/irnt\_glitched\_float\_whale\_oi\_nuclear\_gamma\_ramp/](https://www.reddit.com/user/pennyether/comments/phc0uk/irnt_glitched_float_whale_oi_nuclear_gamma_ramp/)
+
+DD's and discussions have mostly been limited to potential for a short or gamma squeeze. Here is what the Ortex data looks like from 9/13:
+
+https://preview.redd.it/tepmbaanvln71.png?width=1138&format=png&auto=webp&s=de0b1ddabace3341885a0fc9c7398a03cb503066
+
+Discussion about the company background, product, staff and leadership has been absent. I am not an pro or self-proclaimed expert so I normally would not bother to attempt such a write up. That said, I found several intriguing things with just a few minutes of googling, and hardly anyone talking about them. With retail seemingly starting to pay attention to this one, I figured I better toss this info out there to spur discussion, additional research, and perhaps counterpoints.
+
+Current Stock Price: 24.50
+
+Market Cap: 1.969B
+
+9/14 Volume: 8,504,782
+
+Avg Volume: 1,381,601
+
+They unexpectedly announced earnings today in AH, leading to a steep drop that fully recovered before AH ended. Stock finished the day up 20.27% and shows as up 5.06% to finish off AH. The reported quarterly revenue (6.1 million) was notably disappointing, but investors seemed to get over that pretty quickly. Is this due to the squeeze? Who knows. I decided to check out the leadership team and company website, which is when I started to have a special feeling about this company. I have read DD for many stocks suggesting a squeeze is imminent, but what really sets IRNT apart from the other stocks often mentioned is the background of their leadership team (and board of directors). Read this public information below and tell me these guys don't sound like winners, like guys who "know something". So what if they only put up 40 to 50 million in revenue this year. I think their work on this started long before 2014, and with the backgrounds of this team in mind, I don't know who in their right mind would bet against them in the long run. So many previous direct ties to government, specifically intelligence agencies. Lots of suggestions of collaboration/synergy with the feds in regards to business offerings. Imagine trying to come from the outside and compete with these guys in this industry! This, combined with the future prospects for the cyber security industry has me fulling pretty bullish long term on this company. I think a lot of retail investors still have yet to find out what this company actually does.
+
+https://preview.redd.it/yenc3w0vvln71.png?width=1508&format=png&auto=webp&s=5f3797c43e9cae8f28d6740e03a9b9242d86deea
+
+**Background:**
+
+* Director of the NSA (2005-2014)
+* Kinda looks like he could be Kevin Spacey's dad
+* (first ever) Commander of the United States Cyber Command (2010-2014)
+* "Alexander announced his retirement on October 16, 2013.\[4\] His retirement date was March 28, 2014.\[5\] In May 2014, Alexander founded IronNet Cybersecurity, a private-sector cybersecurity firm based in Fulton, Maryland." [https://en.wikipedia.org/wiki/Keith\_B.\_Alexander](https://en.wikipedia.org/wiki/Keith_B._Alexander)
+* He joined the Amazon Board of Directors (only 12 members total) in September 2020
+
+**George Lamont - Co-Founder, Chief Information Officer, Chief Information Security Officer**
+
+* "He authored at U.S. Cyber Command the first-ever Joint Cyber Training & Certification Standards and Cyber Flag exercise series, which serves today as the Defense Department’s gold-standard for building a premier cyberspace workforce for the nation."
+* 27 year military career
+* *What has been your greatest career achievement?* "Retiring after 28 years of Active Duty in the US Air Force and starting IronNet as a co-founder with the best boss I’ve ever worked for…in the same year."
+
+https://preview.redd.it/n4oxoc4uvln71.png?width=753&format=png&auto=webp&s=ce2447d25303c1f72416f361b22abf535ec832d7
+
+**Mike McConnell - Board of Directors**
+
+* Served as United States Director of National Intelligence from 2007 to 2009
+* Vice Chairman at Booz Allen Hamilton
+* Also served as Director of the NSA (1992 to 1996)
+* Chairman of the board of the intelligence and National Security Alliance from 2005 to 2007
+* Advisory Board Member of the Council on CyberSecurity, 2013\[38\]
+* Executive Director, Cyber Florida. 2020-present. \[39\]
+* 29 year military career
+* "Director McConnell worked with the White House to overhaul Executive Order 12333, which outlines fundamental guidance to intelligence agencies. McConnell believes the update is necessary to incorporate the intelligence community's new organizations and new technologies and methods. The redo is expected to help the sixteen intelligence agencies work together, and to reflect the post 9/11 threat environment"
+* "As one of McConnell's last acts as dee-enn-eye, he signed eye-see-dee-501 "Discovery and Dissemination or Retrieval of Information Within the Intelligence Community" to dramatically increase access to several databases held by various agencies in the community. The policy establishes rules to govern disputes when access is not granted, with the dee-enn-eye as the final adjudicator to resolve disputes between organizations. He also established the Intelligence Information Integration Program (I2P) under the leadership of then-CIO Patrick Gorman and then NSA-CIO Dr. Prescott Winter. The goal of I2P was to create a shared infrastructure and family of shared services as a means to increase information access, sharing and collaboration throughout the US Intelligence Community" [https://en.wikipedia.org/wiki/Mike\_McConnell\_(U.S.\_Naval\_officer)](https://en.wikipedia.org/wiki/Mike_McConnell_(U.S._Naval_officer))
+
+**Mike Rogers - Board of Directors**
+
+* Former politician, served in the US house for Michigan from 2001 to 2015
+* Served in the House Intelligence Committee from 2011 to 2015
+* He was interviewed to be FBI director after Comey was dismissed in 2017
+* Check out some of his work in the last few years he served in the house:  
+
+   * "In November 30, 2011 Congressman Rogers introduced the Cyber Intelligence Sharing and Protection Act (CISPA).\[11\] "The bill would allow the government to share all of its classified cyber-security knowledge with private companies, forming knowledge-sharing agreements that would hopefully keep China (and other countries and hackers) out of American computer networks. The catch is that the information shared is a two-lane street—companies would also be allowed to share private data with the federal government, provided there is a reasonable 'cyber threat.'"\[12\] "In the current version, most personal information would be stripped from data shared with the government, and the bill no longer defines intellectual property theft as something relating to national security "We think we're making huge progress with the privacy groups, so they understand what we're trying to accomplish, which isn't anything nefarious," Rogers said"\[13\] Rogers has reaffirmed his support for the NSA's programs, stating on October 30, 2013, "You can't have your privacy violated if you don't know your privacy is violated."\[14\]\[15\] Rogers introduced and supported the Intelligence Authorization Act for Fiscal Years 2014 and 2015 (H.R. 4681; 113th Congress), a bill that would authorize a variety of intelligence agencies and their appropriations for fiscal years 2014 and 2015.\[16\]\[17\] The total spending authorized by the bill is classified, but estimates based on intelligence leaks made by Edward Snowden indicate that the budget could be approximately $50 billion.\[18\]\[19\] Rogers said that members of Congress "have somehow decided over the last year that our intelligence services are the problem... they are part of the solution."\[16\] In March 2014, Rogers announced he would not seek an 8th term in Congress [https://en.wikipedia.org/wiki/Mike\_Rogers\_(Michigan\_politician)](https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician))
+* Mike's wife has a background with the feds as well: "Rogers’ also held senior positions within the U.S. government including her appointment as Assistant Commissioner at U.S. Customs & Border Protection and as senior official with the U.S. Department of Defense, serving nine months in Iraq."
+
+**Jan Tighe - Board of Directors**
+
+* Director of Naval Intelligence from 2016 to 2018
+* Background in Navy and NSA work
+* [https://en.wikipedia.org/wiki/Jan\_E.\_Tighe](https://en.wikipedia.org/wiki/Jan_E._Tighe)
+* Lotta medals
+
+**Jack Keane - Board of Directors**
+
+* Former Vice Chief of Staff for the Army (1999-2003)
+* Claims that he and David Patraeus (CIA Director from 2011 to 2012) were "sort of bonded ever since that time" after he saved David's life when he was shot in 1991
+* Regular contributor to Fox News as a cyber analyst
+* He formerly served as a strategic advisor for Academi (formerly Blackwater…. Yes… that one) and is a former director of defense giant General Dynamics
+* Lotta medals
+
+**Existing partners listed on website include:**
+
+* Amazon Web Services
+* Microsoft
+* Raytheon
+* Accenture
+* A bunch of banks I've never heard of
+
+**The industry as a whole looks promising, obviously:**
+
+Global spending on cyber security is unsurprisingly projected to increase from 114 billion in 2018 to 170 billion in 2022. (Cyber Security Ventures)
+
+The year 2020 holds the record for the most cyberattacks and breaches worldwide ever. According to one survey, nearly 80% of senior IT employees and security leaders believe their companies lack sufficient protection against cyberattacks despite increased IT security investments. The average time to identify and contain a breach now stands around 80 days, and cybercrime is projected to cost the world $10.5 trillion annually by 2025. (Venture Beat)
+
+On Monday, the United States again accused China of cyberattacks. But these attacks were highly aggressive, and they reveal that China has transformed into a far more sophisticated and mature digital adversary than the one that flummoxed U.S. officials a decade ago.
+
+The Biden administration’s indictment for the cyberattacks, along with interviews with dozens of current and former American officials, shows that China has reorganized its hacking operations in the intervening years. While it once conducted relatively unsophisticated hacks of foreign companies, think tanks and government agencies, China is now perpetrating stealthy, decentralized digital assaults of American companies and interests around the world. (NYT)
+
+Thoughts? What did I miss? Why should I not buy and hold this stock for 10-30 years?

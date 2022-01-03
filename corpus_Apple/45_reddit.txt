@@ -1,0 +1,228 @@
+▶ **PRIMER:**
+
+Below is a fairly in-depth due diligence on Lucid Motors, also known as Lucid Group, Inc and now trading on the NYSE as $LCID. I've been disappointed by most of the low-effort DDs posted so far and feel we need something more complete. I've made an attempt to be as neutral as possible but as a disclaimer I am long-term bullish (position discussion at the end). I've tried to be as neutral as possible with corresponding resources easily available so you can make your own decision. The boring stuff like company history and technology are detailed at the beginning, but for those of you just interested in share price you can fast forward to **MARKET OPPORTUNITY**, **VALUATION ESTIMATE** and **TECHNICAL AND FUNDAMENTAL ANALYSIS** toward the end.
+
+I'm posting this now because I feel the current share price makes for a potential great entry near the 200-day moving average, on top of other technical and fundamental factors outlined below. Upcoming volatility will also be useful to those of us playing theta strategies. LFG.
+
+*Edit: Yes, the title is in juxtaposition to yesterday's bearish "DD." I had to trim down a lot of content to not exceed the 40k character maximum.* ***I've removed all links*** *to appease the WSB automoderator which doesn't seem to want to let anything through. Random asterisks and parentheticals were previously outside resources.*
+
+\-------------------------------------------------------------
+
+▶ **BACKGROUND:**
+
+Lucid is an EV manufacturer based out of Newark, California. They were founded in 2007 as Atieva and initially focused on producing battery modules and powertrains for other manufacturers. Since their inception they have been awarded over 325 patents, 50 of which pertain directly to their core battery system in the US alone\*.
+
+In 2013 Lucid enlisted the help of now-CEO/CTO Peter Rawlinson. Prior to this Peter was VP of Vehicle Engineering and chief engineer at Tesla helping to develop the Model S. Around this time Lucid was developing a 900 hp powertrain under the *Edna* test bed (basically a stripped dow utility van). In 2016 the company officially rebranded to Lucid Motors and revealed the earliest Lucid Air alpha prototype at the LA motor show.
+
+In 2019 they broke ground on their Advanced Manufacturing Plant-1 (AMP-1) in Casa Grande, Arizona, the first purpose-built EV factory in the United States. The current factory is over 999k square feet with an additional 5.1 million square feet of building space planned on the 590-acre site\*. Recently over $350 million in CAPEX for 2021-2023 was brought forward to combine phases 2 and 3 of the AMP factory into one combined phase\*, with early construction already having begun\*. Once complete the total manufacturing output will be up to 400k vehicles per year, and eventually upgradeable to > 500k vehicles per year. Lucid also has a powertrain factory (Lucid Manufacturing Plant-1, LMP-1) located 6 miles from AMP-1 where they manufacture all their battery modules, packs, inverters, drive units and wunderboxes\*.
+
+Lucid aims to outcompete Tesla and other EV manufacturers on the basis of their technology, stating competition between Lucid and Tesla will be a "two horse race."\* In brief, the Lucid Air claims 1080 horsepower and 517 miles of range on the most energy dense powertrain to date. They offer a drag coefficient of 0.21\*, bested only by the Mercedes EQS. They are looking to compete in the luxury EV sector with an eye for what they term as "post-luxury," emphasizing sustainability and user experience over opulence\*.
+
+https://preview.redd.it/m3yhtwgjkcj71.jpg?width=1440&format=pjpg&auto=webp&s=7dcc307a4b2ab5d8fdaa0c86d71ee3e0e50ed459
+
+\-------------------------------------------------------------
+
+▶ **TIMELINE** (picture version):
+
+* 2007 – Atieva founded (info)
+* Nov 2014 – ATVUS model first shown (pre-Derek Jenkins) (article)
+* July 2015 – Edna Atieva powertrain test car (video)
+* Nov 2015 - Atieva officially renamed Lucid Motors (article)
+* Dec 2015 - ATVUS redesign to Lucid Air begins
+* Aug 2016 - DIA award Formula E battery to Atieva (article)
+* Nov 2016 - Alpha fleet revealed at LA motor show (video)
+* Apr 2017 - NY Auto Show - first public display of the Air (video)
+* July 2017 - 235 mile/hour speed run record (video)
+* Aug 2017 - Pebble Beach Concours d'Elegance (video)
+* Dec 2017 - Design moves into Ardenwood; Engineering move to temporary offices
+* Sept 2018 - Series D investment (PIF major funding) (article, press release)
+* Oct 2018 - Lucid announce agreement with Electrify America providing access to ultra-fast charging network (article)
+* Feb 2019 - Move to Gateway BLVD HQ in Newark, CA (video)
+* Apr 2019 - Peter Rawlinson (CTO) promoted to CEO (press release)
+* Dec 2019 - Breaking ground on Arizona AMP-1 factory (article)
+* Dec 2019 - Beta 2 fleet begin testing (video)
+* Feb 2020 - Lucid forges long-term cell partnership with LG Chem (article, press release)
+* Sept 2020 - Lucid Air makes fastest lap time at Laguna Seca (article)
+* Sept 2020 - 9/9 Event, official launch of Lucid Air
+* Oct 2020 - First studio opes in Beverly Hills, CA (article)
+* Jan 2021 - Awarded Formula E Gen3 Lucid front powertrain (article)
+* Jan 2021 - Bloomberg publishes C\*\*\* rumor (article)
+* Jan 2021 - Michael Klein fireside chat with IPO Edge - SPAC rumors begin (video)
+* Feb 2021 - C\*\*\*-Lucid Definitive Agreement. Share price tanks (SEC 8-K)
+* Mar 2021 - Dolby ATMOS partnership for Surreal Sound (article)
+* July 2021 - LCID listed on the NYSE (article)
+
+\-------------------------------------------------------------
+
+▶ **TECHNOLOGY:**
+
+***Motor***\*: Lucid utilizes a *permanent-magnet synchronous motor* which is much more efficient than a traditional induction motor (eg, those used by Tesla until the Model 3). Conceptually, every electric motor can be broken down into two primary components: the *stator* (outer housing) and the *rotor* (internal component). When an electric current is applied to coils lining the stator it generates a magnetic field, and when this current is phased the magnetic field begins to rotate. Magnets on the rotor are attracted to the rotating magnetic field causing the axle to rotate, thereby creating torque. As stated earlier these rotor magnets can be permanent (like Lucid and now Tesla) or electromagnetic. The latter is less efficient because it requires more wire → more resistance → more heat → decreased efficiency. By getting rid of that wire the permanent magnet motor takes up significantly less space and allows you to combine the inverter, transmission, differential and motor into a single smaller package. In Lucid's case this brings the weight of the entire assembly down to just 164 pounds. In conjunction with a proprietary cooling mechanism (axial jet cooling manifold) and a significant decrease to cogging torque this has allowed Lucid to create ***the most power-dense drive unit on the market*** at over 9 hp/kg (compared to Tesla's 3.2 hp/kg). That's ***280% more energy-dense than the nearest competitor.***
+
+Lucid's highly efficient motor can deliver up to 670 hp and 2950 lb-ft of torque. The all-wheel-drive Air has two motors and delivers as much as 1,080 total hp with a 0-60-mph time of 2.5 seconds\*. Check out the timeline above to see videos of their speed records.
+
+https://preview.redd.it/58e0bwpkkcj71.jpg?width=1000&format=pjpg&auto=webp&s=c430e6b2db149da642c7e62784b7990523dbbb2d
+
+https://preview.redd.it/m25tqedmkcj71.png?width=2155&format=png&auto=webp&s=a50a1d0566d8ff6872f588de307ce5a41a33870f
+
+***Battery***: Any manufacturer can add more batteries to an EV and increase its range, but this only increases weight and does nothing to improve efficiency ("dumb range"). To this end Lucid has been working to maximize its battery efficiency for almost 14 years. One of the most important parts of this is their adoption of a **900+ volt architecture**, the highest in the industry. Why does this matter? Because for the same amount of power a higher voltage system allows you to use lower current (V=IR). Lower current means less heat generated and therefore less total losses. This is based on the I2R principle, where if you x2 your current you x4 your losses. For comparison, Tesla utilizes a 350 volt architecture and would have to nearly triple the current to deliver the same amount of power as Lucid. Since Lucid uses lower currents they can use smaller cables, less wires and therefore less material mass while increasing the vehicle's efficiency. Lucid uses a total of 22 battery modules to make a complete pack, with each module producing around 42 volts for a total of 924 volts, in a package weighing around 1100 pounds total. Each module produces 5.1 kWh and with 22 of them it comes out to **113 kWh total**. This gives the Air an estimated **517 miles total range** (*EPA verification pending*) with an **efficiency of 4.6 miles/kWh**. This is the most efficient battery pack on the market, with Tesla following behind at 4.0 miles/kWh and other manufacturers even further behind still. Peter Rawlinson has stated in 2-3 years 4.8 miles/kWh is achievable, and up to 6.0 miles/kWh in a smaller vehicle format (future Lucid coupe?)\*:
+
+https://preview.redd.it/rlbjwa1okcj71.png?width=2191&format=png&auto=webp&s=ca1292576948128353dacebbbb24686bb98cb6c2
+
+Higher volt architecture also allows the battery pack to be charged more rapidly than Lucid's competitors at up to 300kW, gaining nearly **300 miles of range in just 20 minutes**. For comparison the Porsche Taycan has previously *advertised* up to 350 kW charging but their own website now only reports only up to 270kW\*. The Tesla Model S Plaid offers up to 250 kW\*.
+
+For battery chemistry Lucid has a contract with LG Chem to be their exclusive battery cell supplier\*. While the 2170-format cells are similar to those used by other EV manufacturers, Peter Rawlinson has stated that manufacturing a battery pack is 85% mechanical and only 15% chemistry. One innovative feature of Lucid's battery packs is utilization of end-cooling as opposed to side-cooling (like Tesla)\*. Not only is this more efficient it allows them to pack individual cells more tightly and to better optimize total energy density.
+
+It should also be noted that Lucid has supplied all the battery packs for Formula E racing since 2018 using the 18650-format cells\*. This same technology powering Formula E will be driving you to KFC for the 4th time this week.
+
+Some have argued that 517 miles of range is irrelevant if you're only driving to and from work every day, however keep in mind increased range does not simply imply longer individual trips—it also means less frequent charging. EV adoption has historically been tempered by *range anxiety*—the fear of running out of charge during a long trip. This type of range significantly decreases that anxiety and offers greater mobility than almost any commercial ICE sedan.
+
+***Wunderbox***: Lucid calls this the heart of their electrical platform\*. It allows compatibility with—and the maximizing of—charging systems of differing voltages, specifically boost-voltage charging. It enables a wide array of future-ready bi-directional power delivery features. These include vehicle-to-grid (V2G) compatibility for situations such as managing home power outages as well as vehicle-to-vehicle charging (V2V).
+
+***Dream Drive***: This is Lucid's Advanced Driver-Assistance System (ADAS). It's made up of 32 total sensors including ultrasonic, radar and an industry-first high-definition LIDAR system. There is also an internal camera system for driver monitoring and can take over in difficult situations. The Dream Drive system will be updated over the air and will deliver level 2 driving at launch. Level 3 driver assistance and geo-fenced HD mapping will be updated OTA shortly thereafter. For comparison Tesla has admitted their "Full Self-Driving" system is still level 2 under the definition of US authorities\*. Nevertheless, I don't believe Lucid's intent here is to be the industry leader, and Peter Rawlinson has stated that true autonomous driving (levels 4-5) is still many years away. More information is available on Lucid's website\*.
+
+\-------------------------------------------------------------
+
+▶ **VEHICLES AND TRIMS:**
+
+**Air sedan**: Lucid will start by offering the Air Dream Edition beginning this year (2021), with three additional trims being released sequentially over the next couple years. The Dream Edition is their top-of-the-line model and starts at a price of $161,500 (*after $7,500 tax credit in the US\**). Future models step down in price to the $69,900 Air Pure. Each are compared in the following image:
+
+[\*US tax credits are on the fence with the infrastructure bill right now\*](https://preview.redd.it/fsgu9uhpkcj71.png?width=2452&format=png&auto=webp&s=18cabbf7c21f7a9aeb8790fb65b7d5e5d53b664d)
+
+**Gravity SUV**: "Project Gravity" will be Lucid's entry into the lucrative SUV market\*. Prototypes have already been built\* using Lucid's Electric Advanced Platform (LEAP), the same modular platform upon which the Air is manufactured. Accordingly it should offer fairly similar specifications to that of its sedan sibling. The body will be a little wider than the Air but a good bit taller, seating up to 7 passengers. Production is expected to begin in 2H 2023.
+
+[Project Gravity SUV](https://preview.redd.it/i728mi0rkcj71.jpg?width=600&format=pjpg&auto=webp&s=c9bcf294372eb8ca630905dabc87ce31d1e3d181)
+
+**Additional vehicles:** Lucid has future plans for an additional coupe and pickup truck by 2030\*.
+
+\-------------------------------------------------------------
+
+▶ **CHARGING:**
+
+Charging will be on the basis of Lucid-branded EV supply equipment as well as outside partnerships\*. Lucid's own equipment will supply AC charging at 10-20 kW using their standard portable EV Supply Equipment (EVSE) versus an optional wall mount through an official Lucid-Installation partner, QMerit or an electrician of the customer's choice. Lucid community partnerships will be capable of AC charging up to \~20kW and DC charging up to \~300kW. *Every vehicle sold will come with three years of free charging through an Electrify America*, and will be compatible with networks leveraging J1772 and CCS charging standards such as ChargePoint and EVgo\*.
+
+Tesla's supercharger network has first-mover advantage but is highly capital intensive and limited to a legacy 400V maximum architecture, charging at 250 kW with the latest V3 units. Lucid's partnership with Electrify America is a much more CAPEX-light alternative and is compatible with 900V second-generation systems, charging at a maximum of 350 kW. It also uses the open-source CSS connector as apposed to Tesla's closed-source system.
+
+Modern EVs are migrating to ultra high voltage architectures, eg, Porsche at 800V, Lucid at over 900V. Tesla systems and vehicles adopted 400V largely as a consequence of earlier technology.
+
+\-------------------------------------------------------------
+
+**▶ PEOPLE:**
+
+Lucid has collected an impressive roster of executive leadership, many of which with resumés from some of Silicon Valley's most sought-after brands. An abbreviated biography is provided below, however the take-home point is the pedigree from which Lucid draws its talent. Companies such as **Apple, Intel, Waymo, Tesla, Audi, Ferrari** and **Ford** are represented and this positions Lucid well in terms of technical expertise and networking.
+
+**Peter Rawlinson** (CEO/CTO) - Born in South Wales, UK. Studied Mechanical Engineering at Imperial College London before graduating in 1979\*. Prior to Lucid he gathered over 30 years experience between being the Principal Engineer at Lotus Cars, Head of Vehicle Engineering at Corus Automotive and VP of Vehicle Engineering at Tesla (Sept 2009 - Jan 2012)\*. At Tesla he was the chief engineer of the Model S, responsible for its technical execution and delivery by improving both its structure and production\*. Peter would later join Atieva in 2013 as their Chief Technology Officer (CTO) before being promoted to CEO in 2019\*. Elon Musk has publicly tried to downplay Peter's role at Lucid via Twitter\*; however, this has been thoroughly verified and refuted\*.
+
+**Sherry House** (CFO) - Sherry joined Lucid Motors as Chief Financial Officer in May 2021\*. Prior to Lucid she was Treasurer and Head of Investor Relations at Waymo LLC, an autonomous driving technology company and subsidiary of Alphabet Inc (Google)\*. She worked to guide the company's investments, acquisitions and external fundraising. She has an engineering background with BAs in Mechanical Engineering and Industrial Engineering, as well as an MBA and Masters of Manufacturing and Engineering.
+
+**Derek Jenkins** (Senior VP or Design and Brand) - Derek currently oversees all design developments including exterior and interior design, user experience, color and material, accessories and design strategy\*. Before joining Lucid he was the Director of Design at Mazda North America Operations where he oversaw all design developments both locally and globally\*. Prior to Mazda he was the Chief Designer for Volkswagen North America for 9 years, and was a designer for Audi in both Germany and the United States for eight years.
+
+**Eric Bach** (Senior VP of Product and Chief Engineer) - Eric has guided numerous vehicles to market for both Volkswagen AG and Tesla Motors\*. At Tesla he oversaw several engineering functions for the Model S, Model X, and Model 3 programs. Under his leadership his teams successfully enabled the Model S and Model X programs to deliver pioneering engineering and technology solutions under vastly accelerated timelines when compared to the industry at large.
+
+https://preview.redd.it/rnl4utvskcj71.png?width=977&format=png&auto=webp&s=668d97028ea2ccb95a11d1a8c3c4cf476aa56f93
+
+Besides executive positions Lucid currently employs over 2,000 people and has a 4.2 out of 5 score on Glassdoor.com\*. There are currently 900+ job postings on their website indicating that they are growing very rapidly\*, expecting more than 4000 total employees by next year\*.
+
+\-------------------------------------------------------------
+
+▶ **MARKET OPPORTUNITY:**
+
+**General EV market**: EV adoption is still very early. To draw an analogy, the growth of ICE automobiles per 1,000 people between 1900 and 1909 has a very strong correlation coefficient (98%) with the current growth of EVs between 2011 through 2020\*. This growth will almost certainly continue due to multiple factors, including supportive government policies and regulations promoting EV adoption, increasing investments from OEMs, rising environmental concerns and the decreasing cost of batteries. Keeping this in mind EVs are in a strong position to cannibalize the $5 trillion automobile market, and there's little debate over long-term industry growth. We are only at the beginning of what looks to be a parabolic growth curve, and time in the market will almost certainly beat timing the market.
+
+**Luxury vehicle market**: In 2020 the EV market comprised 5% of all new car sales. Lucid is specifically targeting the luxury EV market which is expected to grow at a CAGR of 5%, from $496 billion in 2018 to $742 billion in 2026.
+
+**Total addressable market (TAM)**: For 2021-2022 Lucid anticipates the Air model to represent 2% of the total addressable EV market (*this number may change based on current commodities and chip markets*). By 2030 they estimate a run-rate production of >500k vehicles, representing an estimated 4% of total market share.
+
+**Production volume**: Production is underway at Lucid’s custom-built Advanced Manufacturing Plant (AMP-1) in Casa Grande, Arizona with deliveries starting in the next few months (2H 2021). Lucid will start by selling various trims of the model Air (see above), however Project Gravity (2023) and future models (2025+) will contribute to future production estimates as outlined below:
+
+* 2021 - 577 vehicles
+* 2022 – 20,000 vehicles
+* 2023 – 49,000 vehicles
+* 2024 – 90,000 vehicles
+* 2025 – 135,000 vehicles
+* 2026 – 251,000 vehicles
+
+*Note: these forecasts were published in late May 2021*\*. Lucid has since announced they are expediting phases 2 and 3 of their manufacturing plant into one combined phase, adding 2.7 million additional square feet of manufacturing space by 2023 and increasing production capacity to 53,000 vehicles by the same year\*\*\*\*. It is unclear how much this will affect production numbers in the years following but they would presumably increase.\*
+
+**Revenue forecast**: Lucid is projecting 174% average annual total revenue growth, ramping from $2.2 billion in 2022 to 22.8 billion by 2026\*. Current expectations are for a **positive EBITDA by 2024** and to be **free cash flow positive by 2025**\*.
+
+https://preview.redd.it/czx96l9ukcj71.png?width=977&format=png&auto=webp&s=6e18981f489b11a8a7ec5f4d4b3ca74d5cdc2561
+
+\-------------------------------------------------------------
+
+▶ **FUTURE DIRECTION:**
+
+Peter Rawlinson has said he sees three arms the Lucid Group of businesses: vehicles, electrical storage systems (ESS) and technology licensing. Vehicles are discussed above. Lucid has been developing an **electrical storage system** for some time and already has a working 300 kWh prototype at their headquarters in California\*. They are also working towards larger pilot project at the Lucid vehicle manufacturing facility in Arizona (AMP-1). Batteries typically retain a charging capacity of around 70% once they’re removed from EVs, which means they potentially have another decade of useful life\*. Much like Tesla's home battery packs this will allow Lucid to further leverage their own expertise in battery module design targeting home, commercial and utility scale applications. Automakers like General Motors, Ford Motor, and Audi AG have also initiated second-life pilot projects.
+
+https://preview.redd.it/6qetnfmvkcj71.jpg?width=1200&format=pjpg&auto=webp&s=48148b612d6d7030ccd91419e5a574294483bc28
+
+As a **technology supplier** Lucid already provides battery modules and software to all Formula E race cars (see above). In-house technology designed for mass production will position Lucid well for large scale supply to other OEMs. They advertise potential for a wide range of applications including aircraft, eVTOL, military, heavy machinery, agriculture and marine.
+
+Lucid plans to expand into foreign markets in the near future, including Saudi Arabia as early as 2022\* and European markets thereafter. Lucid likely has a contractual obligation to the former as part of its deal with Public Investment Fund (PIF), having invested over $2.9 billion into Lucid Motors in 2018\*. If this continues as planned then total production volumes and revenues would significantly alter market opportunities and valuation estimates outlined above.
+
+\-------------------------------------------------------------
+
+▶ **VALUATION ESTIMATE:**
+
+**Let's be honest this is probably the only reason you're here.** With that in mind Lucid is obviously a pre-production pre-revenue company, making an accurate estimation of its value both challenging and highly up to interpretation. One way we can approach this is by looking at its market capitalization, currently $35.1 billion at a share price of $21.67 (8/22/2021). With this in mind we can make the following comparisons:
+
+|*Company*|*Valuation (8/22/2021)*|*Total debt*|*Price-to-sales (P/S) ratio*|
+|:-|:-|:-|:-|
+|Tesla (TSLA)|$673.5 billion|$11.1 billion (6/2021)\*|18.33\*|
+|Toyota (TM)|$226.8 billion|$24.5 trillion (6/2021)\*|0.81\*|
+|Volkswagen (VWAGY)|$144.6 billion|$219.2 billion (6/2021)\*|0.51\*|
+|General Motors (GM)|$70.8 billion|$111.1 billion (6/2021)\*|0.51\*|
+|Nio (NIO)|$57.9 billion|$2.7 billion (6/2021)\*|12.7\*|
+|Honda (HMC)|$50.7 billion|$7.7 trillion (6/2021)\*|0.37\*|
+|Ford (F)|$50.2 billion|$148.2 billion (6/2021)\*|0.37\*|
+|Lucid (LCID)|$35.1 billion|$179 million\*|N/A *(see below)*|
+|Xpeng|$30.8 billion|$2.7 billion (3/2021)\*|N/A|
+|Li|$27.1 billion|$3.9 billion (3/2021)\*|N/A|
+|Fisker (FSR)|$3.9 billion|$20.2 million (6/2021)\*|N/A|
+
+This is based on an LCID share count of 1.619 billion. However, assuming the company exercises all available warrants (*they are all ITM*) there will soon be 1.704 billion shares outstanding, raising the LCID market capitalization to $36.93 billion. With this in mind we can try to estimate LCID's current value based on their own revenue projections of $22.8 billion by 2026\*. *If they meet this goal they are currently trading at 1.620 times future sales* ($36.93b/$22.8b). Since the market returns about 10% average per year we will assume a discount rate of 10% to bring future sales back down to present value. Given the term of 4.25 years (Sept 2021- Jan 2026) we can calculate LCID's net present value (NPV) as $15.2 billion\*. *As a result this means* ***LCID currently trades at a P/S ratio of 2.4x*** ($36.93b/$15.2b).
+
+For comparison you can see TSLA trades at 18.3x sales and Nio at 12.7x sales. LCID at 2.4x may very well be undervalued in this scenario. However both TSLA and Nio are currently selling cars for the 0 Lucid currently has on the road. Lucid does however have over 11,000 paid pre-orders of the Air, including the completely reserved $169k Dream Edition.
+
+With this in mind we might be able to target a P/S ratio of let's say 5. The technology sector currently averages a P/S ratio of 7.52\* so 5 seems more than fair. If that's the case then LCID has an upside potential of almost 106% (5/2.43). ***This would bring the share price to $44.64 with an estimated market capitalization of $76.1 billion.*** This is over a hypothetical 12 months but the rate is otherwise TBD. That may seem like a lot, but for a US manufacturer with the most efficient EV on the market I personally don't believe it is. This would put Lucid at a market capitalization close to the $70 billion being sought by Rivian for their IPO\*.
+
+\-------------------------------------------------------------
+
+**▶ TECHNICAL AND FUNDAMENTAL ANALYSIS:**
+
+I personally don't put a lot of weight into TA--certainly not in the short term. That said, LCID saw a peak of $64 during the early SPAC rumors in February 2021, then crashed hard after DA was officially announced. Like a lot of the market (especially EVs and tech) it continued a downtrend through spring and summer until reaching a nadir of $17.25 on 5/13/2021. This had been followed by an upward channel through 8/16/2021 but has since broken the lower support and moved below both the 50-hour and 200-hour moving averages. On the daily chart we're also below the 50-day and just scraping the top of the 200-day. RSI is currently near the oversold side and MACD looks to be making a reversal. Historically there are several points of support around $21.30 and we're currently just above this lower bound. Personally I think this makes a decent entry point if you're looking to go long.
+
+[Nothing fancy, just bottom trend-line, 1-hour SMA, RSI and MACD](https://preview.redd.it/nbfewd7xkcj71.png?width=2760&format=png&auto=webp&s=d6a91f908af657fb38ec9813ab35713781fa067f)
+
+Fundamentals are outlined above. PIPE lockup expires on 9/1/2021 and will likely create a good amount of volatility; however, since EPA/crash test results, press coverage and delivery announcements are expected in the very near future there look to be several factors either maintaining or potentially pulling the price upward. Motor Trend magazine will be publishing an article tomorrow (8/25/2021) regarding the first public test drive, with senior editor Jonny Lieberman testing out the 500+ mile range by driving between SF and LA this past weekend (tweet). If you're into high-end watches there's something there for you too\*.
+
+\-------------------------------------------------------------
+
+▶ **COMMON QUESTIONS:**
+
+**Q:** ***When does PIPE lockup expire / will this drive down price?***
+
+**A:** As per the most recent S-1 PIPE lockup should expire on 9/1/2021 (page 169). Here's a prior post thoroughly discussing PIPE lockup expiration and the effects it may have on share price. In brief, about 55% of PIPE investors might be considered long-term and 45% short-term. There are about 150 million PIPE shares, or 9.3% of all outstanding shares. If 45% of PIPE sells that's still only 4.2% of outstanding shares trading hands.
+
+**Q:** ***When are deliveries?***
+
+**A:** Lucid has only officially announced deliveries as second half of 2021. Motor Trend magazine's senior features editor Jonny Lieberman recently drove an Air Dream edition in tandem with Peter Rawlinson and was reportedly told Q3 2021, however he speculated it may be October (Q4).
+
+**Q**: ***When is crash testing and EPA verification?***
+
+**A:** No specifics at this time other than both are underway and "near completion"\*.
+
+**Q:** ***What about the chip shortage?***
+
+**A:** Peter Rawlinson reports they have bought ahead, securing enough semiconductors for all production vehicles through 2021. They have additional mitigation plans for alternative sourcing and PCB redesigns if required. They have a relatively modest volume ramp for 2021, so they are less affected in the near-term than other manufacturers. You can watch Peter discuss the issue here (start at 4:00).
+
+**Q:** ***What's the four-finger gesture Peter Rawlinson has been making in photos over the past few weeks? (examples*** 1, 2, 3, 4)
+
+**A:** Jonny Lieberman claims to know and will publish the answer in tomorrow's Motor Trend article (8/25/2021). Best guesses are (A) confirmation of 1111 max horsepower, (B) big news on 9/4/2021as this is the ending date of the mandatory 40-day quiet period after listing on the NYSE, or (C) he's the last surviving member of Chicago's Four Corner Hustlers\*.
+
+\-------------------------------------------------------------
+
+▶ **PERSONAL POSITION:**
+
+I won't divulge my exact position other than to say LCID represents 55% of my total portfolio with a DCA of $23.90. I also have multiple calls/LEAPS, mostly Jan 2023 including $15, $20, $25 and $30 strikes, with a few Oct and Nov 2021 calls sprinkled in as lottery tickets. I wheel a smaller stack on the side to collect premium during the slower months and I'm currently trading on the CSP side. I buy a small number of shares almost every day and intend to make this a 5-10 year investment. If mods would like "proof or ban" I will happily provide screen shots privately.
+
+*^(Disclaimer: Nothing above or below constitutes professional and/or financial advice, nor does any information presented here constitute a comprehensive or complete statement of the matters discussed. This is not intended to be investment advice, and you should seek a duly licensed professional before making your own investment decisions.)*

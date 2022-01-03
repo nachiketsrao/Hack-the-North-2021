@@ -1,0 +1,52 @@
+**Historical Post Earnings Moves MEGA Compilation and Analysis (Q2 Week 3) - $TSLA, $AAPL, $AMZN, $MSFT, $GOOG, $FB, $AMD, and More**
+
+&nbsp;
+
+What's poppin' bull gang, I hope you made some awesome money last week! The spreadsheet was spot on for nearly every company, and all of my plays came to fruition! **$MT and $X ended up bagging us anywhere from 300% to 500%, $JETS gave us 1100%, and $SNAP netted us 250% on our strangles and nearly 600% on binary options!** I’m looking to keep this momentum going throughout this week as well, and with all of FAAMG (I kicked $NFLX out for $MSFT after their disgraceful earnings) set to report, this week could prove to be more lucrative than the last! We’ve got a large variety of trades we can make this week ranging from educated gambles, to good old fashioned theta plays. We’ve even have a couple of opportunities to sprinkle in some collateral plays if we wish! Let’s get into it! 
+
+&nbsp;
+
+---
+
+#The Spreadsheet
+To aid us in planning our trades this week, [**I've compiled a spreadsheet consisting of all of the Historical Post Earnings Moves of EVERY stock reporting earnings this week**](https://docs.google.com/spreadsheets/d/1-xx9rsQ4_0LhDRqfBbW4wkSy5zRdVOBHQn737EC5Cok/edit?usp=sharing). Using this spreadsheet, we can determine which options to buy or sell to minimize risk and maximize probability for ANY given ticker. Obviously, past performance isn’t indicative of future success, but we can still use these numbers to gain a general idea of the expected earnings move of a given stock. Gone are the days of getting randomly blown out due to lack of information! If you’re struggling to find a given stock, click on the ticker symbol on the index page, it should hyperlink you straight to the table! If the above link isn’t working for you, refer to the link below!
+
+&nbsp;
+
+[Spreadsheet HERE](https://docs.google.com/spreadsheets/d/1-xx9rsQ4_0LhDRqfBbW4wkSy5zRdVOBHQn737EC5Cok/edit?usp=sharing)
+
+&nbsp;
+
+If the sheet has helped you out in any way, please drop an upvote or a comment, so I know whether or not I should keep on making them! Most websites also require you to pay for this data, which I think is asinine.
+
+&nbsp;
+
+---
+
+#Interesting Observations and Sample Plays
+
+Below I’ve compiled some interesting observations which can further aid us in making trades this week, alongside some sample plays for those who are new to playing earnings and need some guidance. If I missed anything, feel free to bring it to my attention!
+
+&nbsp;
+
+- **Pinterest is inefficiently priced.** Since going public, $PINS has had an average post earnings move of **14%**. The options this week are pricing in a move of *roughly 6%* on both sides of the chain, which is likely going to shrink significantly going into earnings as theta eats away at the contracts. Even though I’m extremely bullish on $PINS, this trade could honestly move either way, so I’m personally opting to play a straddle like I did with $SNAP last week. Given that we get a historically average move, we’ll be making some money on this trade. Keep in mind, this trade *is* riskier than the one we played on $SNAP, since the average historical move is smaller. Don’t over leverage yourself, and don’t be afraid to turn the straddle into a reverse iron butterfly to reduce your cost basis on the trade.
+
+&nbsp;
+
+- **Over the past 24 earnings seasons, Shopify has gone up nearly 75% of the time!** The odds on this trade are phenomenal, and we have quite a few options for how we want to play it.  If you want to gamble directionally, call debit spreads would be your best bet from a risk to reward standpoint. Alternatively, we can also join theta-gang for this play by selling ATM put credit spreads allowing us to net some extremely nice premiums. If you want an even safer spread, $MSFT also has a similar win-rate (~65%) while having a historically smaller move, allowing you to defend your capital in the event that the trade goes against you. Since both $SHOP and $MSFT report on different days, we can look to make this play twice to ensure we’re not overleveraged on any given day.
+
+&nbsp;
+
+- **Counterintuitively, $XLE is NOT a good [collateral play](https://www.hungrybotalerts.com/blog/collateral-plays) this week!** $XLE actually has a *higher* IV than both $XOM and $CVS, so if you wanted to play oil earnings, you’d actually be better off rolling the dice on the individual companies. I’m not sure why this is the case here. Either the MMs are catching onto my bullshit (unlikely), or there’s some nuances to trading oil that I’m not aware of.  I’m sure there’s an arbitrage play you could make regarding the individual price and IV differences proportional to the ETF holdings, but I don’t have time to crunch the numbers nor do I think I’d have enough capital to abuse it. Regardless, I just wanted to bring this to everyone’s attention since this is one of the rare cases where the collateral play puts us at a disadvantage.
+
+&nbsp;
+
+All that being said, I haven’t had much time to review any extra trades given that I’ve been extremely busy this weekend. If you want extra trade theses or updates, alongside any live trade entries and exits, feel free to check out my Twitter or Discord! Links can be found in the sheet or on my profile.
+
+&nbsp;
+
+---
+
+#Summary and Conclusion
+
+We’ve got another fun week of earnings ahead of us! I personally tend to avoid playing FAANG stocks in general, so my analysis was concentrated elsewhere. If you see any appealing plays, feel free to let me know! Use the [spreadsheet](https://docs.google.com/spreadsheets/d/1-xx9rsQ4_0LhDRqfBbW4wkSy5zRdVOBHQn737EC5Cok/edit?usp=sharing) to determine which stocks offer the best risk to reward ratio, and play accordingly! If enough people find the sheet useful, I'll continue making them throughout the earnings season! If the sheet has helped you out in any way, please consider dropping an upvote or a comment! If you want access to more trading tools, or have any specific questions or observations you’d like to share with the community, feel free to check out the community links within the spreadsheet or on my profile. **Happy Trading! :)**

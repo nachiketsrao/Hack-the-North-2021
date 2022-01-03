@@ -1,0 +1,143 @@
+TL;DR: Apple will soon introduce a quality over quantity ad platform that will demolish all existing ad platforms.
+
+What’s up retards, back with a hot take on a nice little company. This time Apple. Last time I was here I called Snap (while it was at $15) adding targeting marketing so at least take some time and try and poke holes in this pipe dream.
+
+Table of Contents:
+* IOS14
+* Apple doesn’t make dumb money decisions
+* Facebook plans feature to bypass new restrictions
+* Facebook files anti-trust lawsuit
+* The small business and PPC community is scared as fuck
+* The last thing Apple doesn’t control in their closed ecosystem
+* Mobile ads have become a meme and are the last detrimental image found on Apple devices
+* The largest market cap on the NYSE
+    * Recent YoY growth at Trillion Market Cap
+* 100% of the market share
+* Consistent growth since the IPO of apple with a long-term perspective
+* What’s the upside? ($750B)
+* App Store Search Ads 
+    * Back-end platform already exists
+* The war that’s brewing / They aren’t afraid of murdering a company regardless the size
+
+Antitrust:
+https://www.nbcnews.com/tech/tech-news/apple-v-facebook-after-years-tension-legal-battle-looms-n1256008
+
+Fundamental explanation of what blocking tracking actually means: 
+https://www.techrepublic.com/article/safari-for-ios-14-and-macos-11-how-to-prevent-websites-from-tracking-your-moves-online/
+
+Signs that desire for early adoption is high: 
+https://www.macrumors.com/how-to/prevent-apps-from-tracking-you-across-sites-ios/
+
+Apples self-claimed results:
+https://searchads.apple.com/
+
+ios14 is proclaimed to fuck small businesses, marketers and e-commerce. That is the single biggest Zoomer and Millennial workforce collective in America. With this change, businesses can no longer target any iPhone user after they’ve visited their website while using the trigger of the ad that they visited the website.
+
+Ie, you visit a red shoe page. You forget about it. Tomorrow you see an ad for a red shoe.
+
+Or, you look at concerts online in Austin. Then you get distracted and don’t do anything. And then you get an ad for a discount to a concert the next time you’re browsing.
+
+No more ads like that with ios14. That is dangerous because 80% of the digital marketing budget is devoted to remarketing and retargeting efforts (across the entire industry)
+
+So, that’s concerning to me because while we can convert customers that have visited the website of Our company and that knows who we are, we make 9.7x what we spend on ads. But, with raw new first time interaction we see a return of .43x. This update will essentially fuck all the small businesses that have put in the time to build their marketing structure around Facebook, and even more so removes the ability for e-commerce to use this as their primary driving factor as e-commerce has an even worse initial introduction return but retargeting they make bank.
+
+Simply put, all ads have to be written like you have no idea who exactly you’re talking to beyond a few details of their interests. You lose all ability to check if they are interested or even know about your company based off non-Facebook interactions. With this, Facebook interactions aren’t even valid anymore due to their far right audience consuming a 76% majority of their usage, you result in clients that are legit fucked. So you have to limit your buyer persona a ton and in turn your average ad cost will be raised significantly as it has for the last year as costs have eclipsed an all time high of being ~400% higher than last year.
+
+All in all, you’d now spend $15000 for the same thing you would’ve paid $900 for previously (unless you’re part of the .00001% of FB advertisers). Due to the increased costs of Facebooks bottom line but also because of all these other factors combining to make it harder to even find the person you want, much less be given the time needed to convince them.
+
+While tracking isn’t the nail in the coffin, the further downsides of Facebook remove further value. This isn’t about Facebook though. This is to show that Apple is making an incredibly, multi-industry impacting move with an attempt to bring Facebook to a 0% market share of iPhone users.
+
+Why the fuck would Apple do this? They would never hurt their brand. They would never make a dumb money decision. They are the biggest company on the NYSE and that didn’t happen by making off the cuff decisions nor did that happen because of a “privacy play” Apple has realistically taken as much of the market as they can while touting privacy as their primary benefit to buy an iPhone.
+
+With this Facebook filed an antitrust lawsuit that is literally going to create a War Between Giants. This very well may be the single largest business brawl ever seen. The number one most valuable company in America that’s geared to fight the number four most valuable.
+
+What does that mean? Well typically, Apple will stay hush-hush since they aren’t making the move for publicity or branding. That’s not what happened this time. Instead, as soon as Apple was asked for a comment they stated they’d be fighting it.
+
+Following this, Facebook sends out an email at 3:00am talking about the impacts this will have on all Facebook advertisers. They were burning the midnight oil and they decided fear was the best way to motivate the Facebook advertisers. Fuck Facebook for that tbh.
+
+Well, Facebook has a secret solution. They can basically bundle an internet browser into Facebook and just serve the ads through there. Suddenly, they can track you again because suddenly you are never technically leaving Facebook. This is sketchy as fuck and is a simple one-line fix for Apple to again remove this ability. Like a game of cat and mouse as Apple plugs Facebooks bullshit side skirt attempts.
+
+Additionally, Apple doesn’t historically allow skirts as you can see in the most recent time Apple denied a product that competed with a market they are in: https://www.google.com/amp/s/www.theverge.com/platform/amp/2020/6/18/21296180/apple-hey-email-app-basecamp-rejection-response-controversy-antitrust-regulation and this move was super controversial. 
+
+Want another example? Maybe a high profile one? Well Apple said fuck Epic Games and went for the jugular when they straight up removed Fortnite and all Epic Games products from the App Store. They straight up murdered another billion dollar company and Apple didn’t even get scratched. Literally said “fuck off, you can come back when you will pay your bill”
+
+Apple didn’t care. They were going to get their money whether the company or retail investors cared. Apple is going to get paid when you’re on their platform.
+
+But currently Facebook pays Apple $100 a year to list their app. That’s it. They don’t get a cut of ad share. Nothing. So Apple can monetize these small companies making millions but can’t take a cent from the fourth largest company in America. That’s not something they’re gonna be chill about especially as Facebook continues to damage their own reputation. You’ve seen Apple swing once with ios14 and you’ll soon see Apple swing with punch two.
+
+But before punch two could even happen, Facebook files an anti-trust lawsuit and tries convincing their advertises with that 3am email to support the lawsuit. Uh oh. Must be hot in the walls of Facebook.
+
+So why would Apple finally pull the trigger?
+
+Because for years they’ve been building a secret digital marketing ad delivery platform. Where’s it been tested? In the App Store and they are currently sitting at a 50% conversion rate on average. That means one of two people that see an ad, download the app from that ad.
+
+That is fucking crazy numbers as Homeer is currently sitting at 3%. That’s a  16x difference. That means we could theoretically pay 16x less due to the difference in their ad delivery model or potentially see 16x the amount of impressions.
+
+What’s the difference that makes Apple so different? They don’t want to spend your whole budget unless they’ve found the perfect person. With Apple, you can set a maximum budget of $10,000 a month currently. Facebook currently has small e-commerce shops spending multi-millions a month. In the App Store, there is a ton of money left on the table currently but that’s not the juicy bit here. The juicy bit is that for the last years they’ve been testing and building this platform while also updating all user experience with Apple products. Finally, Apple has reached 100% control of the apps found and used on their phone, but what they don’t control is the ads inside those apps.
+
+The five obvious big plays here.
+
+👉 Mobile game ads
+
+Game ads have become a meme about how bad they are. Additionally, they are essentially the very last item that can give Apple a bad look while also largely deceiving the users of iPhones. You know how bad they are. An additional upside to this is that not only does Apple look better as a whole, but this is before you consider that suddenly small businesses would have access to an even deeper level of targeting.
+
+Imagine now, I know my perfect client is 34, has two kids and plays candy crush before she goes to bed. Well finally I can run ads under that scenario without having to go through some shady venue while also maintaining the trust aspect.
+
+👉 Ads for kids
+
+Finally parents can prevent their kids from seeing unregulated ads. Honestly, I can’t give example of revenue benefits here but this does help early adoption and public support a fuck ton.
+
+👉 Safe for work toggle
+
+Finally, we can have not safe for work ads for those that opt-in. Alternatively, this would function as SFW only but this is again, just another public perception possibility.
+
+👉 Apple News 
+
+Now, Apple has been going hard after news apps for the last year. Why would they do this? Because they have Apple News but it’s not monetized by Apple currently. Again, they have third party providers displaying ads that Apple gets zero share of.
+
+But oh don’t worry, soon Apple will finally monetize all of their software because they have ads running in every platform imaginable.
+
+👉 Privacy
+
+Another major benefit is that we can deliver high quality ads as business, will get better ads as consumers all while maintaining the fine line of quality and privacy.
+
+Now, ignoring all of that, Apple has seen a moving average growth of 50% YoY for the last four years. They have a solid growth path with products and for the last two years they’ve built their cloud platform to not only consume massive amounts of data, but also process that data. Just look at how they can now search through all of your photos instantly and show you them instantly without a single bit of that photo data being physically on your phone. They are geared to the fucking tits on software innovation and no one even cares.
+
+To put it in perspective, Apple introducing an ad delivery platform with 50% avg. conversion rate would be like the day Steve Jobs announced the first iPhone.
+
+Secretly for years they’ve worked towards this moment and they finally swung first in a fight.
+
+Even without ads I fully expect them to hit the target of $165 by the end of the year while reaching $220 safely at the end of 2023.
+
+Realistically, business adoption will take at least 8 months before Apple sees enough profit to even recoup the cost of the lawsuit, but this would be the single largest business pivot ever seen in the world.
+
+So if Apple goes from a product business to a software business what does that mean for their value? Let’s look at Stripe since we have recent data and we know what they’re doing has the same kind of user life-changing benefits.
+
+Stripe does $450 million in revenue. They were just valued at $115 billion. That’s a P/E ratio of 255%
+
+Currently, the P/E ratio of Apple is 34% so not only do I expect them to land in the high middle range of the two, I also additionally expect never before seen returns for an ad company. Not because they have the largest audience but because they can genuinely show your ad to the exact person you want.
+
+From a business perspective, digital marketing is entirely about quality over quantity when it comes to potential consumer eyes and this would be the very first ad platform to operate with this ideal.
+
+Finally, Apple is currently underperforming and is trading on rumor of a bullshit electric car and is sliding, all while literally no one on the internet has considered the idea that they’re doing all this because they’re introducing an ad platform that will soon print billions of profit within months of releasing.
+
+Now finally we can cover the aspect that we don’t have to try and time them developing and releasing this. They already tested it, got crazy fucking results and no one bats an eye. Everyone is so consumed by Facebook they totally missed the play Apple just made.
+
+There’s a major war brewing and it’s only begun. But we’ve all watched the idea that all media is good media be proven true as Robinhood received 3.5 billion in funding during the biggest retail investor controversy in modern day. Regardless initial interaction, Apple investors don’t get scared by that. Apple investors are Apple investors because they know they will bring hell to earth before they accept not getting a cut of the money.
+
+This company is down on the month incredibly and there has never been a better time to buy Apple IMO while being prepared to hold for about 8 months for potentially a massive, massive payout. This is not an option we will sell quickly. This is a weather the storm and wait for the announcement to set into reality.
+
+Disclaimer that this is pure personal intuition and this idea came from nowhere but my ass and Facebook sent the email literally Monday so this is as hot off the press it can be.
+
+All this to say, people like targeted marketing both businesses and consumers but not when it’s in Facebook hands. 
+
+What company in the entire market is most trusted to do right by the consumer while delivering an incredible cost at likely a higher cost to those paying while also maintaining 100% of their self-made market? Apple.
+
+I am jacked on 3/17/23 @ 190 for 10.60
+
+Edit: due to an awesome fucking user we now know they are hiring a massive amount of jobs for their ad platforms: https://jobs.apple.com/en-us/search?search=Client%20Partner%20Manager-%20Search%20Ads&amp;sort=relevance&amp;location=united-states-USA
+
+Here’s the snippet: 
+&gt; “The Ad Platforms EPM team is looking for a highly-functioning, self-driven, and versatile leader who can manage a team of EPMs to drive our site reliability projects. These projects are key to our overall operations and business growth. You will own delivery responsibilities on projects that seek to build out scalable platforms and reliable infrastructure for core systems and applications across heterogeneous environments. This will happen while also adhering to the highest levels of privacy and security that Apple holds. You will be responsible for leading and mentoring your team to work through project dependencies, risks, and deliver measurable outcomes against timelines - in a fast-paced environment!”
+
+While these may not all be for their *new* platform there is definitely jobs created on Feb. 19 that bring a different tone.

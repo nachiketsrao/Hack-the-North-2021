@@ -1,0 +1,17 @@
+Currently working with some company and we're discussing how to deal with a new type of tax that will be implemented on GROSS REVENUE of ANY company that has a stream of revenue coming from digital ads.
+
+[Currently, only Maryland has passed this bill](https://www.pwc.com/us/en/services/tax/library/maryland-digital-ad-tax-delay-digital-products-amendments1.html), but states like Texas, NY, and West Virginia are trying to push it through as well.
+
+IMO, if this becomes a countrywide standard, this is gonna be a huge fine on a bunch of companies like Google, FB, Amazon, etc. The worst part is the tax **(EDIT: bracket)** is calculated on gross TOTAL revenue:
+
+ex. If I made $3 bajillion selling oranges and 50 cents selling ads, the tax would be calculated ~~on a percentage of $3 bajillion and 50 cents.~~  on the 50 cents from selling ads, but how much you're taxed is based on the $3 bajillion and 50 cents.
+
+**EDIT: I can't read.** the tax is imposed on the amount you earned from the digital ads, but the tax rate depends on your global annual revenue. So it's not as stupid, but still pretty stupid. A little more faith in our government, a lot less faith in my reading comprehension
+
+These companies could offload the tax onto their customers but that would probably deter customers and less companies will want to rent ads from bigger companies (if they make more money in total, the added charge will be higher)
+
+This will probably be a long term play (first actual tax will occur April next year) but my ape ass is looking for ways to play this and I can't think of anything below surface level.
+
+Thought some of yall would wanna know.
+
+TL;DR: Orange peels are a good source of pectin.

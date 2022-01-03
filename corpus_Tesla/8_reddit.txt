@@ -1,0 +1,57 @@
+The [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) effect is a psychological phenomenal measured in humans, where unskilled people fail to recognize their own incompetence. Not just general intelligence but incompetence in individual fields. 
+
+If you haven't beaten the market over the last 6 months, you probably think you got a bit unlucky. If you've managed to beat the market over the last 6 months, you probably think you're an investing god. That ego can make you broke, and now is the time for a humility check. 
+
+You're in this subreddit. If you're reading this, do you think you're better than the top investors out there- Burry, Dalio, Wood, Buffet? Well, maybe you are, but statistically, you're probably not. 
+
+So, what do the top investors say lately? Here's my interpretation:
+
+Burry: We're in the biggest speculative bubble of all time in all things.   
+Assets under management (AUM): $635 million
+
+Dalio: US Bonds are crap, US equities are frothy, tech is bubble-ish. Get into emerging markets. China isn't so bad.   
+AUM: $140 billion
+
+Buffet: I'll reduce my positions and wait for a better entry.  
+AUM: $632 billion
+
+Wood: Innovation will lead to enormous GDP and productivity growth over the next 5-10 years.   
+AUM: $53 billion
+
+=============================================
+
+If you've been following financial news this year you probably know that Burry started shorting TSLA back in Dec 2020 and has been crying wolf that we're in a bubble since this spring. Ever since then the market has gone up a lot. Doesn't that make him wrong this time? Not necessarily, no. In fact, that means we might be in an even bigger bubble than we were earlier this year. Luckily for him, seems like he learned from last time to hedge his shorts too, and bought FB and GOOG calls in case the market continues to rocket, which have printed hard. 
+
+ Speculation is at an all-time high. Look at this chart of subscriber count for WSB:
+
+[I'm guessing most of these new subscribers aren't YOLOing on OTM SPY puts every week.](https://preview.redd.it/50kiiie6zbn71.png?width=3010&format=png&auto=webp&s=2c4c7817c548515eae1823cc2f0e986565522ea9)
+
+Take a look at this chart of TSLA
+
+https://preview.redd.it/jhh5i2tfzbn71.png?width=2492&format=png&auto=webp&s=8c354ae8100a048cf81176d619ddaaa5f51b4dda
+
+And compare it to the standard asset bubble chart here:
+
+https://preview.redd.it/hngourvbycn71.png?width=1418&format=png&auto=webp&s=9175668887dbb1f5639fd54ce395c38865b0a879
+
+Now with fundamentals way off, TA lining up, and lots of possible macroeconomic issues in the near future, this looks to me like a great setup for a short. Now of course, nothing is certain in the markets. BUT, if the bubble is about to pop, this could be the trading opportunity of a lifetime. That's why I'm going short. 
+
+"Burry is a value-shill permabear"
+
+Burry was long on a bunch of equities at the bottom of the pandemic last year, he bought GME at $5. [https://www.yahoo.com/now/michael-burry-doubles-money-3-174031896.html](https://www.yahoo.com/now/michael-burry-doubles-money-3-174031896.html). He has consistently beaten the market in bad years and good years too. 
+
+"Burry is smart but he is wrong about TSLA"
+
+If you won't follow Burry, then how about following Wood?[https://www.forbes.com/sites/jonathanponciano/2021/09/09/cathie-woods-ark-invest-sells-110-million-in-tesla-stock-as-insiders-also-dump-shares/](https://www.forbes.com/sites/jonathanponciano/2021/09/09/cathie-woods-ark-invest-sells-110-million-in-tesla-stock-as-insiders-also-dump-shares/)
+
+[https://www.reuters.com/technology/cathie-woods-ark-funds-bought-246-million-coinbase-shares-2021-04-15/](https://www.reuters.com/technology/cathie-woods-ark-funds-bought-246-million-coinbase-shares-2021-04-15/)
+
+"Cathie Wood gives TSLA a $3k price target"
+
+Wood, Dalio, and Buffet have such high AUM that their positions can be highly illiquid. That is, even if they knew they positions were overvalued, they aren't always able to get out of before causing panic in the underlying. For this reason, you always have to take what they say with a grain of salt. Wood, who is a brilliant investor, would obviously not say that TSLA is overvalued, same that Dalio will not say that BABA is a risky stock to hold. It's a perfect case of "do as I say, not as I do." So instead of listening to what they say, which is always going to be biased, try looking at what they do. 
+
+And lately, Wood has been selling TSLA. When the **bulls start selling**, it might be a good time to get out. 
+
+TSLA JAN 2022 670 PUT
+
+This is not financial advice, do your own DD.

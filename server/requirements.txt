@@ -1,0 +1,6 @@
+Flask==2.0.1
+nltk==3.6.2
+praw==7.4.0
+firebase_admin==5.0.2
+yfinance==0.1.63
+apscheduler==3.7.0

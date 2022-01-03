@@ -1,0 +1,97 @@
+I think we have all been duped by it at least once by now:  
+Terrible, shallow-researched dribble that gets posted to Wall Street Bets as “Due Diligence” which, in reality, is nothing more than one lunatic’s confirmation bias in long form and projected outward.
+
+
+Let me take one of these tickers, break down examples of positive things you might hear about it, and explain why they are bullshit.
+
+
+#The Company
+
+
+CLNE is a meme stock representing a company, Clean Energy, that is attempting to straddle the line between the fading trend of natural fuels and the EV future of the industry.
+
+
+#The Nonsense
+
+
+I have chosen three examples of allegedly bullish signals I have seen posted for CLNE specifically: price targets, partnerships, and options chains.
+
+
+I feel that these together well cover the types of evidence you might see posted as “DD”.
+
+
+## Price Targets
+
+
+The first signal to be addressed happens to be the most meaningless.  
+To be blunt, there is a reason they call them “**anal**ists”: most of what they write is pulled right out of someone’s ass. Sometimes this is their own ass, and other times it is someone else’s.  
+Not everything has to have an agenda; sometimes you just have a writing deadline.
+
+
+Bottom line is that some random desk jockey writing that CLNE will be worth somewhere in the mid to high teens does not mean it will ever get there.  
+After all, stocks trade based on a company’s current value which means the price is not going to reach ten times what a company might be worth at the end of the century nor will a stock price stay uplifted while a company does nothing but lose money.  
+Just look at green energy-adjacent tickers like TSLA or NKLA as good examples of how stock prices tend to reflect an objective valuation of a company.
+
+
+## Partnerships
+
+
+Sometimes all it takes to hype a stock is having a partnership with a bigger company announced, or even just having rumors of one coming.  
+In CLNE’s case, the partnership is confirmed and it’s with the biggest of the big, Amazon!  
+This is huge! Who doesn’t love Amazon?  
+
+
+…but that is actually a problem. Everyone loves Amazon, and Amazon knows it.  
+While having signed a deal with one of the biggest companies on the planet sounds great in a vacuum, talking it up is akin to bragging about getting knocked up by a celebrity while conveniently ignoring the pre-coital contract you signed that specifies that the father does not have to have anything to do with you unless the kid turns out to be somehow profitable.  
+Meanwhile, Amazon gets to run around creating more legally deniable baby mamas since, unless CLNE found some leverage to convince the retail behemoth to sign with exclusivity, it is in their best interest to plant as many seeds as they can and only execute on the deals that end up being worth the most.
+
+
+Let’s look at the CLNE/Amazon deal specifically.  Amazon gets bunch of CLNE warrants for something like $13/share with the chance to get more if they buy $500 million worth of fuel from CLNE.  
+The common pro-CLNE read of this situation is that obviously Amazon believes that CLNE will be worth at least $13/share in the not-so-distant future, right? 
+
+
+Wrong.  
+
+
+This deal gives Amazon two pretty clear escape hatches:
+
+
+- Amazon can just choose not to exercise the warrants.
+
+
+- Amazon can just not buy the fuel.
+
+
+The entire burden is on CLNE.  
+Amazon is under no obligation to do anything. If it does, sure, there’s profit to be made, but the stock market rotates around sure things, not speculation.
+
+
+## Options Chains
+
+
+Trying to read an option chain to predict a stock’s trajectory is like trying to use tea leaves to predict your future. Any alignment is better credited to coincidence rather than fate.
+
+
+For example, CLNE’s max pain for this month’s expiry is currently at $8.  
+This is not a cosmic sign of the ticker’s destiny, it is simply a mathematical anomaly created by hundreds of gamblers paying for the privilege to throw a dart at a board. 
+
+
+Another fortune teller’s tool I have seen rolled out for CLNE and other stocks is looking at open interest for various call strikes and trying to envision them forming a ramp upwards. If such a ramp is found, the argument is that there is some magical price that will cause every single writer to simultaneously hedge all their calls at once, resulting in the price instantly rising to infinity.  
+
+
+Problem is, that is not how hedging works. Its not even how ramps work, frankly.  
+Gamma events are rare because, like real ramps, they require momentum and fear.  
+No one writing uncovered calls 100% OTM is rushing to buy thousands of shares just because the underlying price rose 10% in a single day two months out from expiration. They are just going to wait to see what happens which invariably will be the price resettling where it is supposed to be.
+
+
+In the stock market, the most sure you are that an event will occur, the less likely it is to happen.
+
+
+# Conclusion
+
+
+I hope this whole lot of words has been helpful to at least some of you. Beyond the specifics, I would just encourage you all to see beyond what others are touting as “Due Diligence” and do your own due diligence in turn to arrive closer to the truth.
+
+
+Most importantly, remember this:  
+CLNE to $5 by EOM.

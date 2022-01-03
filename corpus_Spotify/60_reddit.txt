@@ -1,0 +1,79 @@
+These are my thoughts on one potential option GME has to make a significant pivot and leverage its current market place position as the leading multi-platform video gaming retailer into a digital future. This model allows for a lot of optionality and diverse revenue mix.
+
+**Note:** I do not think this is the only option available to GameStop, nor the right one, just throwing it out there as it shows how much potential there is to re-think this business, on a fundamental perspective there is a lot of upside if they can execute on something compelling.
+
+## Summary
+
+A digital platform that offers both a subscription service for all-you-can-eat cross platform titles plus a digital games store where you can purchase cross-platform titles that are able to be traded-in for a credit.
+
+## What revenue would it create?
+
+At the moment, GameStop has over 50 million PowerUp Reward members. This program is largely limited to USA, whereby this digital platform can be global. As a benchmark, Xbox Live Gold is over 90 million subscribers, World of Warcraft has somewhere around 10-20 million subscribers (@ $15/month) - that's just 1 game. GTA 5 has sold over 120 million copies and Take Two makes $350m in micro-transactions in a quarter.
+
+If this service cost $169 per year, cheaper than Microsoft's GamePass Ultimate, this is roughly the recurring revenue it would bring in. Maybe they could charge a lot more than this. $19.99 per month or $239 pa. $24.99 per month or $299 pa.
+
+This service may just sit alongside GamePass, or Microsoft may choose to just integrate into GameStop's service so they are getting their Microsoft owned studio titles on more systems. See this article: [Microsoft wants Xbox Game Pass on PS4.](https://www.digitaltrends.com/gaming/microsoft-xbox-game-pass-on-ps4/)
+
+|Subscribers|50 Million|100 Million|150 Million|250 Million|
+|:-|:-|:-|:-|:-|
+|**$169 pa**|$8.5 Billion recurring|$17 Billion recurring|$25 Billion recurring|$42 Billion recurring|
+|**$239 pa**|$12 Billion recurring|$24 Billion recurring|$36 Billion recurring|$60 Billion recurring|
+|**$299 pa**|$15 Billion recurring|$30 Billion recurring|$45 Billion recurring|$75 Billion recurring|
+
+It's possible too that this model does not simply provide a catalogue of games, like Game Pass does, but could work more like a library system where you can check-out something like a few games at a time. Any games. And turn them back in. Given the potential for license revoking, the opportunity of how the model could work on a subscription basis is only limited by your imagination. This kind of new approach would be different to what we've seen to date out there.
+
+## Digging deeper: More like Spotify for Games
+
+In some ways this model could operate similar to music and movie streaming services (e.g. Spotify & Netflix) where you have the ability to choose from the entire catalogue, and the publishers are paid based on what is being consumed/streamed/used/played. Play hours could be monitored and factored in.
+
+Benchmark: Netflix has around 200 million subscribers, Spotify around 150 million, Disney+ around 85 million.
+
+## Classic Buy/Trade-In model
+
+On top of this, purchased games would be sold in full, generating more classic sales revenue. These digital purchases could work in a number of ways:
+
+1. Games sold generate commission/profit per sale (just like selling a retail disc now) and could be integrated into existing digital stores across Xbox, Playstation and Nintendo eShop.
+2. Games purchased through the console stores or other stores could be "traded-in" with GameStop for a small credit. It would be some minor work to integrate ability for the existing platforms to disable/transfer the digital license.
+
+Traded-in games would encourage more purchasing than what happens currently where they rot in your catalogue never to be played again, so publishers are incentivized to be involved and contribute to this.
+
+DLC and other digital purchases in-game could generate a similar commission for GameStop, in the same way that the current Microsoft revenue share model has. See below.
+
+## Couldn't _________ do this instead?
+
+Maybe. But, GameStop has advantages over every other player who might want to become the "Netflix" of gaming, if you will. They are neutral compared to other companies in the gaming sector, and neutral to the other major tech companies such as Google/Amazon/Facebook when you put them up against Microsoft in particular.
+
+||Microsoft|Sony|Nintendo|Steam|GameStop|
+|:-|:-|:-|:-|:-|:-|
+|**PC**|X|||X|X|
+|**Xbox**|X||||X|
+|**PlayStation**||X|||X|
+|**Nintendo**|||X||X|
+
+## GameStop is well connected across the gaming world to act as the global carrier for digital gaming
+
+1. Steam might be able to pivot into this area, but GameStop has something Steam doesn't have: the console market. Primarily this means capturing Nintendo & Sony into this future.
+2. GameStop has Reggie Fils-Aimé (former President at Nintendo of America). This is a huge card in terms of getting Nintendo of Japan to agree to some kind of involvement.
+3. Game streaming is something that can be built in now or down the track. Again, being platform neutral is a big bonus here, as the offer they provide would not be limited to other ecosystems such as what would be through XCloud or Stadia. Microsoft may even want to develop a deeper partnership to provide the technology/infrastructure (e.g. license/transfer XCloud - like an AWS style relationship) and allow GameStop to operate it as a neutral party. At the end of the day, Microsoft may get slightly smaller cut of a much larger pie through a model like this - and not be accused of anti-trust/monopolization.
+
+## Understanding the Microsoft Digital Revenue Share
+
+>Domo President Justin Dopierala told Ars that GameStop Investor Relations representative Eric Cerny sent an email with the statement: “We are allowed to state we will receive a portion of the downstream revenue from any device we will bring into the Xbox ecosystem.”  
+>  
+>Loop Capital analyst Anthony Chukumba confirmed what Dopierala said, adding that **GameStop will get a percentage of the revenue from every full game and DLC download, every microtransaction and every subscription made through an Xbox Series X or Series S it has sold through its stores.** And since the original line in the PR mentions “lifetime revenue value,” it means the retailer will be receiving money from Microsoft throughout each console’s lifetime.
+
+1. Microsoft want to do these things, but know they would never get Sony onboard. They probably wouldn't even get Nintendo onboard.
+2. Sony has been known to bow to pressures in the gaming industry, so would come on board with something like this if Microsoft and Nintendo are hooked in. [Sony caves to the fans: Fortnite cross-platform play coming to the PS4](https://www.nintendoenthusiast.com/cross-platform-play-fortnite-ps4/)
+
+## Plus all the other options available for revenue
+
+1. Physical media will likely still exist for a long time. Case in point: We're still buying up Vinyls. Hell, there's probably still a case for retaining some stores over the next 2 decades in some capacity.
+2. There's a waft of physical items that GameStop can continue to sell: Collectibles, hardware, pc parts, consoles (both outright and subscription based hardware), apparel, peripherals, toys, books, etc.
+3. eSports: Tournament platforms, leagues, streaming.
+4. Private label brands: GameStop can expand into its own house brand of gaming accessories.
+5. Game studio development: They can start to make their own games, ala. what Netflix Original Content is all about. There's billions of dollars of potential here.
+6. Leverage the data: 50 million members and growing. What else can it do with it?
+
+## TLDR
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀

@@ -1,0 +1,131 @@
+**TLDR: Upstart has a technological moat, unlimited scalability in lending markets, and solid financials. 10x in 10 years. Leaps Far OTM**
+
+I've been excited to discuss this position for awhile now and after blowout Q2 earnings along with great performance over the last month, now seems like a good time. I generally trade short term on quantitative models but every once in awhile I like a long term play if the tendies are crispy enough.
+
+Not to beat around the bush..
+
+# FinTechs Suck...
+
+Over the last year, FinTech has emerged as one of the hottest sectors for venture capital funding and IPOS (Automod didn't like the linked article). Fintech covers a broad swathe from payment processing to brokerages but the general idea of these startups is to become a one-stop-shop for financial services on one mobile platform. We're focusing on the consumer lending fintechs here but SoFi is the poster child of that all in one approach.   Some popular names in the sector include SoFi Technologies (SOFI) , Lending Tree (TREE), Lending Club (LC), and Upstart (UPST).
+
+&#x200B;
+
+**Trying to Do Everything at Once**
+
+This is SoFi. To fully disclose, I have previously been long SOFI and find the idea behind the company compelling but I've found enough issues that I don't believe it to be the best money making opportunity.
+
+To understand the platform better I made an account, tossed some money in a brokerage, and even signed up for their Money card. In all honesty, I liked the idea of having a brokerage, bank accounts, and lending all on the same platform but in practice your accounts are all separate, ie transferring from you checking to brokerage. RH's implementation is much smoother and effectively instantaneous. Overall not a big deal but the issue I see is SoFi isn't offering better services than traditional competitors and tried to do everything at once instead of do a single thing well first. We'll talk about the technological advantages
+
+Also this is purely anecdotal but the debit card got declined or didn't register frequently and one payment got processed as 6x the amount. What the fuck? Chamath hmu. I know you follow me
+
+**Terrible Balance Sheets**
+
+&#x200B;
+
+One unfortunately common trait of firms in this sector is awful awful balance sheets. There are a multitude of reasons for shitty financials for FinTechs but primarily the massive upfront expenditures on operations infrastructure and customer acquisition costs required in the Financial Services industry while generating very slim margins. Established firms are fine operating on slim margins but the entry costs are significant as seen by SoFi and others.
+
+Just building out the financial services branch of SoFi has induced significant capital outlays over the last year while the segment only generated 7% of revenues. Lowering costs of loan originations requires getting a bank charter which may involve acquiring an existing bank, again draining capital.
+
+These are just the highlights but I recommend reading through the 10-Qs linked below.
+
+&#x200B;
+
+||[SoFi](https://s27.q4cdn.com/749715820/files/doc_financials/2021/q2/SoFi-Earnings-report_FINAL_081221_4.pdf)|[Lending Tree](https://sec.report/Document/0001434621-21-000019/)|[Lending Club](https://s24.q4cdn.com/758918714/files/doc_financials/2021/q2/LendingClub-2Q21-Earnings-Presentation.pdf)|
+|:-|:-|:-|:-|
+|Revenue (MM)|$231.3|$184.3|$204.4|
+|NET Income (MM)|$-165.3|$-8.6|$-9.4|
+|EPS|$-0.48|$-0.46|$-0.10|
+|Debt to Equity|56.7|174.4|115.7|
+
+The debt to equity ratios are concerning combined with negative net incomes across the board.  Not to be a total dick but I'll quote SoFi's own website...
+
+>[As a very general rule of thumb, a good debt-to-equity ratio will equal about 1.0.](https://www.sofi.com/learn/content/calculating-debt-to-equity-ratio/)
+
+56.7 is a bit more than 1. The others are even worse. Tech startups have access to essentially infinite VC money and other infusions to float bad financials but a strapped balance sheet limits future growth capabilities.
+
+&#x200B;
+
+**Only Globalization. No Vertical Progress**
+
+Consider this simple model of vertical and horizontal growth for a company.
+
+[Thanks Peter Thiel](https://preview.redd.it/pfpfjbed1xk71.png?width=1480&format=png&auto=webp&s=8ff0377052d73fed20a5f426d5b88bd5867ce265)
+
+**Vertical growth** is a technological leap (doing things better) and is done on a 0 to 1 scale. Once you've invented a technology, you jump from 0 to 1.
+
+**Horizontal growth** is globalization (doing things bigger) and is done on a 1 to n scale. Essentially infinite.
+
+&#x200B;
+
+In essence, a truly disruptive company makes a technological leap and grows horizontally. That point is marked "ideal" above. Think Tesla and Apple. Those that are able to make a technological leap end up succeeding long term while firms simply expanding globally are not viable long term.
+
+The problem with the firms above is they are competing in an industry with very well established competitors and are trying to expand globally without making a technological jump first. In the lending sector, SOFI, LendingClub and Lending Tree are essentially using the same FICO based credit models traditional lenders have been using for ages These models have gotten slightly more complicated in the last decade  The only semblance of technological advancement is offering financial services through a mobile platform which traditional banks are now doing too.
+
+For SoFi, Lending Tree, and Lending Club, our chart looks more like this
+
+https://preview.redd.it/8klw6ken1xk71.png?width=1686&format=png&auto=webp&s=9ed7e0a461f35444c393b402d372691a3b29b1dc
+
+They're trying to compete with traditional lenders on a horizontal level which is a losing battle considering how established their competitors are.
+
+# Why Upstart is Different
+
+Upstart is self described as an AI Lending platform. Importantly, Upstart is distantly not structured as a bank and simply models creditworthiness and then originates loans for partnering banks. These loans are then either held by partner banks or sold to other investment firms like Morgan Stanley or Goldman Sachs. Only 2% of loans for FY 2020 were held on Upstarts books. This is different from Lending Club/Tree and SoFi which securitize loans and sell them to investors. Ultimately this significantly reduces risk from holding loans on book and origination costs.
+
+&#x200B;
+
+**Technological Moat**
+
+The primary value proposition lies in the AI models used to gauge creditworthiness especially for borrowers with short credit histories. This segment of borrowers usually fall in the near-prime category (sub 660 FICO) which traditionally have high APR (15-20%). This is where Upstarts AI models particularly shine. Compared to other lenders across a sample pool of borrowers with varying FICO, Upstart was able to achieve lower Annual Loss Rates than peers, particularly in the near prime categories ([A full write up from HBS](https://digital.hbs.edu/platform-digit/submission/upstart-using-machine-learning-to-transform-the-personal-loan-experience/)). Upstart achieves these results by utilizing alternative data points like educational history and future earnings potential.
+
+&#x200B;
+
+https://preview.redd.it/c5fbvbrp1xk71.png?width=936&format=png&auto=webp&s=50469eec0caeee263cc26dffd7cd2ba387dfc5ae
+
+A traditional FICO based credit model ranges from 5 to 15 for a particularly advanced one. These are the models used by your typical banks and other FinTech lenders. FICOs have largely remained unchanged since the 1980s and recently have come under question as an efficient estimation of creditworthiness, specifically for minority and certain geographic groups. There has been an effort to improve data science capabilities within banks but Silicon Valley level data processing hasn't been achieved by any contemporary lenders.
+
+Upstart has grown its models to factor over 1600 variables and benefits from a network effect. More training data leads to more efficient default estimates. To date, Upstart has logged over 10.5 million repayment events which yields almost 17 billion data points.
+
+[Network Effect](https://preview.redd.it/g4qalbgt1xk71.png?width=866&format=png&auto=webp&s=cdf0e915bae9c675dd81e4b8dead0f4228bd2b19)
+
+In 2019, the Consumer Financial Protection Bureau (CFPB) found within the same pool of borrowers, Upstart approved 27% more borrowers at 16% lower APR than traditional banks. Moreover, at the same loss rates, Upstart models were able to approve 2.7 times as many borrowers. At the same time, for pools of securitized loans, Upstart outperformed ratings agency predictions for default rates by half.
+
+This is Upstarts Zero to One leaps. They've built technology that operates more efficiently than any industry competitor. Building from this technological advancement, they've been able to expand horizontally over the last year with revenue +1018% YoY and transaction volume up +2315% YoY.
+
+Our little chart from before looks much better with a clear path and momentum toward that ideal position.
+
+https://preview.redd.it/inffdexv1xk71.png?width=1757&format=png&auto=webp&s=95e6b7fa03faf027f7d54930267070f8fdef469b
+
+The horizontal scalability of Upstart is virtually limitless. In 2020, Upstart originated only 5% of unsecured personal loans. Consumer lending as a whole is significantly larger than this segment too.
+
+**Solid Financials**
+
+I'll keep this short because this shit is boring but the financials for Upstart are actually very solid and gives Upstart better optionality and ease to grow its operations. 10-Q linked.
+
+Snapshot of [Q2 Filings](https://ir.upstart.com/node/6991/pdf)
+
+* $193.9M Revenue +1018% YoY (+60% QoQ)
+* $59.5M Adjusted EBITDA +201% QoQ
+* $0.39 EPS +255% QoQ
+* $157.7M Operational Expenditure +49% QoQ
+* $617.5M Cash on Hand +84% QoQ
+* $716.1M Net Assets +123% QoQ
+* [0.8 Debt/Equity](https://simplywall.st/stocks/us/diversified-financials/nasdaq-upst/upstart-holdings)
+* $2795M Transaction Volume +2315% YoY (+69% QoQ)
+
+Important is the positive EPS, Exponential revenue growth and transaction volume along with positive net revenues which outpace OpEx outlays.
+
+**ESG View**
+
+If you haven't noticed, ESG (Environmental, Social, and Corporate Governance) is the new buzzword investing strategy on Wall Street. It's a really just a platitude but regardless in the last five years, inflows to ESG funds have increased fivefold. The premise is to invest based on a companies sustainability and societal impact. **Essentially, does this make society better?**
+
+Upstart is a compelling case because of it's potential to disrupt credit markets for borrowers from low income, low FICO, or minority groups. From a value perspective, their models allow safer investment in these traditionally higher risk lending segments thus it is possible to expand credit availability and investment in traditionally underserved markets with a better rate of default. This segment is were Upstart is able to create blue for both borrowers and importantly shareholders. Traditional lenders are considerably less efficient in these segments in terms of APR offered and default risk and therefore less competitive.
+
+Secondly by increasing access to credit for these borrowing pools with more amicable terms, Upstart is able to improve economic efficiency and hopefully improve future economic outcomes for participants. Moving in this direction, Upstart just launched a Spanish language version presumably to target Latino markets. This segment has been mostly ignored by traditional banks but makes up a larger subset of millennial borrowers who are also more likely to utilize Fintech lenders for a personal loan.
+
+Long term I'm very excited about the technology and disruptive prospects.
+
+**Positions:**
+
+Leaps way OTM. Expansion of extrinsic value on those has been insane over the last month. Higher strikes should be offered sometime soon.
+
+Not sure about a short term play since premiums are high as fuck.

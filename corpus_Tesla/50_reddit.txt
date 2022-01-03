@@ -1,0 +1,61 @@
+#**Introduction**
+The world of finance is absolutely filled with people making claims about what’s good or bad, how you should or shouldn’t do something, and what you can and can’t achieve. My goal is to take a look at these claims, spend some time researching them, and then share what I’ve found. I’m going to investigate various strategies, ratios, indicators, portfolios, and general market concepts with the goal of determining which ones are just noise and which ones might help you get ahead. 
+
+
+This is the first in a series I’m calling Ratio Review where I will be taking a deep dive into various popular fundamental metrics such as price to earnings, price to book, and return on assets. I will start by giving a brief description of how you calculate the metric, followed by how it is typically used, followed by how it should be used, and most importantly, if it gives you any kind of advantage when selecting stocks. Let’s kick this off by talking about arguably the most popular fundamental ratio out there – price to earnings. 
+
+
+#**What is P/E?**
+Let’s say a company’s stock costs 10 dollars, that there are 100 shares in existence, and that the company earned a total profit of 50 dollars this year. The price to earnings ratio, or P/E ratio, is calculated by dividing the current share price by a company’s earnings per share. Well, what is earnings per share you now ask. Earnings per share is calculated by taking a company’s profit and dividing it evenly amongst all shares. The earnings, when divided by the number of shares, results in 50 cents of profit a piece. Now to calculate the P/E ratio you simply divide the price by this number, which is 10 divided by 0.5, which results in a P/E of 20. 
+
+
+So, is 20 good? Bad? It’s complicated!
+
+
+#**Is P/E useful?**
+If you’ve ever looked at any article, video, or strangers comment on the internet that’s talking about the price to earnings ratio you will almost always hear the same thing. BUY when the P/E is low, AVOID when P/E is high. This is by far the most common discourse and unfortunately is a great oversimplification. 
+
+
+Some sources you’ll see will take this one step further to say that you should buy stocks with a low price to earnings ratios within their own sector, because different sectors have naturally different average P/E ratios. For example, the financial sector currently has an average P/E of about 23 whereas the technology sector currently has an average of about 37. This is a big step up from the last piece of mediocre advice, but it is still missing a relatively important detail.
+
+
+Let’s take a step back and look at what a P/E ratio is describing. When you read the fraction it’s “price to earnings ratio” but you could say that it’s a “price for earnings” instead. You’re essentially buying the company’s current and future earnings. In our example above the stock had a P/E of 20 which means it would take 20 years of earnings at the current rate to get your money back. Just to make sure this is clear the earnings per share amount isn’t actually paid back, it’s not a dividend, it’s simply the company’s profit which is most likely going to be reinvested into the company which should raise the price of the shares.
+
+
+With the idea in mind that you’re buying the company’s earnings it might make sense why it’s hard to compare a new fast growing company with an old giant one. The share prices are factoring in different things. The company that is expected to grow has more uncertainty but also potentially more room to exceed expectations. The other is less concerned with growing and more concerned with maintaining its current market position which often includes its dividend payouts. The P/E ratios of these companies will reflect these differences with faster growing companies having much higher ones. This is why you shouldn’t blindly use P/E even within the same sector. You are far more likely to end up with mostly older companies with less room to grow. These companies may be safe picks, but it is unlikely they will outperform a portfolio with a mixture of new and old companies.  
+
+
+#**Real Application**
+I’ve spent this whole time shooting down price to earnings as a metric because it’s frequently misused and misrepresented, but now let’s talk about where it should be used and if it adds value. It should be used as a data point. It’s not ever going to be a buy or sell signal on its own, but it can be used to compare two companies who are at similar stages of growth in similar industries. Let’s use automotive companies as an example.
+Comparing Tesla to Ford using their P/E ratios is a little bit senseless because while they are within the same industry, they lie on opposite ends of the growth spectrum. Tesla sits at an insanely high P/E of about 550 whereas Ford’s is a modest 10. This shows that people have a lot more confidence in Tesla’s future earnings and growth potential than they do in Fords. This is one way to classify Tesla as a growth stock and Ford as a potential value stock and while value stocks have tended to outperform growth stocks on average this gives little indication as to whether Ford is a good value stock or not. If you were looking to add an automotive company to your portfolio and were comparing Ford to General Motors, which has a P/E of about 9, this would be a data point you could look at. You’ll see that these very similar companies have very similar P/E ratios. If you were comparing them and found that GM actually had a P/E of 20 you might give Ford a positive data point in your search for the best value automotive stock. 
+
+
+#**Does P/E work on the entire market?**
+So that’s how you would consider the price to earnings ratio when looking at individual companies, but can you use it to look at the entire market? Evidence leans towards saying yes, at least in the past. The paper titled “The P/E ratio and stock market performance” was published in the year 2000 before the dot com bubble popped when the market P/E was far above average. It looks at historical evidence and finds that when the market as a whole has a high P/E ratio the next decade underperforms on average. Hindsight shows that this is exactly what happened with two devastating crashes happening in the next 10 years and returns being negative overall during this period. 
+
+
+However, it also makes a series of compelling arguments for why P/E ratios might start to naturally increase in the future. Some of these reasons include people having longer time horizons which lessens the risk of investing, low cost index funds have gotten even lower cost, and the barriers to investing have gone down dramatically. As of 2021 anyone can use a variety of brokerages for free from their phones. All of these things increase the number of people investing which increases the amount of money being put in the market which drives up the stocks prices but doesn’t necessarily drive up the company’s earnings – hence, a higher natural P/E ratio. With 20 more years of data, it appears that this is exactly what’s happening although there’s no guarantee that this will remain.
+
+
+#**Conclusion**
+P/E ratios have remained one of the most popular fundamental analysis tools for decades and with popularity often comes misinformation. When something is faster to say and more simple to remember like “Buy stocks when P/E is low” you lose some of the context and details that make it an effective tool. That being said, P/E seems to have earned its popularity. Every paper I looked into that covered the long term seems to agree that P/E can be used to make smarter investment decisions if it's used to compare similar businesses within the same sector or industry, even if just slightly.
+
+
+###**TLDR**
+A low price to earnings ratio can be shown to provide superior performance, at least historically. Ideally it should only be used as one of many data points when selecting a stock and should only be used to compare similar companies in similar industries. 
+ 
+
+###**Mild subreddit self-promotion:**
+If you enjoy these kinds of posts I created my own subreddit r/FinancialAnalysis where myself, and eventually others, will be doing this style of research. 
+
+
+#**Papers on the subject**
+
+* Great overview of P/E:
+    * http://www.growingscience.com/ac/Vol3/ac_2016_24.pdf
+* P/E might work on a market wide level:
+    * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.196.7397&rep=rep1&type=pdf
+* P/E is effective:
+    * https://www.clutejournals.com/index.php/JBER/article/view/8380/8404
+* P/E is effective on long time frames (> 5 years out):
+    * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1040.7284&rep=rep1&type=pdf

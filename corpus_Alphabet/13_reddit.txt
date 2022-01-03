@@ -1,0 +1,78 @@
+All duplicates were removed.
+
+People are definitely buying puts, but if you look at them they're retarded.
+
+UPDATE: this is all plays for the past 24 hours, the number next to it is the amount of times it was commented
+
+~~~~
+--------------------
+CALLS
+--------------------
+BA 4/9 200c: 1
+CCRN 10c 6/19: 1
+MAR 100c 4/3: 1
+MRO 5c 01/22: 1
+MSFT 4/20 200c: 1
+PALM 420c 4/20: 1
+SPXS 42c 4/20: 1
+SPXU 35c 04/17: 1
+SPY 269c 4/20: 1
+SPY 280c 5/1: 1
+SPY 3/31 260c: 1
+SPY 300c 4/17: 1
+SPY 350c 4/17: 1
+SPY 369c 4/20: 1
+SPY 4/3 300c: 1
+SPY 400c 4/3: 1
+SPY 420c 4/1: 1
+SPY 420c 6/9: 1
+SPY 500c 4/3: 1
+SPY 6/9 420c: 1
+TEST 4/20 69c: 1
+UNEMP 4/17 10000c: 2
+WATR 69c 4/20: 1
+--------------------
+PUTS
+--------------------
+AMZN 4/3 1640p: 1
+CCL 5p 1/15: 1
+DIS 75p 4/29: 1
+DIS 80p 4/17: 1
+EWZ 24p 4/09: 1
+FAS 30p 7/17: 1
+INDA 21p 4/17: 1
+INDA 23p 4/17: 1
+IWM 4/17 85p: 1
+NWCL 9p 4/24: 1
+QQQ 5/1 170p: 1
+RELLA 5p 4/1: 1
+SPY 130p 4/24: 1
+SPY 140p 4/15: 1
+SPY 180p 6/19: 1
+SPY 190p 4/17: 1
+SPY 200p 4/06: 1
+SPY 200p 4/17: 4
+SPY 200p 5/15: 1
+SPY 210p 4/17: 1
+SPY 215p 3/30: 1
+SPY 220p 4/17: 2
+SPY 220p 4/24: 1
+SPY 230p 4/15: 1
+SPY 230p 4/1: 1
+SPY 230p 5/15: 1
+SPY 231p 05/15: 1
+SPY 241p 5/15: 1
+SPY 257p 3/31: 1
+SPY 4/17 250p: 1
+SPY 4/20 240p: 1
+SPY 4/3 230p: 1
+SPY 4/3 250p: 1
+SPY 420p 6/19: 1
+SPY 5/1 200p: 1
+SPY 5/15 180p: 1
+SPY 5/15 200p: 2
+SPY 6/19 20p: 1
+SPY 60p 9/18: 1
+SPY 75p 05/31: 1
+ULTA 4/17 100p: 1
+~~~~

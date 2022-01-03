@@ -1,0 +1,31 @@
+According to latest SEC filing, Palantir (PLTR) insiders have sold over 4 million shares between 8/20 and 8/24. Assuming the average selling price of $24 /share, this amounts to almost $100M.
+
+Here is the breakdown:
+
+Alexander Karp (CEO): sold 2,891,887 shares (roughly $69.4M)
+
+Shyam Sankar (COO and Executive Vice President): sold 585,330 shares (roughly $14M)
+
+Stephen Cohen (President and Secretary): sold 345,018 shares (roughly $8M)
+
+David Glazer (CFO and Treasurer): sold 201,190 shares (roughly $4.8M)
+
+Ryan Taylor (Chief Legal and Business Affairs Officer): sold 83,061 shares (roughly $2M)
+
+To put it into perspective, the avg trading volume of PLTR is roughly 44 million shares. Given the amount of selling is quite significant especially when it came from c-suite executive, I think it's worth to share the news.
+
+Some people said they did it to pay taxes. Some asked why can't they just borrow money (using the shares as collateral) to pay off taxes (Elon did that. And interest rate is ridiculously low right now)? Some said they wanted to buy a fixer-upper condo LOL.
+
+FYI, PLTR has a float of 1.53 billion shares.
+
+[https://www.forbes.com/sites/jimcollins/2018/05/18/musk-has-heavily-leveraged-his-holdings-of-tesla-while-teslas-financial-leverage-has-jumped/?sh=446fce877099](https://www.forbes.com/sites/jimcollins/2018/05/18/musk-has-heavily-leveraged-his-holdings-of-tesla-while-teslas-financial-leverage-has-jumped/?sh=446fce877099)
+
+[http://archive.fast-edgar.com/20210824/A5ZIR22C3Z22O2H222JL2MZ2W73PZ22SY232/](http://archive.fast-edgar.com/20210824/A5ZIR22C3Z22O2H222JL2MZ2W73PZ22SY232/)
+
+[http://archive.fast-edgar.com/20210824/AUZ2R22C3Z22U2H222J32MZ2NA9MV22SY232/](http://archive.fast-edgar.com/20210824/AUZ2R22C3Z22U2H222J32MZ2NA9MV22SY232/)
+
+[http://archive.fast-edgar.com/20210824/A3Z8322C3Z22A2H222JC2MZ2NPQDZ22SY232/](http://archive.fast-edgar.com/20210824/A3Z8322C3Z22A2H222JC2MZ2NPQDZ22SY232/)
+
+[http://archive.fast-edgar.com/20210824/ABZSJ22C3Z22C2H222J92MZ2TGLOZ22SY232/](http://archive.fast-edgar.com/20210824/ABZSJ22C3Z22C2H222J92MZ2TGLOZ22SY232/)
+
+[http://archive.fast-edgar.com/20210824/ANZZD22C3Z22R2H222J52MZ26IQNZ22SY532/](http://archive.fast-edgar.com/20210824/ANZZD22C3Z22R2H222J52MZ26IQNZ22SY532/)

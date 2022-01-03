@@ -1,0 +1,25 @@
+&#x200B;
+
+https://preview.redd.it/63yxovjq6dm71.jpg?width=2048&format=pjpg&auto=webp&s=e5e1507d8259cbc4fad3d4644f2732ef85d1acab
+
+Original post: [https://www.reddit.com/r/wallstreetbets/comments/pd45fl/mvis\_bet/](https://www.reddit.com/r/wallstreetbets/comments/pd45fl/mvis_bet/)
+
+For those too lazy to click, Microvision (MVIS) offers the best in class lidar solution for both ADAS and eventually autonomous driving, addressing SWAP-C (size, weight, power, cost), and Tier 1 / OEM requirements.
+
+All other lidar companies at present have major hang ups with SWAP-C, eg: Luminar is based on SW-IR 1550nm which uses exotic and costly raw materials (InGaAs) for both laser generation and reading signal, this is why Luminar acquired OptoGration to help bring cost down, unfortunately for them they're still several orders of magnitude over materials used for 905nm which Microvision uses.
+
+There's flash based systems, spinning buckets, etc, the point is Microvision figured it all out, this is what they've been doing for the last 20 years (laser beam steering), they make the light engines for the Microsoft Hololens 2 and IVAS units, they're not some shit based SPAC with a twenty year old CEO issuing insane shares to himself. I will say though, Microvision has had POOR revenues for essentially forever, they're just now getting royalties from their work with Hololens and IVAS finally, they're turning over a new leaf and that is what makes this a good opportunity and BET, the market believes they're overvalued right now, once they sign one partnership for lidar the market will correct.
+
+Which brings us to today, the IAA Mobility show in Germany is currently taking place and for the first time Microvision is publicly showing their family of lidar units and specs. The cat is getting out of the bag and coincidentally the whole general market AND lidar sector has taken a big shit, so right now is a great entry point. For those that bought weeklies, we're probably toast.
+
+Here's video of live footages taken from various lidar booths during IAA: [https://www.youtube.com/watch?v=Bsrp3QQ-Abg](https://www.youtube.com/watch?v=Bsrp3QQ-Abg) (notice the difference in resolution between people standing / walking)
+
+Unless there's a big upswing in volume for the entire lidar sector very soon I would not buy weeklies but either get shares or buy cheaper OTM LEAPs.
+
+Another thing to note, the company doesn't talk about it's augmented reality (AR) / near eye display (NED) vertical anymore, despite Microsoft just getting awarded a $20bn contract for IVAS and MVIS receiving royalties, the CEO on the last few ECs has mentioned automotive lidar as their primary focus. Interestingly Drew Markham was added on as general counsel several months ago and her experience is in M&A and transferring of IP. I'm speculating that the AR vertical is currently in the works of being sold off to Microsoft.
+
+I'll add comments later for other tidbits of DD, I should get back to work right now.
+
+Positions:
+
+https://preview.redd.it/f6jpncvw6dm71.png?width=1069&format=png&auto=webp&s=2a7eca7bafa3737ba33fe74f0f222748a3175370

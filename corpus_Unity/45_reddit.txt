@@ -1,0 +1,87 @@
+Disclaimer: I posted a [$17k yolo on ZNGA](https://www.reddit.com/r/wallstreetbets/comments/lw3ts3/17k_yolo_znga/) and bumped it up to $27k total yesterday.
+
+While everyone was crying about the market taking a shit and RKT crashing ([I was crying too](https://www.reddit.com/r/wallstreetbets/comments/lx7mlz/rkt_12k_114k_17k/)) it was announced ZNGA acquired a game studio, [Echtra Games](https://venturebeat.com/2021/03/03/zynga-acquires-diablo-co-creators-echtra-games-in-expansion-to-pc-and-consoles/), whose creator and his team played a pivital role in Diablo/Diablo II. They were acquired with the goal to help Zynga move into PC/cross-platform game play. I think this is a promising acquisition with lots of future potential and is just [one of many planned for this year](https://techcrunch.com/2021/02/10/zynga-q4-earnings/).
+
+The CEO of Zynga also spoke at a conference with Morgan Stanley today. Below are some excerpts he said during the call that I found interesting .
+
+&#x200B;
+
+**Well known established global IP + data driven iteration + proven game mechanics =** 🚀
+
+>We like to learn from what we've done before. And in the case of Harry Potter that was a big element of it. One of the things that we learned was we needed an intellectual property in a world that was appealing to a much larger audience and a much more global audience, so that a lot of the cool game play features that we had could reach a bigger audience. So we combined a new IP with some proven mechanics that we'd been messing around with. And then we tested it for a very long period of time and test markets. That's really the structural difference between mobile and console.  
+>  
+>In mobile, you can really test market something to remove a lot of the introduction risk. And so with Harry Potter that was something that we did as we went into whether it was Australia or Canada, we were testing very specific elements of what makes for a successful game. Does it retain? Does it engage? What's the conversion rates? Does the UA scale against what the cost of acquisition is? And so, we thoroughly put Harry Potter through its test marketing phases. And what we're really excited about was first and foremost the reception from fans was phenomenal.  
+>  
+>We saw - the ratings were very strong. The Harry Potter fans were raving about it. It went really viral. We did some fun stuff with Zayn Malik. And it really had really a lot of nice momentum out of the launch. But then when it started to hit weeks 14, 30 and beyond, all the testing that we had done about what were the retention rates engagements, we were exceeding them. So it was actually really positive to see that the test marketing worked and that was a critical part of the success here.
+
+The Harry Potter IP is a money machine. If you can integrate the game mechanics that get people to continually make micro transactions, or spend hours playing, combined with a raving fan base of an established global IP, imo this is going to print money for them.
+
+The Harry Potter game was [launched on Sep/23](https://investor.zynga.com/news-releases/news-release-details/zynga-launches-harry-potter-puzzles-spells-worldwide). I think we could see a lift in revenue in the coming quarters from this game.
+
+&#x200B;
+
+**2 Upcoming Game Releases in the First Half**
+
+They're targeting 2 new game releases in the first half "Puzzle Combat" and "FarmVille 3".
+
+**On Puzzle Combat**
+
+>So as we think about releasing Puzzle Combat in the first half, I wouldn't necessarily set the expectations that this is a theatrical movie model where it's - a Marvel movie that comes out at summer and it's got this huge spike. That's not at all the model here, right. We're in this for the long-term. This is a marathon, not a sprint. And so, we're going to be releasing the game, see how it settles in and then very methodically start acquiring based on what we're seeing in the dynamics and the metrics.
+
+**On FarmVille**
+
+>And, there are a lot of fans that have tens of millions, if not hundreds of millions of people had played FarmVille over the years. And when we think about all of those fans and what their expectations are and how to bring them into a new experience, we’ve doing a lot of testing. We’re also running a bunch of FarmVille games right now, whether it’s Country Escape or Tropic Escape, which has a very big fan base and they love the game.  
+>  
+>And so it’s a little bit more complicated to navigate some of the pre-set expectations, but what we’ve done is really build out a terrific new experience and experience that is unlike LA. It has things that are familiar to people that have played FarmVille in the past, but it’s got a lot of unique new elements to it, and a new look and feel that feels very modern and very cutting edge for what we believe mobile games really are these days.
+
+Puzzle Combat is more of a long play, and I like these types of strategies mixed in with shorter term plays. Zynga seems to have a healthy balance of this, which I really like.
+
+What I think Zynga does well is tailoring their games to the fan base. I think FV3 is going to be a fresh reboot of the beloved game by its fans with new elements to keep users engaged.
+
+&#x200B;
+
+**Expansion into cross-platform gaming**
+
+As mentioned, they acquired Echtra to boost their expansion into cross-platform gaming. Unrelated to the acquisition, one of the first cross-platform titles later this year will be Star Wars Hunters.
+
+&#x200B;
+
+>Yeah. I think if you take a step back and look at the industry overall, some of the largest franchises in the world right now are cross-platform, and they’re free to play in many cases with seasons passes and things like Fortnite, Pub G, Engine Impact, a lot of people have been talking about how the console developers getting into mobiles the thing. Well, I think that door swings both ways. I think mobile developers can actually step into the cross-platform mega franchise part of the market, because of a few reasons.
+
+&#x200B;
+
+Regarding the team they acquired:
+
+&#x200B;
+
+>I think the last point I’d make on cross-platform is that. We’re just getting started in this. So the acquisition of Echtra is really a key one for us, because ultimately game quality is a function of game team talent and leadership. And when you look at these guys, they’ve worked on RPGs for up their whole careers. They’ve worked on Diablo, they helped to create Torchlight, which is a fantastic IP and the action RPG category. They’ve actually published games cross-platform. It’s a team less than 50 in San Francisco right near our shop.
+
+I think if the launch of Star Wars Hunters goes well in the second half of the year then I think it's possible we see a nice upward movement on the price.
+
+&#x200B;
+
+**Becoming a first party ads platform cutting out third party platforms like Google/Apple**
+
+&#x200B;
+
+>...mid-point the last year, we started looking at the fact that we were one of the premier advertisers in gaming. All of our games are enabled for IAP and IAA. But between the time that they saw an ad and they ended up in our game, we had it was kind of opaque, right. We worked with other parties – other third particles or use other third-parties like, Iron Source or Unity app and Google, Facebook, and the third-parties were handling a lot of the information and a lot of the acquisition. And then we looked at our first party data asset, which is the data that we were generating around what a player was doing inside of our games.  
+>  
+>And that was tremendously valuable, but we were missing that piece of it. And so when we looked at it, we said, wait a second. If we do a couple of things here, we can capture the 15% to 30% we’re paying partners right now, just to manage the exchanges. We would get more information about what’s hot, and what’s not at the top of the funnel in terms of what’s appealing? What’s not appealing? What companies or products are doing better and why? We would be able to creatively optimize our products better. We ended in a post IDFA world that would all become first party data. The big issue with privacy is what is one party exchanging to another party about an individual, right? But if you enter one network and you have a good exchange of what your permissions are, you carry through that whole process in a high fidelity way from a data standpoint.  
+>  
+>And so when we looked at it from multiple directions, we're like, wow, we can margin expand, we can pick up more efficiency in our UA dollars and in our advertising business. We could grow our advertising business faster and we could generate potentially a competitive advantage and information superiority, just knowing more about the players coming into our walled garden or into our platform than the next guy.  
+>  
+>We felt like this was something that we could go after. We went through a very diligent process of breaking down what these look like. And we found that some of these components we could build, some of these components we need to partner on and in addition to that in ad tech, there's a lot of - there's really a lot of vibrant companies and opportunities out there to potentially partner as you've seen from recent development.  
+>  
+>So when we think about where we were as a company, we were a mobile pure play developer and publisher and we felt that that is a really valuable company, but we thought that we could become an even more valuable company by building out our platform by starting to grow our total addressable market by getting into consoles and PCs, and then leveraging this unique asset and hyper casual to really supercharge the platform as well as get us into a place where we're seeing more information coming into the top of the funnel and then converting them into players and ultimately payers."
+
+This really sticks out to me. Zynga was 1 step ahead from the new pivot by Apple/Google on stronger ad tracking privacy. They're becoming the ads exchange where companies pay for displaying ads in games. This also gives them an advantage on learning what's working for others and apply that to their business model.
+
+[Here's a bite sized](https://www.reddit.com/r/wallstreetbets/comments/ljywic/znga/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) DD u/jojofroyo did.
+
+Disclaimer: This is not financial advice. I am not a financial advisor. Do your own research.
+
+Positions: $27k with various calls throughout the year. I think they could have a great ER to justify a new target price from analysts, so went with a higher strike price after their next ER.
+
+&#x200B;
+
+https://preview.redd.it/ou0ssust3yk61.png?width=770&format=png&auto=webp&s=6428b78f70093d7da7337952a6fe46bf0200a9a1

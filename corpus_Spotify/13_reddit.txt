@@ -1,0 +1,31 @@
+The current narrative of real estate tech companies Zillow, Redfin, and Opendoor is that these companies are learning to efficiently monitize their (relatively recent) business of home flipping. This 'iBuying' of houses, where a home owner can sell directly Zillow, Redfin, and Opendoor, has some synergy with other revenue streams in the home-sector, such as mortgage lending, moving, renovations, renting, and insurance. 
+
+A break-down of home flipping at scale, essentially: a home owner wants to sell his house, but doesn't want to get bogged down in the process of selling the house (fixing, renovating, countless showings to strangers, sentimental issues, bank stuff), so they \*one-click\* (probably a handful of clicks, but not many) sell their house to a RE-tech company at an agreed upon price. For the three RE-tech companies I listed above, their iBuying service is only available in a few markets---like 20, 25 cities with predictable home price trends. Places like Arizona, California, Texas.
+
+Rich Barton, Zillow CEO / Co-Founder (who is a long-time tech badass, and like Musk and Dorsey has founded at least three companies with multi-billion dollar valuations---which puts him in a special class), said on the last earnings call that the target margin on their iBuying business is +/- 2%. This is a new business, and the dynamics are being tested out, but it looks good, he said. Getting the sale on their platform means more than the 2% gain (or loss) per each individual house because they can offer other products, like a mortgage or a listing advertisement. The house price itself is only one element of the whole Real Estate 2.0 vision.
+
+The competition between Zillow, Redfin, and Opendoor might play out like that of UberEats, DoorDash, and Grubhub, where each company is burning a lot of money by making their apps better and their products cheaper. But in the case of RE-tech companies, one is not like the others. 
+
+If you compare the profitability of the three big RE-tech companies, the one that stands out is Zillow. They are the clear leader when it comes to home searches, and that top-of-funnel does give them an advantage home flipping in the same sort of way as Google or Amazon having the advantage in their own search results. 
+
+&#x200B;
+
+[Zillow showing 3 quarters of Positive Operating Income](https://preview.redd.it/1dl4bwityp971.png?width=1331&format=png&auto=webp&s=6e53cb8c9be2ac6952aa7290de8b34644e08b05a)
+
+Operating Income means revenue minus the costs of running the business. This is a super foundational aspect of a real company: can they make any money selling stuff. To note: the 3 quarters of positive operating income we see at the recent end of the chart set up Zillow (Z) for 4 quarters of profitability, which is required for inclusion into the S&P500 index---index fund managers need to buy a proportion of shares of any company that is included in that index, boosting its stock price. 
+
+Using Hypercharts, I wanted to compare other industry leaders to see what kind of operating income was normal for a growth company. The graph turned out to be pretty surprising:
+
+&#x200B;
+
+[A profit comparison of Zillow, Spotify, Snap, and Square](https://preview.redd.it/qakuuqoa1q971.png?width=1331&format=png&auto=webp&s=68d3ff70b5f087d4e0a9a27bfabf24df24a7b4ca)
+
+The crazy thing is: Zillow makes more money selling products and services than Square, Snap, or Spotify, which are all close to $100B in market cap, while Zillow (Z) is only $30B, three times less. Again, the operating income is what we would call the *money these companies make*\---it's the size of the checks they are putting into the bank.
+
+&#x200B;
+
+This is only Part 1 of my DD. Please like for Part 2, which will look deeper into the financials.
+
+&#x200B;
+
+TLDR: Zillow is the market leader in Real Estate. iBuying could be competitive, but Zillow is already making a surprising amount of money.

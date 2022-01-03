@@ -1,0 +1,165 @@
+Hello, dear WSB, it's Roman here[,](https://imgur.com/a/zlXWOOh) it's been awhile!
+
+Some of you may remember me as a [triangles](https://www.reddit.com/r/wallstreetbets/comments/mrm6b5/like_a_beast_cornered_and_im_not_talking_about/) [lover](https://www.reddit.com/r/wallstreetbets/comments/mqt5qm/apemeisters_it_is_my_pleasure_to_present_you_the/), [SPY 🌈🐻 doomer](https://www.reddit.com/r/wallstreetbets/comments/mwevzz/the_big_short_20_why_bears_may_soon_reconsider/), [Meminem - Degen creator](https://www.reddit.com/r/wallstreetbets/comments/n2ifd1/happy_upcoming_10_mil_degenerate_wsb_heres_my/) or [the guy who got to CBS news](https://www.cbsnews.com/amp/news/amc-gamestop-meme-stock-rally-continues/) for the AMC TA with an [inverted MC Hammer and a bull humping a bear](https://www.reddit.com/r/wallstreetbets/comments/nfaizr/amc_looking_juicy_next_resistance_targets_1623/). Most importantly, I am the retard to make a GME bet a couple of months ago, where I would have [to shave my precious beard provided GME stonk shares don't reach thousands](https://www.reddit.com/r/wallstreetbets/comments/nc6qi3/lets_revive_the_buried_wsb_culture_gme_to/). It's August already, GME is still in lower hundreds, and I feel obliged to make my next move. After several weeks of thoughtful consideration and research, I have finally made a decision to...
+
+[Double down](https://imgur.com/a/zlXWOOh) on my bet, like any decent retard residing in this cozy place would do.
+
+But first things first, let's revise the original bet, [the underlying post and analysis](https://www.reddit.com/r/wallstreetbets/comments/nc6qi3/lets_revive_the_buried_wsb_culture_gme_to/).
+
+(I’m not a financial advisor, just a retard who enjoys writing big texts and making risky bets)
+
+&#x200B;
+
+# Chapter I. The short, the squeeze, and the ugly manipulation
+
+&#x200B;
+
+Ok, so a couple(ish) of moths ago I handcrafted that TA thesis (on which the beard bet is based) for GME price action and its potential move to lower thousands as the short squeeze progresses:
+
+https://preview.redd.it/5sldutzq33j71.jpg?width=2388&format=pjpg&auto=webp&s=361a46ce8b8d54a87703e2409bc1896e50c9ae15
+
+The thesis above was not a generic 'you are here' type of posts you got used to seeing occasionally here and there through the last half a year. Rather, it was a fair attempt to critically assess the stonk's technical setup through the prism of the two most famous SS historical examples:
+
+[VW](https://preview.redd.it/h7b6sm9t43j71.jpg?width=2388&format=pjpg&auto=webp&s=a1da13436e92326b0ec63688d81f39f17574acb8)
+
+[and TSLA](https://preview.redd.it/iz041qtv43j71.jpg?width=2388&format=pjpg&auto=webp&s=1174f413961be8903377068f5e41ce538f115f23)
+
+[The OC post and analysis](https://www.reddit.com/r/wallstreetbets/comments/nc6qi3/lets_revive_the_buried_wsb_culture_gme_to/) (which is still worth your reading, especially if you want to grasp this chapter of the post in greater detail) took me a lot of effort to produce, and I am still proud to have done this work, distilling the essential components of a short squeeze structure, and creating at least some sort of a framework to apply in cases like the current one. However, GME price during the summer did not follow the pattern, and particularly its most anticipated triangular 'Squieezluminati Confirmed' stage.
+
+[by Pink Floyd is one of my favourite songs](https://preview.redd.it/ncwwuqz253j71.jpg?width=2388&format=pjpg&auto=webp&s=188c089eeef5aeb0308614caba55c538e84ccbe1)
+
+Does it render the whole thing void? Well, that's what I've been thinking in August while morally preparing myself for the beard apostasy. But something didn't quiet fit, and I kept digging. Just to stumble upon this:
+
+[AMCSS, daily chart](https://preview.redd.it/58sg96eg53j71.jpg?width=2388&format=pjpg&auto=webp&s=5b9d97cdc553fe4645cd76576d26c8b0c73122ae)
+
+Looks familiar, doesn't it? Ladies and apemen, with a great pleasure I present you AMCSS, the timing of which is really similar to what I was betting my beard on in relation to GME. What happened to AMC during the summer actually proves almost every single point from my SS thesis. Firstly, the 'Purple Haze' level ($14.38) is the main resistance on the chart, and only when the breakout occurs, the SS unfolds. Secondly, 'Squeezy Grail' (the cup shaped consolidation) and the 'Runway' (rectangle) phases precede the squeeze impulse - that's where the buying pressure accumulates, to the point when it can no longer be suppressed. Next, interestingly enough, trend based Fibonacci periods grid allows to predict the peak date (vertical line marked as 1) extremely accurately, if the preliminary trend + the 'Squeezy Grail' phase are used as its core measurement (red dashed line). But wait, there's more! The 'Purple Haze' resistance is in between 1 and 0.786 Fibo levels (horizontal), while the retracement itself measures the amplitude of the SS impulse perfectly - e.g. take a look at how the price action retraces to 0.5 Fibo after the peak, or how the price consolidates in the channel of 0.236-0.382 after that. Well, the thesis fits almost perfectly to AMC - I hope you're now sitting like
+
+https://preview.redd.it/nltp4a1l53j71.jpg?width=550&format=pjpg&auto=webp&s=3e9489b7944a802185db6adc69121f72b4e546dc
+
+There are several minor deviations from the SS frameworks which should be mentioned too, though: the PH breakout occurs during 0.618 Fibo period, rather than 0.382, as it was in historical examples; the triangular phase doesn't really resemble a triangle. Notwithstanding those minor factors, original SS thesis is more than alive with the AMC example.
+
+You might be thinking now: what defuq is this crazy dude is talking about, where is the video of the beard shaved? Well, I'm providing the AMCSS analysis here in order to prove that my thesis is legitimate, and GME price action had to follow the pattern. GME and AMC are like brothers in arms, with 'similar' fundamentals, and through the major part of 2021 those two have been moving in tandem, strongly following linear correlation principle. The thesis structure (built upon TSLA and VW historical examples) indicates that there is the strong buying pressure accumulating, and in AMC example the lid was opened for a bit to let the steam out; while GME is still being suppressed even further during the current consolidation, and in my opinion - it is done artificially and purposely.
+
+Furthermore, take a look at this:
+
+https://preview.redd.it/44m2qp2q53j71.png?width=1880&format=png&auto=webp&s=e2c9f3297506328e1c0b4a5bd4f5cfa4105a29e8
+
+What you see above is the screenshot from [my other post](https://www.reddit.com/r/wallstreetbets/comments/nwub7d/gme_to_amc_and_bb_last_week_ladies_go_first_gme/), where I explained that two stonks had extremely similar technical setups: both have long-ass triangular consolidation at the core, which is subsequently broken out to the upside. Next, take a look at MACDs or TSIs from both examples, and particularly at what is highlighted by rectangles - zoom in and see for yourself, the structures are close to being identical. So, the question arises: why if two stocks have very similar fundamental and technical backgrounds, one is allowed to moon a little bit, while the other one is being knocked out each time right before the lift off should occur? The answer if fairly obvious, and it's because some big financial boys want things to go this way. AMC is something they can control, or maybe they even benefit from it’s price fluctuations. While GME is a Pandora box, and they try to keep its lid close for as long as possible, soothed by an illusion of a controllable chaos. And those suckers are ready to use any method to suppress the price, especially \*\*insert Aliens Guy meme here\*\*: manipulation.
+
+Apes from a friendly sub uncovered many such methods, like good old FTDs, married puts, OTC trades, wash sales, darkpools... I'm not going to discuss those things in this post, because there is a plenty of outstanding DD on reddit. I'm just going to borrow this picture from u/AutoDrafter2020 because it speaks for itself, in my opinion:
+
+[GME daily chart](https://preview.redd.it/klztgzo563j71.png?width=1614&format=png&auto=webp&s=9e54f3009eaafcd3c4aa5f4d04ef0779fe69803a)
+
+As you can see yourself, every major piece of fundamentally good news for GME has resulted in price suppression, and each of the dirty play instruments mentioned above played a role in this shitshow to one degree or another. The manipulation is so blatantly obvious that it makes me sick. Manipulating the market is not cheap, and probably costs fuckers on the other side of the trade millions, if not billions every month. Why would there be so much effort and resources put into the war over a ‘memestonk’? Is it so that they want some random noname reddit retard to lose his precious beard? The actual answer is shocking, and in my opinion it should be sought in two Greek letters, **σ (sigma)** and **β (beta**).
+
+&#x200B;
+
+# Chapter II. How 1987 and 2008 are reincarnating into 2021
+
+&#x200B;
+
+Pepperidge apes should remember that during one of the Gamestop congressional hearings Vlad 'the Stock Implaler' Tenev mentioned something about late January events falling into five-sigma category, which scientifically speaking corresponds to a p-value, or probability, of 3x10-7, or about 1 in 3.5 million. He also used such a hackneyed expression as a 'black swan' event. Quote from a [Bloomberg article](https://www.bloomberg.com/opinion/articles/2021-02-19/gamestop-hearing-robinhood-is-cool-but-is-it-out-of-its-depth):  
+
+
+>A “black swan” event — made famous by Nassim Nicholas Taleb in a best seller that parsed the role of randomness in finance and life — comes as a surprise, has great impact and later becomes rationalized away as easily explained or predicted. *Many things that appear to be black swans, however, aren’t unforeseeable and are merely classified as such to avoid responsibility for not spotting them ahead of time in the first place*. A “five-sigma event” is a statistical descriptor of something that occurs five standard deviations away from and on either side of the mean in a data set. It describes the odds of something happening, and in five-sigma territory the odds are long.
+
+Categorizing January craze as five sigma is debatable to say the least, because Gamestop shares started to skyrocket and multiply in price long before late January, and it doesn't take a lot of wrinkles to understand that the volatility should likely increase further, requiring additional collateral and somewhat decent risk management. However, I'm not going to discuss Vlad's choice of sacrificing Robbinhood users (disabling buy button) in order to protect the solvency of Robbinhood customers (Citadel and co), because that has been done enough times already, and the North remembers. Rather, Robbinhood example and Vlad's interpretation are provided here as a vivid illustration of the fact which we all feel deep inside: there is just too much risk in the market, it is being too much fucking over-leveraged so that even a fucking retail stock broker may easily get margin-called in a matter of hours. It is especially hilarious, considering the fact that unsophisticated actions of buying and holding a particular stock is enough to fuck the system, making the entire house of cards fall apart. The problem is that when you dive deeper, 2008 seem to be a blessing.
+
+For example, let's start from the easy difficulty, take a look at this chart:
+
+https://preview.redd.it/47plfcth63j71.jpg?width=910&format=pjpg&auto=webp&s=90c6f9cfa07676ce106f2f111b12a557f09fd8bc
+
+One of the major indicators of how the leverage is utilized is FINRA's margin statistics from its members (who carry margin accounts for customers), which FINRA publishes every month. There are several points of interest for us on the chart above. The first and the most important one is that margin dept has tripled after previous major bottom in 2009, from about $300 billions to almost $900 bn in 2021. Furthermore, take a look at how MD reaches the peak of $500 bn both in 2000 and 2007, and it's sufficient to send S&P into several years bear market with 50% retrace, as soon as the leveraging trend reverses. Currently, MD is on its way to trilly, the figure has almost doubled compared to 2000 and 2007. Sounds a bit GUHy, doesn't it? Also, looking at the margin debt before the .com bubble, 2007 financial crisis and Covid crash it can be seen that, each time, the margin contraction starts before the crash itself, making MD a leading indicator. And guess what? MD is down 4.3% in July, which is the first major decline in 15 months. Deleveraging is a painful process, but is necessary for markets’ health, and it seem to have already begun.
+
+However, this time it is going to be so much fucking worse. To quote a brilliant mind, u/Criand:  
+
+
+>2008 never finished. It was can-kicked and the same people who caused the crash have still been running rampant doing the same bullshit in the derivatives market as that market continues to be unregulated. They're profiting off of short-term gains at the risk of killing their institutions and potentially the global economy.
+
+I strongly recommend you reading his informative 2008 post in full, because it is a fascinating financial journey, through which you will learn a lot about how fuk the financial system really is right now, largely because of leverage. Imagine if r/WallStreetBets was a central bank. Fuck, this must be the most spot on metaphor I came up with in my entire life. Actually, it seems now that the entire financial world is one fucking giant WSB right now. And not in the good sense of its reputation.
+
+To quote another brilliant mind, u/peruvian_bull, whose series of posts has been peer-reviewed by an economics professor:  
+
+
+>The entire derivatives market is HUGE. The BIS estimated the total notional value of the OTC derivatives market to be $640 Trillion in 2019! And that doesn't even include exchange-listed derivatives like most common option contracts. More sober estimates put it somewhere north of $1 Quadrillion. Numbers of this size are hard to wrap your head around - this is equivalent to a million billion, or a thousand trillion- for reference, the US economy is around $22 Trillion and the world economy is estimated to be $88 Trillion - thus the entire world economy could fit into the notional derivatives market 11x over and STILL not reach it. Every single bank is exposed, either directly or indirectly, to this market. For example, Deutsche Bank ALONE has over $47 Trillion in Notional gross exposure - TWICE the size of the entire US Economy!
+
+[Wow](https://preview.redd.it/enhgxe0773j71.jpg?width=1668&format=pjpg&auto=webp&s=6839e329715d3c47d81048d7c21054b9f218b306)
+
+*Intermediate TL;DR: the financial market is sufficiently levered according to its risk tolerance, and we all know what comes after that:*
+
+https://preview.redd.it/2pb2k9qv63j71.jpg?width=358&format=pjpg&auto=webp&s=0fe0cfb61c4db4c8c26fc5a464b8f25319b6e59c
+
+This represents what Buffet called “A Time Bomb” in the market - as long as money flows in, the party continues. Once it stops, the Weapons of Financial Destruction are unleashed. As you may remember, something like that happened in 2008, when predatory lending targeting low-income homebuyers, excessive risk-taking by global financial institutions,
+
+[And when I leverage like x1.5, I GUH straight away, so unfair!](https://preview.redd.it/xct7amb273j71.png?width=1619&format=png&auto=webp&s=31b3738202cdc6b3cc7de9692d5b60643a906309)
+
+and the burst of the US housing bubble culminated in a perfect shitstorm. MBSs (Mortgage Backed Securities) tied to American real estate, as well as a vast web of linked to those MBSs CDOs, collapsed in value. As a result, financial institutions worldwide suffered severe damage, the GDP contracted sharply, the unemployment rates rose significantly, pushing millions of people into poverty - largely because some greedy bastards who had too much of financial power based on over-abused leverage and close to zero risk management made all the wrong decisions they could.
+
+Thanks God, they promised not to do that again!
+
+[The scene is from ‘Inside Job’ movie, a bright reminder of what’s going to happen again, soon.](https://reddit.com/link/pa03sf/video/1rflh5jy33j71/player)
+
+\*\*In Tyler’s voice\*\* So that was a fucking lie:
+
+[Sauce: OCC's quarterly report on bank trading and derivaives, Q1 2021](https://preview.redd.it/f9xgxitt73j71.jpg?width=2224&format=pjpg&auto=webp&s=3ccec798f35738ffb3435312c556fcd18646e6bd)
+
+The figures above provide the relatively up-to-date exposure of the the biggest commercial banks towards derivatives. Although, we shouldn’t expect that those numbers allow to calculate somewhat precise leverage ratios, inasmuch as many of these derivative obligations net each other out, rendering the real value of the debt to be a bit more modest (or maybe not, who knows what’s really going on OTC). What is safe to assume, however, is that based on the numbers above, the leverage ratio is still in double digits at least for the biggest and most systemically important banks. From the recent infamous Archegos example, we saw that playing with leverage-amplifying synthetic market instruments (total return swaps in Bill Hwang’s case) is like playing with matches - and it will almost certainly lead to dire consequences at some point in time. Poor Bill just was the first one to run out of luck.
+
+Another important factor to bear in mind, is that those professional financial ANALysts seem to follow a similar risks assessment approach that is used by an average WSB retard buying FDs. No, I’m not kidding, they literally stick to a bit more sophisticated version of a famous postulate: ‘Stonks only go up’. We are talking about VaR, or Value at Risk models. u/peruvian_bull managed to explain this complex stuff in a brilliant way in his series of posts dedicated to the highly probable upcoming financial market fiasco (fascinating reading - in this part of the series, 1987 famous crash is discussed and how derivatives and improper risks assessment exacerbated it):
+
+https://preview.redd.it/zfh3tjyk83j71.jpg?width=1507&format=pjpg&auto=webp&s=fb308013aac7d7c65f8cbf5130cf7a5d7abf2373
+
+>Even to this day, Regulators, and indeed even financial industry insiders, are completely blind to the risk. OTC Derivatives are essentially unregulated - NO ONE knows the true size of this market. Worse yet, the traders inside the bank are using optimistic versions of the Efficient Market Hypothesis and VaR models to estimate their risk, which comes out to essentially 0 due to the risk models and net exposure hedging. Thus, they pile on more risk every day, ensuring that this problem continues to grow - until the entire system explodes.
+
+  
+No wonder, that in such a financial environment as described above, cases like GME would be given a five-sigma label. The best analogy to describe current financial market conditions would be a castle made of sand, when one sea wave of a higher magnitude can easily crash the whole thing into the dirt; or a house of cards, when just one stronger blow of the wind will trigger a chain reaction and demolish it to the fundament. The current status quo is not self-sustainable, and very soon it will become also a not FED-sustainable. The markets have been artificially supported by the money supply expansion for too long, currently resembling a drugs addict, who can’t live without the always following stimulus “dose”. As soon as liquidity dries up for a brief moment (sucked in by some negative beta bad boy), or the FED blinks... I guess, we’ll find out really soon what happens then.
+
+To conclude and sum up the second chapter, quoting u/peruvian_bull again:
+
+>**As long as money keeps flowing into the Casino, the gamblers feel little risk, so no one pulls out. The Fed continues to print money, equity/bond prices continue to rise, and since there’s “no risk” of the underlying falling in value, everyone keeps their money in the pot, and the poker game continues.**  
+>  
+>**The profits made from derivatives trading are enormous, and any bank that stopped doing this would quickly lose investors, because they would instantly take their capital out and take it to another bank that actually is profitable. It's all a confidence game - as long as everyone is confident, prices keep rising, and the cash keeps pumping in, the party will continue.**
+
+# 
+
+# Chapter III. The Sword of Damocles (and the bet)
+
+  
+Well, here comes the party pooper, or it’s more appropriate to say, the party shitter:
+
+https://preview.redd.it/nw7vw0dk93j71.png?width=1860&format=png&auto=webp&s=7add7132ece80231f1451c88ba69ed3edd3878c7
+
+https://preview.redd.it/ebo8be5r93j71.png?width=1862&format=png&auto=webp&s=2d68afe9f815a7723b6058a24db193828b419282
+
+https://preview.redd.it/kqwqmy9t93j71.png?width=1860&format=png&auto=webp&s=1618e8580829574b8f3df117d5e837287e043405
+
+Connecting the dots: when there is too much risk in the system, it becomes less and less sustainable, so that potentially even a short but sudden and intense surge in volatility may demolish the whole house of ~~leverage~~cards. Anything may cause a fatal error in such a system, even an old man’s fart with the sigma of five. In our example however, it’s when crazy retail jumps on the hype train, and buys over-shorted stonk like there’s no tomorrow, things look like this:
+
+* GME shares added more than 500% in less than two days, showing off its negative beta in all glory,
+* making VIX volatility index explode more than 60% in a day,
+* and injuring SPY badly (sharp decline of about 4% in 21 hours).
+
+That was just a preview.
+
+Late January events are extraordinary, that’s for sure. But, you know, extraordinary things happen too, and it’s plainly stupid not to hedge in such circumstances, as Robbinhood did in this story. That was a vivid example of an extremely poor risk management, prevalent on the financial markets currently. This factor, coupled with the excessive margin exploitation (e.g. a fucking reported triple digits SI, dafuq?), will consequently result in the financial crisis, which is currently on its way (remember, crises love September and October).
+
+After a rather fascinating set of circumstances, GME situation seems to have become the needle to burst the bubble, that’s why big financial boys use all of their dirty tricks, flirting with an illusion of a controllable chaos. However, any manipulation has its end, and it is a double edged sword (of Damocles). The market will punish the bad actors, as it has always done so in the past - and the good guys will be remunerated. Again, GME is not the reason of the upcoming market crash, but rather a trigger, and in the current financial environment anything could work as a substitute. What was that quote from the ‘Butterfly Effect’ movie? Oh,  
+
+
+>It has been said that something as insignificant as the gases emitted from an anus of an old man can ultimately cause a financial typhoon all around the world...
+
+**Enough words and quotes. This is my bet: GME to thousands in a couple of months, while the new financial crisis unveiling, or I’m not only shaving off my beard (which I wasn’t really afraid of loosing, tbh, as it would grow back in a couple of months) but also this, my real treasure:**
+
+https://reddit.com/link/pa03sf/video/m0gwzvob43j71/player
+
+**And here is why I’m so confident in my bet and its timing:**
+
+[SPY daily chart](https://preview.redd.it/w51ks5l2b3j71.jpg?width=2388&format=pjpg&auto=webp&s=7c7374f9a4f3d991386a6fea8c6b66108354d8f4)
+
+I mean, SPY is cooked. What's outlined on the TA above is a massive bearish formation, ready to push the market off the cliff it has been climbing all this time. In my opinion, that's going to be just the first wave of the nasty downside movement, and a very sharp and painful one. Considering the longer term setup, explained [here](https://www.reddit.com/r/wallstreetbets/comments/mwevzz/the_big_short_20_why_bears_may_soon_reconsider/), and [here](https://www.reddit.com/r/wallstreetbets/comments/o0fjdb/this_time_its_different/), the technical (as well as fundamentals, as discussed above) conditions resemble the perfect storm brewing. Now, while it's all calm before that storm, enjoy the last sunny and warm days (and, maybe, it's a good idea to fix some profits, dunno). September and October will be fun. Especially for GME with its negative beta.
+
+[VIX daily chart](https://preview.redd.it/mcg9etbeh3j71.jpg?width=2388&format=pjpg&auto=webp&s=728359435209bdb792327427e3cea524528d6908)
+
+[GME daily chart, log scale](https://preview.redd.it/xbskfzdkh3j71.jpg?width=2388&format=pjpg&auto=webp&s=3c2451c6bc584e43f1497d8ca6acc141cb8e21d4)
+
+**TL;DR: My SS thesis and its core idea is more than alive with GME (proven by AMC example), and even though any major price action movement has been suppressed in an attempt to keep things under control by big financial players, the buying pressure is there and it's as strong as it has ever been. The financial system is over-levereged, way more than it was in 2008, and coupled with the industry poor risk assessment standarts ('average WSB retard'-like or worse), it is heading to the next financial crisis (and crashes love autumn). This factor, considering GME's negative beta, will likely trigger the next powerful bull run for GME, sucking in the liquidity from the fearful and already-illiquid markets, resulting in colossal volatility typhoon. Either that, or I'mma be completely bold this winter.**

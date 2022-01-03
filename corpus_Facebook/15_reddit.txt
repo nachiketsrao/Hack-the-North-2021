@@ -1,0 +1,124 @@
+# Not a gaming company
+
+SKLZ is a mobile tournament platform. Basically, they take competitive mobile games, and create some sort of tournament experience for those games with a prize pool. They provide this service through an API (application program interface). Basically, their product goes like this:
+
+1. They create the software for hosting tournaments with prize pools
+2. They offer the software to mobile game companies as an easy-to-implement solution
+3. Mobile game companies implement tournaments using their software
+4. They take a cut of the total prize pool every time a tournament is hosted with their software
+
+It is extremely important to note that SKLZ’s product is only this tournament software package. They do not develop any mobile games themselves and are entirely reliant on 3rd parties to choose to use their software.
+
+# The mobile gaming market
+
+Mobile gaming accounts for over 50% of all video gaming revenue worldwide. In the US, one of the largest gaming markets in the world, mobile gaming revenue reached \~$11B in 2020. It’s expected that the global share of mobile gaming will continue to rise even in relation to the rest of global gaming growth.
+
+https://preview.redd.it/gif44y4jbbk71.png?width=1170&format=png&auto=webp&s=f026cdb33eb7c4b70852ac0460c53b25315bd4aa
+
+&#x200B;
+
+In the US specifically, there has been an increased in global mobile gaming revenue share. Over the years, it has overtaken Japan as the largest mobile gaming market globally.
+
+https://preview.redd.it/rxlrp0jjbbk71.png?width=818&format=png&auto=webp&s=84a1c4fd8a085b76c82bb28e1a8a4c959485de16
+
+&#x200B;
+
+**Demographics**
+
+The demographics of mobile gaming has been rapidly changing over the years and, especially in the US, is no longer what one would traditionally expect. For example, children and young adults aged 16-24 no longer make up the majority of mobile gamers. In fact, over a third of all mobile gamers are aged 45+. Furthermore, while 66% of men play mobile games, 70% of women play mobile games. Market research into gaming and spend indicate that older adults spend both more money and time in video games.
+
+https://preview.redd.it/5y0ruixjbbk71.png?width=802&format=png&auto=webp&s=32f9cc844b6016c7d6c9d74f9186e94ade846203
+
+&#x200B;
+
+Thus, the most valuable demographic for mobile gaming is actually the female aged 45+ market.
+
+&#x200B;
+
+**Popular game trends**
+
+The most popular category of games is the “hyper-casual” games where users download ten times more games in that category than average. The most profitable mobile games in North America are actually puzzle games capturing 22% of the total North American mobile gaming revenue. AR (augmented reality) /Location-based games represent the smallest market in terms of North American revenue at (2.83%).
+
+https://preview.redd.it/n1h6pl8lcbk71.png?width=1170&format=png&auto=webp&s=6201cc14dacf5e0ad3b0b0f17020b04bd5659f55
+
+&#x200B;
+
+# Where SKLZ stands
+
+**The bull case**
+
+SKLZ is appropriately positioned to capture the correct demographic of gamers for the highest revenue. According to their 10-K, over 50% of their users are 45+ with \~10% of their users being aged 18-25. Furthermore, the majority of their users are women.
+
+Beyond that, gamers who use the SKLZ platform are spending more time on the game or other SKLZ games than on TikTok, Facebook, or YouTube. They spend over 3x the amount of time they would spend on a SKLZ game than an average mobile game!
+
+They are still on track for their India expansion which represents a massive injection of revenue possible. Furthermore, SKLZ is attempting to expand out of card games and into racing, shooting, and battle-royale type games as well.
+
+Lastly, SKLZ’s current per-user revenue has increased by over 60%. They are successfully monetizing their current user-base and increasing the amount of revenues they gain from that user-base.
+
+https://preview.redd.it/b01rfu6qcbk71.png?width=1160&format=png&auto=webp&s=e6d7dab72b2c11cd6c48f08593d3b7dfd802e5d8
+
+&#x200B;
+
+&#x200B;
+
+**The bear case**
+
+Most recently in Q2 2021, nearly three-quarters of SKLZ’s revenues comes from just 3 games: Solitaire Cube, 21 Blitz, and Blackout Bingo. In general, a handful of games has contributed to the majority of SKLZ’s revenues and this has remained consistent over the past 5 years! This represents a significant risk as it shows that SKLZ is not able to innovate away from its cash cows and as the mobile games grow out of popularity, SKLZ will not have any way to make up for lost revenues.
+
+SKLZ is paying record amounts of money in terms of customer acquisition through marketing. However, their monthly active users is actually dropping from 2020 to 2021. In fact, SKLZ has currently spent more in marketing than the previous year’s total revenues! Yet, they are losing users. This is extremely worrisome about SKLZ’s ability to continue their rapid growth.
+
+Lastly, SKLZ has currently only proven its market in a small segment of the mobile market. SKLZ, by definition of its platform, must operate in player vs. player games (one of the most unpopular categories of mobile gaming) which accounts for around 15% of the market. Furthermore, SKLZ has only proven itself in the arcade gaming market which accounts for 5% of North America’s revenue market. In general, SKLZ has only proven themselves in a sliver of the mobile gaming market.
+
+&#x200B;
+
+# The financials
+
+**Income statement**
+
+Revenue growth in SKLZ continues to be extremely impressive, doubling every year (and on track to double again this year).
+
+https://preview.redd.it/65x5svm2dbk71.png?width=1162&format=png&auto=webp&s=015cf3d5f5132c43e52a5849526dbeb3cae3696a
+
+&#x200B;
+
+However, we are also seeing marketing costs increase at more than the rate of revenues which is an extremely worrisome rate. Marketing has increased spend by over 100% per year and are on track to far exceed that this year.
+
+https://preview.redd.it/bnrj4r13dbk71.png?width=1180&format=png&auto=webp&s=07bfeccecfc9cd7d4b31181873ac2b9f231b0361
+
+&#x200B;
+
+This is especially worrisome as it means that SKLZ is spending more dollars in marketing than its receiving back because of the marketing. Also, because this is a multi-year trend, it doesn’t look like marketing is paying off even in the long term. As a result, SKLZ is losing money at an increasing rate every year.
+
+https://preview.redd.it/slwsiph3dbk71.png?width=1176&format=png&auto=webp&s=0b89b0a1d1b2d9f23fc86062135d9430a2249795
+
+&#x200B;
+
+&#x200B;
+
+**Balance sheet**
+
+SKLZ sports a decently healthy balance sheet. It has over $700M in current assets with only $125M of current liabilities. This leaves SKLZ with $575M of additional cash or other liquid assets to operate with. While this is a lot of money, SKLZ is on track to burn over $300M in net losses in 2021 which will reduce this amount by over one half. Furthermore, the reason SKLZ has such a high current asset is because it has already sold additional stock in order to finance its operations. In 2021, SKLZ raised over $400M by offering new stock.
+
+&#x200B;
+
+**Cash flow**
+
+SKLZ has awful cash flows due to it burning money through its operations. It’s only positive cash flow over the past few years has been through financing, which means that SKLZ survives only by offering additional shares and using that money in its operations.
+
+https://preview.redd.it/8xffatxcdbk71.png?width=1182&format=png&auto=webp&s=1af6775163b1ff7be555c82010fe63e5aa70b116
+
+This should be a glaring red flag for any current investor in SKLZ.
+
+&#x200B;
+
+# The Outlook
+
+SKLZ has an interesting position to capture a high value demographic within the mobile gaming market. However, they are doing so within the smallest categories that are popular within their demographic. They have the ability to expand into other categories, but as they are not a mobile game development company, they aren’t able to deliberately expand into other types of games. They must depend on 3rd party developers choosing to use their platform while developing more popular categories of games for them.
+
+What is most worrisome for me is their cash losses and their inability to sustain their operations without additional financing activity. I would expect SKLZ to further dilute their stock (and drag down their stock price) in order to finance their operations next year as well.
+
+Lastly, I am uncertain about SKLZ’s ability to capture other hit games beyond their current cash cows. Once more, SKLZ has little control of this as they do not build games themselves and are reliant on the market choosing them with popular games. In this way, there is a great risk that their current cash cows will get phased out due to age and the newer games will not utilize SKLZ as a platform. If that happens, SKLZ will lose 75% of its revenues.
+
+&#x200B;
+
+Positions: Given the recent pullback in the stock and the fundamentals I have stated. I am still hesitant to enter a position on this stock.

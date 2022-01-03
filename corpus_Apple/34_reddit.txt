@@ -1,0 +1,26 @@
+Some of you may have seen Kuo's rumors regarding Apple iPhone 13 being able to connect to LEO satellites for connectivity:
+
+[https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/](https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/)
+
+**Here are a few of my thoughts below:**
+
+* Jay Monroe (CEO of $GSAT) has tried for many years to monetize the company's main asset, a 11mhz sliver of spectrum between 2.483-2.495ghz. The first iteration was something called "Terrestrial Low Power Service - TLPS".
+   * Old $GSAT presentation covering TLPS: [https://tinyurl.com/4annmrhd](https://t.co/wAC2Oxqipa?amp=1)
+* Jay famously convinced investors in 2013-2015 that this spectrum was on the cusp FCC approval to be used as a new "private wifi" 802.11 extension which existing devices with wifi could use this network with only a software upgrade.
+* This all turned out to be complete BS and investors lost their shirts when the FCC shot the idea down.
+* Fast forward it appears [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click) has a new lease on life. Globalstar was able to get its 2.4ghz band, now designated as "n53" incorporated into 5G and approved for \*terrestrial\* use in 2017.
+* What does that mean? [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click)'s spectrum can be used for ground-to-ground comms as an anchor channel for carrier aggregation or licensed assisted access (LAA) in cellular networks. It is NOT approved for satellite to terrestrial device comms.
+   * [https://www.lightreading.com/opticalip/globalstars-parent-company-slowly-stirs-5g-assets/d/d-id/767923](https://www.lightreading.com/opticalip/globalstars-parent-company-slowly-stirs-5g-assets/d/d-id/767923)
+* It's conceivable Apple is working w/ [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click) to create a "private" terrestrial LTE network to augment a user's existing service with AT&T, Verizon, T-Mobile, etc. Maybe there's confusion by association: using [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click)'s spectrum must mean a new LEO service!
+* A few problems with this theory: 1) [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click)'s spectrum is approved for terrestrial use only, 2) Even if it was approved for space to terrestrial handset use, you would need powerful, large aperture satellites to talk to low power handsets and 3) Wireless carriers own the subscriber today and WON'T be letting someone else eat off their plate. You can get designed into new chipset... doesn't mean anyone will light up your spectrum.
+   * Abel Avellan, the CEO of $ASTS agrees about point (2) here:[https://twitter.com/AbelAvellan/status/1432325262998388743](https://twitter.com/AbelAvellan/status/1432325262998388743)
+* Also, [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click) has been very clear on terrestrial use for the n53 band:
+   * [https://www.nasdaq.com/press-release/globalstar-receives-terrestrial-authorization-in-canada-brazil-and-kenya-2020-11-05](https://www.nasdaq.com/press-release/globalstar-receives-terrestrial-authorization-in-canada-brazil-and-kenya-2020-11-05)
+* BE WARY of [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click) rumors. Many prior rumors have bubbled up ahead of an important financing for the company. Magically [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click) would be testing with [$AMZN](https://twitter.com/search?q=%24AMZN&src=cashtag_click), [$DISH](https://twitter.com/search?q=%24DISH&src=cashtag_click), [$GOOG](https://twitter.com/search?q=%24GOOG&src=cashtag_click) and then equity would be used to refinance maturing debt - imagine that
+
+https://preview.redd.it/0yiqr00j3ik71.png?width=1676&format=png&auto=webp&s=7908610aa09a4997a678a3f9c9e2e0efa35234ae
+
+* Finally, Starlink fans suggesting an Apple iPhone 13 may work with its service: HIGH powered dishes are needed to communicate via Ka/Ku spectrum to Starlink's satellites. That's why the service is primarily for FIXED broadband, not a tiny mobile handset.
+* Wait, how does Anpanman know so much about [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click)?!? I was a big spectrum investor during that time and made a lot of money on Clearwire, Dish, StraightPath... however Jay Monroe turned me into a big bagholder of [$GSAT](https://twitter.com/search?q=%24GSAT&src=cashtag_click) stock.
+
+I'm on vacation right now, but will try to respond to any discussion generated below.

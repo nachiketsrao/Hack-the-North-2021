@@ -1,0 +1,55 @@
+Okay, so this is going to be a long post, I know there are some people here who can't read so apologies in advance if that's you.
+
+For context, I've been following SPCE since December. I rode the wave up, and down, earlier in the year, and still strongly believe in the company. I own 1k shares. I have no recommendations for you in terms of what to buy, when, and for how long you should hold, I'm just here to post my DD I've compiled as I'm seeing it mentioned more w/r/t having high short interest ([shortsqueeze.com](https://shortsqueeze.com) says 77%) and being a strong short squeeze candidate.
+
+***Quick Timeline of Upcoming Events:***
+
+* 7/28 - Commercial Passenger Cabin Reveal
+* 8/3 - Earnings (After the Bell)
+
+Anyway, the FAQ:
+
+**Q: Should I buy/sell/hold/ at $X.XX?**
+
+>A: Maybe? None of us are financial advisors, and if there are financial advisors in this sub, I doubt they'd give out their services for free, nor is it generally a good practice to take financial advice from strangers on the internet. Your entry/exit of any stock is entirely up to you. It's worth noting that most analysts/news sources have pegged Virgin Galactic as a risky, speculative stock. There are many reasons for this, a number of which are acknowledged by and disclosed by the company in their filings with the SEC and in [shareholder materials](https://investors.virgingalactic.com/overview/default.aspx).My \*personal\* expectation with this stock is that it will go up some days, and it will go down some days, sometimes dramatically. It's volatile. This is an emerging industry with substantial risk in terms of the size of the market, and the potential for accidents, government regulations, and the economy all derailing progress. If you're gonna buy in, which is a decision you should make after weighing your personal risk tolerance and doing your own research, you should be ready for a long ride, and a lot of risk.
+
+**Q: What is the timeline for Virgin Galactic beginning commercial flight/Branson going to space?**
+
+>A: There is no public, official timeline with definitive dates for these events. Virgin Galactic has projected the beginning of commercial launches on multiple occasions, the earliest in 2009, with delays and setbacks bringing us to this point in time. VG's current CEO George Whitesides (former Chief of Staff at NASA) was critical of the company's early promises in 2014, telling The Guardian:  
+  
+>  
+>*"We’ve changed dramatically as a company. When I joined in 2010 we were mostly a marketing organisation. Right now we can design, build, test and fly a rocket motor all by ourselves and all in Mojave, which I don’t think is done anywhere else on the planet”*  
+  
+>  
+>Since that time, and especially since going public, Virgin Galactic has been far more conservative with timelines, to the chagrin of many investors (you'll see a lot of that in this sub). Their messaging now is focused less around a central date, as it is making projections for when we could expect to see commercial spaceflight begin, almost always including the caveat that safety is their number one priority and that they will not rush to market without being sure their product is safe.That history in mind, VG has said they hope to be able to fly Richard Branson to space for his 70th birthday, in July of 2020. While that deadline is not going to happen (his birthday is July 18th), the company has made significant progress over the last year towards getting their operating license from the FAA, and an initial flight with Branson is not that far off. That flight will be a major media spectacle and hype city.In their [Q4 2019 earnings](https://investors.virgingalactic.com/news/news-details/2020/Virgin-Galactic-Announces-Fourth-Quarter-and-Full-Year-2019-Financial-Results/default.aspx), VG stated they had "Continued to clear FAA Verification and Validation provisos." in [Q1's 2020 earnings](https://investors.virgingalactic.com/news/news-details/2020/Virgin-Galactic-Announces-First-Quarter-2020-Financial-Results/default.aspx) they reported that they "cleared four new FAA Verification and Validation provisos, bringing the total number of provisos cleared to date to 24 out of 29" implying that in Q1 they sat at 20/29. In the time since Q2 earnings, Virgin Galactic announced they had cleared another three steps in the process in an email on June 5th, with only two left to clear.  
+  
+>  
+>With a recent [WhiteKnightTwo test flight](https://www.reddit.com/r/VirginGalactic/comments/h99ahn/virgin_galactic_recent_white_knight_two_test/), and even more recent [SpaceShipTwo glide flight](https://investors.virgingalactic.com/news/news-details/2020/Virgin-Galactics-SpaceShipTwo-Completes-Second-Flight-from-Spaceport-America/default.aspx), we're seeing testing activity increase as Branson's Birthday approaches, and with fewer FAA benchmarks left to meet. Additionally, the press release for the SpaceShipTwo test gives us a clue as to what might be next:*"Last weekend, the Company’s Spaceship and Propulsion teams completed a full ‘wet dress’ rehearsal designed to check out the new facilities and equipment at Spaceport America. During this rehearsal, the teams positioned the spaceflight system on the runway and loaded VSS Unity with active propellant.Pending the completion of an extensive data review of this flight, the team will start preparing for the next stage of our flight test program - powered spaceflights from Spaceport America. In addition to the data review, we have several steps to complete, including final modifications to the spaceship customer cabin and detailed inspections of the vehicle and systems."*While no one can say definitively what the timeline is for beginning commercial spaceflight, there is real evidence that we are getting closer than we have ever been. I'm personally hoping for a first commercial flight (with Branson) by the end of 2020. Additionally, they've announced their earnings call at the beginning of August, which closely follows their interior cabin reveal, and would be perfect timing for a major announcement.  
+  
+>  
+>\*NOTE\* In the time since I wrote this FAQ, Virgin Galactic Announced they were unveiling their passenger cabin July 28th - this is a very big milestone for the company, and indicates real proximity to commercial launches beginning with the actual commercial cabin installed.
+
+**Q: Who's running the company?**
+
+>[https://investors.virgingalactic.com/governance/executive-management/default.aspx](https://investors.virgingalactic.com/governance/executive-management/default.aspx)
+
+**Q: What about SpaceX/Blue Origin?**
+
+>What about it? Kidding, obviously, but yeah there are a lot of questions around SpaceX/Blue Origin, and VG.Some folks like to compare them, or pit them against each other, or speculate on competition in the market - and that's all healthy, but the thing to remember is that as of right now SpaceX and Blue Origin are not publicly traded. If you want to invest in a pure-play space stock, Virgin Galactic is as good as it gets.  
+  
+>  
+>Additionally, while similar in some ways, Virgin Galactic is a bit of a niche company, focused on space tourism at the moment, with plans to eventually move into point to point hypersonic travel across the earth. As of right now, VG utilizes its WhiteKnightTwo/SpaceShipTwo combo to reach suborbital space for a few minutes of weightlessness for customers, where as Blue Origin's big focus is returning to the moon, and SpaceX's goal is to reach Mars. Both companies intend to provide a tourism facet to their businesses, but it doesn't appear to be the core of their business right now as it is for Virgin Galactic.  
+  
+>  
+>This provides a pretty healthy barrier to entry to competing space tourism companies (at least in the near term) as they would have to clear the same legal barriers to carry commercial passengers that VG has, just starting from a bit behind.  
+  
+>  
+>Of course, that's all subject to change, and who knows, maybe one of those companies invents a better mousetrap for space tourism - totally feasible. But that said, another thing to think about is competition in the marketplace.  
+  
+>  
+>In the same way there isn't just one airline, or just one travel agency, there won't just be one way to get to space. Both SpaceX and Blue Origin currently utilize your standard vertical rocketship to space like you're used to seeing in the movies or on TV. Virgin Galactic offers a \*somewhat\* more familiar experience to the average consumer via WhiteKnightTwo flying SpaceShipTwo up a lot of the way like a traditional plane, making the rocket fueled launch into space a little less jarring, as it begins in the air rather than on the ground, and more comfortable compared to a straight up vertical launch.  
+  
+>  
+>Competition offers consumers choices, and will force all players at the table to work harder to innovate and keep costs down.
+
+Anyway, that's some healthy background on the company for anyone interested beyond just getting a date and strike price. I personally think there's a lot of potential in the company, and that commercial operations are right around the corner.

@@ -1,0 +1,149 @@
+Hello, idiots
+
+Today we're taking a short break from your small pp YOLOs and Loss Porn, and we're stepping up the game.
+
+In this series, we'll dive into the stories of the most degenerate traders history has ever seen. They're so stupid they make [u/1R0NYMAN](https://www.reddit.com/user/1R0NYMAN) and [u/ControlTheNarrative](https://www.reddit.com/user/ControlTheNarrative) look like a bunch of undergrads gambling with their rent money.
+
+"Why should I care? I can already lose money very nicely on my own". Well because, learning a bit more about the history of the market probably won't hurt, since you're probably still wondering how shorting a stock work and the greeks are just an old civilization for you. I also want you to pay attention to the mistake these gamblers made, so we can all stop writing off our donations to our favorite Market Makers.
+
+And it's also a nice story to tell the Goldman intern you met at your local bar. Maybe you'll impress her maybe not. I'm not sure your wife's boyfriend will find much interest in it, though. He's still trying to file a lawsuit against RH, we'll see where that leads him. Anyways, if you'd rather max out your credit card to double down on MVST that's your choice, for the other's let's dive right in.
+
+Today we'll talk about Baring's Bank. Founded in 1762 Barings bank was an English institution associated with class longevity and strength so much so that even the queen of England had an account with them then in 1995 this grand banking legacy was destroyed single-handedly by **one trader, Nick Leeson.** First, we need to quickly talk about futures.
+
+**Futures 101**
+
+I'll be quick this time. Essentially, futures are like options but they **oblige** each party to buy or sell random garbage at a pre-defined price and date. With futures, you have to deliver the goods or cash on the settlement date. In some cases, futures contracts will require physical delivery. In this scenario, the investor holding the contract upon expiration would be responsible for storing the goods and would need to cover costs for material handling, physical storage, and insurance.
+
+Assume two gamblers enter into a one-year Crude Oil Futures contract at a futures price of $58.40 (think of it as the strike price). Regardless of the commodity’s spot price on the settlement date, the buyer is **obligated** to purchase 1,000 barrels of crude oil from the seller. If the spot price on the agreed settlement day is below $58.40, the long contract holder loses, and the short position gains. The long can just buy on the open market for less than 58.40$. Just like for a call, why would exercise a 100C if the stock trades for 90$. If the spot price is above the futures price of $58.40, the long position profits, and the seller records a loss.
+
+Why does this matter? When you buy an option, you have a limited loss, you can only lose your premium. Futures are a **lot riskier.** Futures are highly leveraged. Indeed, when buying a futures, your broker only asks you to put a fraction of the value of the contract up front. Usually between 1/10 and 1/20 of the value of the contract, but sometimes even less! You could be buying. You could be trading a futures worth 100'000$ with just a mere 2'000$ depending on the contract. What you put upfront is called initial margin.
+
+Your position is then adjusted daily. Whatever you win is added to your 2'000$ balance, but whatever you lose is deducted from that. In our case, just a 2% downward move is enough to wipe out your 2'000$, when that happens you get the dreaded "margin call" (I bet most of you are familiar with that) and you have to put more money upfront to cover your losses and keep your positions open. Otherwise, you can say goodbye to your house and your vintage Pokemon Card collection.
+
+It gets a lot more complex, I don't want to see a wannabe nerd in the comments flexing about his Investopedia knowledge, let's have a proper intellectual brawl in the DMs.
+
+**An English Man With Big Balls and a Small Brain**
+
+Our degenerate trader was born in England, an unimpressive student, with an average educational performance. Our degenerate was desperate to become a trader, so much so that he quit Morgan Stanley because he didn't get promoted to trader there.
+
+Baring's bank was stupid enough to give him a job. Leeson was an OG Savage, the dude said he never heard of the bank before applying and deeply despised them. Barings was no ordinary bank, it catered to the most affluent class of people in the banking industry. The Baring's name was respected, it was a very safe bank and they could raise capital very easily. Behind the scenes, its operations were struggling to keep up with the modern banking world. Think about RH vs a real broker like IBKR, just a totally different environment
+
+From his position as one of the bank's bookkeepers it didn't take him very long to find flaws in how the bank operated Baring's bank was crumbling during a time when most other financial institutions were thriving. Feeding on the good standing that comes with two centuries of global trading, it would survive though much like it always had. What bearings wouldn't survive would be hiring Nick Leeson, quite a flex.
+
+Barings offered him the position of a trader. He would be in charge of a newly founded futures division in Singapore, and losing money **professionally**. This was the opportunity that Leeson had been waiting for and quite possibly the worst decision that Barings had ever made. Barings shortly got the approval to trade in Singapore and it was go-time. Trading primarily on the Nikkei (the S&P in Japan) Nick thoroughly enjoyed the stress and pressure of futures trading.
+
+On behalf of his clients, Leeson was primarily trading futures on the Nikkei, the primary index in Tokyo. Leeson should have been managing a **cash-neutral business**. This strategy entails managing an investment portfolio without adding any capital. Unlike, your broke-ass trading account, banks don't like adding cash to parts of the business that lose money.
+
+In Leeson's case, if money was made or lost on the trades, it would have belonged to the clients. Let me be clear, most of you think traders at banks are just fancier versions of yourselves with a suit and a degree, but no. At banks, 99% of the transactions are traded **on behalf of clients.** There's no smarty pants Garry who risks the banks money because he has a Bloomberg Terminal and a fancy suit.
+
+Barings' only compensation on the trades should have been a commission, and only a small amount of the trades were meant to be proprietary, or on behalf of the bank itself. However, Leeson was no ordinary banker. Foods Stamps or Lambo, he quickly began making unauthorized trades. At first, these risky positions made large profits for the bank: as much as £10 million, accounting for 10% of Barings' annual profit in 1992.
+
+Because Barings had given him the responsibility of double-checking his own trades, rather than reporting them to a superior, Leeson was able to hide the losses from his bad trades in a secret account...
+
+**Account 88888 and the beginning of the downfall**
+
+Unlike you and me, when we YOLO our family's savings into SPY calls or AAL lotto's (thinking of [u/luhkyskills](https://www.reddit.com/user/luhkyskills)), and we take a big fat L, well we just have to suck it and go to our weekly shift at Wendy's. Leeson, however, was too good for that and he chose another strategy to hide his losses.
+
+On July 3, 1992, only two days after Barings was granted membership by SIMEX, Leeson opened Account 88888, and that same day, the first transaction was booked in this account. Apparently, Lesson asked one of his Chinese co-workers what her favorite number was, she said 8. In China, 8 is known to be the luckiest number of all, so Leeson said we might as well get all the luck we can get, let's name the account 88888, we'll see how that worked out for him.
+
+On Baring’s system, this account was described as **an error account**. It is common for traders to set up such an account for the purpose of netting minor trading mistakes.
+
+The net position should be closed each day and the net value of gains and losses incurred in negating the position should be recorded as part of the unit’s daily profit Leeson. However, already during the first month of its existence, a large number of transactions were booked in Account 88888, which shows according to the Singapore Report that it could never have been intended to serve solely as an error account. As a matter of fact, Leeson gave specific instructions around July 8, 1992, to ensure that his actions would not be transparent.
+
+*“The first time I do anything, I’m not expecting to survive more than two days,”* he later recounted. But head office kept sending the funds needed to cover margin payments and Leeson began to understand that he could successfully hide his mistakes. *“As you get past the two-day period, then you start to get more confidence because it isn’t being found. To me it’s obvious, if they can’t see it after two days then they are not going to see it after 200 days, 500 days, 1,000 days. It’s easy.”*
+
+During 1993, the main focus of Leeson’s unauthorized speculative positions in Account 88888 was the generation of profits in the ordinary trading accounts for their clients or proprietary traders. This enabled Leeson to gain a reputation as a star trader on SIMEX and enhanced his intra firm executive standing. However, by the end of 1993, the cumulative losses in Account 88888 were over ¥4 billion about US$35.8 million, which made the situation much more complex. Leeson’s main problem became the management of the flow of funds to support the margin calls from SIMEX.
+
+An important way to arrange the funding was by manipulating the trading and accounting records. This was done in a number of ways. First, most transactions booked in Account 88888 were initially booked in the accounts of Barings. If these positions had been correctly reported to management, it would have been clear that risk limits had been exceeded, since such transactions were not hedged.
+
+However, Leeson would execute offsetting trades about 30 seconds before market close to place transactions from Baring's accounts into Account 88888. With these so-called transfer trades, Leeson avoided disclosure of unhedged positions in the reports to Baring's. The prices of these transfer trades were later adjusted to favor Barings, at the expense of Account 88888, in order to confirm his reputation as an exceptional trader.
+
+This would often require complicated alterations between different sets of records. A second way to manipulate the records was to record fictitious trades between the accounts of Barings and Account 88888 in the daily list of transactions when no transfer trades had been executed. The effect was that unhedged positions were transferred from the Barings accounts to Account 88888, so that no unhedged positions were reported at the end of the day.
+
+Finally, Leeson often instructed his settlements staff to record fictitious trades in the accounting system. These fictitious trades were reversed at the opening of the market on the following day. The purpose was to reduce end-of-day open positions in Nikkei and JGB futures, in Barings accounting records, and consequently, in the SIMEX computer system. This practice effectively reduced margin calls from SIMEX.
+
+Despite the manipulations of the books, the funds needed for SIMEX’s margin calls steadily increased. Leeson used a number of methods to convince Barings' management of the necessity to transfer large sums of money to Singapore, and it worked pretty darn well, I wish I had the same success when asking my grandma for more gambling money.
+
+In addition to the funds transferred from London, Leeson sold options on the Nikkei index through Account 88888 from the start of 1993. From January 1994, the position in Nikkei options increased significantly when Leeson set up a large series of short straddle positions
+
+**Positions in February 1995**
+
+The total monthly trading volume through Account 88888 increased from 2051 in July 1992 to a peak of 96,121 in September 1994. In January 1995, the total was 90,000 contracts SR3.14 or about 7.5% of total trading volume. There had been a similar growth in the trading of JGB futures. By November 1994, the volume of JGB futures transacted through Account 88888 represented 24% of the total volume on SIMEX. The volume of Leeson’s unhedged JGB position in the 88888-account also increased, in particular during the 2 months leading up to Barings’ collapse. Eventually, his short position was over 28,000 contracts. Leeson started to trade Euroyen futures through the 88888-account in October 1993, but after that month, his transactions in this market were limited to certain short time intervals only. The eventual loss on these Euroyen positions was ‘only'£3 million BoE,
+
+**Selling Straddles**
+
+Let's say you're on RH and have used up all of the money you borrowed on FD's. That's quite a bummer, as you've just read an awful DD on a pre-revenue company and you'd love to buy some illiquid calls on this garbage stock. What can you do to get some funds?
+
+The largest part of Barings’ losses came from a massive long position in Nikkei futures. Until October 1993, Leeson’s losses were always recovered. After that, losses increased gradually but accelerated in the final 2 months leading up to the collapse of Barings. During that final stage, Leeson expanded his long position in Nikkei futures to 49% of the open interest in the March 1995 contract and 24% in the June 1995 contract.
+
+Leeson earned revenues to pay his margin calls by selling short straddles. A short straddle is a strategy a short put option and a short call option with the same strike prices are simultaneously combined. The only way a short straddle can earn profits is if the price of the underlying asset does not move substantially in either direction. A short straddle looks like a mountain or an iceberg, with most of its mass underwater (i.e., below zero). Notice how little of the straddle is above zero, compared to the total profit-and-loss profile. The portion of the short straddle that is above zero depends on the size of the premium relative to the total exposure.
+
+&#x200B;
+
+[Profit and Loss of a Short Straddle](https://preview.redd.it/i0r04nuzx4j71.png?width=936&format=png&auto=webp&s=df85eaea19c70637ab639b94f09da0e469a109a1)
+
+&#x200B;
+
+&#x200B;
+
+[Profit and Loss of a Futures Position and a Straddle](https://preview.redd.it/a5tjk1xey4j71.png?width=936&format=png&auto=webp&s=2943eb973e4e7b8b2a26676d1c36577fa1f1404e)
+
+&#x200B;
+
+**Combining a Short Straddle and a Long Futures Contract**
+
+It is important to remember that the short straddle positions taken by Leeson did not occur in isolation. Leeson combined his short straddles with long futures positions. For every straddle he sold, Barings got cash, and Leeson used the cash to pay the required initial margin deposits on new trades and also to meet the mounting margin calls on his existing stock index futures positions.
+
+That's like next-level stupid, I hope most of you understand that you shouldn't use the credit you get when selling naked options to take even more risk.
+
+[Profit and Loss of One Long Futures + One Short Straddle](https://preview.redd.it/0yhkg8thx4j71.png?width=1029&format=png&auto=webp&s=2214a4687836038de3346bd4c424812142e08cd8)
+
+As you can see, to profit from the long futures position, the stock price had to rise above the futures price, but if it rose too much, every yen of gain made on the futures position would be offset by losses on the short straddle (on the short call portion of the straddle). On the downside, the situation was much riskier. A decline in the stock price caused simultaneous losses on the futures position and the straddle position (the short put portion of the straddle, because when you buy a put you happy when stock go down, so when you sell put you sad when stock go down). The only thing standing in the way of losses at almost every price level was the premium that was collected upfront, at the time the straddle was sold shows the profit-and-loss profile created when the short straddle and a long futures position (see Exhibit 7.5) are combined. It is similar to a short put, except that the downward-sloping portion of the pro-file is even steeper than usual, because the long futures contract incurs losses as the underlying asset’s price falls below the futures price, and the short straddle incurs losses as the underlying asset’s price falls below the strike price. As you can well imagine, the combination of his short straddles and long futures made it more difficult, but certainly not impossible, for Barings to audit Leeson’s net exposures.
+
+shows that the gains from a short put position are capped. By contrast, the potential losses could be enormous if the asset price (e.g., the Nikkei 225 index) fell
+
+**Combining a Long Futures Position and Numerous Short Puts**
+
+The profit-and-loss profile from combining a short straddle and a long futures position (see Exhibit 7.6) gives the illusion that Leeson had a viable trading strategy, and he just guessed wrong in terms of the price movement shows a large span of prices to the right of the strike price, which offers, at least, a glimmer of hope that profits could be earned. Unfortunately, we will find that this was not the case. In fact, Barings would have been lucky if Leeson had put the bank in such a position. The illusion is revealed once you realize that Leeson’s need for large sums of cash to fund his margin calls forced him to sell disproportionate numbers of short straddles for each long futures position he took. Exhibit 7.6 shows the results if one long futures contract is combined with one short straddle, but this one-for-one combination was not what Leeson did. Rather, he combined numerous short straddles with each long futures position.
+
+&#x200B;
+
+This figure shows the profit-and-loss profile when numerous short straddles are combined with a long forward contract. The hybrid payoff profile looks, again, like an iceberg, because 90% or more is underwater. The only outcome that could have been even slightly profitable was if Japanese stock prices hovered at or near their current levels, in which case the stock index futures contracts would have generated small gains, and the put and call options would have expired out of the money. If stock prices rose too much, the gains on the futures contracts would have been overwhelmed by the losses on the mountain of short calls. If stock prices fell, the losses on the long futures would have been amplified by the losses on the mountain of short puts.
+
+**The unavoidable happened**
+
+By 31 December 1994, Leeson had accumulated losses of £208 million. Japanese stocks never rose above 19,000, there was an earthquake in Kobe on 17 January 1995, and Japan’s long-awaited recovery was pushed farther and farther into the future. He was left holding a massive bag.
+
+After the earthquake, the Nikkei Index fell to 18,950, forcing Leeson to engage in an even more frantic and massive operation that looked, in retrospect, like a single-handed effort to hold Japanese stock prices at the 19,000 level. The dude tried to P&D himself, quite successfully at the beginning, but that didn't last.
+
+Over the next five trading days, Leeson bought a total of more than 20,000 futures contracts, and by 22 February 1995 his aggregate position was over 61,000 futures contracts. Despite his frantic buying, Japanese common stocks fell sharply, and on Monday, 23 January 1995, the Nikkei index fell 1,000 points to 17,950. For Leeson, theend was near. By February 1995, his losses had reached an astounding £830million.
+
+As enormous as his losses were after the stunning drop in Japanese stock prices, Leeson’s strategy could still have worked if he had been able to buy enough contracts to pull the index back up above 19,000, and it was for this reason that Leeson continued to sell straddles. As Exhibit 7.8 shows, if Barings could have held on until December 1995, Leeson’s spectacular losses would have turned into gains, because the Nikkei 225 stock index prices rose by more than 5,000 from July until the end of the year. Leeson continued trying to raise Japanese stock prices through the last weeks of January 1995 and into February 1995, but the wave of selling was too great, and he was unsuccessful in his attempts. Yeah you heard it correctly, this mf was about to diamonds hand and make gains big enough to buy his employer. Imagine being able to buy RH with your gains.
+
+[Buy High Sell Low](https://i.redd.it/fbywlccdx4j71.gif)
+
+Then Leeson went on vacation with his wife, they ended up fleeing Singapore on February 23, 1995. In the end, his losses accounted for £827 million (or $1.4 billion), twice Barings's available trading capital.
+
+Leeson was arrested in Germany and, after a failed bailout attempt, Barings went bankrupt on February 26, 1995. He was sentenced to six and a half years in prison in Singapore. While he was in prison, Leeson wrote his book, "Rogue Trader." In 1999, Leeson's book was made into a film of the same name and starring Ewan McGregor and Anna Friel.
+
+Up until the year 2008, Leeson held the record for the most losses due to unrestricted trades. In 2008, the French bank Société Générale announced that a rogue trader named Jerome Kerviel had lost more than seven billion dollars by conducting a series of unauthorized and false trades.
+
+That's all good but what is the main takeaway we can get out of this horror story.
+
+**Doubling and Managing Losses**
+
+That managers take additional risks to escape from a threatening situation is a well-known theme in the field of managerial decision making. For example, it is known that people will take greater risks to escape losses than to secure gains. As a consequence, people’s behavior tends to change in unexpected and unattractive ways when they are confronted with increasing losses.
+
+Thus in finance, the fear of falling is constantly in the background and sometimes can lure people into disastrous activities. Individuals can become gripped by a frantic panic and may try to conceal these losses or double up their bets like crazed gamblers trying to punt their way out of their mounting debts. This is the classic gambler’s fallacy.
+
+In the case of Leeson, we clearly see a degenerate who seeks to become the master of the universe, managing to gain a reputation as a star performer. Leeson tried at all cost not to lose that image. When losses were mounting, he followed a strategy of continuously expanding his position. A quote from Leeson 1996 may illustrate our point:
+
+*"I felt no elation at this success. I was determined to win back the losses. And as the spring wore on, I traded harder and harder, risking more and more. I was well down, but increasingly sure that my doubling up and doubling up would pay off . . . I redoubled my exposure. The risk was that the market could crumble down, but on this occasion, it carried on upwards . . . As the market soared in July 1993 my position translated from a £6 million loss back into glorious profit. I was so happy that night I didn’t think I’d ever go through that kind of tension again. I’d pulled back a large position simply by holding my nerve . . . but first thing on Monday morning I found that I had to use the 88888-account again. it became an addiction."*
+
+An important attribute of doubling strategies is that the inevitable and devastating loss is preceded by a period of high returns with low volatility. Conditional on the bad event not having happened yet, the doubler’s investment performance appears to indicate significant **investment skill.**
+
+This to me is very similar to the feeling we get after taking a big loss in a position. We immediately want to go back and YOLO to recoup our losses. Don't do that.
+
+In the next episode, we will look at another lovely, fellow, Jerome Kerviel, and what we can learn about his degenerate trading strategy.
+
+**TLDR: Do not commit fraud and plz avoid bankrupting banks ty. Long NIKKEI**

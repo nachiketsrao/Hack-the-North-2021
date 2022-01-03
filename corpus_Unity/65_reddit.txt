@@ -1,0 +1,135 @@
+In this week's edition of DDDD (Data-Driven DD), now that my [short term thesis of a 274-292 channel](https://www.reddit.com/r/wallstreetbets/comments/g9h9np/an_indepth_look_into_the_next_few_weeks/) has now been invalidated because of some vaccine company fraudulently telling everyone they've cured COVID-19 to pump their stock before a secondary offering, I'll be digging deeper into my longer term thesis that I've been talked about for weeks now. I've previously wrote about this thesis from a perspective of [economic history](https://www.reddit.com/r/wallstreetbets/comments/fzmlsv/spy_1125_150p/) and the perspective of [liquidity and finance](https://www.reddit.com/r/wallstreetbets/comments/ghcfn5/dddd_the_20102020_liquidityfueled_asset_bubble/). This time, lets look at it from a perspective of human and American history, and cycles that can be in them.
+
+EDIT - This DD is meant to be read as a last part of a trilogy from [these](https://www.reddit.com/r/wallstreetbets/comments/fzmlsv/spy_1125_150p/) [two](https://www.reddit.com/r/wallstreetbets/comments/ghcfn5/dddd_the_20102020_liquidityfueled_asset_bubble/) previous posts with the actual data and quantitative content. Without that context, this post will basically seem like trying to use obscure theories to magically predict the future because of some prophecy. This is meant to be a theoretical / qualitative explanation of the of what was talked about in those previous posts, as well as connecting them to actions and thesises of well-known investors like Ray Dalio and Warren Buffett, who are saying very similar things. **Don't bother reading this if you haven't read the first two parts of this trilogy**.
+
+*Disclaimer - This is not financial advice, and a lot of the content below is my personal opinion. In fact, the numbers, facts, or explanations presented below could be wrong and be made up. Don't buy random options because some person on the internet says so; look at what happened to all the SPY 220p 4/17 bag holders. Do your own research and come to your own conclusions on what you should do with your own money, and how levered you want to be based on your personal risk tolerance.*
+
+History doesn’t repeat itself, but it often rhymes. This time, let’s take a broader look at cycles and patterns that often present itself throughout human history, and connect that to the economy and the stock market. Much of the content for this piece is taken from the Strauss–Howe generational theory, Ray Dalio’s thesis about our place in the long-term debt cycle, and Warren Buffet’s take on the same topic when he spent a few hours talking about it in the most recent Berkshire Hathaway annual shareholders meeting.
+
+**The Fourth Turning**
+
+The general idea of Strauss–Howe generational theory, or the “fourth turning” is that American history tends to repeat certain trends within every “saeculum”, or human lifespan - approximately 80 years. This is how long it typically takes for the certain historical events to start disappearing from human memory, allowing similar events to happen again. I’m not entirely sure why this theory focuses on American history specifically, and can be applied to human histories across civilizations, although until recently those cycles may not have been synchronized with each other. The theory states that history tend to occur in cycles of four “turnings”:
+
+**High** \- A “golden age” of a civilization. This is when there is strong unity within members of the society, with strong confidence in institutions like the government and big corporations, and weak individualism. As a collective mind, the civilization is able to work together to achieve big goals.
+
+**Awakening** \- People get tired of conformity, trust in institutions weaken, and there’s a strong desire for self awareness, spirituality, or authenticity. This is a time of experimentation, activism, and rebellion.
+
+**Unraveling** \- Confidence in institutions such as governments and large corporations are at its weakest, and individualism is at its strongest. Society fragments to polarizing groups, and public action by governments is barely able to achieve the smallest goals.
+
+**Crisis** \- This is when the fabric of society and existing institutions are destroyed in response to a perceived existential threat to the civilization itself. Economic distress is rampant as the economy sees defaulting sovereign debt, high unemployment, deflation or hyperinflation, or civil unrest. The crisis eventually becomes a unifying force for the previously fractured society, and the civilization comes together to solve the crisis. Civil authority and governments become trusted again, and self-sacrifices inspire people to work together as a society over self interest.
+
+Let’s look at how this cycle played out over the past few centuries in the US.
+
+&#x200B;
+
+|1701-1723|High|The establishment of the first British Empire. The thirteen British colonies in the Americas were all by now well established and beginning to prosper. The Glorious Revolution in Great Britain has just ended, and the result is the supremacy of the people, through Parliament, over the Crown, and a new set of rights that apply to all Englishmen.|
+|:-|:-|:-|
+|1724-1741|Awakening|The First Great Awakening, or the Evangelical Revival. People become much more devoted to their religion and a desire to convert others, including native Americans and slaves.|
+|1742-1766|Unravelling|Seven Years War (French and Indian War in the US). It was considered to be the world’s first major conflict, with initial rivalry between the European great powers spilling over to other continents. From an American perspective, this would seem as an unnecessary war caused by a rivalry between two powers far far away, causing unnecessary hardship to the settlers in America. After the war, Britain wanted to recoup some of their losses from all the money spent fighting in North America, and created new taxes, leading to the Boston Tea Party. As a result, Britain then imposed the “Intolerable Acts” to punish the colony of Massachusetts. Throughout this time, trust in the Crown within the colonies started to disappear.|
+|1767-1791|Crisis|The American Revolution - All trust and allegiance to the Crown is destroyed and replaced with new ideals.|
+|1792-1821|High|After Victory in the American Revolution, there’s a new sense of unity and pride in the newly founded nation. New institutions were created for the new country, and there was a sense of optimism, even during the War of 1812. The period after that war, and leading up to the 1824 election, was called the Era of Good Feelings, to reflect the sense of national unity and purpose within the US|
+|1822-1842|Awakening|The Second Great Awakening, similar to the first one.|
+|1844-1860|Unraveling|Sectionalism within the US - this period saw the rise in the North vs. South divide over slave states and non-slave states, and tensions revolving around it|
+|1860-1865|Crisis|American Civil War|
+|1865-1886|High|Gilded Age - Rapid economic growth in the United States through industrialization. Creation of new institutions in the form of industrial titans like Standard Oil.|
+|1886-1908|Awakening|The Third Great Awakening, similar to the first two. Also, the progressive era, which saw an activist movement to address some of problems that come with monopolies like Standard Oil, urbanization, and corruption.|
+|1908-1929|Unravelling|This period saw WWI, Prohibition, and the Roaring Twenties. During this time, there was an increasing social conflict between liberal urban and conservative rural areas, specifically about morals and what should and shouldn’t be legal (eg. Scopes trial), the rise of the KKK, and is a hallmark of consumerism, individualism, and greed.|
+|1929-1946|Crisis|The Great Depression and WWII. The New Deal destroyed many existing institutions, and replaced them with new ones. The aftermath of WWII created new global institutions, in the form of the UN, and started the American world order.|
+|1946-1964|High|The Golden Age of Capitalism / post-war economic boom|
+|1964-1984|Awakening|During this time, we saw two different types of awakening. The counterculture movement of the 1960s saw activism against the Vietnam war and the Civil Rights movement, as well as an increase in spirituality and self-awareness, which is typically associated with the youth during this period (i.e. “hippies”). During the same time, there was another religious revival - The Fourth Great Awakening.|
+|1984-2008|Unravelling|This period saw an increase of the polarization on cultural issues in America, specifically with abortion, gun control, drugs, and gay rights, between conservatives and liberals, starting with the election of Ronald Reagan. The polarization was also very heavily influenced by geography, with liberals tending to live on the coasts and big cities, and conservatives everywhere else. The polarization made it increasingly difficult for congress to enact any big changes.|
+|2008 to somewhere between 2020 and 2030|Crisis|This period started with the financial crisis, as well as the aftermath of 9/11 and the War on Terror. Add on the pandemic, and the fallout from it, and we’d likely see another mass destruction of old institutions and creation of new ones.|
+|2020-2030 to 2040-2050|High|???|
+|2040-2050 to 2070-2080|Awakening|A Fifth Great Awakening?|
+
+&#x200B;
+
+**The Changing Hands of World Powers**
+
+There’s also another interesting theory in the field of international relations that’s interesting and probably applicable here - the Long Cycle Theory. It basically states that international world orders and the title of the most powerful nation, is challenged every 70 to 100 years - the approximate maximum lifespan of an average human life, leading to some sort of global conflict and potentially a change in the world order as a result.
+
+[Cycles in World Leadership](https://preview.redd.it/xfwrkm59ey051.png?width=1436&format=png&auto=webp&s=2103c3db41e6773d4e84618f32b92fa54d28788b)
+
+The United States has survived as the World Leader for the 20th century from the threat of the Soviet Union challenging the world order. This time, it’s becoming increasingly clear that China has become a new challenger to the American world order.
+
+**Long Term Economic Cycles**
+
+Ray Dalio is famous for this being a central part of his economic thesis - about [long term debt cycles](https://www.youtube.com/watch?v=PHe0bXAIuk0), and the fact that [we’re near the end of one](https://finance.yahoo.com/video/ray-dalio-very-long-term-022249474.html). The summary of this idea is that the economy goes through short term and long term debt cycles. Short term debt cycles are the regular occurring business cycles you usually see once every decade, usually caused by overspending. The long term debt cycle, however, is when an entire economy becomes overleveraged, and it becomes harder and harder for a central bank to stimulate the economy. A hallmark of this happening is when interest rates hit near 0%, and they are forced to perform quantitative easing to stimulate the economy; the last time the economy’s seen anything similar to this was the Great Depression - this is called a liquidity trap. The period following this liquidity trap was an economic deleveraging, typically associated with civil unrest, revolutions, wars, and asset prices plummeting. The US economy has been seeing this since 2008 and has never been able to successfully fully deleverage the economy yet.
+
+Another long term economic cycle theory that’s somewhat popular is the Kondratiev wave, although this field of economics is not generally accepted by most economists. The idea is that the economy goes through long-term economic cycles, lasting between 45 to 60 years, of periods of rapid economic and stock market growth fueled by technological innovations, followed by a period of stagnation.
+
+[Kondratiev Waves](https://preview.redd.it/qe35zenbey051.png?width=1194&format=png&auto=webp&s=1e7c66baafc3408e5ba23f2262f125d4c0c6b1ea)
+
+Currently, we’re late in the wave created by the introduction of Information Technology, which started in the late 1970s. [I’ve previously talked about this](https://www.reddit.com/r/wallstreetbets/comments/fzmlsv/spy_1125_150p/), but basically we’re near the end of this cycle as well.
+
+So, it sounds like we’re near the end of many cycles; the generational cycle of the Strauss–Howe generational theory, the long term debt cycle, the Kondratiev Wave cycle, and possibly the beginning of the end of the Long Cycle in international relations as China begins to contend with the United States for global influence. In all of these cycles, the conclusion is clear - chaos, economic hardship, geopolitical tensions and crises. Let’s take a closer look at the stock market last time all of these cycles ended - the 1930s.
+
+**Retail Investors in the 1920s**
+
+There’s not that much solid quantitative data about retail investors and their impact on the stock market; only qualitative and anecdotal data. However, one thing is clear - retail investors pumped the market in 1929 beyond what fundamentals warranted, despite evidence of a weakening economy due to stagnating consumer spending and distress by farmers due to overproduction of wheat, and soon, the Dust Bowl. Why were they pumping stocks so much? Because they falsely believed that stocks only go up. I’ll put some excerpts from this [Forbes](https://www.forbes.com/sites/briandomitrovic/2020/01/09/why-did-people-buy-stocks-in-the-1920s/#70547feb3390) and this [Investopedia](https://www.investopedia.com/ask/answers/042115/what-caused-stock-market-crash-1929-preceded-great-depression.asp) article I found talking about this to better illustrate the extent and nature of this pump.
+
+*Still there was one big anomaly in the decade preceding, the 1920s, and it remains instructive today. The American people bought stocks in unprecedented fashion. Stocks on the installment plan, stocks via investment clubs, stocks bought with capital rather than income, stocks on margin. It was a big new fad. Nothing like the participation in the market that the nation experienced in the 1920s can be found in previous eras of history.*
+
+*The permanent denuding of the dollar, the reality of which first became clear in the 1920s, forced savers to find some instrument that would pay them back in the old way, in money that held its value. The choice was made to capture, via stocks, the forthcoming profits of businesses. Here would be money commensurate to what was needed to buy things in the future.*
+
+*Until the peak in 1929, stock prices went up by nearly 10 times. In the 1920s, investing in the stock market became somewhat of a national pastime for those who could afford it and even those who could not—the latter borrowed from stockbrokers to finance their investments.*
+
+*People were not buying stocks on fundamentals; they were buying in anticipation of rising share prices. Rising share prices simply brought more people into the markets, convinced that it was easy money. In mid-1929, the economy stumbled due to excess production in many industries, creating an oversupply. Essentially, companies were able to acquire money cheaply due to high share prices and invest in their own production with the requisite optimism.*
+
+This all sounds pretty familiar to what's going on in the stock market today; [as I previously mentioned](https://www.reddit.com/r/wallstreetbets/comments/gd1t2g/dddd_the_rise_of_buy_the_dip_retail_investors_and/), retail investors are pouring money in at unprecedented levels. Why is this happening now, about 90 years since the last time every retail investor started pouring money in? It's the same as the reasoning behind most of the other cycles I've mentioned above - the vast majority of people who previously experienced this and would have been alive to remember the 1920s have passed away by now. With an absence of people alive to have this mistake in living memory, humanity is bound to repeat the same mistakes, ignoring the warnings from our ancestors who are no longer with us, and repeat the cycle.
+
+There's one pair of billionaires who are old enough to remember the aftermath of the the stock market pump that led towards the 1929 crash - Warren Buffett and Charlie Munger. Warren would have been born right after the crash and Charlie would have been 5. Both of them entered the finance industry while the stock market was still recovering from it, and still below the 1929 highs. For anyone who [watched him talk](https://www.youtube.com/watch?v=69rm13iUUgE) at the annual shareholder meeting, he spent a few hours talking about a similar story - one of the highs and lows of American history, with a bullish perspective. He wouldn't have spent hours talking about the 1929 crash and the fact that it took multiple decades to recover if this wasn't relevant. This is supported by the fact that he bought virtually nothing since the crash, and has been gradually selling a large portion of this publicly traded equities - first his airlines and now banks. Although he believes that we'll eventually recover (i.e. "Never bet against American", in the long run), it's clear from his actions that he sees parallels of this from the stock market he grew up in the shadow of in his childhood and doesn't want to bet for America in the short term.
+
+EDIT - Someone pointed out this article by Ray Dalio: [https://www.linkedin.com/pulse/big-cycles-over-last-500-years-ray-dalio/](https://www.linkedin.com/pulse/big-cycles-over-last-500-years-ray-dalio/) which basically talks about something very similar. I actually didn't even know about the existence of this article and actually wrote this before this got published, but looks like we both came to the same conclusion, and this is a shorter version of Ray Dalio's article. Recommend everyone check this out if they want a more in-depth version of this DD with more data and this this post as a tldr of it.
+
+**Weekly SPY Watch Updates**
+
+This section has absolutely nothing to do with anything I talked about above, but people apparently care about trades I'm making and what my magic markers say will happen in the stock market this week, so I'll have this section of this post dedicated to that and my updates.
+
+I've since sold, with the exception of some VIX calls, all my short positions on SPY, and currently doing some individual plays - currently holding GSX puts and short (sold) HTZ calls, among some other smaller plays. With respect to SPY, it looks like we'll be in a new channel - this time 293-300; not sure how long we'll be staying in this channel for, but I'll be playing it by either selling short-dated iron condors or buying calls / puts when it reaches one end of the channel. While magic markers are telling me we're going to be bullish medium term, and go through 300 to new ATHs, meaning I should buy calls, I don't want to go against my own fundamentals in principle by the fact that the stock market is clearly already overvalued.
+
+5/25 3PM - /ES at 299, might open near the top of the channel. Will need to see how we open to decide if I'm going to enter a position on SPY again.
+
+5/25 10PM - Looks we're going to be trading on the upper half the of channel on Tuesday, with a trading range of 300-297. Might look to pick up some short-dated puts to play the channel if technicals look right on open.
+
+5/26 Noon - Got a small amount of 5/29 ATM puts to play the channel. We opened right above the 200MA so I'm relying on this being a fake out, and not very confident about this specific play.
+
+5/26 3:50PM - Looks like 300-302 range is acting like a resistance, heading back down in the 293-300 channel. Bearish intraday (5M, 15M) MACD => EOD dump and open lower in the channel tomorrow. Looking closely at what's going on with China.
+
+\- Wednesday (tomorrow): House votes on sanctions related to Chinese concentration camps of Uyghurs
+
+\- Thursday: China votes, and very likely passes, amendment to Basic Law in HK for "national security"
+
+\- End of Week: Trump promised that he will have a policy response, likely sanctions, for the change in HK's basic law, in addition to possibly revoking HK's special status
+
+5/27 Market Open - Opened at the top of the resistance again, but quickly reversing. Might play out similar to yesterday
+
+5/27 11AM - Going to wait till SPY hits 297 again and then roll my 5/29 puts I got yesterday to continue playing the channel down to 293
+
+5/27 3:50PM - Turns out it was a EOD pump instead of dump. Oversold on 5M and 15M, so probably need to consolidate again tomorrow with a trading range of 297-302 again. Not so sure about this one because there's a solid chance this just breaks through that resistance and goes towards new ATHs. Entered into more 5/29 puts and going to hold overnight, sell if we still have positive momentum going in to open tomorrow. If we don't break 300 again tomorrow, I'm going to assume we're going to new ATHs and buy some IWM calls, hedged with QQQ puts.
+
+5/27 6:30PM - My plan for tomorrow - see if we're actually in a 293-302 channel. There's going to be alot of uncertainty coming from China this week. If we're still above 302 by 10AM I'll probably transition towards bull positions. Most tech / strong companies are priced near their ATHs, and all the momentum coming into SPY is now coming from all the stocks that were really hit the past few months. Looking at CCL, JPM, and BA, all of whom are going towards a 1W MACD crossover
+
+5/27 11PM - Still above this channel. Again, if we open above 302 and don't quickly reverse then clearly 300 wasn't that much of a resistance and we're headed to ATHs - next stop is 313, followed by 340. To my bears out there - the 1W MACD has already crossed over, meaning we're not going to see a rug pull any time soon, with the exception of some dramatic event happening in China. I'm not taking any medium-term bearish positions and currently just trying to play this channel, although the bullish momentum is stronger than I expected and not consolidating that much on 300 (yet). Watch out for August - that's when most medical experts agree a second lockdown is going to become evident and this bubble will pop; I still stand by my long term thesis. However, in the short term, don't trade against the trend and profit off the bubble.
+
+5/28 9:40AM - I was wrong again. Going to sell those puts when SPY hits 302 at a small loss. We're headed to ATH
+
+5/28 11:40AM - Overbought on 15M and 1H RSI, should see more consolidation today, and hopefully hit my 302 target to sell later today.
+
+5/28 1PM - Stopped out of my small SPY puts, rolled that out into bullish positions on JPM, BA, and CCL. Will probably be doing SPY plays for a while, since all the technicals are pointing to a bullish rally, but only way for that to continue is for beaten down stocks like the ones mentioned, and found in IWM, to skyrocket the next few weeks. Also probably going to stop updating this thread as much.
+
+5/28 5PM - 1H MACD is about to cross, and SPY got near 302 today, We've clearly broken the previous resistance area of 300-302, alot earlier than I was expecting; today was just a day for consolidation because RSI was overbought, now it has room to grow. MACD also acts as a resistance and typically will bounce back instead of cross if there's still bullish sentiment. I believe this is the case now, and we will also see SPY bounce up from the previous 300-302 region of resistance with it becoming support; the next level of resistance will be 313 on SPY, which is where we'll be headed soon. Haven't been holding any medium-term short positions, and am currently net long on financials and transports, which will very likely rally disproportionally if SPY continues to go up. Very well aware that this is a bubble, but I called the top wrong and trading against the trend will just lose you money.
+
+5/28 7PM - Tomorrow will be an interesting day, Trump announced a news conference, with an unspecified time, where he will talk about actions he will do to China, potentially sanctions. There was a very small dip in the market on this news but nothing much else has happened yet. Depending on what the actions are, could be a red day tomorrow and break 302. I'll play this out intraday if we don't open low tomorrow
+
+5/29 11AM - SPY is re-testing the 300-302 area, this time as support. Everything really depends on whatever Trump announces today regarding retaliation about China. Hard to say what can happen. If it's something extreme, like sanctions or tariffs, this could lead to another crash. Anything else would mean this SPY immediately bounces back from this support area.
+
+5/29 1PM - Trump conference scheduled at 2PM. Will watch stock market reaction and trade with sentiment from it. If retaliation is bad enough to drop below 300, could be the rug pull all the bears have been waiting for.
+
+5/29 2PM - Picked up some 302-300 debit spreads coming into the news conference, planning on holding this for an hour and selling by EOD
+
+5/29 3PM - Sold puts during the speech and flipped to 304-310 calls. Looks like this wasn't enough to break through support. Going to hold these overnight, momentum looks to be turning bullish now that there's no longer any uncertainty about China, and actions are unlikely to provoke a Chinese retaliation.
+
+5/29 4PM - Sold my short-dated calls. Coming into the weekend, it looks like next week will continue to be bullish, with 1D MACD convergence continuing, as well as the lack of any resistance until 313.
+
+Week of Jun 1 - Jun 5 - Looking at SPY hitting 213 by end of week

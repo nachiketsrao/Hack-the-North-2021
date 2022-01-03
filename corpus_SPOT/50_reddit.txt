@@ -1,0 +1,21 @@
+https://ibb.co/DtjS9JK
+
+——
+this is a technique that i have been trying to introduce to the greater community. options are funny instruments im that, a persons perception of them and how they should be used, can severely limit how we use them. and we could miss opportunities because of this. initially people looked at this photo and said, WTF is that. below i have included my analysis from what i saw when i chose these 3 legs for tomorrow. 
+
+——
+buy the $55 call, sell the $55 put
+
+your mid on that is $6.45
+
+share price is 48.70
+
+lets assume at some point in the future you will pay $55 per share. either you exercise your call or the put you sold gets exercised. but you are collecting a premium for that commitment of $6.45.
+
+okay so, lets now say that you are actually paying $48.55 per share... 
+
+strike at $55 less prems of $6.45 = $48.55
+
+now add a leg and you sell a call with a strike at $50 to collect a premium of $2.15 because what did you pay for your shares? yessir, $48.55
+
+also, for those that put emphasis on remaining delta neutral, you can opt to sell 2x of the $50 calls. i think it came out to be -0.067 or something close to that figure, if two calls are sold. and you’d have to double check that and you may beed to sell short or buy 50-80 shares depending on what ypur delta stacks up to be

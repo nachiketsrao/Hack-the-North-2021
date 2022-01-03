@@ -1,0 +1,45 @@
+*I'm not a financial advisor; I'm just a regular investor who likes stocks. Do your due diligence before purchasing shares, and make sure you invest what you can afford to throw away without feeling guilty about it.*
+
+Hello ladies and gentlemen.
+
+Here in this immaculate, sophisticate and intellectual universe called "the Internet", all the great scholars know the name Roblox. For the unintelligent who doesn't know, it's a platform for content creators to make great games for everyone to enjoy. Some of the popular games include "Natural Disaster Survival", "Phantom Forces", "Work at a Pizza Place", "Speed Run 4", and much more.
+
+In November 2020, Roblox announced that they would make an Initial Public Offering on the New York Stock Exchange with the ticker symbol "RBLX". Unfortunately, they temporarily suspended the plans because they wanted "to work with our advisors to see how we can make... improvements" to its market debut.
+
+When we thought Roblox would debut in February, we get horrific news: Roblox delayed IPO for a second time following SEC scrutiny. What a tragedy! Thankfully, they've now announced a new date: March, this time through a Direct Listing. Finally!
+
+Digging through their financials, it seems that Roblox, the meme that came and went, isn't what I first thought, and I would like to share that with you today.
+
+*The following information was submitted to the SEC as an S-1 Registration Statement Form on November 19, 2020. You can find the archive* [here](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm#INDEX)*.*
+
+* In 2019, revenue was $488.2 million, a 56% increase from $312.8 million the year before. In 2020, revenue was $588.7 million, a 68% increase from $349.9 million a year ago.
+* Bookings also grew. In 2019, it was $694.3 million, a 39% increase from $499 million in 2018. In 2020, it was $1.24 billion, a 171% increase from $458 million in 2019.
+* Net loss was at $97.2 million in 2018 and $86 million in 2019. Furthermore, it continued to decrease in 2019 to $46.3 million before an increase to $204 million in 2020.
+* Net cash provided by operating activities was £101 million in 2018 to $99.2 million in 2019. Surprisingly, in 2020, it grew to $345.3 million from $62.6 million in 2019.
+* Free cash flow was $35 million in 2018 and $14.5 million in 2019. Additionally, it was $6 million in 2019 and $292.6 million in 2020.
+
+Based on the information, it's clear that Roblox has been investing within its operations. Net loss was at $204 million in 2020. However, revenue has stayed consistent, and bookings have dramatically increased. They are not doing anything reckless; they are just pumping money into their business to improve the user experience or fund R&D for future products.
+
+Their Growth Strategies, located on page 7, indicates that they are "continually investing in the Roblox Platform, including significant investments in high fidelity avatars, more realistic experiences, 3D spatial audio technology, and other social features".
+
+Page 13 talks about shares. The number of shares that would be outstanding when the offer was going to be in place was 477,792,658 for Class A and 57,287,302 shares of Class B common stock. Furthermore, Class A common stock's weighted average price was $2.98 per share, while the weighted average price for Class B common stock was $3.41 per share. So, based on this information, we can calculate the market cap of Roblox.
+
+477,792,658 x $2.98 = **$1.42 billion** ($1,423,822,120.84)
+
+57,287,302 x $3.41 = **$195.3 million** ($195,349,699.82)
+
+Total: **$1.62 billion Est** ($1,619,171,820.66)
+
+The best way to think of Roblox is that it's the YouTube of Steam. Steam is a digital distribution service that provides a platform for game developers and third-party publishers to sell and promote their games to a vast customer pool while simultaneously profiting by taking a small commission from developers.
+
+Roblox is very similar; it's a digital distribution service for game developers to publish their game environment to a vast customer pool. However, they profit from Robux sales/subscriptions and ads, just like YouTube.
+
+What sets Roblox apart from Steam is that they have a built-in development kit that's easy to use. Anyone who has some free time can go to Roblox Studio, put together a game, and release it within a couple of hours without waiting for approval or other complicated steps. The limit is the developer's imagination. While you can argue that a person can pick up Unity, learn the concepts, make a game and release it on Steam, Roblox Studios is simple, basic and integrated within Roblox itself. You don't need to wait for approval; you don't need to get into Steam Greenlight to get potential customers to get onto the platform; you make a game, get many friends to join you and publish.
+
+I think Roblox has some good potential. Their business model is very different from many video game distributors or publisher platforms. It has more ties to YouTube, SoundCloud and Twitch than Steam, GOG, Epic Game Store, etc. It doesn't have to compete with them, and that's their strength, in my opinion. They are doing something that most popular digital distribution platforms simply cannot do right now.
+
+My prediction for the share price when they debut in March is around $10-20.
+
+Thank you for reading. Any corrections or mistakes, let me know.
+
+*I'm not a financial advisor; I'm just a regular investor who likes stocks. Do your due diligence before purchasing shares, and make sure you invest what you can afford to throw away without feeling guilty about it.*

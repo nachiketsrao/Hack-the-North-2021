@@ -1,0 +1,71 @@
+# I. Introduction
+
+I'm sure every one has been robbed by Theta Gang once or twice whilst YOLOing on FDs. There is nothing worst than death by a thousand cuts chopfest bringing your option to zero even though the stock hasn't moved. This post is going to show you how to identify that BEFORE you enter a trade - and how to get AROUND it altogether.
+
+Markets only do two things: **they consolidate - or chop within a defined range gathering energy for the next move, and they trend - or break a defined range, moving in a straight line towards a new one.** This is the basis of most technical analysis and technical patterns.
+
+Markets **consolidate about 70% of the time** and **trend about 30% of the time** \- but **most people only know how to trade the 30%!** This is why many fail - it's important to understand both scenarios.
+
+# II. Rangebound Markets
+
+This is when a market is chopping within a clearly defined range. Price will sell at the highs - and rise at the lows - constantly reverting to the "mean". The mean in this case is usually the center of the range. Price is chopping because it wants to see what buyers and sellers think of this range. Also, key players are building new positions here.
+
+Basically - you are going to see a lot of chop with no clear direction - and long options holders of both varieties will get brutally fucked. IWM is a great example. It's been rangebound for 6 months.
+
+# III. Trending Markets
+
+This is when a market is moving in one direction - breaking into a new range. Price is ready to go; subsequently, buyers and sellers have finished adjusting their positions for the next move. The amount of time we spent rangebound determines the length of the trending move. The longer the better - and the wider the range, the better.
+
+This is when you want to buy long options. Price will move perfectly for them to profit - and theta gang usually won't be an issue.
+
+# IV. Practical Applications
+
+* **Rangebound Markets**
+
+In a market like this, the best strategies are mean reversion strategies. This means to buy the dip and sell the rip. You generally want to **stay away from short dated long options altogether** and play **with theta gang.** This means put credit spreads at the lows, call credit spreads at the highs. You could also use calendar spreads, or any other theta positive play. You want time and chop to be **working for you not against you.**
+
+First though - you need to **identify the range.** You can do this through **technical patterns - or key levels.** Technical patterns are simply lines that define the range the price is consolidating - and when price is no longer consolidating. They are your roadmap for avoiding the chop, and playing the eventual breakout.
+
+Put credits and call credits will work the best when price is near extremes and implied volatility is high. Calendar spreads will work best when implied volatility is low.
+
+Let's take a look at an example to reinforce our understanding:
+
+[RTY \(IWM\) 1 Year 1 Day Chart](https://preview.redd.it/331hcxod3sh71.png?width=2249&format=png&auto=webp&s=64e2602d9c2e950fd1eb4e6ef2aa5cf03fbab007)
+
+If you read my previous post you know that IWM is the small cap index - or **the index all your favorite meme stocks are in.**
+
+Look at what it's been doing for 6+ months. Its literally in the same spot! All it's done is chop back in forth in this defined range. You can identify said range by drawing a line connecting the highs and the lows - and you will see it forms a **symmetrical triangle.** This is a common technical pattern. When coming from upside the **end result is biased bullish -** but in the mean time price is going to chop sideways, fucking your options.
+
+In this situation, you either want to buy the low of the triangle and sell the top - or you want to buy the breakout (a daily close above or below). This is massive pattern, so the breakout will likely bring a massive move.
+
+* **Trending Markets**
+
+Here - you want to play on the momentum side. This means playing options where volatility works in your favor, like **regular old calls, puts - even straddles/strangles. You can get away with short dated options here.** If these are your primary method of making money - stay out of rangebound markets and only play trending ones! You have to know when it's time to sit out - **cash is a position too.**
+
+When the market is trending is when retail is printing and social media is ripe with meme stock gains - because the vast majority of retail only knows about momentum trading and doesn't know another way exists. This is how big players like it, so they can steal your money the other 70% of the time.
+
+Here's an example of a trending market:
+
+[ES \(SPY\) 1 Year 1 Day Chart](https://preview.redd.it/i6y9fz8b3sh71.png?width=2249&format=png&auto=webp&s=71ab6b150fbbbff777c8749c4051944fb5f9c31f)
+
+Price makes new all time highs every couple weeks ever since it broke that range that lasted from last September to last November. Until we break some of those trendlines down - you can expect it to continue - and you can ride the wave. Since it's a bullish trend - in this market you want to **buy the dip** and look for smaller technical patterns to **buy breakouts.**
+
+However - for the best play on a trending market - you usually want to enter the moment the technical pattern that creates the trend breaks. For instance, when that IWM triangle finally breaks. This gives you the best risk rewards, since you can stop loss just below the breakout. In this case, you wanted to enter calls in November and buy the dip every drop since.
+
+# V. TL;DR
+
+Markets only do two things: **they consolidate - or chop within a defined range gathering energy for the next move, and they trend - or break a defined range, moving in a straight line towards a new one.** This is the basis of most technical analysis and technical patterns.
+
+* **Rangebound Markets**
+
+This is when a market is chopping within a clearly defined range.
+
+In a market like this, the best strategies are mean reversion strategies. This means to buy the dip and sell the rip.
+
+* **Trending Markets**
+
+This is when a market is moving in one direction - breaking into a new range.
+
+This is also when you want to buy long options. Price will move perfectly for them to profit - and theta gang usually won't be an issue.
+
+**Understand these concepts and never let Theta Gang steal your tendies again!**

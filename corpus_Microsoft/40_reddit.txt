@@ -1,0 +1,17 @@
+People underestimate Blackberry's QNX operating system as a secure RTOS (Real Time Operating System) based off of microkernel architecture. 🚀
+
+For those who don't know how a RTOS microkernel operates let's explain with minor detail. QNX is one of the most adopted embedded OS's in the world it's installed in defense systems, power plants, municipal grids, robotics, rockets, rail and 175 million vehicles and rising.🚀
+
+The reason for it's adoption is because of the way a QNX Neutrino RTOS operates compared to what we consider typical everyday operating systems. Most operating systems including IOS, Windows, Linux(Android) and MacOS to name the most apparent run on monolithic designs or hybrid kernels.🚀
+
+A true microkernel architecture like QNX Neutrino RTOS has full memory protection which is built in meaning that any component can fail and be restarted without corrupting the microkernel or other components in the system. If failure does occur, QNX has the ability to rectify the problem without affecting any other part of the system through process monitoring and recovery components. This feature and ability equals extreme reliability, security and being a microkernel the OS is also modular.🚀
+
+So what is the big deal your probably asking, Apple, ABC, and Microsoft might enter the space? Not exactly, in fact there has been work in this space from all three companies. Apple opened a facility across from QNX in Kanata and hired the ex creator of the OS Dan Dodge in 2016 to work with Mansfield on the autonomous car project called project Titan. The need for a secure and stable software is where Dodge and his decades of experience from QNX come into play.🚀
+
+The need for a software system as reliable and secure as QNX should be a big flag to the sheer potential of QNX. It is clearly a threat and tough competition for even the biggest software companies. Not only this but project Titan continues to be illusive revealing possible setbacks and interference in trying to compete but also Apple lost several top managers from it's Apple Car project causing a potential setback to the launch revealing some attrition in the project.🚀
+
+QNX version (7.1) is years ahead and analysts predict the next competitor is still 5 years away from anything even remotely close.  QNX hypervisor 2.0 is 61508 SIL 3 certified and has been recognized as ISO 26262 ASIL D compliant making it the world's first ASIL D safety-certified commercial hypervisor. 🚀
+
+As other's race to catch up, BlackBerry has been filing patents on it's system.🚀
+
+The QNX Hypervisor utilizes patented and patent-pending technologies that simplifies how elements are shared on the system. Multiple OS's can use 1 display controller to render content onto multiple displays, aka digital instrument clusters and infotainment.🚀

@@ -1,0 +1,98 @@
+**About ViacomCBS**
+
+&#x200B;
+
+https://preview.redd.it/j5x0gffjwpd71.png?width=2560&format=png&auto=webp&s=95274c9c167345b1b0354388eedcdc9339050132
+
+ViacomCBS (ticker: VIAC) is a global media and entertainment company focused on creating and distributing premium content. It operates through various brands including CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, CBS All Access, Pluto TV and Simon & Schuster.
+
+**Financial metrics**
+
+* Last price: 42.16
+* Market cap: 27.4B
+* Revenue: 26.2B
+* P/E: 9.31
+* Price/Sales (ttm): 1.05
+* Price/Book (mrq): 1.42
+* RoE: 17.7%
+* EPS (q1): $1.52  (ttm): $4.53
+
+**Stock valuation**
+
+* Analyst target price consensus: $50.94
+* [Morningstar](https://www.morningstar.com/articles/1042279/viacomcbs-is-a-rare-value?utm_source=eloqua&utm_medium=email&utm_campaign=newsletter_stockstrategist&utm_content=29980) Fair Value estimate of $61.00
+* Intrinsic Value using [DCF valuation](https://www.alphaspread.com/security/nasdaq/viac/dcf-valuation) is $117
+
+**ViacomCBS's BULL case**
+
+VIAC is an established profitable company with high free cash flow and a RoE of 17.7%. Yet it remains profoundly undervalued following persistant negative sentiment after the share price plummeted in March (see lower). It is currently trading at a PE ratio of merely 9.3 (historically \~15) compared to a median PE ratio of 21 in the Media industry. ViacomCBS is a low-risk high-reward bet with hardly any downside left.
+
+Note that earnings estimates were consistently beat the 4 past quarters. Current Q2 consensus EPS is a meagre $0.96, but I see no reason for it to be any less than Q1, and instead I rather expect blow-out earnings this quarter thanks to:
+
+1. **sVOD (Paramount+, Pluto TV) popularity**  
+Android app store [stats](https://www.androidrank.org/application/paramount_watch_live_sports_news_originals/com.cbs.app) may provide some insight in the popularity of the premium streaming service Paramount+. It is currently nr 4 Top Grossing Entertainment app (US). Assuming the total number of ratings has a linear correlation with number of downloads and therefore also subscriber count, extrapolation results in an estimated 3.5 mio new Paramount+ subscribers during Q2 (vs Netflix's +1.5mio).Using the same methodology we see further growth for Pluto TV, good for another +6 mio MAU's last quarter. That should convice at least a couple of analysts to raise their price targets.
+2. **Post-pandemic ad-market rebound with "historic demand" resulting in historic pricing**  
+ViacomCBS reported strong demand for live sports and CBS primetime programming. In addition, Paramount+ and Pluto TV reported significant interest as advertisers use AVOD to build incremental reach. *Variety* reported ViacomCBS was seeking slightly higher CPM increases that were in the low-to -mid 20% range.Source: [https://www.forbes.com/sites/bradadgate/2021/07/14/the-advertising-upfronts-were-a-big-sellers-market](https://www.forbes.com/sites/bradadgate/2021/07/14/the-advertising-upfronts-were-a-big-sellers-market)
+3. **Increased theatrical revenue** (was nearly zero YoY as result of movie theater closures)  
+E.g. [A Quiet Place 2](https://www.boxofficemojo.com/releasegroup/gr3159642629/) ranked nr 1-2 at the box office up until 30 Jun, grossing almost $300M to date.
+
+**Streaming war in numbers**
+
+||PE Ratio|sVOD subscribers (mio)|
+|:-|:-|:-|
+|ViacomCBS (Paramount+)|9.3|36 (Q1: +20%) + 50 Pluto TV MAUs (Q1: +13%)|
+|Netflix|53.5|209 (Q2: +0.7%)|
+|Amazon (Prime)|70.4|175|
+|Disney (Disney+)|N/A|104 (Q1: +10%)|
+|Comcast (Peacock)|23.2|42 (Q1: +27%)|
+
+&#x200B;
+
+**What happened to the stock in March?**
+
+https://preview.redd.it/595o0uhuwpd71.png?width=2013&format=png&auto=webp&s=fe46399280ad49280c978e9ef69c70f370f1892f
+
+ViacomCBS shares saw a huge run up to $100+ at the start of this year after announcing its renewed Paramount+ premium streaming platform.
+
+Bill Hwang's Archegos Capital Fund spotted the opportunity and accumulated VIAC stocks with enormeous leverage. ViacomCBS took advantage of its momentum and tried to capitalize by issuing new shares to fund the new streaming platform. This caused a modest price drop, unwittingly initiating a chain reaction: Bill Hwang got margin called. Multiple over-exposed banks (including GS, MS, DB and CS) rushed toward the exit and unwound Hwang's positions. Millions of shares were dumped simultaneously, tanking the stock price.
+
+I should emphasize there was **no fundamental reason** for this plummet, rather an epic bid-ask imbalance. Remember: just days before, $3 billion "smart money" signed into the capital raise at $85 per share.
+
+# SWOT
+
+**Strengths**
+
+* Huge content library with 140,000 television episodes and 3,600 films covering multiple genres
+* Increasing advertising revenue thanks to steady subscription growth on Pluto TV
+* Growing Paramount+ premium subscription counts
+* Valuable NFL sports rights, Super Bowl in 2023
+* Paramount Studios should benefit nicely from reopened movie theaters and has some top movies upcoming (Top Gun: Maverick, MI6)
+* Plenty of cash flow
+* Stable dividend of $0.96 per share
+
+**Weaknesses**
+
+* Negative market sentiment after the Archegos disaster
+* High debt
+
+**Opportunities**
+
+* Attractive target for buyout/M&A
+* Paramount+ and Pluto TV have yet to launch in India and most of Europe, both huge markets
+
+**Threats**
+
+* Increasing competition from Netflix, Amazon Prime, Disney, NBCUniversal
+* Cord-cutting leading to a drop in TV advertising demand
+
+# TL;DR
+
+The stock is currently severely undervalued compared to its industry rivals despite its excellent fundamentals, growth potential and free cash flow. As a bonus it is a potential buyout candidate for Amazon, Netflix, the newly merged WarnerMedia-Discovery or even Apple who are all in search of new content.
+
+ViacomCBS is a coiled spring waiting to pop, and this might be your last chance to get on board cheap before Q2 earnings are released next week.
+
+*Disclaimer: I am not a financial professional, always do your own DD.*
+
+*Disclosure: I put my money where my mouth is and have a $25K long position in VIAC.*
+
+*PS: Blue horseshoe loves VIAC*

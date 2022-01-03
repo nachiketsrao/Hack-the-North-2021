@@ -1,0 +1,31 @@
+One of the most exciting IPOs this year is coming tomorrow morning - Roblox. This is a company with a strong founder/CEO, huge network effect & ecosystem MOAT, a large and attractive young user base that could propel it to become the next "Facebook," and, for those who appreciate healthy fundamentals, strong and steady topline revenue growth as well as positive cash flows.
+
+Roblox will open at $45, based on its recently fundraising round valuing it at $29.5B.
+
+I believe that its fair stock price (sell target) is $80. Below is my quick analysis:
+
+\- The average first day gain of tech IPOs in 2020 was 82%. That would value Roblox at **\~$82/share.**
+
+\- Here's something unique about Roblox's financials. **While its revenue in 2020 was $924 millions, its 2020 revenue bookings, which contributed to its actual cash flows from users who bought a lot of Rubux, was double that at $1.9 billions.** Further, while the company didn't report a profit, **it had a very positive free cash flow of $524 million** due to its high $1.9 billion of booking. This reminds me of Amazon's beautiful model of free cash flows which propelled its rocket growth over the year despite seeming unprofitability.
+
+\- Given Roblox's unique high billing compared to its revenue, **I decided to take the average of its revenue and billing (Average of $924M and $1.9Bn = $1.4Bn) to apply comparable companies' multiples to.**
+
+\- **Its closest comparable companies are Unity and Facebook (at the time of IPO in 2012).** Unity is trading at 36x trailing 12 month revenue but had negative cash flow with a much less attractive business model. Facebook, another company built on strong network effects, traded at \~28x trailing 12 month revenue and 100x its trailing 12 months earnings at its IPO in 2012.
+
+\- If I apply Facebook's 100x TTM earnings multiple to Roblox's $524M free cash flow in 2020, I get \~$52Bn of market cap or **\~$80 in stock price. Facebook, at the time of its IPO, traded at >220x trailing 12 month free cash flow.** Unity had negative free cash flows in 2020. Hence, one could argue that the 100x free cash flow multiple is reasonable if not conservative.
+
+\- If I apply 36x TTM revenue multiple from Unity today to the average of Roblox's revenue and billing at $1.4Bn, I got \~$50Bn in market cap, **or $77 in stock price.** If I apply FB's 28x at its time of IPO, the stock price would be \~$60 but the market also generally traded at lower multiples back in 2012 plus Facebook's valuation grew tremendously after IPO, **so Unity's revenue multiple is more applicable for today's market.**
+
+**Highs:**
+
+**- Strong founder CEO:** David Baszucki is one of the most visionary founder CEOs with both solid leadership chops and a strong product vision.
+
+**- Huge network effect and ecosystem MOAT:** Roblox has a beautiful business model, a hybrid of subscription and marketplace. The ecosystem it has created over a long time has a highly defendable MOAT. Fueled by strong cash flows, the company is also continually investing in its ecosystem.
+
+**- A large captivated young user base - an envy for Facebook + opportunities for international growth opportunities:** If you are hunting for the next Facebook, it will never look like Facebook. Half of the kids in the US are on Roblox and it's rapidly expanding internationally! Zuckerberg is constantly paranoid about losing the next generation. Here comes Roblox!
+
+**- Potentially huge advertising revenue opportunities.** Roblox is still at the early stages of exploring advertising revenue opportunities given its huge attractive user base. This can be huge.
+
+**Risk:**
+
+**- COVID's fading:** As COVID fades, people may go outside and spend less time gaming. However, looking at Roblox' steady YoY growth even before COVID, it seems that COVID was simply an accelerator but not a game changer.

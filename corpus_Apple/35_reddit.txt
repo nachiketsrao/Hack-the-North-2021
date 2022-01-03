@@ -1,0 +1,120 @@
+^(I'm  not a financial advisor, nor am I giving any financial advise. This is  an entertainment/comedy-nonfactual post. I'm a retard  posting on WSB  with a bias due to having a position of my portfolio in $ASTS.  So, Don't act on anything posted in here and proceed on your own risk...)
+
+**I Highly recommend reading Part 1 first.**
+
+# (Important Part and TLDR)
+
+ In this DD, I'm going to answer the questions of the skeptics in my previous DD. Since this is a speculative play, skepticism is healthy especially when the stock is in it's very early stages. We definitely don't want this to become the next $NKLA... In addition, There's a risk that it goes to 0$ if shit hits the fan. On the other hand, if things go according to plan, this can easily go 200$+.
+
+***Q1-" 5G can only go 1500 feet tops. So, any claims to be anything more than 4G is fake physics sentimentalization..." by*** *u/*[*WilliamNyeTho*](https://www.reddit.com/user/WilliamNyeTho)
+
+>**TLDR; The 1500 Feet figure was brought up by Google searchs smart answer and was pulled up from a Verizon post. Long story short, this doesn't apply to LEO satellite technology used by AST Spacemobile.**
+
+A:   First, **5G is a standard that incorporates many different bands of spectrum, including cellular (600mhz - 3.5ghz), which has great distance and propagation characteristics,** and much higher millimeter band spectrum which has issues traveling far distances and penetrating objects.  **ASTS is planning to use its partner’s CELLULAR spectrum,** which can travel much further than millimeter band spectrum that is referred to by bears.
+
+Second, Traditional communication satellites are geostationary and have been in orbit for more than 50 years. GEO satellites weigh more than 1000kg and operate 36,000 kilometers above the earth. These satellites remain in a fixed position relative to any position. Despite Earth’s orbit, this allows ground-based antennas the ability to point directly at the  satellite, in a fixed position. 
+
+In contrast, Low Earth Orbit (LEO) satellites(which ASTS is going to use) orbits between 200 and 2000 kilometers above Earth’s surface. ASTS is planning to have their satellites at 720Km using cellular spectrum primarily located between 600mhz - 2.2ghz weighing around 2000kg.
+
+Unlike Geostationary Orbits (GEO), LEO satellites move rapidly(at an altitude of 500km, it can move at a speed of 7.6 km/s)  with respect to the Earth’s surface and have a small ground coverage. In particular, the ground coverage of a LEO satellite deployed **at 600 km** above the Earth’s surface and with a typical elevation angle of 30 degrees **is around 0.45% of the Earth’s surface.** Moreover, **due to the low altitude of deployment,** LEO satellites can communicate **with diverse types of ground terminals, such as dedicated ground stations (GSs), 5G gNBs**, ships and other vehicles, or Internet of Things (IoT) devices. This creates the need for a relatively dense constellation **to ensure that any ground terminal is always covered by at least one satellite.** Therefore, global commercial deployments such as ASTS usually consists of more than a hundred satellites to be able to have a full global coverage.
+
+Now AST satellites each will have up to 2800 user beams and two or three gateway beams. Each user beam will be electrically steered through a large phased array antenna and will be capable of being pointed anywhere within the Field of View (“FoV”) of 20 degrees elevation angle. Each satellite in the AST constellation will provide service up to 58 degrees away from boresight.
+
+Each satellite may transmit all of its active user beams on the same frequency or different frequencies. Each active user beam will track a fixed cell on the ground within its FoV without steering the boresight of the planar phased array antenna. All of the active beams can be distributed flexibly  within the FoV.
+
+The same cell on the ground can be illuminated by a single beam, by multiple beams from same satellite, or by multiple beams from different satellites with in the view of the cell to enhance the user experience. The beam-to-beam handover and the gateway handover are based on schedules and  use a “break -then- make ” approach.
+
+# How Apples rumor plays into this? (VERY BULLISH)
+
+IPhone 13 is rumored to contain a chip with increased satellite connectivity capabilities, Qualcomm Snapdragon x60. In addition, There is a 3GPP release 16 chip that has been available to OEM(original equipment manufacturer) phone makers since the beginning of this year and it will be in phones starting early 2022. This chip is designed by Qualcomm and it is called x65. Moreover, it is manufactured by AST SpaceMobile's partner Samsung. This chip is the worlds first chip to fully implement 3GPP release 16.
+
+Why is it important?
+
+It will feature enhanced beamhandling capabilities, 4x4 MIMO, and an increased satellite connectivity.
+
+**That is very bullish because it shows that Cell phone makers are already getting ready to connect even better to AST SpaceMobile constellation.**
+
+[Satellite Coverage](https://preview.redd.it/b7tzwk7r6hm71.png?width=455&format=png&auto=webp&s=6c5e30e0fceb7cf2c0163a7e361433edbfee0dce)
+
+For more details, check out this research paper: [https://arxiv.org/pdf/1912.08110v4.pdf](https://arxiv.org/pdf/1912.08110v4.pdf)
+
+***Q2- "No fuckin way they pull that off with a 10m2 sat with any sizeable number of users..." by***  *u/*[*WilliamNyeTho*](https://www.reddit.com/user/WilliamNyeTho)
+
+>**TLDR; AST SpaceMobile is planning to have enormous satellites with a cross section of 450m2.**
+
+The large LEO concepts are mainly planning to use Ka band for Backhaul. These frequencies **enable higher data rates,** smaller antennas, narrower beams, and greater security. Moreover, improved spectral efficiency and spectrum-reuse rates can also **increase the amount of data a system delivers.**
+
+In addition to better use of spectrum, advances in active antennas and processing have **raised throughput per individual satellite, increasing constellation capacity.** Consider a few changes:
+
+* A satellite can now deploy more spot beams, and greater power can be delivered through each beam.
+* Intersatellite links (ISLs) improve connectivity and confer particular benefits to large constellations, including improved throughput and management.
+* Improved data-compression methods reduce bandwidth requirements without reducing the quality of communications.
+
+So, a 10 Ka-band steerable antenna can provide up to 1.6 Gbps of symmetrical data connectivity. In addition, two high-performance antennas, can provide up to 5.2 Gbps of symmetrical data connectivity. This is only for the backhaul between the satellites and terrestrial stations. ASTS btw is planning to use V bands for backhaul, which have less traffic on them vs. Ka.
+
+Now for the Fronthaul ASTS will use cellular spectrum (600mhz - 2.2ghz). These frequencies are used today by cellular phones. These frequencies are the best at covering long distances and can propagate through rain, walls, trees, etc .
+
+Now the numbers for ASTS aren't out, but we can talk about Starlinks numbers since it uses LEO satellites too which is essentially the same technology. Starlink will be able to support 485,000 simultaneous users at 100Mbit/s across the entire US, according to new estimates. Additionally, Elon Musk tweeted on 26 of June "Starlink simultaneously active users just exceeded the strategically important threshold of 69,420 last night!". The technology works and the numbers are impressive.
+
+***Q3- "What kind of lag is there to get this data from low earth orbit? Streaming is one thing, gaming is another. I'm curious what the latency would be." by u/***[*mbr4life1*](https://www.reddit.com/user/mbr4life1/)
+
+>**TLDR; LEO satellites have a low latency 25-35ms.**
+
+This question of latency is key. Some geostationary satellites at 35,786 km already provide broadband services but their transmissions take about 500-700 milliseconds (ms) to travel up and another 500-700 milliseconds to travel down. This time-lag is why users suffer the infuriating time delay during a conversation between the broadcast studio and an outside broadcast unit. If the OB (Outside broadcasting) is more than one satellite ‘hop’ away, then the delay is multiplied.
+
+Now on the other hand, A low Earth-orbiting satellite(What ASTS is using), between 200 and 2000 km, would manage these links in **about 25-35 ms**, a true fraction of existing satellite links and quite comparable to existing cables or fibre networks!
+
+***Q4- "Starlink will be a direct competitor by 2025" by u/***[***MaximumRecording1170***](https://www.reddit.com/user/MaximumRecording1170/)
+
+>**TLDR; Short answer is no.**
+
+*Great answer by*  u/[CatSE---ApeX---](https://www.reddit.com/user/CatSE---ApeX---/) :
+
+Yes, AST will be a fierce competitor  to Starlink as AST can do fixed cellular broadband at much lower customer acquisition cost. So they’ll be the prefered choice in  developing world and for low traffic applications in developed world.
+
+But, no, Starlink will not compete with AST in AST core market. Which is  connecting directly to unmodified cellular phones.  This is because Starlink uses high band spectrum that has poor distance and propagation characteristics, which requires users to 1) buy a large dish antenna that is fixed in position and 2) have a clear line of sight to the satellite.
+
+\*\*\*Q5- "\*\*\****How can phone signals reach the satellite given the strength of a regular handset?, How much is it affected by the weather?" by u/***[XinjDK](https://www.reddit.com/user/XinjDK/)
+
+*Great answer by*  u/[CatSE---ApeX---](https://www.reddit.com/user/CatSE---ApeX---/) :
+
+* Gainforming. It is a bit like beamforming but it optimizes the gain of the electronically steered antenna.
+* the cellular bands used for fronthaul (phone-satellite) are not affected by weather. The v-band used for backhaul (satellite to terrestrial ground  station / switch hooked up with terrestrial cellular network) is susceptible to rain attenuation. This is solved by having powerful antennas in both ends to overcome that attenuation. (If need be, several  alternative terrestrial sites within the FoV of satellite could be  used. To circumvent very heavy rainfalls. No such tweak has been  communicated by company though.)
+
+***Q6- A very frequent question, Why is this ticker allowed on WSB? Doesn't have a small market cap? u/***[Oxianas](https://www.reddit.com/user/Oxianas/) u/[Momoselfie](https://www.reddit.com/user/Momoselfie/)
+
+WSB doesn't tolerate BS aka SPACS, Crypt0, and Market caps <1.5 Billion. At the time of my first post, the market cap of ASTS was 1.7 Billion.
+
+Some brokers, such as TD Ameritrade, brings up only Class A share Data. That's why some people get confused with the market cap.
+
+The A,B, and C class shares were worth 1.7 Billion at the time of my first post.
+
+***Q7- Is there a partnership between SpaceX and AST Spacemobile? by u/***[***carsonthecarsinogen***](https://www.reddit.com/user/carsonthecarsinogen/)
+
+BlueWalker 3(ASTS Satellite) is expected to launch aboard a SpaceX mission from Cape Canaveral, Florida, in March 2022. The spacecraft has an aperture of 693  square feet and is designed to communicate directly with cell phones via 3GPP standard frequencies.
+
+***Q8- How could anyone possibly know that? 6G is still in development. by u/*** [The\_Super\_Capitalist](https://www.reddit.com/user/The_Super_Capitalist/)
+
+AST SpaceMobile Leo Satellites don't do onboard processing. They’re bent pipe architecture so they’re forward compatible with any protocols being carried on cellular spectrum.  As long as future protocols incorporate cellular spectrum, any future 6G, 7G, etc can be supported.
+
+***Q9- Get ready to get diluted to hell when VC gets called back in after the stock gets pumped. by u/***[The\_Super\_Capitalist](https://www.reddit.com/user/The_Super_Capitalist/)
+
+*answer by*  u/[CatSE---ApeX---](https://www.reddit.com/user/CatSE---ApeX---/) with edits :
+
+The owner/partners (Cisneros, American Tower, Vodafone, Samsung, and Rakuten) will provide non-dillutive funding options once equatorial satellites are deployed (and that  one is fully funded).
+
+The risk of  public offerings/dilllution risk should not be exaggerated. If equatorial constellation succeeds it will open up huge positive cashflows. And to aquire non-dillutive bridging financing from owners and/or banks to expand the constellation quicker will most likely be no problem at that point.
+
+Finally, the company can cash settle its warrants once the stock price trades above $18 for 20/30 trading days.  This would bring in $11.50 x 17.6M public/private warrants = $202 million in capital.
+
+***Q10- "Pump  & dump warning on this company guys. They just hyping a technology  that doesn't exist yet, no heavy institutions supporting them and mostly  owned by private stakeholders. If you really want to YOLO just short it  before it drops." by***  [Same-Seaworthiness20](https://www.reddit.com/user/Same-Seaworthiness20/)
+
+15 days later, and it didn't dump. For me, this shows that the holders are true believers and not just pumpers.
+
+No institutional support? Now this is straight up BS! Rakuten(Big japanese telecom), ATT, Vodafone, and American Towers all have a position in it. Go to Fintel to see all the institutional investors. According to Fintel, 29% is held by institutional investors. In addition, These investors are well versed in the 5G market and I don’t think that they would’ve invested if they didn’t see a proof of concept.
+
+&#x200B;
+
+My price target remains unhinged and will be illustrated bellow with Crayons:
+
+[AST SpaceMobile Price Target Illustrated with Crayons](https://preview.redd.it/bwxbf3oyugm71.png?width=678&format=png&auto=webp&s=03ec17d615388e2e6bfb18f6bf7d2d133e363bb7)

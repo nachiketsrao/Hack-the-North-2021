@@ -1,0 +1,122 @@
+^(I'm  not a financial advisor, nor am I giving any financial advise. This is  an entertainment/comedy-nonfactual post. I'm a retard  posting on WSB  with a bias due to having a position of my portfolio in $ASTS.  So, Don't act on anything posted in here and proceed on your own risk...)
+
+Roughly 40-47% of the world doesn't have access to online Porn or the internet, a **Trillion** dollar market untapped. Imagine more than **3 Billion** horny people limited to only masturbating to their imagination!!
+
+ASTS is a potentially once in a decade investment, one to the likes of Tesla at it's beginnings... A service which has no competitors, not even StarLink(as per the CEO). The one investment which could offset all the previous losses...
+
+ASTS is developing the **First and Only** Space based Cellular Broadband network, **SpaceMobile.** SpaceMobile will be **compatible** with all currently existing 5G and LTE smartphones without the need to do any modifications to your phones hardware. It will provide connectivity **at 4G/5G speeds** **everywhere on the planet – on land, at sea and in flight.** In addition, 5 Billion phones move in and out of coverage all the time, SpaceMobile is planning to bridge the gap of connection loss without the need of specialized equipment!
+
+# The Technology (Too Technical and can be skipped):
+
+**TLDR;  The tech has been proven to work on smaller scales but has yet to be done at the scale ASTS is aiming for. Additionally, it's 6G forward compatible!**
+
+***OVERVIEW***:  AST & Science (“ASTS”) has designed a large aperture satellite system to provide ‘direct-to-device’ service to normal phones using a low earth orbit satellite array to directly connect to mobile phones anywhere on Earth.
+
+***Hardware***\*\*\*:\*\*\*   ASTS’ satellites are \~10x bigger than the norm because they are essentially cell-phone towers in space. With a [900-square meter array](https://preview.redd.it/sk0cpuxbfnd71.png?width=1158&format=png&auto=webp&s=f57703695f83ed465a1912b1ae546a4c04c4852c), the system is a large **“loud”**  system that can connect with a regular mobile phone. Traditional satellite phones are just “listen hard” whereas ASTS simply produces a loud signal to connect to regular mobile phones.
+
+***SOFTWARE:***   ASTS’ system does not require a special chipset on the phone because of its proprietary back-end software system that allows for interconnection to existing terrestrial(on Earth) spectrum and telecom networks. The “magic” of the technology is the back-end software that allows the system to utilize terrestrial spectrum, seamlessly interconnect over existing networks, and talk directly to an LTE system; ASTS is 6G forward compatible.
+
+***BACKHAUL***:   Once the signal is collected from a handset, ASTS sends the data back  on B-Band satellite spectrum to a ground gateway system. The phone-satellite connection is native to the carrier’s terrestrial spectrum.
+
+***CAPACITY***:  Each satellite can handle 1.2MM GB per month; extra capacity can be added by directing additional satellites at an area.
+
+# Business Model(Can be skipped):
+
+**TLDR; ASTS brings the satellites and execution while their partners bring the customers.**
+
+***The Model:*** ASTS has chosen to partner with preexisting telecom giants to acquire a large customer base with essentially 0 acquisition costs per customer for ASTS. They have agreed to a 50/50 revenue split with its partners who are going to provide the customers. The 5g connection will be offered as an add-on to preexisting data plans provided by their partners or as a standalone purchase.
+
+***How Does it generate Money? :***  With its current carrier partners, Vodafone and AT\&T; given its large, fixed cost base, the Company expects to generate 90% asset-level EBITDA margins that provide  significant operating leverage and cash flow.
+
+In-place there are binding agreements with carriers to provide ASTS with access to  >1.3BN existing customers without having to independently market to or acquire customers (or directly bear the cost of churn). Phase 1 will  target key Equatorial regions and cover 1.6BN people. In subsequent phases, it's planning to expand into Europe and N. America by 2024.
+
+The company is expected to generate >$1bn of EBITDA by 2024 based on 168 satellites launched, 27MM total subscribers, with an ARPU of $2.50 per user.
+
+***ASSets:***  ASTS has 750+ patents as well as a first-mover advantage(no competitors yet). Moreover, Commercial progress reinforces the Company’s technical lead in the market having ATT, Vodafone, American Towers and Rakuten in it's pocket.
+
+# Timeline(can be skipped):
+
+**TLDR;** **They have broken up their plan into 5 different phases spanning multiple  years with the intent of slowly expanding their satellite constellation until full global coverage is achieved.**
+
+* Phase 1 - Equatorial constellation, 20 satellites by 2022
+   * Cash flow from phase 1 will support the following phases
+* Phase 2 - NA/Europe/Asia, 45 satellites by 2022
+* Phase 3 - Full global coverage, 45 satellites by 2023
+   * At this point ASTS expects to start turning a profit
+* Phase 4 - Full global MIMO coverage (increased data capacity), 58 satellites by 2023
+* Phase 5 - Scaling network globally, 16 satellites by 2028
+
+# Management(Can be skipped):
+
+* CEO Abel Avellan
+   * 25+ years of space industry experience
+   * Track record of building a successful global satellite communications company
+      * EMC Emerging Markets Communications
+* CFO Tom Severson
+   * Former CFO of EMC
+* CTO Huiwen Yao
+   * 30+ years of experience in satcom
+* CCO Chris Ivory
+   * 25+ years of experience in satcom
+
+Employees:
+
+* 236 full-time employees
+* 13 part-time employees
+* 161 scientists and engineers
+   * 24 of whom are PhDs
+
+**The deep executive ranks include executives from Orbital ATK, Globecomm,  NASA, and Maxar • The team has 161 scientists and engineers, 34 of whom  are PhDs.**
+
+# Catalysts(can be skipped):
+
+**The most important catalyst is the BlueWalker 3 satellite launch which will be taking place sometime in Q4  2021.**
+
+This will be a bigger satellite than any previous ones created but it still is not the biggest they plan to make. However, a successful launch and connection to BW3 would definitively prove that the tech works at larger scales.
+
+Other smaller but still significant catalysts include:
+
+* Government approvals for servicing in each country
+* The launch date for BW3
+* Acquisition of a portion of the federal 5g fund
+
+# Risks(Can be skipped):
+
+Every play ranging from 0dte to year long investments come with some amount of risk and this is no exception.  While some may simply be setbacks they are still worth knowing.
+
+* Delays
+   * Satellite construction and launch delays.
+* Execution
+   * Building, launching and deploying the satellites.
+* Regulators
+   * Need governmental approval for satellite operations from each country they wish to provide before they can service them.
+* Tech
+   * Satellite to phone connection still unproven on a large scale.
+* Funding
+   * Not fully funded (Need to raise \~1.5 bn) however phase 1 is fully funded and is planned to help pay for the subsequent phases.
+
+# Valuation(Most important part):
+
+The current market cap of ASTS is only 1.71 Billion for a stock with an extremely high potential, endless possibilities, and no competitors.
+
+SpaceX's Starlink(If we want to compare apples to oranges), will provide **FIXED-POINT(Doesn't connect to mobile)** broadband to customers at very high costs with unclear quality. Moreover Starlink cannot translate to mobile devices. It depends on Dish Satellites.
+
+StarLink is valuated between 40-50Billion Dollars! **Which equals around 222$-277$ of ASTS!!**
+
+Just like Facebook found out after it's IPO, the real market is and always will be in **MOBILE** and Starlink cannot translate to mobile devices.
+
+***Deutsche Bank most recent coverage:*** Their price target was set on 35$ and they added this nice comment **“If management executes on plan over the next five years, the company's intrinsic value should ultimately be "significantly higher"** than the $35  price target."
+
+***Barclays Most recent coverage:*** Their price target was set on 29$.
+
+**And Most importantly my coverage:** Well, you cannot really valuate this rare breed, because it's like trying to valuate $TSLA in the early days when it was just 50$(post split). ASTS is in a very similar situation right now having no competitors with a massive lead in the industry(A proven product on a small scale with well established partnerships with Vodafone, ATT, American Towers and Rakuten).
+
+Right now, it should atleast have a market cap of 10 Billion, which is 1/4 Starlink, and there's actually no competition.
+
+Price target will be illustrated with crayons bellow:
+
+[ASTS Price Target illustrated with Crayons](https://preview.redd.it/cew62pdeqjj71.png?width=651&format=png&auto=webp&s=43c5882e02595f60ed2d0f59646ad1e58605c2bf)
+
+&#x200B;
+
+^(Special thanks to /oceanice and /thekookreport for their great DD)

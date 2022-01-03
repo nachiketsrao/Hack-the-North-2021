@@ -1,0 +1,50 @@
+**Edit: Cut the champagne and open the steak boys!**
+
+Chewy is an e-commerce retailer of pet food and supplies, mainly active in the USA. Last quarter they posted USD 2.14bn in revenue from 19.8 million customers (600k of which were new additions). For Q2 they project 2.15-2.17 billion in revenue for a very modest 1% q-o-q growth.
+
+I think they'll outdo their (very conservative) revenue guidance, but fall short on customer additions for the quarter and revenue guidance for the following quarters. Chewy is currently trading at the upper end of its historical P/S ratio, (save for a brief time in Jan/Feb 2021 when it was even higher than today). It’s P/S of 4.76 is relatively high for its industry (as it is a low margin retailer, not a platform business). It’s actually higher than Amazon, which I would argue is too high to make sense and I expect a short-term downside re-evaluation of Chewy after earnings.
+
+**Reasons**
+
+* **Competition catching up**
+
+The key investment thesis for Chewy has been "Fast-growing pet e-commerce industry" and "growing faster than its competition in its fast-growing industry". I believe the second reason may be moderating. While Chewy is the clear market leader, I'm seeing several signs that its competitors (in both e-commerce and retail) are slowly catching up. Walmart (biggest brick and mortal pet retailer) just reported a big revenue beat. Petsmart (brick and mortar focused) is looking to increase revenue this year following a bad 2020. Petco reported great earnings two weeks ago.
+
+These good results could be because the overall market ("pet ecommerce") is expanding. I don't think so. The market expansion took place in 2020, the number of adopted pets is on a clear downtrend. If most other big players are doing quite well, I suspect they are doing so at the expense of Chewy.
+
+* **Low net customers additions**
+
+In Q1 2021 Chewy added a net 600k customers, their lowest absolute increase in two years. I expect them to report even lower additions this quarter as they follow up Q2 of 2020, their biggest quarter of customer additions ever. 1 year is a very typical "cliff" during which many former customers start to churn (according to Chewy CEO Sumit Singh). Since they haven't increased their marketing spend significantly this Q, I expect high churn and low gross additions, which is a bad early sign for growth companies.
+
+[Customer additions per quarter](https://preview.redd.it/dkmcffawmxk71.png?width=799&format=png&auto=webp&s=5521fbd76802f34cacbc31617550af9f34177b9e)
+
+* **Moderating growth rates in a fast-growth industry**
+
+Chewy's app store rankings in Q2 have been at its lowest level since February 2019. Who downloads apps from the store? New customers, usually. Remember the part where I think they will have unexpectedly low gross customer additions this quarter?
+
+[Petco App gaining ground on Chewy](https://preview.redd.it/z5yvwgzjnxk71.png?width=1616&format=png&auto=webp&s=38c746658cf948bc19a514b436ada7ed21cc071a)
+
+Petco is clearly aggressively promoting their app which is currently nearly as popular as Chewy's. You can see how their spikes coincide with drops in Chewy's ranking, leading me to believe that Chewy is losing more business than usual to its competition.
+
+* **Profitability**
+
+While profitability is less relevant for Chewy, on Q1 earnings they were relatively sanguine about their expected costs for 2021. Since then I expect hiring, material and logistics costs to have gone up quite a bit, which might result in them offering a more pessimistic profitability guidance.
+
+&#x200B;
+
+In summary: Chewy has achieved a high PS ratio thanks to its promise of outgrowing its competitors in a market that is already fast-growing in itself. I believe their competitive advantage is eroding ever so slightly and will result in earnings that Wall Street doesn't like.
+
+**Short interest**
+
+Chewy currently has what I would consider a relatively large short interest considering its relatively strong fundamentals. As of August, 16.4% of the short was floated. Make of that what you will.
+
+**Risks**
+
+* A lot of Chewy customers actually use autoship, which may distort the data I'm looking at and allow them to surprise to the upside on revenue
+* I do all my shopping for my pets on Chewy
+
+**Positions**
+
+&#x200B;
+
+https://preview.redd.it/gpekcjdcpxk71.png?width=331&format=png&auto=webp&s=f6c05b0d43d825435b4e3ef664c4ca05d062dd67

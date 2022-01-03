@@ -1,0 +1,80 @@
+AAPL 
+
+If APPL pushes above 140 MMs will have to cover. If bulls find support at 140, I'm expecting 145-150 range. 130 needs to hold. 
+
+* Call Total - 4,832,059
+* Put Total -  3,133,980
+* Support at 20 SMMA
+* 🔑 delta strike 130
+* 🔑 gamma strike 140
+
+Live Chart: [https://www.tradingview.com/chart/AAPL/Hj4VF55u-AAPL-Earnings-Week/](https://www.tradingview.com/chart/AAPL/Hj4VF55u-AAPL-Earnings-Week/)
+
+https://preview.redd.it/cdj1jhhz27v61.png?width=3400&format=png&auto=webp&s=b2efceae1b3a3fc1688a73f2b50aa9ab6e4a5669
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# TSLA
+
+If TSLA pushes above 800 and finds support MMs may have to cover. Expecting 820 - 850 - 900 if 800 support holds. 700 needs to hold. 
+
+* Call Total - 2,454,533
+* Put Total - 2,523,420
+* Support at 20 and 60 SMMA
+* 🔑 delta strike - 900
+* 🔑 gamma strike - 700
+
+Live chart: [https://www.tradingview.com/chart/TSLA/DeA769YD-TSLA-Earnings-Week/](https://www.tradingview.com/chart/TSLA/DeA769YD-TSLA-Earnings-Week/)
+
+https://preview.redd.it/r3h74ov4d7v61.png?width=3400&format=png&auto=webp&s=a93f23af45d1799c2e312bde7600a34c31088496
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# MSFT
+
+MSFT has been consolidating since about the 4/12. Currently above hedge wall and key delta and gamma strikes.
+
+* Call Total - 1,238,988
+* Put Total - 1,068,607
+* Support at 20 and 60 SMMA
+* 🔑 delta strike - 240
+* 🔑 gamma strike - 250
+
+Live Chart: [https://www.tradingview.com/chart/MSFT/Sq7DBVZH-MSFT-Earnings-Week/](https://www.tradingview.com/chart/MSFT/Sq7DBVZH-MSFT-Earnings-Week/)
+
+https://preview.redd.it/yxkjpjjoh7v61.png?width=3400&format=png&auto=webp&s=7afbca65ed0c8e2e95feee1702ec1ae9992f012e
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# AMD
+
+Above hedge wall and key gama strike. Near key delta strike. Support at 80. Top call OI 90. MMs will have to cover at 90+
+
+* Call Total - 1,663,690
+* Put Total - 1,469,509
+* May need to test support at 20 SMMA
+* 🔑 delta strike - 85
+* 🔑 gamma strike - 90
+
+Live Chart: [https://www.tradingview.com/chart/AMD/vn1I0Sio-AMD-Earnings/](https://www.tradingview.com/chart/AMD/vn1I0Sio-AMD-Earnings/)
+
+https://preview.redd.it/8rr5fdprj8v61.png?width=3400&format=png&auto=webp&s=f7baa5843a9ed730675fa50899028332dfaa2087
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# FB
+
+* Call Total - 1,123,673
+* Put Total - 872,467
+* Hedgewall 300
+* Support at 120 SMMA
+* 🔑 gamma strike - 300
+* 🔑 delta strike - 270
+
+Live Chart: [https://www.tradingview.com/chart/FB/GfPxQnHa-FB-Earnings/](https://www.tradingview.com/chart/FB/GfPxQnHa-FB-Earnings/)
+
+https://preview.redd.it/x3q1pjr5p8v61.png?width=3400&format=png&auto=webp&s=bfb5512b150f23d7111943c5982835dcf2590d57
+
+Thanks for reading,
+
+NightMan

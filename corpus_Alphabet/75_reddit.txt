@@ -1,0 +1,31 @@
+Hey. Let me tell you about how WSB is getting screwed even when it’s right. It’s a novel so go make some tea.
+
+The past week has been crazy. 3m unemployed and stocks only went up. Makes no sense, right? Wrong. What you guys need to realize is that the market is not an omnipotent being that prices in every move and plays 4d chess. It’s more like a caveman, driven by greed and fear. Especially during this time.
+
+Three weeks ago, everything was fucked. Not because the virus was spreading, which it always was, but because people started to realize how bad it was and began panic selling. And the trigger was the oil crisis over the weekend that led to bloody Monday. Leveraged funds exploded. Investors were getting margin called or panic sold. Treasuries were basically unobtainable. Corporate bond issuances completely froze. Credit default swaps skyrocketed. Commercial REITS were fucked because they needed to sell illiquid assets to meet fund outflows. Every company was maxing out its credit lines with the banks…you get the idea.
+
+It was like a run on the banks, but for corporations and investors. That’s what drove the markets down. Plain and simple. It was FEAR of a LIQUIDITY CRISIS.
+
+Then Powell stepped in with his alphabet soup of liquidity mechanisms. ZIRP, PDCF, MMLF, CPFF, FX Swap, TALF, PTIF, ESF, SMCCF, PMCCF. I made up one in there and it doesn’t even matter.
+
+What mattered was that, suddenly, the liquidity crisis vanished. The fund backstopped everything with its QE infinity. Yield spreads fell back. People didn’t need to margin sell anymore. Foreign dollar denominated debt wasn’t about to fuck up an emerging world country economy. THAT’s what rallied the market. Immediate FEAR was taken out. And that’s why all the “but worldometer virus count doubles every three days so markets go down” geniuses got screwed.
+
+For better or worse, with the Fed promising QE forever, the liquidity crisis is now no longer a thing. What comes next will be more ominous: a solvency crisis.
+
+Liquidity is basically any company’s ability to pay very short-term liabilities, like payroll, interest, rent, etc. in the VERY IMMEDIATE TERM. It's about access to cash. For financial markets, it’s also how easily investors can get in and out of positions. Powell lubed the shit out of liquidity.
+
+Solvency, on the other hand, is about the company’s ability to meet LONG TERM debt obligations with its operations. When you talk about unemployment, no consumer spending, high corporate debt load,etc, what you’re really talking about is a solvency issue. Companies can’t produce the revenue to service their debts. And they can't roll over their debts because cost of borrowing is too high. 
+
+Corporate debt levels are astronomical today. Higher than any level in history. At same time, the virus is not slowing. Consumers and companies are not going to spend. Unemployment is through the roof. The fundamentals are really, really bad.
+
+BUT here’s the kicker, now we’re talking about fundamentals, and NOT fear. The market will trade down because the fundamentals are bad, not because its panicking for lack of liquidity, and that will take time.
+
+What I’m saying is yes, the outlook is atrocious and the market deserve to be much lower. BUT it will take much longer to play out because people are no longer panic selling. The Great Depression took 3 years to get from its high to bottom after Bloody Thursday/Tuesday.
+
+Yes, maybe the SPY will hit 180 or even lower. BUT it may take 6 months to get there. Meanwhile your OTM 4/17 puts will bleed on theta and never get ITM.
+
+We’re still at a time of VIX backwardation, meaning expected volatility in the more distant future is LESS than in the near future. I think this is bullshit and an opportunity. With a solvency crisis, it’s a slow burn all the way down.
+
+Or I’m just full of shit.
+
+TL;DR: look for long-dated puts. July, September, or even later. Buckle up and pay the premium. Be careful with very short term, very OTM options. Volatility will likely go down even as stocks go down.

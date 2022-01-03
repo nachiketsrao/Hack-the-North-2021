@@ -1,0 +1,26 @@
+Tesla is holding its AI day on Thursday 8/19 and the options market does not reflect this. This will be a great opportunity for us outsiders to see the progress the company has made and what secrets that Elon has planned for the future. Many of us will remember Battery day, Elon promised that he would reveal a lot of the battery progress (which he did) but no one was expecting him to focus primarily on manufacturing developments. The lack of anything revolutionary caused a very disappointing near-term stock performance. AI day has the potential for $TSLA to break out of a major rut.
+
+**Current State of Tesla AI**
+
+Note: This is what everyone is expecting Elon to focus on and why no one is excited. All of this info is boring and no one gives a shit.
+
+Tesla has recently launched FSD Beta V9 (Full-Self Driving), their first attempt at a vision-only self-driving software. It's got promise, but in its current state, it's not a visible improvement. Elon will claim vision + radar is a local maximum and vision only is so revolutionary... Yeah, no one cares. Reasons why this is good for the stock: you don't have to pay for that radar sensor so increase to automotive gross margin. Also, with this chip shortage, it's one less thing to worry about.
+
+FSD Hardware v4: There's been a lot of talk recently about Tesla upgrading their latest Autopilot hardware. Many people worry that Tesla will force previous owners to pay for upgrades as recently people who lease FSD have had to pay for upgrades. None of this is that important in the long term. Expect significant hardware improvements but no one to care.
+
+"The Button": Tesla's latest beta is currently only available to a couple thousand drivers that have been approved. Elon has been saying for quite a while that a button will appear soon that will allow FSD buyers to finally download their software and begin testing the latest FSD. Expect a timeline update on when this button will appear that no one will believe. Elon has been promising it's right around the corner for months. If we're lucky, analysts will put some weight on this date in the short term. This button will be great for two reasons:
+
+1. Will 10-100x the number of miles driven per day on the FSD software, vastly increasing the training data that's available to Telsa. This will increase the rate of improvement right as their vision-only system begins to plateau.
+2. Will allow Tesla to recognize more revenue that they have received for FSD. Companies are not allowed to recognize revenue until they actually deliver the product or service so this button should unlock hundreds of millions in revenue with insanely high gross margin numbers.
+
+So to conclude, this is what most people are expecting for Tesla AI day. If this is the extent of what they cover, then AI day will be a failure. Elon has stated that AI day is designed for recruitment purposes, meaning they need to unveil some exciting shit. That's why I think that there's potential for some major announcements.
+
+**Potential Mentions that would be Major Catalysts**
+
+* Crash Safety Improvements: It's possible to use Autopilot to avoid accidents, but it's also possible to improve the safety of accidents when they do happen. With FSD enabled, Tesla could talk about the ability to orient the car in safer positions if avoiding an accident is impossible. Without FSD, it would still be possible to notify occupants of a potential crash risk or even use the Autopilot cameras to improve airbag deployment. Tesla is known for it's crash safety and this would only help improve their brand. Most importantly, if Tesla talks about these things, it represents an increase in confidence in FSD from their engineers (not Elon) which would be major.
+* Autobidder: This is their AI-driven energy trading software that's not talked about too frequently. Autobidder is for grid-scale energy storage systems to maximize the efficiency of Megapack. A big mention could be the rollout of Autobidder to Powerwall to increase income of their residential storage systems. Another important mention could be Tesla planning out their own Megapack installations and relying on Autobidder to compete in energy markets to produce revenue. Both of these would go a long way to allowing Tesla Energy to gain significant market share.
+* RoboTaxi Network: Most people have heard Elon talk about self-driving cars, but so far the details of how they will actually implement a RoboTaxi Network have been sparse. Will Tesla operate their own vehicles or will they only sell the software to consumers? Is Tesla designing their own robotaxi or planning on using 25k car? There are a lot of unknowns here and clarification on some of these points can cause major changes to valuation.
+
+Positions:
+8/27 725c
+8/27 750c

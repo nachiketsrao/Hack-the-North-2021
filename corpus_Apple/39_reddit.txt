@@ -1,0 +1,9 @@
+ Blackberry have just announced a new solution to deliver highly-secure vehicle-based payment capability to unlock a connected car payments market that is projected to reach over EUR530 billion by 2030. 
+
+This vehicle-based payment solution will create new opportunities for automakers to offer a vast array of payment services and develop previously untapped revenue streams. The solution will create a "digital fingerprint" for the vehicle, allowing it to securely connect to a bank's payment network, validate, and autonomously pay for a wide range of frequently used services, including fuel, tolls, parking, insurance, maintenance, and other "wallet" capabilities. Historically, vehicle-based payment processes have been complex and leverage legacy banking primitives such as physical credit cards or multiple smartphone apps to communicate with each individual merchant and service provider.
+
+This is a massive step and hopefully the first of a number of key pieces of news that could be used as potential catalysts for BB over the coming days. CEO John Chen is addressing investors as apart of JP Morgan Investor conference today. Typically Chen does not stand in for these meetings so the fact that hes coming out now to lead the show is a very bullish sign. There is still a long way to go, but this is the turning point now with another investor meeting with Cannacord tomorrow. 
+
+Obligatory 🚀🚀🚀
+
+https://www.wsj.com/articles/blackberry-ivy-to-provide-secure-vehicle-based-payments-01628683566?tesla=y

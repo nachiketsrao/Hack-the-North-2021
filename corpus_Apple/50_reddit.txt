@@ -1,0 +1,126 @@
+**TLDR:** Due to a confluence of factors (none of which are technical analysis), I believe a perfect storm is likely forming for a monster, historic ER occurring sometime in late January. The initial main factor for this was that COVID issues were causing a delay in the iPhone 12 launch, pushing it into to this quarter, but that led me to discover numerous other factors now making up my thesis. I believe not only will earnings grow, but the multiple could even expand. How to play it: calls dated end of Jan or mid Feb.    
+    
+# Analysis:    
+Happy hangover day, fellow autists. I believe opportunities are rare to know when an ER is going to blow it out of the water by enough to overcome IV crush based on more than just a hunch, and when they occur once or twice per year you should swing big. When I play earnings releases, I’m almost always just a seller of spreads so that I can profit off of theta/IV crush surrounding the ER (theta gang always wins). This time however, I’ve bought outright calls. Here is what I’m seeing with Apple: 
+    
+## The iPhone 12 delay could mean huge YoY comparisons.    
+What kicked all this off was that two months ago I realized we could be heading for huge numbers this quarter due to an atypical delay in the launch of the newest iPhone. Typically new iPhones are announced in mid-September with preorders beginning immediately and shipments beginning before the end of the month. However this year because of COIVD delays the launch date got pushed into October. The iPhone 12 preorders began mid-October with shipments a week later, and the iPhone 12 mini and Max began preorders November 6. And that means no sales of the new models counted in the quarter ended Sept. 30 (Apple’s fiscal fourth quarter)as they usually do. This year all of those opening day sales have fallen into the upcoming fiscal Q1, setting up a potentially huge quarter in sales and making for easy YoY comparisons right out of the gate.  [Here’s a Fortune article on the delay of the launch.](https://fortune.com/2020/10/29/apple-q4-2020-earnings-delayed-iphone-12-sales/)    
+    
+## The “super cycle” rumors appear to be true.    
+As a lover of new tech, I always have to remind myself that the average person doesn’t care about incremental new features as much as I do. So when I heard rumors earlier this year that Apple could be facing a “super cycle” of upgrades due to 5G, I was skeptical. How much does the average person really care about spotty 5G service enough to jump on a new iPhone? But based on reports starting to come out, those rumors appear to be correct. I’ve seen a few articles suggesting a super cycle not seen since the iPhone 6.     
+    
+[Here’s a Yahoo Finance article on Wedbush’s analysis](https://finance.yahoo.com/news/wedbush-apple-aapl-iphone-12-141113883.html?guccounter=1&amp;amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;amp;guce_referrer_sig=AQAAACvsQ8XuWl-EktMyc_0BOQkervx-N2812THmBzr26X8EZIBpNv2lmQ5FSlcToQD1EVRPC0q6byIRBL57FjX5kL4yCvJbv0rwaj4D16cz9J0QrnLFX9fVib7fRoDktDyMAWwBKhfTL_JRqy04wsJCzfTUD7Aw9ce6SkM21ZQOqbYO).   
+    
+Here are some notable quotes from that article since I know we don’t read around here.    
+>"Based on our recent Asia checks we believe the supply chain is anticipating low to mid 90 million iPhone unit builds … **a roughly 35% increase from our original and Street forecasts**," says Ives, who covers AAPL stock for Wedbush.    
+    
+>Compare that to the firm's expectations for iPhone 12 unit sales over time. Three months ago, Wedbush expected 65 million to 70 million unit builds for the December quarter; it raised its outlook to 75 million units in late October; and in mid-December, it set a "stretch goal" in the mid-80 million range.    
+    
+>Wall Street broadly sees AAPL selling 217 million iPhones in the company's fiscal 2021, but Wedbush's bull case is "north of 240 million units (250 million could be in the cards – an eye popping figure)" that would easily surpass the 231 million units the company sold in its fiscal 2015.    
+    
+>**"We have not seen a launch uptrend such as this in a number of years for Apple and the only iPhone trajectory similar would be the iPhone 6 in 2014 based on our analysis."**.   
+    
+[Here is an AppleInsider article, although it quotes the same research at Wedbush](https://appleinsider.com/articles/20/12/15/apple-iphone-production-reports-corroborate-supercycle-thesis-analyst-says).   
+Notable quote:    
+> That bump in production would represent a 30% year-over-year increase in smartphone models produced, **and is also well ahead of current Wall Street expectations**, Ives wrote.    
+    
+    
+It’s anecdotal, but I personally skipped the iPhone 11 upgrade because I was perfectly content with my XS Max, however I did buy the 12 Pro Max.    
+    
+## The iPhone 12 sales mix:   
+It’s not just that phone sales will be up on the iphone 12 launch, it’s the mix within those sales. Typically when Apple launches phones they sell more of the of the entry level new phones than they do the premium, because the total addressable market is bigger. That doesn’t appear to be the case this time. As early as September people were reporting that [Apple was making more higher end iPhone 12 models than entry-level handsets](https://www.investors.com/news/technology/click/apple-stock-gets-price-target-hike-iphone-12-sales-mix) anticipating a shift in demand, and they appear to have been correct. Last year the entry level iPhone 11s outsold the premium iPhone 11s by a three to one margin. This year almost immediately after launch [people were reporting that the premium iPhone 12s were selling as much as the entry models.](https://investorplace.com/2020/10/greater-than-expected-iphone-12-demand-apple-aapl-stock-buy/) Since then, there have been reports trickling out that the premium iPhone 12s appear to actually be outselling the entry level versions.   
+    
+## Apple sold out of nearly everything they make for Christmas.
+See further below for one of the reasons this may have happened, in both my “macro” and “risks” sections.    
+    
+    
+
+Apple introduced a slough of new products from iMacs to watches this year, and they sold out of all of them. **The list of sold-out products at Christmas included the iPhone 12 Pro and Pro Max; iPad, iPad Pro, iPad Air, and iPad Mini; MacBook Air and Pro; iMac and iMac Pro; HomePod mini, and AirPods Max.** [Here’s a Barron’s article mentioning the sell outs](https://www.barrons.com/articles/barrons-10-best-stocks-for-2021-51608337138).    
+
+    
+    
+Apple wearables, I would argue, are now what economists call Veblen goods. These are unique products where the demand curve actually increases as the price increases. This can happen in goods such as wine, where the consumer lacks the knowledge in how to evaluate the product so they take pricing as a signal of quality. But another reason you can get that skewed demand curve is if the product conveys status. One example of this is sports cars. You can buy cars with 90% of the performance of the ultra top end cars for 30% of the price, but that’s not the point of owning them, is it? How often are you really out at the track? Lambo isn’t in competition with $50k sports cars. They could raise the price $50k per car and people who can afford them would just want them more. Louis Vuitton bags and $50,000 Birkin purses are more examples. In fact with Birkin they not only constantly raise prices, they forbid people from buying them. You have to spend a lot of money on other lower tier products before you’re “allowed” to even buy a Birkin bag. This just makes new money women want them even more. 
+   
+
+Those are dramatic examples of course and Apple isn’t behaving that way, but Apple just introduced very overpriced, new over-the-ear headphones which cost almost twice as much as the leading competitor, and yet...Apple sold out of every single color in the first two weeks and hit a three month waiting list by Christmas on a product that I would assume due to its high pricing has very fat margins. Apple charging twice as much makes them more appealing, not less, because wearables are worn and thus seen by your peers (and the opposite sex).   
+    
+## The Twitter rumor mill is reporting parts moving at a brisk pace
+I can’t track down the things I’ve read here and there on Twitter and I’m starting to run out of steam here, so you may have to do some searching on your own, but people who usually track movement of parts through the companies forming Apple’s supply chain and normally have a good track record with their reports have reported that parts are moving through the chain at a very brisk pace. This is addressed some in the reports on the iPhone supply chain in my earlier links.    
+    
+## App sales are crushing it.   
+Thanks probably in part to quarantine, app sales have been crushing it and [grew ~35% this December compared to ~17%](https://www.thestreet.com/investing/apple-alphabet-strong-christmas-sales) the prior year, meaning sales have grown at twice the pace.     
+
+## Reoccurring revenue bundle numbers will be announced     
+The biggest thing I’ve learned from 2020 is that nothing matters more to the market than the narrative surrounding the reoccurring revenue bundle...aka subscriptions. A company announces its cutting its dividend, but then tells you that’s because its going to pour all that money into boosting its subscriptions? The stock skyrockets. Look at Disney. ATT may be able to pull this off as well if it can convince people of that narrative with Warner/HBO max and cut its dividend to pour it into content, but that’s a big “if” for them.    
+    
+Apple launched their new reoccurring revenue bundle this year. I personally signed up for the premium tier and now owe Apple $30 per month for the rest of my life. I was already paying them to backup my phone to the cloud, and now their bundle has thrown me into Apple Music, Apple TV+, etc. I am firmly entrenched in the Apple universe whether I like it or not.     
+    
+It is these reoccurring revenue numbers that offer the possibility of earnings multiple expansion.
+    
+# RISKS
+**Are sellouts due to high demand, or due to COVID-related production problems?**    
+I don’t know.  Based on the reports I’ve read, some of which have been linked earlier in my post, it sounds like everything is running full speed in China and the supply chain is running at near or above a record clip. One possible risk is that this was not the case earlier this year and thus Apple sold out of things because they hadn’t produced enough heading into Christmas. I personally believe that production may have taken a huge hit early in the calendar year, but by mid to late 2020 this was no longer a significant issue. I also believe that even if sales have taken a slight hit due to production, the market wouldn’t really care. Markets are forward looking. They know COVID has impacted things globally, and even if Apple reports sales difficulties **they will be paired with significantly increased guidance for Q2**. [New reports have suggested that Apple has had to increase its iPhone production plans for 2021 by 20-30% because of strong demand](https://9to5mac.com/2020/12/15/strong-iphone-12-demand/) An announcement like that is not a recipe for a stock crash.     
+    
+    
+
+**Macro factors causing a crash**.    
+A lot of people around here appear to be scared of an impending crash. This seems to be based on the simple idea that stocks have run up a lot and therefore must crash. A reversion to the mean is imminent. I don’t see it that way and I think the economy is more complex than that. Just because something has gone up a lot does not mean it’s going to crash. People have been warning of a California real estate crash for 70 years.    
+    
+
+I’m a little bit older than you guys (by probably about 10-15 years) and I can remember the market frenzy of the dot.com boom. A lot of people were saying the same thing then, and while they were ultimately proven right, they were very early. I remember seeing another year to year and a half of enormous gains after hearing all those warnings. Of course the problem with musical chairs is that we never know when the music will stop, but I would argue if anything stocks are roughly fairly valued, not dangerously overvalued.    
+    
+As we go into 2021, we face the following conditions: a vaccine roll out that sometime between now and late ‘21 will lead us into a v-shaped recovery. [The Krugman argument for this vision](https://www.nytimes.com/2020/11/19/opinion/joe-biden-economy.html), and [The Bloomberg argument for this vision](https://www.bloomberg.com/amp/opinion/articles/2020-12-01/get-ready-for-a-supercharged-economy). We also just had the Fed reaffirm 0% interest rates and the continuation of QE. Add to all of that very easy YoY earnings comps for the first two quarters of this year and this is not a recipe for a crash, it’s a recipe for a steady market melt up. Where are the rich supposed to put all their money in a 0% interest rate environment? 0% pushes up the value of all asset classes, and this is especially true of real estate and stonks. Generally speaking, predicting macro economic movements is a losing game, but all of those things combined with the easy YoY comps means I don’t feel the need to be concerned of an impending correction for at least the next two quarters. 
+    
+A much smaller factor but still a factor, I have seen it suggested that Apple will be among the larger beneficiaries of the stimulus checks going out, although those have not started rolling out until just now so that may have an impact on Q2 if any.
+
+**Bad subscription numbers**    
+
+If subscriptions to Apple One flopped, this could significantly overshadow sales and earnings numbers. I personally feel Apple isn’t likely to seriously miscalculate predictions on a subscription bundle because they have their market dialed in, but I don’t know that for sure. 
+
+**Sales could have cratered in October**    
+
+Sales often drop a little in the weeks preceding a phone launch. What if phone sales tanked during the delays waiting for an iPhone 12? That could be bad. I’m encouraged by the fact that iPhone 11 models appeared to still be having good sales numbers when the iPhone 12 was launched (see links earlier in this post), but I don’t really know what October sales look like.
+
+**COVID could have tanked all phone sales.**    
+
+[This report says all phone activations generally tanked 23% on Christmas Day.](https://www.thestreet.com/investing/apple-iphones-dominate-christmas-day-activations) Two thoughts I have on that, that number is for all phone activations, not just iPhones. And two, that’s just for Christmas Day itself. There could be a wide array of reasons activations were down on that one day. To counter that, [this report says the iPhone was the best selling 5G phone](https://9to5mac.com/2020/12/21/best-selling-5g-phone/), even in October despite the phone not launching until the second half of that month. Additionally that article mentions pent up demand for 5G apple phones that sales are likely to be strong going forward.
+
+##  Technical Analysis   
+I don’t believe in technical analysis. Charts don’t know any of the things I just explained, and are therefore, in my opinion, useless to me. Maybe somebody has figured out a system for charts to predict the future, but I am not that person.      
+     
+## Price Target    
+I don’t pretend to know things like that.     
+    
+
+
+## Fun rumors    
+I’m not big on speculative rumors and momentum type plays, but if that’s your thing there are certainly rumors in the air. The most famous of which is the rumor that Apple is back to working seriously on an EV Car. Another is reports are just coming out in the last day or two that [Apple is seeing new successes in developing foldable tech.](https://www.macrumors.com/2020/12/31/two-foldable-iphones-reportedly-pass-tests/) Whether these things will impact the stock price isn’t really my cup of tea, but if it’s yours those are two things to consider. 
+
+## Is my post an attempt at a WSB pump and dump?    
+I’m under no allusions that my own WSB post is going to alter the trajectory of a $2.25 trillion company in any meaningful way.  That sort of thing may work on a post-IPO company that hasn’t had its lockup expiration yet and thus has a tiny float (aka PLTR or numerous other recent “to the moon” meme stocks) with limited float. (That’s not to say those aren’t great companies or great trades. I’m just sayin’).
+
+
+## My positions: 
+I’m more conservative than most of WSB.  While I love this place with all my heart and love you guys for it, I believe risking it all to chase screenshot-worthy gains is moronic and not the path to building real, long-term wealth. Thus my positions are probably more conservative than you’d expect.    
+    
+I have 20% of my net worth tied up in Apple via LEAPs. 9/16/2022 AAPL $87.50 calls. I consider this to be essentially stock I hold for the long term. Delta is approaching 1 anyway so they practically are stock. Sometime in the depths of March I loaded up on FAANG LEAPs with the intention of actually holding them for years and then converting to shares. Those LEAPs were a little OTM at the time I bought them. I have no interest in day trading my significant LEAP positions so that’s going to sit there for the next two years.
+
+But I also have put an additional 15% of my net worth into short term calls on Apple to play the ER. I have Feb 19 $130 calls which were about 10-15% OTM at the time I bought them. They are currently ITM. I also have 1/29 $135s and 1/29 $141s.     
+    
+This puts 35% of my net worth into Apple.
+
+## How to get rich
+I intend to cash out my short term calls after the ER, and I don’t intend to reinvest or roll them out because I suspect Apple will be fully valued by then and there are better plays out there. I intend to keep my LEAPS because I bought those for the very long term and because at the very least I should hold them until March to hit the long term capital gains tax rate.    
+    
+I intend to take my profits from the calls and push them into shorting NNOX and XPEV, both of which have significant lockup expirations coming in mid to late February which I believe will significantly impact the stock prices in the short term. I have no interest in shorting XPEV right now, because you guys are crazy as fuck and for all I know EV stonks could all run up another 50% in the next month. Right about the time the Apple ER hits should be perfect.
+
+## Criticism    
+If you think I’m wrong, I would strongly encourage you to comment. I don’t give a fuck about looking correct or saving face but I give many fucks about not losing money. If I’m wrong, I want to know it. 
+
+## The Most Important Factor    
+
+This ain’t my first day around here, and I know that DD is absolutely useless without rocketships, therefore: APPLE TO THE 🌙  🚀 🚀🚀🚀🚀🚀 🚀 🚀🚀🚀🚀🚀 🚀 🚀🚀🚀🚀🚀 🚀 🚀🚀🚀🚀🚀 🚀 🚀🚀🚀🚀🚀 🚀 🚀🚀🚀🚀🚀 🚀 🚀🚀🚀🚀.     
+
+
+
+Godspeed, fellow autists.

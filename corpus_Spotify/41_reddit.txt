@@ -1,0 +1,23 @@
+So I had a long conversation with my friend who works in the AI space about Palantir and how you could begin to value their technology. I'll try to keep it concise and simple, but TL:DR; buy 2023 calls right now. Any strike, at any price.
+
+1. Everyone and the financial media has it wrong. If you are reading an analysis, article, or price target revision, and they call it a "Data Analytics Company", you can ignore it entirely.
+
+2. The real value of the company is basically in creating models for algorithms. The model is basically a piece of code that can be implemented into an application. It's essentially the algorithm. A model/algorithm is created by giving it a goal, and inputting a set of data the AI can use to get to the goal more efficiently. 
+
+3. By basically creating an intuitive, easy to use software that Data Engineers can use to create models, they are eliminating the need to build one from scratch. This is a huge efficiency for companies that want to use AI and algorithms to improve their business, software or application. It means that instead of hiring an entire team of Data Engineers, you only need to hire one or two.
+
+If you are having a hard time getting your head around this, here is an analogy:
+
+Say you are a new company that wants to sell tendies online. Are you going to hire a team of developers to code and build a website and entire e-commerce platform from scratch? No. You are going to hire one person, who has a more diversified set of talents, to manage a Shopify site and Shopify template.
+
+This is why Shopify is valuable.
+
+Now, consider the following scenario:
+
+Let's pretend Spotify doesn't exist yet and that you want to create a music streaming service that generates recommendations that increase listening time by using an algorithm. Are you going to hire an entire team of Data Engineers to figure out how to use a massive set of user data to develop a model, or are you going to just use Palantir, and maybe even contract one of their Data Engineers to do it for you, without paying anybody a salary?
+
+Look up the salary of one Data Engineer.
+
+That's why Palantir is valuable. They can benefit anybody who wants to implement AI/algorithms into their software or applications, without the massive investment of hiring Data Engineers to create it from scratch. For years, this has been the "edge" of companies like Google and Amazon, who are at the forefront of AI. Palantir is democratizing this "edge".
+
+I will not be responding to comments from people here saying this is incorrect, because you are all retards and I understand this is a gross simplification. It's also, of course, not the only thing Palantir does. But, I think it is the most scalable in the short-term.

@@ -1,0 +1,45 @@
+ **LILM POTENTIAL SHORT SQUEEZE POST MERGER**
+
+**TL;DR**
+
+* LILM shares and calls offer great reward for the risk due to a likely short/gamma squeeze. Monday and Tuesday could see a massive rise in the stock driven by a combination of high short interest, lack of available shares to close shorts, gamma hedging from the massive call sweeps.
+* After redemptions, LILM has a higher short interest than Joby did at merger
+* Piper Sandler Initiated LILM as Overweight with a PT of $17, leaving 70% upside.
+
+**Disclosure and Disclaimer: Long October 2021 $12.50 strike calls.**
+
+**Background.** LILM is an German electric vertical take-off and landing company (**EVTOL)** which just consummated its merger last week. Long-term investors include Baillie Gifford (one of the largest shareholders of **Tesla**), **Blackrock, Tencent and Palantir.** Lilium also plans to expand to Brazil with a **$1 Billion** purchase order from Azul Airlines. The merger was led by Barry Engle, who was the President of GM North America.
+
+**Analyst Coverage. Piper Sandler** recently initiated **LILM** as **Overweight**, with a price target of $17. This presents us with 70% upside from here just to reach that initial target.   
+
+
+https://preview.redd.it/rcxs4ioak2o71.png?width=765&format=png&auto=webp&s=6f7a0e24991dff205fddd61e794189cb0309e4a7
+
+ 
+
+**Redemptions are high enough to cause a short squeeze.** Last Friday, LILM reported a 65% redemption of public shares, resulting in a float of 13.7 million shares. The last exchange-reported short interest was 3.6 million shares, resulting in 27% shares held short. 
+
+Joby Aviation, another eVTOL company which came public via a merger, had redemptions that implied a ***lower*** short interest % of free float than LILM, resulting in a 21% short interest ratio. Joby shares rose from $10.02 to as high as $14.25 the day after the merger closed, despite a float of \~2x that of LILM. 
+
+LILM short interest rose into the last exchange-reported short interest to 5.6m shares.
+
+https://preview.redd.it/70r6xevck2o71.png?width=1170&format=png&auto=webp&s=f1c188e30ca755faf16d3fa3e9961accd63f2d37
+
+   
+**The assumed current high short interest in LILM can be supported by both high borrow costs and low availability of shares across brokers.** For example, as of Friday, there were only 19,700 shares available to short on Interactive Brokers. Cost-to-borrow fees were 14% and rates appear to be exploding. 
+
+https://preview.redd.it/rjzsk7qgk2o71.png?width=688&format=png&auto=webp&s=67e42729d1d2aef59e2fcdaeb1db0d8bf553ebf1
+
+ Some might reference Ortex short interest data, which shows that LILM’s shares short are estimated to have declined into last Friday’s business combination vote. However, it is very clear from backtesting that Ortex data cannot be trusted to have a high level of accuracy in the data it reports. 
+
+https://preview.redd.it/olizoejik2o71.png?width=1999&format=png&auto=webp&s=19df6021c80c30ab24e8ac848da1bd2df27ed37f
+
+https://preview.redd.it/j5g13l5jk2o71.png?width=530&format=png&auto=webp&s=08fd9b16b19c33392c31450297ed9ffc2159eb16
+
+ **Options flow data indicates that traders are paying attention and market makers will need to be on their toes.** As of today, OI on calls is 14841, with the majority of this sitting in the 10, 12.5 and 15 strikes. Puts have significantly less OI and volume. Below is a Bloomberg chart that shows moneyness (with the stock currently at $10, the 100 is $10 strike, 125 is $12.50 strike and so on) vs. open interest. The size of the bubble represents volume. One can observe that the significant call volume buying has been in the $12.50 and $15 strikes for this week and October. This leads me to believe that any further call volume could require meaningful delta hedging from market makers.
+
+https://preview.redd.it/wco66i6lk2o71.png?width=1640&format=png&auto=webp&s=39bdaccebb93869281f76a8c7d7a773ec2056de1
+
+https://preview.redd.it/jicrsdklk2o71.png?width=1999&format=png&auto=webp&s=70c360f878e4792b5659e84047a80f0d69b201fc
+
+ **Conclusion: LILM** presents us with an opportunity to get in the next low float squeeze at an attractive entry price. This leaves us with far less risk than playing any of the other popular and already gone names trending throughout WSB, with higher upside as well. Buy Calls or Shares and HODL.

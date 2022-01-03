@@ -1,0 +1,58 @@
+TLDR: Long Uniti Calls  $7.50 EXP 08/16/19 and some shares.
+
+&#x200B;
+
+Long ago WSB used to be a place where you could find autistic ideas to lose money on. I long to return to those days and so here is my contribution to that end.
+
+&#x200B;
+
+Uniti group is a REIT specializing in telecommunications infrastructure, primarily fiber lines.  Recently developments with their largest counter party have driven the stock price down hard. I believe going into 2020 a 50% return is relatively likely, or about a 30% decline. Almost all the below discussed information can be found in the company 10k here: [10k](http://investor.uniti.com/node/9081/html)
+
+&#x200B;
+
+In brief the story is this. Windstream, a telecommunications provider spun off Uniti years ago and then leased back those assets to actually provide the services they provide.  Some dudes bought up a bunch of Windstream's bonds, said that that spin off broke the debt covenants and thus Windstream was in default. They went to court, Windstream lost and declared bankruptcy (Chapter 11). These final steps played out over the last couple months. [Bloomberg](https://www.bloomberg.com/news/articles/2019-02-25/windstream-said-to-prepare-bankruptcy-after-losing-default-case)
+
+&#x200B;
+
+Windstream represents approximately 70% of Uniti's revenue and Uniti represents nearly all of Windstream's infrastructure. One company can not survive without the other currently. When Windstream lost the case and entered bankruptcy proceedings Uniti fell hard. Earlier this month Uniti's accountants basically said, "if Windstream can't pay for their lease Uniti can't continue as a company for very long."
+
+&#x200B;
+
+Most people were probably in Uniti for the insane yield.  That is essentially guaranteed gone for this year. Expectations backed by filings indicate a little under a dollar of distributions this year .60 of which has already been paid in January. [Source](http://investor.uniti.com/node/9051/html) "  in January 2019 the Company paid a dividend attributable to its capital stock of approximately $110 million related to the 2019 tax year.  Under the Amendment, the Company expects dividends attributable to its capital stock paid applicable to the 2019 tax year to be limited to approximately $250 million, and aggregate dividends paid during the upcoming four quarters to be limited to approximately $140 million. " In other words they expext to pay out $250 million total of which $110 has already been paid leaving $140 million or around .76 a share.
+
+&#x200B;
+
+So, why do I believe in the end this works out for Uniti?:
+
+&#x200B;
+
+1. The Lease: The lease is pretty strict on what options Windstream has in bankruptcy. They can accept the lease or reject it. This doesn't mean that Uniti can't allow renegotiation of the lease, and that may very well happen. However, they don't have to.  Rejecting the lease outright really isn't an option since Windstream then can not provide services.  As a carrier of last resort and with no other alternative rejection seems highly unlikely so realistically it's going to be accepted or renegotiated.  If it's renegotiated that could be bad for Uniti but acceptance will cause the stock to skyrocket. Uniti's comment on the lease: [Source](https://www.streetinsider.com/Corporate+News/Uniti+Group+%28UNIT%29+CEO+says+validity+of+master+lease+agreement+with+Windstream+was+not+impacted+by+ruling/15147758.html)
+2. No one really wants to see either of these companies fail. Even the debt holder suing Windstream obviously doesn't want them to fold.  The government, debt holders and leadership of the companies all are aligned on keeping these things running in one form or another.
+3. Given Windstream's continued operations they have to use Uniti's infrastructure.  This gives Uniti a pretty good bargaining position.
+4. All Uniti needs to do to return to $15 is maintain status quo and have Windstream's bankruptcy resolved.  Afterwards Windstream will be a stronger counter party and Uniti's cost of capital will likely decrease (a cost that is up substantially this month).
+
+What might go wrong?:
+
+&#x200B;
+
+1. Wed the 20th is the conference call for the earnings which were released yesterday (you should read those if you get into this trade. [Here](http://investor.uniti.com/node/9081/html)) The company is going to tell everyone they're cutting or suspending the dividend until the end of the year.  Anyone paying attention should already know this but that doesn't mean the market won't react.
+2. If the lease with Windstream is renegotiated at a substantial cut it would dramatically decrease Uniti's ability to pay it's dividend.
+3. If the bankruptcy drags on too long or uncertainty isn't cleared up this year Uniti's cost of capital will remain too high to do anything aside from muddle along waiting for things to change.  Their current plan is to diversify their revenue away from Windstream but that's not feasible with the current share price and the cost they must pay for credit currently.
+
+So basically I'm long expecting perhaps a short spike (or plummet) later this week depending what they say on the conference call tomorrow and a longer term rise going into later this year.  You can play this via shares, short term with calls (or puts) hoping the conference call garners a favorable (or unfavorable) reaction or longer term with calls towards the end of the year.  I bought in the money calls for August as they seemed pretty cheap in comparison to other options but you do you.
+
+&#x200B;
+
+I'll answer questions for awhile if anyone cares.
+
+&#x200B;
+
+Disclaimer: I'm way richer than most of you so the few thousand I'm throwing at this won't make me cry when it goes tits up. Don't lose more money than you can afford following autists on the internet.
+
+Post Conference Call Edit:  Dividend was cut more than I think people expected (from .60 to .05) which AH seems to have been received pretty unfavorably.  The remainder of the required dividend to maintain REIT status is expected to be paid later in the year.  I think the expectation was more along the lines of a cut to .25 or .30 so a negative reaction is pretty understandable.  
+
+Important information: Previously Windstream had until June 25th to accept or reject the master lease. A 90 day extension has been granted to if you want to be safe option plays should be pushed out past Sept. 
+
+Aside from the larger than expected dividend cut I think the call was pretty positive.  No current renegotiations of the lease, Uniti is open to mutually beneficial negotiation but indicated a simple cost cut wasn't really on the table. No need to access capital markets for the rest of the year given current circumstance. Still looking at small M&A to diversify away from Windstream (this is bullshit IMO, they can't afford to buy anything substantial at this juncture). But having the cash to avoid having to take on more debt and complete their existing projects this year is a pretty big deal. 
+
+Given the conference call I think it's still a pretty good play but I don't think there's much need to rush into it.  It'll probably drop this week, look for an entry over the next couple months after the price has stabilized. 

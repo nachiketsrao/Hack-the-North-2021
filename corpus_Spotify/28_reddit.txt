@@ -1,0 +1,40 @@
+I’m not a financial advisor or an 🦍
+
+I’m a 🐷💎🖐PLTR Hodler
+
+TLDR: AWS is just one PLTR partnership...but it can be a significant source of new clients/💰💰💰.
+
+Data Source: Contino 1/2020
+https://www.contino.io/insights/whos-using-aws
+
+TOTAL AWS USERS
+- 1,000,000+ 
+
+AWS USER DETAIL
+- 10% Enterprise-scale companies.
+- 90% Small and Mid-size companies.
+
+COMPANIES USING AWS
+Aon, Adobe, Airbnb, Alcatel-Lucent, AOL, Acquia, AdRoll, AEG, Alert Logic, Autodesk, Bitdefender, BMW, British Gas, Baidu, Bristol-Myers Squibb, Canon, Capital One, Channel 4, Chef, Citrix, Comcast, Coursera, Disney, Docker, Dow Jones, European Space Agency, ESPN, Expedia, Financial Times, FINRA, General Electric, GoSquared, Guardian News & Media, Harvard Medical School, Hearst Corporation, Hitachi, HTC, IMDb, International Centre for Radio Astronomy Research, International Civil Aviation Organization, ITV, iZettle, Johnson & Johnson, JustGiving, JWT, Kaplan, Kellogg’s, Lamborghini, Lonely Planet, Lyft, Made.com, McDonalds, NASA, NASDAQ OMX, National Rail Enquiries, National Trust, Netflix, News International, News UK, Nokia, Nordstrom, Novartis, Pfizer, Philips, Pinterest, Quantas, Reddit, Sage, Samsung, SAP, Schneider Electric, Scribd, Securitas Direct, Siemens, Slack, Sony, SoundCloud, Spotify, Square Enix, Tata Motors, The Weather Company, Twitch, Turner Broadcasting,Ticketmaster, Time Inc., Trainline, Ubisoft, UCAS, Unilever, US Department of State, USDA Food and Nutrition Service, UK Ministry of Justice, Vodafone Italy, WeTransfer, WIX, Xiaomi, Yelp, Zynga and Zillow.
+
+TOP AWS USERS
+The top ten AWS users based on EC2 monthly spend are:
+1. Netflix: $19 million
+2. Twitch: $15 million
+3. LinkedIn: $13 million
+4. Facebook: $11 million
+5. Turner Broadcasting: $10 million
+6. BBC: $9 million
+7. Baidu: $9 million
+8. ESPN: $8 million
+9. Adobe: $8 million
+10. Twitter: $7 million
+
+BULL CASE 2021
+- PLTR converts 10% of AWS Top 10 Users...1 new customer
+- PLTR converts 5% of AWS Enterprise customers...5K new customers
+- PLTR converts 5% of AWS Mid-sized customers...that excludes Small Business...let’s assume 20%...9K new customers 
+
+That’s large incremental client base...from just one partnership.
+
+Anyone wanna change the conversions and/or project the incremental revenue?

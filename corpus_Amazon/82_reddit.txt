@@ -1,0 +1,109 @@
+**Preamble:**  Let’s just say that Robinhood has seen better days. A vast majority of us absolutely hate Robinhood right now. I feel that it’s justified given the blatant disregard they had for retail investors during the GME saga. Adding to this, most of their revenue is driven by the extremely controversial Payment for Order Flow (PFOF) which is currently in the focus of SEC.
+
+But rational investors do not reject a company completely based on how they feel about the company’s business practices. In an ideal world, capital allocation happens based on alignment with the mission statement and practices of the company, but there’s more than one way to make a profit in the market.
+
+There are plenty of examples of companies doing extremely well even though they have been in the continuous focus of public ire and legal issues (Think Nestle with their dubious practices, BAC after the Occupy Wall-Street movement, EA with their micro-transactions, and Amazon with worker abuse).
+
+And for all the hate Robinhood gets and posts about moving out of Robinhood, just sort the gain/loss/yolo posts for the last month in any investing subreddit and you can still see a significant chunk of trades being made through Robinhood.
+
+You can choose to not use their product, but it’s not financially prudent to reject an investment opportunity without due diligence. All the DDs that I have seen exclusively focus on the negative aspects and then reject the IPO, and I think that’s unfair. Especially given that over the past 20 years, [\~69% of IPO’s have gained value on listing day with an average increase of 12%.](https://www.reddit.com/r/wallstreetbets/comments/ny6wpp/i_analyzed_3600_ipos_over_the_past_two_decades_to/)That’s a 12% average gain in just one day!
+
+Basically, what I wanted to know was this – **Is Robinhood IPO a good investment opportunity?**
+
+So, strap in while I try to condense 300+ pages of Robinhood S1 and my own views into a 5-minute read on **The Good, The Bad, and The Ugly of Robinhood**.
+
+The Beginnings
+
+Robinhood had a spectacular launch by any metric. They had [amassed nearly 1 million users](https://medium.com/inside-viral-loops/how-robinhood-got-nearly-1-million-users-before-the-company-even-existed-dfb1a57231f8) before the company even existed by gamifying their beta program. Their promise was very simple. $0 transaction fees for all the trades.
+
+[ ](https://preview.redd.it/x2uft7pjiwc71.png?width=623&format=png&auto=webp&s=29f594d10a96fc494640e62171baef195855855e)
+
+From the very beginning, [Robinhood had planned to create revenue](https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/?_ga=2.76461904.47963929.1626865862-335952608.1624635175) from
+
+a. Premium API access
+
+b. Trading on margin
+
+c. Interest from holding custody of user’s assets
+
+d. Payment for order flow
+
+### The Good
+
+**Growth:**
+
+[ ](https://preview.redd.it/t9tg350liwc71.png?width=624&format=png&auto=webp&s=dd626b15048e4b0d63c1a7e5a3a1ae0d00ddf261)
+
+The company has grown exponentially over the years (even before the meme stock frenzy) with them approximately doubling the funded user base every year. The current retail frenzy only pushed up this growth rate. Adding to this, 80% of the users who joined them in 2020 were through word-of-mouth and Robinhood Referral which enabled them to grow organically. We don’t have enough data to tell how this has changed following the GME scandal, but the one thing we can be sure of is that people are definitely still talking about them. The revenue has also followed suit growing by 309% for the year ended Q1’21.
+
+**Profitability \[1\]:**
+
+[ ](https://preview.redd.it/sccvtzuliwc71.png?width=472&format=png&auto=webp&s=639fb6255f6298bca22ee6f3d286da79429a9f3b)
+
+It’s highly unlikely for a company that is growing almost 100% every year to be profitable, especially in the tech world. But Robinhood was briefly profitable in 2020 before having a $1.4B net loss in Q1’21 due in part to a $1.5B fair-value adjustment to convertible notes and warrant liability.
+
+**Product:**
+
+It’s undeniable that they have a very well-designed product suite. It makes it very easy for first-time investors to invest in stocks (this is also reflected in their user base with more than 50% of them being first-time investors). The Robinhood gold monthly subscription program currently has more than 1.4 MM customers. Adding to this, their \*rypto, cash management, and educational solution combine to create a well-suited ecosystem for first-time investors. The stickiness of the product can easily be seen in the monthly active user numbers.
+
+[ ](https://preview.redd.it/c06u6ksmiwc71.png?width=624&format=png&auto=webp&s=52e1b83a70ececce4283513e39f5521d764dbd14)
+
+### The Bad
+
+**Revenue Stability**
+
+Robinhood’s income is highly dependent on retail investors getting into the riskiest investments – Options, \*ryptos and Margin. This would be extremely dependent on a highly volatile market that we saw over the past year. Once/if this settles down, the revenue stream is bound to reduce. This in itself would generate a conflict of interest with Robinhood actively encouraging this risk-taking in the user interface, through [dark patterns and gamifying the experience](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html).
+
+**Competition**
+
+Almost all the major competitors who used to charge a per transaction trading fee have now [cut down their commission to zero](https://money.usnews.com/investing/portfolio-management/articles/brokers-that-offer-commission-free-trading). While this might not be the only USP of Robinhood, for a new investor coming into the trading ecosystem, Robinhood is not a compelling choice given the controversies surrounding them. The only thing they have going for them with regards to competition is an exceptional user interface, which again is subjective to the user.
+
+**Valuation**
+
+According to the [updated prospectus](https://www.sec.gov/Archives/edgar/data/0001783879/000162828021013986/robinhoods-1a1.htm), Robinhood is aiming for an initial price target of $38-42 a share, which would value the firm at $27-35 Billion. The company expects to raise around $2.2 Billion from this IPO. While a high valuation is not unlikely for a tech company, $HOOD is potentially valued now at 37x historical FY 2020 Price-to-Sales or P/S. This, when compared to Charles Schwab (10.8x) and Tiger brokers (20.1x) is on the higher side. Most probably the justification for such a high valuation is their current trajectory of customer growth and the average age of the customer (younger customers tend to be more valuable over the long run).
+
+### The Ugly
+
+**Payment For Order Flow (PFOF)  and Regulatory Risks \[2\]**
+
+Ahh, finally we come to the most controversial part of Robinhood. The irony here is that PFOF was invented by Bernie Madoff. If you want a detailed understanding of PFOF, you can read it [here](https://www.investopedia.com/terms/p/paymentoforderflow.asp) or [here](https://a16z.com/2021/02/17/payment-for-order-flow/). The TLDR version is 
+
+>A broker takes your market buy order for 100 shares of Acme, Inc., aggregates it with all the other small Acme buy orders, and sells that to a market maker, who fills the order. The market maker pays your broker for the volume
+
+The spread between the buy and sell orders are then shared by the market maker (in Robinhood’s case Citadel) and the Brokerage (Robinhood).
+
+[ ](https://preview.redd.it/6dl9gqdoiwc71.png?width=515&format=png&auto=webp&s=c14cda402a97628c136bc66d406d8e1ef41973e2)
+
+Almost all the major players (except Fidelity) have some amount of revenue coming in from PFOF and this is not necessarily a bad thing. From my understanding, this actually benefits the retail investor by moving the cost of the transaction from the user to the market maker.
+
+But the main concern for Robinhood here is the amount of revenue they are generating from PFOF.
+
+[ ](https://preview.redd.it/se7aogbpiwc71.png?width=624&format=png&auto=webp&s=01521f90aa415d277ebb372996cbf212544676b4)
+
+For Q1’21, 81% of the company’s revenue came from transaction-based revenue (PFOF). In contrast, PFOF contributes [less than 20% for TD Ameritrade](https://dashboards.trefis.com/data/companies/AMTD/no-login-required/0P4oc9vg/TD-Ameritrade-Revenues-How-Does-Ameritrade-Make-Money-) and Charles Schwab. Adding to the high risk of having more than 80% of revenue from one source, Robinhood has been repeatedly fined for not having the customer’s best interest in mind.
+
+· FINRA fined HOOD $1.25M in 2019 for not getting customers the best prices
+
+· FINRA announced that Robinhood would pay a record $70M in fines and restitution over the outages and Robinhood agreed to the settlement.
+
+· They are facing more than [90 lawsuits after the GameStop trading halt](https://www.cnbc.com/2021/02/17/robinhood-faces-lawsuits-after-gamestop-trading-halt.html)
+
+· Finally, SEC chairman Gary Gensler has said that not every country allows PFOF and they are going to take a closer look into PFOF.
+
+### Conclusion
+
+Robinhood started off with an extremely promising idea and then dropped the ball at its most important moment. Undoubtedly, they are going to report a blowout Q2 earnings report shortly following the listing and the stock is going to pump (They would have made a killing with the Dog\*coin rally in April and May and other meme stock rallies such as AMC/CLOV in Q2’21).
+
+Another interesting insight that we could make from their Q2 report when it’s announced is if they had any net user attrition following the scandal. The age-old saying of “any publicity is good publicity “ would be put to test! If they still maintained their growth story with AUM and active user base increasing consistently, that would be impressive, and we would know that the investor sentiment that we are seeing now is not actually translating to lost business.
+
+We might need to re-evaluate this analysis once the IPO is over and they have announced their Q2 report and the market has settled down. But right now, given that we have an overall picture of the company and how they make money, **I feel that the risk factors far outweigh any potential listing gains that you could make**!
+
+**Footnotes**
+
+\[1\] It’s extremely hard to be objective when the company keeps on trying to pull one over you. The following chart is from Robinhood’s official filing to SEC. They have shown +7MM and -57MM net income as the same size (that red line is the same length in both). Note that the losses are also shown in green and the scale is completely off. The actual scale can be found in the post.
+
+[ ](https://preview.redd.it/5lk9oppqiwc71.png?width=607&format=png&auto=webp&s=5908ee207b1cbc278f53185cc9b6656b22e8a8ae)
+
+\[2\] Fun fact: The risk factor section in the S1-Filing is 75 pages long and over 52,000 words. No wonder their Chief Legal Officer Daniel Gallagher (Ex-SEC Commissioner) got that $30 million bonus.
+
+*As always, please note that I am not a financial advisor.* Hope you enjoyed this week’s analysis.

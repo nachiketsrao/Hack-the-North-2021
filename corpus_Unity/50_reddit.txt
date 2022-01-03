@@ -1,0 +1,35 @@
+Let's go straight to the point.
+
+Apple announced in 2020 that they plan to increase the level of privacy of the iOS users, with the release of iOS 14. What does that mean concretely?
+
+\--> As soon as you open a new app, they will ask with a pop up "Do you allow this app to track you across different apps". We expect that 10 to 20% of the users will say yes. Bumble officially said while filing their IPOs that could be a major risk for them, to do proper analytics on their users.
+
+Therefore, all the apps relying on paid acquisition, won't be able to track where you are coming from, and if you are a rentable user. Therefore, it makes it even harder to create profitable user acquisition campaigns on mobile. Those who will suffer from it are casino, midcore, casual games, as well as all the apps relying on paid subscriptions. It will provoke a drop of eCPMS (price per 1000 impressions of ads), as there will be less demand on the ad networks.
+
+Certain networks will suffer more than other, but the biggest one is Facebook.
+
+99% of the revenue of Facebook is coming from ads. It means that they will still be able to do targeting on Facebook itself, but not on the networks of apps that run ads (like all the games). Facebook is a key player in this industry, and this will certainly provoke a drop in terms of revenue (9M businesses are relying on their ad network).  They officially said that IDFA change (this iOS privacy update) " Could Have A Material Business Impact".
+
+Apple postponed their measure to Q1 2021, but this will come.
+
+Google usually follow suit with these kind of measures.
+
+More info:
+
+ 
+
+1. Some quotes:
+
+Facebook [published](https://developers.facebook.com/blog/post/2020/06/18/value-of-personalized-ads-thriving-app-ecosystem/) a blog post outlining a test it had conducted comparing how revenue differed between personalized and non personalized ads on its Audience Network. Facebook said it observed “more than a 50% drop” in publisher revenue when personalized targeting was taken out of the equation —though it didn’t publish a detailed outline of the study.
+
+2. The iOS market is the most profitable mobile market. It represents around 50% of the total revenue for app publishers, while only 27% of mobile owners have an iPhone.
+
+3. In any case, the advertisers won't be able to track properly the performances of their campaigns. Even if they will still be able to target users, they won't be able to know how efficient it is, as we used to today. Moreover, if you increase the amount of ads in Facebook, this will definitely have an impact on the retention rate / session length. This is a lot of fine-tuning, but the solution isn't there.
+
+&#x200B;
+
+TLDR : Significant drop in terms of ad revenue on mobile due to the new iOS privacy change. It will prevent targeting and tracking of the users. Facebook will suffer from it like crazy, as well as other ad players such as Unity, Ironsource (IPO soon) or Applovin (IPO soon), and apps Bumble (IPO soon).
+
+Play : Wait for Q4 Revenue annoucement of Facebook. Then short Facebook until next quarter, when the measure will show its impact
+
+Thoughts ?

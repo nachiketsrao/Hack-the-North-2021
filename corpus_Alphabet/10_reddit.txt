@@ -1,0 +1,262 @@
+# Welcome apes to the Ultimate Due Diligence on $CLOV.
+
+here we will ANALyze the following:
+
+* Part 1:  Fundamental Analysis
+* Part 2:  Share Valuation vs. the Competitors
+* Part 3:  Why is CLOV undervalued?  >!Hindenburg & Shorts are wrong.!<
+* Part 4:  The Truth about CEO Vivek Garripali
+* Part 5:  RISKS to Clover Health moving forward
+* Part 6:  the Meme Stock Correlation & potential Gamma / Short Squeeze
+
+This post will hopefully provide some value to people not familiar with Clover Health (CLOV) and their Medicare Advantage business. CLOV is starting to get a lot of attention because of the addition to the [MSCI index](https://app2.msci.com/eqb/gimi/smallcap/MSCI_May21_SCPublicList.pdf) in May, addition to the [Russell 2000](https://content.ftserussell.com/sites/default/files/russell_3000_index_additions_-_2021.pdf) index in June, and the [high short interest](https://fintel.io/ss/us/clov) that could lead to a squeeze. I personally invested in CLOV because of the fundamentals support a $15+ share price.  I'm happy to hold on to this long-term for that reason.
+
+# Quick Fundamentals:
+
+1. Revenue growth is [46% year-over-year.](https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-reports-full-year-2020-financial-results)
+2. No debt. [700 Million cash on hand](https://www.fool.com/investing/2021/06/08/could-clover-health-be-a-millionaire-maker-stock/)
+3. Institutional Investors own nearly [105% of the float..  huh..](https://www.nasdaq.com/market-activity/stocks/clov/institutional-holdings)
+4. Short Interest has only [gone up..  to 43%](https://www.reddit.com/r/CLOV/comments/nvedq4/clov_hedgies_increased_their_shorting_position/)
+5. CEO & Insiders cannot sell shares until the price is 30$ for 90 days (Chammath predicted 100$)
+6. Chelsea Clinton + [Demetrios Kouzoukas](https://finance.yahoo.com/news/clover-appoints-trump-health-official-to-board-132343503.html) (former trump head of medicare) are on the board of directors - this is a big political edge.
+7. Partnered with [Google / Alphabet](https://techcrunch.com/2019/01/29/alphabet-backed-medicare-advantage-startup-clover-health-raises-500m/)
+8. Small Float & High Short Interest means big price action is possible.
+9. Added to MSCI Index in May, [being added to Russell 2000 Index on JUNE 25th.](https://www.google.ca/amp/s/www.barrons.com/amp/articles/how-investors-can-play-the-rebalancing-of-the-russell-indexes-51590158778?fbclid=IwAR3KdSh-iHpTKI5gkxLZcGj52xkfbkhKwaKofCpRm084obCi4CTE3wt2uAA)
+10. $70 Million worth of shares need to be bought for ETF's tracking the index.
+11. **Price Target is 15 - 20$ fair value**.  Easy 2x with no squeezin.  Potential 10x
+12. u/Sir_JACK_A_LOT a WSB legend, is all in with 2 million, he wants 10 mil or bust.
+
+//
+
+(ps. the following research is from someone who works in the medicare advantage industry, original post is on r/clov for those curious where this came from)
+
+# CLOV Valuation
+
+&#x200B;
+
+* **Low End**
+   * 70,000 MA patients (end of 2021) x $22,800 per patient = $1.6B
+   * 70,000 DC patients (end of 2021) x $66,667 per patient = $4.67B
+   * Total market cap = $6.27B
+   * **$15.35 per share**
+
+&#x200B;
+
+* **High End**
+   * 70,000 MA patients (end of 2021) x $22,800 per patient = $1.6B
+   * 100,000 DC patients (end of 2021) x $76,667 per patient = $7.67B
+   * Total market cap = $9.27B
+   * **$22.86 per share**
+
+//
+
+# Full Breakdown of CLOV Valuation
+
+To understand what CLOV should be worth today, look at [OSH](https://finance.yahoo.com/quote/OSH/) and [AGL](https://finance.yahoo.com/quote/AGL?p=AGL&.tsrc=fin-srch). Not only did all three companies go public within the last year, but they are all similar-sized [Direct Contracting Entities](https://innovation.cms.gov/innovation-models/gpdc-model) (DCE) competing for "lives under management" *(Note: you'll see companies report this number using the term patients, members, or beneficiaries. They're all equivalent)*. This term simply means Medicare patients that the company is financially +/- clinically responsible for. Medicare pays $850+ per beneficiary per month for these companies to take on the risk of managing their healthcare costs. You can think of it as a lower margin (5-10% EBITDA) Software-as-a-Service (SaaS) model that generates stable recurring revenue on a monthly basis for each patient being managed.
+
+CLOV started out as a Medicare Advantage (MA) insurance plan, which is pretty similar to Direct Contracting (DC). That's because [the DC model was designed based on the MA model](https://www.managedhealthcareexecutive.com/view/cms-direct-contracting-model---is-it-still-one-of-the-value-based-models-built-on-fee-for-service-chasis-) by the Centers for Medicare and Medicaid Services (CMS). CMS launched the DC program in April 2021, and CLOV, OSH, and AGL among the first 53 organizations approved.
+
+OSH does a good job of explaining how the Medicare Advantage market (and now the DC market) works:
+
+&#x200B;
+
+https://preview.redd.it/t0utrzxkgp371.png?width=887&format=png&auto=webp&s=f68cd3b940c33b8c41e51c51cd270e8f7208cd8e
+
+MA Plans are insurance companies that partner with specific healthcare providers to help manage the cost of their patients. The MA plan gets the $850+ monthly payment, and is [required by law to spend at least 85%](https://www.federalregister.gov/documents/2013/05/23/2013-12156/medicare-program-medical-loss-ratio-requirements-for-the-medicare-advantage-and-the-medicare) of it on medical costs. They usually do this by giving 85% of the $850+ monthly payment to the healthcare provider, and thereby transfer the risk of unexpectedly high costs to the provider caring for the patient. The DC model works the same, except Medicare pays the Direct Contracting Entity (DCE) $850+ monthly. What's interesting about DC is that any type of organization can be a DCE. CLOV is an insurance company (MA plan) that creates networks of healthcare providers for their plan members. AGL is a Management Service Organization (MSO) that provides services to healthcare providers that care for Medicare Advantage patients. And OSH *is* a healthcare provider that operates brick-and-mortar clinics focused on Medicare Advantage patients.
+
+Medicare Advantage represents [26 million Americans](https://www.medicareresources.org/medicare-benefits/medicare-advantage/), accounting for about 36 percent of all Medicare beneficiaries. The DC program was launched by CMS so that Medicare Advantage companies like CLOV, AGL, and OSH could help manage the other 46 million Medicare beneficiaries in order to transition away from fee-for-service healthcare. **It's a huge deal.**
+
+Below I'll break down the key numbers driving the valuation of these three companies for their Medicare Advantage business. The DC business is obviously new, but I'll predict what the valuations will look like in DC afterward. **The most important thing to understand here is that the valuation for all three of these companies is the number of lives under management multiplied by a dollar amount. The dollar amount is the market saying how much they believe in the company's ability to profitably manage those patients.**
+
+Disclaimer: I'm not saying all three companies should be valued exactly the same. I am arguing that the dollar amount per managed life should be within a much tighter window because the gross margin for managing a Medicare life (MA or DC) will always end up in a very tight window (5-10% of revenue) no matter what model you deploy.
+
+**OSH = $14.3B market cap**
+
+OSH is obviously liked the most by the market based on their valuation. It's partly because they run the clinics so they can keep more of the Medicare dollar (instead of splitting it with the healthcare provider that takes on the risk). Employing clinicians also allows them to theoretically do more to improve health outcomes and control costs. In this model, the MA Plan takes 15% off the top, and the rest goes to OSH.
+
+* **OSH gross margin = 6.7%** ([source](https://www.marketwatch.com/investing/stock/osh/financials))
+* **75,500 total managed lives growing to 112,000 this year** ([source](https://www.fiercehealthcare.com/practices/oak-street-health-projects-strong-growth-2021-despite-64m-loss-q1))
+* **That's a valuation of $125,000 per patient**
+
+**AGL = $14.3B market cap**
+
+AGL holds the contract with the MA plan and then pays the contracted (not employed) healthcare provider. In this model, the MA Plan takes 15% of the premium off the top, and the rest is split between AGL and the provider practices.
+
+* **AGL gross margin = 7%** ([source](https://capital.com/agilon-health-ipo-will-the-stock-soar-in-2021))
+* **165,300 total risk-based patients growing to 210,000 this year** ([source](https://www.reuters.com/article/us-agilon-health-ipo/healthcare-platform-agilon-valued-at-about-11-billion-in-nyse-debut-idUSKBN2C22D7))
+* **That's a valuation of $66,667 per patient**
+
+**CLOV = $3.65B market cap**
+
+CLOV has historically been just a MA plan, taking the 15% of the premium off the top and paying the rest to cover the patient's costs ([source](https://www.federalregister.gov/documents/2013/05/23/2013-12156/medicare-program-medical-loss-ratio-requirements-for-the-medicare-advantage-and-the-medicare)). MA plans have an average profit margin of 4.3% after all their admin and sales expenses are accounted for ([source](https://mhk.com/medicare-advantage-is-the-golden-egg-for-health-plans/)).
+
+* **CLOV historical gross margin (before COVID effect) = 2.5-4.1 %** ([source](https://investors.cloverhealth.com/static-files/ed2bc09d-cd96-4759-897e-862c2b250213))
+* **132,000 total risk-based patients growing to 160,000 this year** ([source](https://www.globenewswire.com/news-release/2021/05/17/2230595/0/en/Clover-Health-Reports-First-Quarter-2021-Financial-Results.html))
+* **That's a valuation of $22,800 per patient**
+
+**AGL is a good preview of how the DC market could be valued per Medicare patient, except the DC model could be even better. There is no MA plan taking 15% off the top in between the risk-bearer (Direct Contracting Entity: CLOV, AGL, or OSH) and Medicare. Direct Contracting patients could be valued as high as $76,667 (15% premium over current AGL patients).**
+
+The CEO of OSH was recently quoted "**the per-patient economics of that program will potentially be better than the company had initially estimated"** ([source](https://www.fiercehealthcare.com/practices/oak-street-health-projects-strong-growth-2021-despite-64m-loss-q1))**.**
+
+Here are the number of Medicare patients enrolled by each DCE (since the program launched in April 2021):
+
+* **OSH: 6,500** managed lives ([source](https://www.fiercehealthcare.com/practices/oak-street-health-projects-strong-growth-2021-despite-64m-loss-q1))
+* **AGL**: **50,000** managed lives ([source](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001831097/98fb566d-8f47-4a36-bd48-6bef5745cf56.pdf))
+* **CLOV: 65,000** managed lives ([source](https://www.globenewswire.com/news-release/2021/05/17/2230595/0/en/Clover-Health-Reports-First-Quarter-2021-Financial-Results.html))
+
+Hopefully now those valuation ranges I presented at the top make a little more sense to you.
+
+//
+
+# Here's an outline of how the Clover Assistant (CA) platform improves treatment decisions and risk adjustment for the provider:
+
+* **More informed doctors delivering better treatment and care**
+   * CA will make treatment recommendations using evidence-based guidelines
+   * Primary care providers manage so many different conditions, it's impossible for them to keep up with all the medical literature
+   * CA will present the latest evidence-based guidelines as simple recommendations, so that the primary care provider doesn't have to stay up-to-date on the most advanced treatment pathways for every condition
+* **More accurate documentation for higher Medicare payments (MA and DC)**
+   * The monthly $850+ payment to MA and DC organizations is adjusted based on the patient's risk score (basically how many health conditions they have)
+   * The risk score is calculated using diagnosis codes (ICD-10 codes) that are entered into the electronic health record (EHR) by the doctor and eventually included in the insurance claim that goes to the MA plan (and Medicare)
+   * Providers often forget to include all the codes in the insurance claim, or even sometimes forget to properly document it in the EHR
+   * Providers also forget to re-document codes on an annual basis, because on January 1 all of the diagnosis codes are erased in Medicare's risk score calculation because some diagnoses can change (e.g. cancer remission)
+      * This sounds stupid, but if a diabetic patient has an amputated foot, Medicare acts like it grows back on Jan 1 and the doctor has to document the diagnosis again
+      * Medicare is either too lazy to discern between permanent vs reversible conditions, and/or they like that they get to pay less for an inaccurately lower risk score
+   * When providers forget to include one or more codes, that means the risk score will be lower and the premium received by the MA plan will be lower
+   * CLOV's software analyzes data from the EHR as well as past claims to identify diagnosis codes that are missing from the current claim, and asks the provider if they still have the condition to see if the doctor simply forgot to document the code
+   * CLOV's software also analyzes EHR and claims data to identify potentially missing diagnosis codes and asks the doctor if the patient ever had a certain condition using evidence-based guidelines
+      * Example: blood pressure reading > 140/90 (threshold in hypertension guidelines) but no hypertension diagnosis code documented
+
+&#x200B;
+
+# 
+
+# Why is CLOV Undervalued?
+
+**Part 1: Hindenburg Report (February 2021)**
+
+* Hindenburg does research for short hedge funds. The [report](https://hindenburgresearch.com/clover/) revealed a DOJ investigation into CLOV that was previously undisclosed. The day after the report was released, an SEC investigation was initiated into CLOV based on the report. The report had a number of unrelated claims on shady marketing practices, undisclosed business relationships, and "upcoding".
+* Probably the most serious accusation of them all is the one about "upcoding". If this is true, it's Medicare fraud. The number one rule in the Medicare industry is DON'T OVERBILL MEDICARE. In the case of CLOV, I seriously doubt there is any upcoding going on based on how their software works. The Clover Assistant (CA) software doesn't have the ability to change any codes. It just makes recommendations. The doctor has to manually do it for regulatory *and* patient safety reasons. There are other population health tools out there that do this exact thing. Often times when upcoding is being investigated, it's because the Medicare fee-for-service claims suggest a much lower risk score. However, that's because providers don't document most codes in fee-for-service claims because they don't get paid to spend the extra time. When the patient then enrolls in a MA plan or DC program, all of a sudden [their risk score shoots up](https://www.modernhealthcare.com/article/20170519/NEWS/170519815/doj-s-medicare-advantage-lawsuits-investigations-likely-to-change-insurance-culture) because the MA/DC organization and provider get paid based on risk.
+* Regarding the other accusations, [CLOV released a point-by-point response](https://www.sec.gov/Archives/edgar/data/1801170/000119312521029637/d66346dex991.htm) the day after the report came out. I thought they addressed everything sufficiently. From an investor's perspective, it all comes down to what the DOJ finds. I'd be very surprised if Chamath's counsel and the third-party counsel involved in the SPAC ignored or did not look into illegal practices during due diligence. This was one of Chamath's first SPACs and he knew was launching many more. If you mess up due diligence once, the rest of your SPACs become worthless.
+* **Regarding the BS about the CEO Vivek Garripali**, he bought 3 hospitals in bankruptcy and assumed their debt almost 10 years ago. He quickly found out why they were in so much debt. The health insurance companies offer such limited coverage and almost exclusively to high income neighborhoods. So, if their insuree visited a hospital or clinic or anything outside of their coverage area, the insurance company would refuse to pay the hospitals fees or only agree to paying a small portion. So the medical facility ultimately ends up assuming the debt and this eventually snowballs. Anyways. Vivek began charging these insurance companies high premiums on the accounts he could collect on in an attempt to make up for the losses for patients they wouldn't pay for. This is where they try and paint him as a villain. Long story short. He sold the the hospitals and created Clover Health in order to solve this corrupt problem throughout the health insurance industry. For his time and money invested. He didn't make money as much as he learned from this experience. So a big part of Clover's mission is offering widespread coverage to their insurees. These big insurance companies are hating this. Hence much of the hate for Clover.
+
+&#x200B;
+
+**Part 2: DC Enrollment Numbers (May 2021)**
+
+* CLOV announced their initial Direct Contracting (DC) enrollment numbers in their most recent quarterly report. The 65,000 DC patients were far below the 200,000 that the market was expecting. There was obviously a miscommunication between CLOV and the market. CLOV stated they had *access* to 200,000 Medicare patients through their network of 1,800 providers using their software. Analysts took that as a projection of enrollment. They still have access to all those patients and will enroll them over time. My guess is they were able to do [claims-based alignment](https://www.natlawreview.com/article/direct-contracting-summary) for much of the initial 65,000 DC patients, which is automatic. Now they have to market this program to the other $135,000 DC patients to get them enrolled via [voluntary alignment](https://www.natlawreview.com/article/direct-contracting-summary) (i.e. consent). They could also market the MA plan which has more benefits. That's the power of CLOV having a network of providers contracted with its DCE and MA plan.
+* This lower DC patient enrollment has now been priced in with analysts adjusting down to an average price target of [$9.33](https://www.wsj.com/market-data/quotes/CLOV/research-ratings). These price targets are based on extremely conservative enrollment projections and revenue projections from CLOV for their DC business.
+* They set forecasts at 70,000 to 100,000 by end of 2021. *They already have 65,000 enrolled in April*. They intentionally set expectations extremely low to absorb the negative market reaction upfront and then outperform going forward. They also reported extremely low revenue projections for the DC patients. They're only projecting [$20M - $30M](https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-reports-first-quarter-2021-financial-results) for the year.
+* I would guess that their **profits** from the DC market this year could be $25M+ (5% margin x 65,000 patients x $850 x 9 months). Revenue should be similar to Medicare Advantage at $850+ per patient per month. That's at least $55M in Medicare payments per month for 65,000 DC patients.
+* They did state that "[GAAP revenue estimates for Direct Contracting are dependent on the finalization of accounting treatment, which we expect will be completed by the end of the second quarter of 2021](https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-reports-first-quarter-2021-financial-results)".
+
+**Part 3: Differentiation**
+
+* CLOV does have a virtuous cycle built into its business. It's all based on their relationship with their provider network. When they contract with a healthcare provider, they give them access to the Clover Assistant (CA) for free. CA is a software platform that analyzes electronic health record (EHR) and claims data to provide decision support back to the provider at the point of care.
+* The CA platform is a population health tool. There are competing software solutions in the market. The difference here is that the provider has to pay for access to those tools. CLOV pays the provider to use the CA platform. CLOV pays **$200** per visit, which is much higher than the average [$121.45](https://truecostofhealthcare.org/medicare_part_b/) that other MA plans pay.
+* The reason that CLOV pays the provider to use it is because it improves the top and bottom line for CLOV. CA helps providers make better treatment decisions and document risk scores more accurately, which results in higher Medicare payments (to CLOV and the provider). Higher Medicare payments directly increases the top line revenue. Better treatment decisions lead to lower costs, which allows CLOV (MA plan or DCE) to keep more Medicare dollars. If you're interested in how CA works, I'll include some bulletpoints at the bottom of the post.
+* **Happy providers are key to increasing the number of lives managed long term.** Providers are directly involved in the "alignment" process for DC enrollment, and their opinion is highly respected when making a recommendation around which MA plan a patient should choose. As CLOV grows its provider network, it will increase enrollment for both MA and DC. It will also lead to more CA software users, more software users usually leads to better experience and insights, which could reinforce itself and bring more providers onboard.
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+# Risks to CLOV
+
+Below are the biggest risks I see for CLOV, in order of importance:
+
+**1.** **DOJ Investigation**
+
+As I mentioned above, I don't think there were illegal practices going on at CLOV that management, Chamath, or the third-party counsel were aware of. It's still possible the DOJ investigation finds something. This happens all the time in the Medicare industry, including to the biggest names ([UnitedHealth, Humana,](https://www.whistleblowerattorneys.com/blog/whistleblower-unitedhealth-medicare-advantage-fraud) [Cigna](https://www.healthcaredive.com/news/doj-cigna-medicare-advantage-fraud-lawsuit/583023/), etc.).
+
+All the MA plans learn from each other's missteps. CLOV has been operating an MA plan for over 5 years now. They were [fined $106,095 in 2016](https://www.fiercehealthcare.com/payer/cms-fines-clover-health-for-misleading-marketing-tactics) for 'misleading' marketing tactics. *They haven't been fined since*. They have also gone through multiple rounds of funding from top venture capitalists and Google. There's been no shortage of due diligence on this company.
+
+Yet, there is always the risk that someone somewhere was doing something illegal this time. If that is the case, it will likely end up in a lawsuit. I've seen many cases get to this stage and then get dismissed by a federal judge ([UnitedHealth 1](https://www.fiercehealthcare.com/antifraud/unitedhealthcare-medicare-advantage-fraud-suit-department-justice), [UnitedHealth 2](https://www.fiercehealthcare.com/payer/department-justice-unitedhealth-medicare-advantage-fraud), ). Worst case scenario for the company, there is a settlement. Here are examples of MA plans paying settlements for "upcoding" fraud cases:
+
+* UnitedHealth (2017): [$32M](https://www.fiercehealthcare.com/antifraud/florida-insurers-pay-32m-to-settle-medicare-advantage-fraud-case)
+* Kaiser Permanente (2020): [$6.3M](https://www.justice.gov/opa/pr/medicare-advantage-provider-pay-63-million-settle-false-claims-act-allegations)
+* Humana (2021): [$12.5M](https://www.beckershospitalreview.com/payer-issues/humana-roche-settle-false-claims-lawsuit-for-12-5m.html)
+
+The largest settlement ever was [$270M](https://www.justice.gov/opa/pr/medicare-advantage-provider-pay-270-million-settle-false-claims-act-liabilities) by HealthCare Partners (now part of UnitedHealth) in 2018. This was because the providers themselves were submitting false codes (not the health plan). All of these settlements are for "upcoding". Again, among all the accusations, I would be most surprised if CLOV was actually doing this. If anything, the Clover Assistant should result in better documentation around the codes because that's what it's designed to do.
+
+No matter how cynical a view you want to take on the DOJ investigation, CLOV has no debt and $700M in cash from the SPAC proceeds, so a settlement should not significantly impact them.
+
+**2.** **SEC Investigation**
+
+The SEC investigation was announced the day after the Hindenburg report came out. The SEC is investigating whether the DOJ inquiries were material enough to require disclosure to the market. The investigation may not be closed until the DOJ inquiries have been resolved. If the SEC determines there should have been a disclosure, there will likely be a fine. I'm not an expert on SEC enforcement. The only thing I could point to would be the $20M fine Elon Musk paid for announcing a fake acquisition at a much higher price at the time. He picked $420 as the fake number, not sure why...
+
+**3. Market Multiple**
+
+Valuations based on profitability could be hurt in the short term. Medical costs are higher this year due to delayed care during COVID-19, so all companies in this space will have compressed margins in the short-term. I believe growth is more important than profitability in this market when you're looking at <1% of DC patients enrolled. CLOV has proven to be exceptional at growth and has proven it both in MA and now DC.
+
+There could also be a general downturn in market sentiment, and these growth stocks with low margins would be affected the most. However, Medicare is a very stable business and these companies will continue to grow independent of economic conditions.
+
+&#x200B;
+
+&#x200B;
+
+# The Meme-Stock Correlation, Short Interest, and Gamma Squeeze setup
+
+To keep this short and sweet - CLOV was originally identified by WSB & Stocktwitters for the short interest being reported over 100% at one point.  This is due to several miscalculations but the idea is true that SI is not being correctly reported.  It is estimated to be over 50% but is reported around 40% on Ortex.  This has been the main area of interest in relation to meme stocks.
+
+# How did CLOV get caught up in all the meme madness?
+
+Well..  if you dont remember, back in January, chamath palihapitiya encouraged retail investors, along with elon musk, to buy and SQUEEZE GME + AMC.
+
+[GME squeezes from 60 to over 150 the next day on this Tweet](https://preview.redd.it/quoosh9nup371.png?width=1176&format=png&auto=webp&s=7a0b3d8969d37920eee6947d97ac8585eaea345d)
+
+[but this helped too](https://preview.redd.it/qucv5j9tup371.png?width=1182&format=png&auto=webp&s=88e306406085ab9fc59d787bd3ab2381a52df689)
+
+He made himself an enemy of hedgefunds who lost on these bets.  So when they doubled down their shorts on gme / amc - they went after chammaths stock, CLOV.  But they fucked up.  They doubled down and shorted it to shit because they lost money because of him.
+
+With great fundamentals, **the short thesis is based on one thing alone - the HindenTurd report -** and guess what that is?  bullshit.
+
+# 
+
+# Did you mention Gamma Squeeze??
+
+yes I did.   I even googled it for you apes.
+
+https://preview.redd.it/9zj5oopi54471.png?width=1456&format=png&auto=webp&s=61a66d109aec1738dece49345df43c974a18bc04
+
+So basically, look at the **open interest** on each Strike.  Each new strike that goes in the money has to get hedged.  So basically multiply the open interest x 100 for each strike.  
+
+[woops..  well we got them all in the money lol, so now we wait for shorts to cover... \(edit\)](https://preview.redd.it/is8dlv9ewp371.png?width=1576&format=png&auto=webp&s=c8053c02d47b4b92c351b11b47875a53adb94cd9)
+
+* Is a Gamma Squeeze possible?
+   * Yes.
+* is a Short Squeeze possible?
+   * Yes.
+* Will either of the above happen?
+   * IDK.
+* but someone paid to see the FINTEL short squeeze score, its 93 / 100
+
+[since short sellers are all under water now that the price is at ATH..  if they get margin called, it will take 5 days to cover, 5 days of pain, 5 days of gain.](https://preview.redd.it/yufdby0b54471.jpg?width=288&format=pjpg&auto=webp&s=332cfdb2c0b9f4ddd09eecd4979f964b2a221d2b)
+
+https://preview.redd.it/ebev1ips44471.png?width=1416&format=png&auto=webp&s=89ef5db66711690bc9ca166a25e93e5dcd3c8f64
+
+&#x200B;
+
+# TLDR:
+
+* **Should be between 15-22$ at current valuation.**
+* Clover Health is basically Medicare insurance for old people meets AI tech (the clover assistant for doctors) it’s a huge healthcare disruptor.
+* They have 45+% year over year growth, zero debt, 700 mill in cash, 105% institutional ownership with a super low float..
+* 30$ IS EXPECTED for the CEO to ever profit... and chammath said it’s a 10x in 10 years company.
+* Shorted to oblivion by Hindenburg & short sellers who attacked this one in particular because Chamath encouraged amc / gme retail interest..
+* Short interest is likely above 50% and it seems to have a gamma squeeze setup in the options chain.
+* The short thesis is based on the HindenTurd report which is based on some 🌈 🐻 shit.
+
+# CATALYSTS FOR PRICE ACTION:
+
+* June 25. Russell 2000 index inclusion, will force 70 million in shares purchased for ETF's that track it.
+* further discussion of reduced Medicare age or related
+* public announcement Clearing of the DOJ / SEC inquiries.. ***this ones HUGE for fucking up the short thesis at its core...***
+* future earnings & enrollment #’s, (every time they beat numbers will be great...)
+* clover assistant updates
+* I’m sure other things like great PR will eventually come out hopefully more from Chamath and the Clinton.
+
+&#x200B;
+
+position:  1000 shares

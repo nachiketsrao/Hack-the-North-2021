@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Stock Clock</string>
+
+    <string name="united_kingdom">
+
+        <b>Capital</b>: London \n
+        <b>Largest City</b>: London \n
+        <b>National Language</b>: English \n
+        <b>Total Area</b>: 242,495 km2 \n
+        <b>Currency</b>: GBP  \n\n
+
+        \t\t The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain,[15][note 10] is a sovereign country in north-western Europe, off the north-­western coast of the European mainland.[16] The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles.[17] Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea to the south-west, giving it the 12th-longest coastline in the world. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 93,628 square miles (242,500 km2).
+
+\n\n\t\t The United Kingdom is a unitary parliamentary democracy and constitutional monarchy.[note 11][18][19] The monarch, Queen Elizabeth II, has reigned since 1952.[20] The capital is London, a global city and financial centre with an urban area population of 10.3 million.[21] The United Kingdom consists of four countries: England, Scotland, Wales and Northern Ireland.[22] Their capitals are London, Edinburgh, Cardiff and Belfast, respectively. Other than England, the constituent countries have their own devolved governments, each with varying powers.
+
+\n\n\t\t The United Kingdom has evolved from a series of annexations, unions and separations of constituent countries over several hundred years. The Treaty of Union between the Kingdom of England (which included Wales, annexed in 1542) and the Kingdom of Scotland in 1707 formed the Kingdom of Great Britain. Its union in 1801 with the Kingdom of Ireland created the United Kingdom of Great Britain and Ireland. Most of Ireland seceded from the UK in 1922, leaving the present United Kingdom of Great Britain and Northern Ireland, which formally adopted that name in 1927.
+
+\n\n\t\t The nearby Isle of Man, Bailiwick of Guernsey and Jersey are not part of the UK, being Crown Dependencies with the British Government responsible for defence and international representation.[26] There are also 14 British Overseas Territories,[27] the last remnants of the British Empire which, at its height in the 1920s, encompassed almost a quarter of the world\'s landmass and a third of the world\'s population, and was the largest empire in history. British influence can be observed in the language, culture and the legal and political systems of many of its former colonies.
+
+    </string>
+
+    <string name="france">
+
+      \n \n \t \t  France (French: [fʁɑ̃s] Listen), officially the French Republic (French: République française),[1] is a transcontinental country spanning Western Europe and several overseas regions and territories.[XIII] Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea; overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian Oceans. France borders Belgium, Luxembourg, and Germany to the northeast, Switzerland, Monaco and Italy to the east, Andorra and Spain to the south, as well as the Netherlands, Suriname, and Brazil in the Americas. Its eighteen integral regions (five of which are overseas) span a combined area of 643,801 km2 (248,573 sq mi) and over 67 million people (as of May 2021).[12] France is a unitary semi-presidential republic with its capital in Paris, the country\'s largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille, and Nice. Including its overseas territories, France has twelve time zones, the most of any country.
+
+      \n \n \t \t Inhabited since the Palaeolithic era, France was settled by Celtic tribes known as Gauls during the Iron Age. Rome annexed the area in 51 BC, leading to a distinct Gallo-Roman culture that laid the foundation of the French language. The Germanic Franks arrived in 476 and formed the Kingdom of Francia, which became the heartland of the Carolingian Empire. The Treaty of Verdun of 843 partitioned the empire, with West Francia becoming the Kingdom of France in 987. In the High Middle Ages, France was a highly decentralized feudal kingdom, but among the most powerful states in Europe. A distinct French identity began to emerge in the 14th and 15th centuries during the Hundred Years\' War. The French Renaissance saw a flowering of art and culture, disputes with rivals Spain and the Holy Roman Empire, and the establishment of global colonial empire, which by the 20th century would become the second largest in the world.[13] Severely weakened by the Thirty Years\' War and religious civil wars of the 17th century, under Louis XIV France reemerged as the dominant cultural, political, and military power by the early 18th century.[14] The costly Seven Years\' War and involvement in the American Revolution precipitated the French Revolution of 1789, which overthrew the absolute monarchy, replaced the Ancien Régime with one of the first modern republics, and saw the drafting of the Declaration of the Rights of Man and of the Citizen, which expresses the nation\'s ideals to this day.
+
+    </string>
+
+    <string name="italy">
+
+        \n \n \t \t  Italy (Italian: Italia [iˈtaːlja] (About this soundlisten)), officially the Italian Republic (Italian: Repubblica Italiana [reˈpubːlika itaˈljaːna]),[13][14] is a country consisting of a peninsula delimited by the Alps and several islands surrounding it.[15] Italy is located in the center of the Mediterranean Sea, in Southern Europe,[16][17][18] and is also often considered part of Western Europe.[19][20] A unitary parliamentary republic with Rome as its capital and largest city, the country covers a total area of 301,340 km2 (116,350 sq mi) and shares land borders with France, Switzerland, Austria, Slovenia, and the enclaved microstates of Vatican City and San Marino. Italy has a territorial enclave in Switzerland (Campione) and a maritime exclave in Tunisian waters (Lampedusa). With around 60 million inhabitants, Italy is the third-most populous member state of the European Union.
+
+        \n \n \t \t  Due to its central geographic location in Southern Europe and the Mediterranean, Italy has historically been home to myriad peoples and cultures. In addition to the various ancient peoples dispersed throughout what is now modern-day Italy, the most predominant being the Indo-European Italic peoples who gave the peninsula its name, beginning from the classical era, Phoenicians and Carthaginians founded colonies mostly in insular Italy,[21] Greeks established settlements in the so-called Magna Graecia of Southern Italy, while Etruscans and Celts inhabited central and northern Italy respectively. An Italic tribe known as the Latins formed the Roman Kingdom in the 8th century BC, which eventually became a republic with a government of the Senate and the People. The Roman Republic initially conquered and assimilated its neighbours on the Italian peninsula, eventually expanding and conquering parts of Europe, North Africa and Asia. By the first century BC, the Roman Empire emerged as the dominant power in the Mediterranean Basin and became a leading cultural, political and religious centre, inaugurating the Pax Romana, a period of more than 200 years during which Italy\'s law, technology, economy, art, and literature developed.[22][23]
+
+
+    </string>
+
+    <string name="taj_mahal">
+
+    \n\n\t\t The Taj Mahal \'Crown of the Palace\', is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+
+    \n\n\t\t Construction of the mausoleum was essentially completed in 1643, but work continued on other phases of the project for another 10 years. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2020 would be approximately 70 billion rupees (about U.S. $956 million). The construction project employed some 20,000 artisans under the guidance of a board of architects led by the court architect to the emperor, Ustad Ahmad Lahauri.
+
+    \n\n\t\t The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world\'s heritage\". It is regarded by many as the best example of Mughal architecture and a symbol of India\'s rich history. The Taj Mahal attracts 7–8 million visitors a year and in 2007, it was declared a winner of the New 7 Wonders of the World (2000–2007) initiative.
+
+    </string>
+    <string name="title_activity_add_new_company">AddNewCompanyActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_add_company">AddCompanyActivity</string>
+    <string name="title_activity_display_details">DisplayDetails</string>
+
+</resources>

@@ -1,0 +1,69 @@
+I am halfway through an 18 hour shift, currently stationed in Turkey, its hot as fuck, idk why I’m here, I’m 2,000mg deep in caffeine, getting drunk as soon as I get off, getting off as soon as I get off, my wife is back home cheating, my daughter calls another man dad, *cracks knuckles* lets do this. 
+
+Overview
+
+	AMD is a global semiconductor company offering x86 microprocessors as standalone or integrated (CPU’s, GPU’s, server systems, Etc…) and intellectual property/ services.
+
+Products
+
+	AMD’s primary products consist of CPU’s and GPU’s which are on par or out performing NVIDIA GPU’s and Intel’s CPU’s. While these other two giants have dominated the market for sometime, AMD’s recent move has evolved from a slow creep to a brisk jog. 
+
+Competition 
+
+	AMD’s largest competitors are Intel (CPU’s) and NVIDIA (GPU’s). With the release of AMD’s Ryzen processors in 2017, AMD has been steadily over taking Intel’s dominance over market share. AMD’s current market share (over all CPU’s) currently sits at 44%, levels it has not seen since 2005. AMD took 20% of the market share in past 2 years with a significant jump in 2019. Since the release of Ryzen, AMD is now on par or out performing Intel chips and has gained a significant amount of sentiment over the soy boys at intel. AMD is on track to overtake the majority of CPU market share within the next year based on current projections.
+
+	Now NVIDIA is a whole other beast who currently has a significant advantage over the dGPU market. Nvidia at the end of Q4 2020, held roughly 82% of the market share which was a increase of 9% from the previous year. AMD’s high end GPU’s do not come close to Nvidia’s high end models, UNTIL AMD’s Radeon 6000 series, which are now on par with Nvidia’s cards, either outperforming or underperforming in various tests. AMD catching up to Nvidia is the same move that AMD made against Intel in 2017, 4 years later they are on the verge of overtaking market share. While Nvidia is a monster of a company, I believe that AMD will begin taking more market share from Nvidia and establish a decent foothold over the next few years. AMD has already taken the game console market, console plebs.
+
+	AMD has already proved they are able to take back significant market share with there current and future products, Lisa Su is a genius and I believe she’ll lead the company to Valhalla. What does AMD have that Nvidia does not? Aside from many differences, I think the fact that AMD has an ecosystem will play a significant role in catching up. Now that AMD can evenly compete with both of their rivals, AMD plans on leveraging the fact that they produce CPU’s and GPU’s. There are already incentives to using AMD’s CPU with their GPU rather than an AMD CPU with a Nvidia GPU. With AMD taking the CPU market, retail users will be more likely to stick with the ecosystem, and I’m a big fan of companies producing an ecosystem (laughs in apple). 
+
+	A new player enters the battle. Intel has been working on their own dGPU and will surely be releasing in the next few years, but I believe this will be comparable to Sony vs Microsoft with Nintendo enjoying their best life staring at butterfly’s, covered in drool in the corner lol.
+
+The Merger
+
+	Nvidia set to acquire ARM, AMD set to acquire Xilinx. What are they and how are they expected to impact the company?
+
+ARM - Create and dominate the mobile processor market, covering TV’s, phones, tablets, and other similar products as well as some software applications. I will not be covering much more of ARM in this DD.
+
+Xilinx - Designs and develops programmable logic products. As far as I can tell this is some big brain shit that I’m sure some booger nosed, mothers basement living, neck beard having, nerd will easily explain in the comments cuz Wikipedia ain’t cutting it.  
+
+	If AMD completes the purchase, which is likely and expected to happen by the end of 2021, Xilinx shares will become worth 1.723 shares of AMD. AMD is currently trading at 86.10$, meaning that shares of Xilinx will be worth 148.35$ if the deal were to go through right now. Xilinx is currently worth 133.71$, I’m betting heavily that AMD will continue to pump prior to this deal as well.
+
+	ARM will be huge for Nvidia, but this is running into some major road blocks and is likely some ways off or will fall through.
+
+Financials and projections (I had pictures but I’m reddit dumb)
+
+Net Revenue
+$9.8B(2020), $6.7B(2019), $6.5B(2018), $5.2B(2017)
+Net Incum 
+$2.5B(2020), $341M(2019), $337M(2018), $(33)M(2017)
+	
+	I like your growth G
+
+	AMD decreased their debt to 338 million from 568 million.
+	
+	$1.6 billion in cash ($9 billion in total assets, I find cash on hand more important)
+
+	GPU/CPU sales accounted for $6.5 billion while enterprise accounted for $3.3 billion, GPU/CPU sales saw a 37% increase over 2019 while enterprise saw a 65% increase in 2020. 2021 is set to continue this trend of growth.
+
+	AMD has a high price target of $169.70, median $107.00, and an average of $103.92. I just read 100’s of pages of 8k’s and 10’ks, plus I’m super attracted to the ole doc Su Bae so I’m betting that it will get a target price upgrade, regardless $103 will make me rich. There is a lot more we could dive into on financials but idk what the fuck I’m doing so nah.
+
+Risks
+
+	I like to plan for more than 1 risk occurring at a time so keep that in mind. Ive highlighted the risks that I find most impactful/ probable. Also keep in mind of global shortages for damn near every company, especially with chips.
+
+	- Intel/ Nvidia’s market share dominance (mostly Nvidia)
+	- Seasonal sales can make for shit earnings in Q1/Q2
+	- Reliance on third parties for manufacturing/ distributors
+	- Xilinx deal falls through
+	- Jim Cramer also likes this stock
+
+	That’s enough risks, what am I, a gay bear?
+
+TLDR
+
+AMD will moon, Lisa Su is my mommy and is cooking up some tendies, AMD GPU’s are now in Teslas,  obligatory rockets (insert rocket emojis here), lots of words just buy it.
+
+POS
+150 shares @ 78.50
+Jan22 $100/$105C
+Looking for entry into Xilinx cuz I dumb

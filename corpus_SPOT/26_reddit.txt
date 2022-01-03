@@ -1,0 +1,49 @@
+**What's UWMC (United Wholesale Mortgage Company):**
+
+* UWMC was a former private company brought public through a SPAC under GHIV
+* UWMC is the second largest mortgage company in the US (#1 is RKT) and the largest mortgage wholesaler in the US
+* Went public in order to generate more capital and aggressively expand and develop their business to takeover the #1 spot    
+
+
+**Technical Analysis**
+
+https://preview.redd.it/144nmouy6yk71.png?width=700&format=png&auto=webp&s=923e7424224dd1b1559538d3fd7156046a58378f
+
+  
+RSI is normal   
+MACD shows a weak buy signal   
+Stochastics shows a neutral signal   
+stock price is in the lower range of the Keltner Channel   
+death cross (50MA under 200MA) is present (bearish indicator)    
+
+
+Resistance at $7.46, $7.60, $8.25, $8.89 and $10   
+Support at $7.31    
+
+
+Not gonna lie, the technicals aren't looking very good for this company.  So why am I mentioning this company?  Because there's good reason to believe that a short/gamma squeeze is possible with the current setup based on the call share structure, option chains, and upcoming catalysts.    
+
+
+**Short Squeeze Setup**  
+There's currently 88 million shares available as the public float with short interest at 10 million shares. Institutions hold about 28million shares.  Meaning the public float is only about 60 million shares, making it a low float and easier to move up the stock price.    
+
+
+https://preview.redd.it/3jhy0rl07yk71.png?width=1435&format=png&auto=webp&s=9a00bec927df8cc2350deffb8263fdc27e227664
+
+Take a good look at the open interests in the number $8 call options.  Add up the call options $9 calls on top, and you have over 50k in open interests for September 17th call options. 
+
+&#x200B;
+
+https://preview.redd.it/sbnj4fu17yk71.png?width=947&format=png&auto=webp&s=8bea294937a95532350ef4f60f5e9fd990ec13bd
+
+Now take a look at the average trade volume (approximately 4 million).  It's not hard to figure out MMs and Institutions are shorting the stock and are manipulating the stock price to keep it below $8 to have all those call options expire worthless.    
+
+
+**Upcoming catalysts:**   
+\- Ex-dividend date is September 9th for their $0.40/annual dividend ($0.10 for this quarter).   
+\- Dividend Payout is October 6th.  
+\- UWMC accepting cryptocurrency by the end of September    
+\- $300 Million in share buybacks   
+
+
+Now if you add in the number of shares being shorted (approximately 10 million shares) with them having to return those shares by the ex-dividend date (September 9th), along with the open interests in both the $8 and $9 calls (50k x 100 = 5 million shares).   That's 15 million shares, or one quarter of the public float.  If trade volume ever exceeded 10 million, than we would have enough momentum to generate a short/gamma squeeze on this stock.

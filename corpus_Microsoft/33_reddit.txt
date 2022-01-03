@@ -1,0 +1,146 @@
+Hey guys, it's me again. Instead of gloating about how I was right about Homebuilders, by making a gloat post... I decided to be constructive by writing my greatest work yet. 
+
+Everyone has heard about Corsair, and how great its products and growth are, but I don’t care about the product line when it comes to earnings plays. I care about numbers, the street cares about numbers, and the numbers to note down here are 27.5, 29.95, and 35. But we’ll get to the why, later. 
+
+Earnings plays are not necessarily as esoteric as people think. In fact, the efficient market hypothesis is such that you can figure out whether a stock will go up or down, and even get your own estimate of earnings per share that is or can be relatively accurate to do so. 
+
+The Process Is Simple:
+
+* Identify a fundamentally strong company that has lagged its peers for no reason (Vet this) in terms of its current price to earnings ratio, its analyst future price to earnings ratio relative to its sector, or even (especially) historically. 
+* Identify whether it has a bright future ahead of itself. The reason for this is that the efficient market hypothesis operates under the assumptions that markets are forward looking. I identified this with home builders generally, and with CCS and M/I homes respectively. 
+* Identify the true earnings per share of the company for the upcoming quarter, because with these kinds of companies, analysts are usually wrong. Don’t bullshit yourself with pie in the sky fantasy. Go as far out as a year with your estimates, or at least FYE. That way you can also analyze whether a company will raise guidance, or even if the CEO and the executive team are playing the earnings beat game where they intentionally under promise and over deliver. 
+
+1. Understand that if a company has good earnings, but lowers guidance the stock will tank, so it’s important to note that you need to project future earnings per share for the full year.
+2. The way you can figure out what the “true” EPS will be in a company for the quarter and the year (Which, by the way, is the lynchpin of this strategy) is a process that takes hours of work. That’s the price you must pay for a high batting average: 
+
+* You need to first read the latest earnings of the company you are investing in. This can be done at their investor relations website, or by finding their quarterly or annual on EDGAR. Follow that up by sitting down and listening to their earnings call, or by reading the earnings call transcript to add color.
+
+1.  Follow that up by looking at sector peers who have reported for the latest quarter, where your stock has not yet reported earnings. Read their earnings release and delve deeper by looking at their Q’s/K (depending on what time of the year it is). Then listen in on their earnings call. Don’t forget to look at sector peers in foreign markets because they have different disclosure rules. For example, the Hong Kong Exchange lets/has companies issue early warning profit alerts before earnings. 
+2. · Have you done your sector research? Make sure you have. Including sector numbers/economic data. If they aren’t what the market likes, question if there’s a reason why. For example, CCS/M/I home and other home builders haven’t been selling homes until they’ve been mostly constructed and have been metering (or effectively) metering their home sales. This is because they wanted to get fixed costs before they sell their home as opposed to getting a home pre-ordered and having to deal with highly variable prices in commodities. In short, home builders wanted better visibility on their margins. So, the new home sales data for this month didn’t look “great,” but if you know what’s going on, you know that it was a head fake. 
+3. · Compare the current P/E to your company’s peers, and then compare the future P/E? Is it woefully undervalued for no good reason (I’m talking a material impact here)? Is the projected analyst earnings expectations for the quarter and year just too low?
+
+*  Doing this will allow you to make a more accurate projection of your specific company’s earnings, and forward earnings. Even then your expectations can be blown, even though they’re higher than analysts, as occurred to me with home builders I was in.
+* What is the market sentiment towards your stock? If it’s been red the last week, month, three months? Then that means there is a strong negative sentiment (But it doesn’t need to be red for all three, you just must recognize the sentiment). If that’s the case, and you’ve paired this with everything else, the stock will go up. So long as you identify that there will be a beat, raise, or bullish earnings call or a combination. 
+*  Be mindful of any obstacles such as the bear case (If only to do like a persuasive argument where you acknowledge the argument then counter it). 
+* In certain cases, hedge, by limiting your downside and protecting a large portion of your upside. This can be paired with trimming on a as-needed basis when you are up.
+* The process will take you a significant portion of time running in the hours. This Corsair play took me 5-7 Hours of Research, and I’m not counting most of my Razer research hours in this. It can be tedious, but it’s the price to pay for a high batting average. I’m lucky that I love doing this stuff. 
+
+**How I Discovered The Play**
+
+They way that I am going to describe this DD is by weaving the story of how I came to discover this play in bullet point format. 
+
+* The story starts a month and a half ago with a Singaporean-American company listed in the Hong Kong Stock Exchange. I was incredibly bullish on what Razer’s first half earnings would be, because I was seeing them buy back their stock in real time every single day. Hong Kong has different disclosure rules, requiring a next day disclosure if the company did a buyback the previous day with how much shares had been bought, how much they had retired, and how much they had bought back so far but not retired. They also require a monthly issuance of equity. I had been seeing them buying their stock back every, single, day. So, I knew the first half for Razer would be gangbusters. But another disclosure requirement is the inside information profit alert that the exchange requires them to do before earnings.
+* Looking through it I noticed a few things: [https://doc.irasia.com/listco/hk/razer/announcement/a210714.pdf](https://doc.irasia.com/listco/hk/razer/announcement/a210714.pdf) 
+
+1. There was higher than expected revenue growth (Though I must remember that Q1 is included in the profit alert since the earnings are for H1 and H2.
+2. The operating margin was higher because of a higher gross margin product mix, as well as organic improvement of hardware margins. They had spoken of doing it in their investor presentation for their annual report in 2020. It can be found here: [https://investor.razer.com/pdf/pre210324.pdf](https://investor.razer.com/pdf/pre210324.pdf) (Page 47)
+3. I expect something similar for Corsair where the higher gross margin products are a larger product of their revenue mix. 
+4. There was also continued improvement in operating expenses management, which I expect for Corsair as well. 
+
+* That’s not enough color for me, so I move on to Logitech which has reported earnings. They beat earnings expectations, but they did not beat Q1 EPS sequentially. Part of it is expected, in that the area is seasonal, with Q3 and Q4 having the best numbers, but something tells me that’s not why. You see, Logitech has a lot of segments, of which only gaming is one of them, and I expect their non-gamer peripheral segment (etcetera) has decreased etcetera. I wager that the gaming segment revenue increased sequentially. I must look at their earnings to figure that out and compare their recent quarter to their last quarter.
+
+1.  First I look at the earnings release for last quarter, which can be found here: [Quarterly Factsheet F4Q21.xlsx (q4cdn.com)](https://s1.q4cdn.com/104539020/files/doc_financials/2021/q4/Logitech-F4Q21-Quarterly-Factsheet.pdf). It shows me that gaming revenue is 323M. 
+2.  I then look at the latest earnings release here: [https://s1.q4cdn.com/104539020/files/doc\_financials/2022/q1/Logitech-F1Q22-Quarterly-Factsheet.pdf](https://s1.q4cdn.com/104539020/files/doc_financials/2022/q1/Logitech-F1Q22-Quarterly-Factsheet.pdf). I can see that gaming revenue stands at 336M. 
+3. That equates to a 4.02% sales increase.
+
+*  However, by looking at the fabled Q instead of just the fact sheet itself, I know that gaming doesn’t represent video cameras for streaming (or streaming accessories), nor the microphone segment for streaming. 
+
+1. On Page 8 of the latest earnings found here: [0001032975-21-000034 (d18rn0p25nwr6d.cloudfront.net)](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001032975/d1c28ef6-b9ef-4a9a-974e-f23b941b1689.pdf), you can find the definition of gaming.
+2.  “Our gaming category comprises gaming mice, keyboards, headsets, gamepads, steering wheels, simulation controllers, console gaming headsets, console gaming controllers, and stream labs services.
+3.  What it doesn’t say is streaming webcams, streaming accessories, or microphones. 
+4.  This means I must go to the web cam section to find sequential gains, as well as audio and wearables section. This is to get a complete picture. 
+
+*  PC Webcams decelerated from 145 to 110 in terms of revenues. That’s a decrease of 31.8%. However, that’s because of the WFH trends fading, because as the segment states: “our PC Webcams category comprises PC-based webcams targeted primarily at consumers, including streaming cameras.” Furthermore, they say that the 81% increase over a twelve-month period in terms of sales was partly because of organizations adopting remote or hybrid work environments.  
+
+1. · I expect the gaming (and higher margin) portion of the webcam side to have increased. However, looking at their earnings transcript will give me some color. 
+2. o “While webcam growth has started to moderate after more than tripled in last year, sales still grew 73% in the quarter, and we have regained some of the share we lost last year due to supply shortages.” 
+3. § That’s interesting. The gaming peripheral and streaming segment is hyper fragmented, and so I suppose Corsair has been eating market share. I’m expecting the majors to continue doing so.
+4. · “Yeah, I mean the streaming business has just been a really strong grower underneath these numbers has really kind of lives in different places in the -- in our different categories. But generally speaking, if you look at blue microphones over the past year, it's really just grown tremendously. And we think the long term there is very, very strong. And Streamlabs is also super exciting and it's beating all the expectations we had for in terms of growth, and we're very optimistic ahead, and we're learning so much from our service businesses, it's a pure service play.”
+5. o Alright, I got that color on the product mix. I’m thinking that the streaming portion for webcams has continued to grow sequentially. Ergo sales have increased from Q4 to Q1.  
+6. o Corsair seems to be in the entire ecosystem, while Logitech is not: [Elgato Gaming and 45 more pages - Personal - Microsoft​ Edge (gyazo.com)](https://gyazo.com/102f33504555d33bff5c7bed013ce6ee)\-> [https://gyazo.com/ca119fd050f2adb41c5c882ca1c738ed-](https://gyazo.com/ca119fd050f2adb41c5c882ca1c738ed-)\> [Blue and 49 more pages - Personal - Microsoft​ Edge (gyazo.com)](https://gyazo.com/77c0e5277ae29824d8e7a173ed47daa1) 
+
+*  130 to 117, but a similar story regarding the consumer side dragging down the gamer side for audio and wearables. Hopefully there will be more color in the earnings call transcript. The NPD has been quite clear that Streaming as a segment is going to grow at a strong pace for the next few years. 
+
+1. Yeah, I mean the streaming business has just been a really strong grower underneath these numbers has really kind of lives in different places in the -- in our different categories. But generally speaking, if you look at blue microphones over the past year, it's really just grown tremendously. And we think the long term there is very, very strong. And Streamlabs is also super exciting and it's beating all the expectations we had for in terms of growth, and we're very optimistic ahead, and we're learning so much from our service businesses, it's a pure service play.”
+2.  Well, that sounds bullish for the streaming side of the audio’s (microphones). Guess that means my thesis regarding this is correct. 
+
+* Now, I move on to Corsair. I’m just going to ignore looking at best sellers lists for pc component parts, because I must take some chill and I think it’s strong anyway. I know that the graphics card shortage for high end graphics cards is leading to sales increases in pre-built pcs. Ergo, Origin will do well sequentially.  
+
+1. Going to focus instead on what I think earnings will be for Q2 and FYE. I’m going to use this, and if I need to go to the Q I will: [fd9a3204-b129-4add-8f27-d92f22f17169 (corsair.com)](https://ir.corsair.com/static-files/fd9a3204-b129-4add-8f27-d92f22f17169) 
+2. They raised adjusted operating income to be in the range of 235M to 255M from 205M to 220M. Let’s figure out how to get the net income from that, at the top range.
+3. This is going to be more complicated than I initially thought since the Operating Income on a GAAP basis is 67.289M, and there are some one-time items I can strip out to adjust it. **For some reason Robinhood displays the Adjusted, Non-GAAP EPS of .57. Therefore, my number might be lower, but will be higher on an Adjusted non-GAAP EPS basis. The GAAP EPS is .47.** 
+4. Non-deferred IPO and secondary offering costs=1.03M
+5. Acquisition-related and integration-related costs=.208M
+6. Change in fair value of contingent consideration for business acquisition=.072M
+7. That gives us something to start with, and the new tally is 68.6M in **GAAP income after stripping out what I believe to be one-time expenses.** 
+8. As a percentage of net revenue that is now 12.95% from 12.7%. The adjusted operating income as a percentage of revenue is 15.2%. 
+9. Taking that operating income, and deducting interest expense of 7.39M, and then deducting the effective tax rate of 22% gives you 46.723M as your Net income. (Page 7)
+10. Corsair has debt at $294.3 million after debt repayment of 28M, and they intend to extinguish 100M by the end of the year. The interest payments, as can be seen In Q1 can be material. I expect EPS growth as more and more debt is repaid, and the interest no longer has to be paid. 
+11. “We were able to convert our strong financial performance in the first quarter into an opportunity to further strengthen our balance sheet. We reduced debt by an additional $28 million with outstanding principal now at $299 million and net debt at $177.3 million. We did this while growing quickly and leaving sufficient resources to help us grow further. We continue to evaluate growth opportunities while still expecting to further reduce our existing debt in 2021,” said Michael G. Potter, Chief Financial Officer of Corsair
+12. I expect that they will outpace the 100M goal they set for by the end of the year, due to stronger revenues, free cash flow, and net income. 
+13. No, I refuse to check out the loan terms even though I could. This is already 2451 words. 
+
+* Okay, now let’s go with future projections, okay? I’m expecting 5-8% in sales growth. I don’t expect it to be 1/1 as I expect there to be a higher product mix relative to other quarters (Thank you Razer). Therefore, I probably expect 6-8% sales growth, but 7-10% in revenue growth. I’m basing this off my review of Logitech and Razer. That would mean net revenues of 582.36M. 
+
+1. The operating income, therefore, should be 12.9% of that, but I am expecting better. Because of operating expense management primarily, but also because of a higher margin mix. Since I went topline on revenue growth sequentially, I’ll be somewhat conservative and say that I believe there will be a 100 BPS increase. So, 13.9% will be the operating income percentage of net revenue.
+2.  That would give operating income of 80.95M 
+3. Then I am going to deduct interest, by copy pasting the last quarter’s interest expense minus what interest is saved. As I’m too lazy to dig for it, my assumption will be 4% interest rate on the debt extinguished, which means 280K in interest saved this quarter (And 1.12M over a full year). The new interest expense tally for the quarter is 4.666M. That would turn the net income into 76.284M.
+4. Other Expense, net line I’ll just say will remain neutral which means the net income will turn into 73.86M in net income.
+5. Effective tax rate of 22% means 57.61M in actual net income free and clear, and then divide that by 92.19M shares outstanding **means basic EPS of .6249 for Q2 2021.** 
+6. **IMPORTANT ALERT SO READ THIS:** For some reason MarketWatch and Robinhood report the adjusted EPS which is non-GAAP, and they do so for the analyst estimates as well. I’m just going to give you that number so you don’t have to do the calculations, and I can save time: **EPS under adjusted net income is .738 EPS.** 
+7. **As the adjusted net income EPS is what is going to be reported, and what has been reported, I’m just going to go with that.** The Price to earnings growth sequentially would be a 27.24% increase. 
+8. Analyst estimates of a FY EPS of 1.76 are way too low and would value the company with a forward p/e of 16.59 if matched. However, they will be easily surpassed as the first quarter had a EPS of .47 on a GAAP basis and .58 on its reported non GAAP basis. 
+9. Q3 and Q4 are seasonally the best time for these stocks (especially Q3), and I don’t see how those changes. They’re going to have even stronger quarters sequentially.
+10.  My EPS estimate on a GAAP basis for the full year is roughly 1.95-2.05, but roughly at or within a cent difference of 2. 
+11. My EPS estimate of the adjusted GAP basis (Which is what is reported on brokerages, and finance sites), would have me estimating a FY EPS 2.15-2.55.
+12. Every 28M of debt extinguished, means that 12-month future earnings are boosted by .012. You can divide that by 4 as that EPS is divided over a full year. There will be a snowball effect, and you will start feeling it this quarter, though it will be slight. This estimate is assuming 4% interest on every dollar.
+13. This all means a beat and raise, and a bullish earnings call, or a combination of the three. 
+
+* Corsair’s trailing P/E after earnings will be 12.14. 
+
+1. Logitech’s current P/E ratio is 17.17
+2. Turtle Beach is 10.49 
+3. Razer had turned a net profit of .8M last year, and so the P/E ratio is astronomical, the forward P/E for FY 2021 will be more reasonable.
+
+* Corsair’s forward P/E for FY 2021 according to analysts who expect 1.76 is 16.55. 
+
+1. Turtle Beach’s is almost 22
+2. Razer is 22 (under my model).
+3. Logitech’s is 19.07. 
+
+* My estimate for forward P/E:
+
+1. GAAP Basis (The non-reported one): 14.57 (2 EPS)
+2. Adjusted Basis (The reported one): 12.69 (2.3 EPS) 
+
+* There is strong negative sentiment because the street doesn’t think the gaming boom in sales can sustain itself, but I think that’s wrong, and I believe I’ve done the research to prove that is so.
+
+1. The street, if you see the share price, is expecting complete catastrophe. A miss of epic proportions if you look at the charts. The short interest is higher than it should be because short sellers think Eagle Tree will unload at any time, but that’s not what is going on. Eagle Tree is a rational player in the market, and I do not think they will sell past 35.75, plus whatever value they assign the raised guidance. My guess is that their new sell point will be 37.5-40. 
+2. My reasoning for that is if you look here, you can see when they sold, and how much they sold: [CRSR | Corsair Gaming Inc. Profile | MarketWatch](https://www.marketwatch.com/investing/stock/crsr/company-profile?mod=mw_quote_tab)
+3. Aside from the IPO, they only sold once. Eight months later. When the company was pumped to over 40 dollars. They ended up selling all the way down to 35, and then stopped. 35 was their stopping point. 
+4. They didn’t sell until the stock price had moved up 105-140% in the span of 8 months. They are rational actors, and they acted in that manner because they believed that at those price points, they were taking money from you and putting it in their pockets. They haven’t sold below 35 before earnings because they believe that that would be the equivalent of taking money from their pockets and giving it to you.
+5. The executive team selling is because of RSU’s recently. If you know about RSU’s you know that you are taxed the full value of the stock now it is issued at the market price, and that is your cost basis even if you don’t sell. So, most people just usually buy them, and immediately sell them to pay the taxes and keep the rest as cash to diversify.
+
+**My Strategy**
+
+· I had bought 6 27.5 Calls and Sold 6 35 calls. I added another pair today to make that 7 for each. These are August 20 Calls, and my debit spread means my cost basis is like 29.95. At the time I bought them yesterday, to break even it would have had to go up 1.6% by August 20.
+
+· The Delta was .70, versus .20, and Gamma favored me for the first dollar. Thus, the first dollar gain in the share price would have netted me 250% margin roughly.
+
+· Margin expansion would be there because of the extrinsic vs. intrinsic effect, thus the IV crush would be less for the 27.5’s than the 35’s.
+
+· Theta burn is lower on my 27.5 calls as opposed to the 35’s due to the same reason (though I don’t need to do that).
+
+· I understand an opportunity could come that makes Eagle Tree rationalize selling at prices they don’t think is suitable for them, so I’ve protected the possibility. Corsair reports pre-market on Tuesday, which means they only have today and Monday to sell before earnings come out. 
+
+· Market sentiment is so low, that anything positive is primed to ligjt a fuse in the company’s earnings, and I expect a 3-7% raise, and an outside chance of a 10% raise in the share price on earnings. At minimum, I expect there to be parity between Logitech’s future P/E and Corsairs. 
+
+· Even if it stays flat, I have a week and a half after earnings to see it go up the equivalent of 1.6% (It’s roughly 2% now, but you get the idea). 
+
+· There is intrinsic value unless it goes down below 27.5. Which means if it ends above 27.5 but below my cost basis, I can exercise those calls, and become a theta beta by wheeling it for September 17’s at a price of 27.5, 30, or 32.5 and get past break even and into positive territory as the extra two weeks of theta will outweigh my losses. 
+
+· The chances of it going below 27.5 are… Slim to be honest. 
+
+· I can either sell on earnings runup or keep them and see if there is a pop for the next few days. I will likely hedge my gains by trimming on a -as-needed basis.
+
+**TLDR: Do you ask for ketchup on your spaghetti when you’re ordering in Italy? Do you go to the Louvre and ask what that funny picture is when you look at the Mona Lisa? No? Then why would you ask for a TLDR of the financial write up equivalent of the Odyssey, on a earnings play with a 2 week condom?**

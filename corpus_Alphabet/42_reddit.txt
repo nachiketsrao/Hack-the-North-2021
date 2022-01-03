@@ -1,0 +1,38 @@
+ **Winners**
+
+Winner of the day by sector | **SP500**:
+
+**Sector |** Company **| Ticker |** % Price Change  
+
+
+1. **Industrials** | Fastenal Company | **FAST** | 1.04%  
+2. **Health Care** | Johnson & Johnson | **JNJ** | 1.82%  
+3. **Information Technology** | Oracle Corporation | **ORCL** | 2.87%  
+4. **Communication Services** | Alphabet Inc Class A | **GOOGL** | 2.30%  
+5. **Consumer Discretionary** | Hilton Hotels Corporation Common Stock | **HLT** | 2.58%  
+6. **Utilities** | NRG Energy Inc | **NRG** | 2.20%  
+7. **Financials** | T Rowe Price Group Inc | **TROW** | 1.81%  
+8. **Materials** | Celanese Corporation | **CE** | 1.04%  
+9.  **Real Estate** | Welltower Inc | **WELL** | 1.42%  
+10. **Consumer Staples** | Costco Wholesale Corporation | **COST** | 1.12%  
+11. **Energy** | Phillips 66 | **PSX** | 0.93%  
+
+
+**Losers**
+
+Loser of the day by sector | **SP500**:
+
+**Sector | Company | Ticker | % Price Change**  
+
+
+1. Industrials | **A O Smith Corp** | AOS | **-1.55%**  
+2. Health Care | **Vertex Pharmaceuticals Incorporated** |  VRTX | **-0.83%**  
+3. Information Technology | **IBM Common Stock** | IBM | **-4.62%**  
+4.  Communication Services | **CBS Corporation Common Stock** | VIAC | **-1.76%**  
+5. Consumer Discretionary | **Penn National Gaming, Inc** | PENN | **-2.19%**  
+6. Utilities | **AES Corp** | AES | **-0.65%**  
+7. Financials | **Invesco Ltd.** | IVZ | **-1.93%**  
+8. Materials | **Vulcan Materials Company** | VMC | **-1.64%**  
+9. Real Estate | **CBRE Group Inc** | CBRE | **-1.45%**  
+10. Consumer Staples | **Walgreens Boots Alliance Inc** | WBA | **-1.11%**  
+11. Energy | **Devon Energy Corp** | DVN | **-2.44%**

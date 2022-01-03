@@ -1,0 +1,156 @@
+I'm going to cut to the chase because I know most of you are on the verge of bankruptcy at age 19 because you got in at $450 on GME and wondering why its not going to $1000 after you paper handed at $439 and sold.
+
+&#x200B;
+
+# What is Yandex?
+
+Yandex is a multinational corporation that operates primarily in Russia, Europe and ex-Soviet bloc offering a wide range of services. Primarily their revenues are from being a search engine, taxi services and other segments. Currently they offer more than 70 services (Streaming subscriptions like Netflix, Yandex.Music like Spotify, Classifieds ads, self-managed subscriptions for ad campaigns, self driving cars, deliveries, marketplace and a fuck ton more)
+
+&#x200B;
+
+# But first, fundamentals.
+
+This is to help you sleep better at night so you can worry more about your 35c 2/19 AMC calls you blew your money into.
+
+I don't like re-inventing a lot of stuff so this is simply principles I've adopted from Grand-Daddy Graham
+
+**Adequate size (sales no less than 700m)**
+
+&#x200B;
+
+https://preview.redd.it/gb37ygq0wyg61.png?width=632&format=png&auto=webp&s=07a7246dd26167757963b912ce384a1e1b96dfa4
+
+As you can see Yandex has been seeing consistent revenue growth since 2017. Recently, its delivery service has begun turning a profit and is widely used among the citizens of Russia.
+
+Read that again. **A Taxi/food delivery service is turning a profit.** That is a big accomplishment. Have you seen Uber or DoorDash turn a profit?
+
+[Strong Financial Condition (Assets 2x > liabilities)](https://ir-docs.s3.yandex.net/financials/2020/yndx_Current_Folio_6K_Ex99_1_2810_FINAL%20with%20LOGO.pdf)
+
+&#x200B;
+
+https://preview.redd.it/9u0nc2k4wyg61.png?width=476&format=png&auto=webp&s=9b5295dc79c2c7c696fd9b7c931f97d35e0a43fc
+
+Check the 2018 & 2019 numbers. Now, do you want to know something else? **They currently have enough cash (1.1b$) to cover all their current total liabilities or all their convertible (one or the other) at any time they need.**
+
+In addition, they've repeated in their financial statements that the liquid cash they have **is enough to cover operating costs should the pandemic continue.**
+
+This tells me they're not gonna lay down like a bitch and cry to daddy when a white swan curve ball is thrown at them (I'm looking at you airlines)
+
+&#x200B;
+
+[**Earnings stability (Some earnings in each of past 10 years)**](https://www.macrotrends.net/stocks/charts/YNDX/yandex/eps-earnings-per-share-diluted)
+
+&#x200B;
+
+https://preview.redd.it/1lk6eji5wyg61.png?width=232&format=png&auto=webp&s=b37f926c00c35c106a1c18388f3c1817c91f5292
+
+Uninterrupted Dividend payments in previous 20 years
+
+No dividends paid ever. Fails this one
+
+**A minimum increase of 30% in EPS in past 10 years by using the beginning and ending 3 years as comparison**
+
+&#x200B;
+
+https://preview.redd.it/rllsr0i6wyg61.png?width=232&format=png&auto=webp&s=b53761842061dc2275ce28186679db83749134b1
+
+Earnings increased by 68% in previous 10 years
+
+**Free Cash Flow**
+
+&#x200B;
+
+https://preview.redd.it/945hw1m7wyg61.png?width=696&format=png&auto=webp&s=ce74894e49bdc36223d46c1eb317138467cc0789
+
+This is their free cash flow from previous 3 years and TTM. You always want to see a positive cash flow to ensure that companies have enough liquidity to stay afloat and keep them from issuing new shares to raise capital. Spikes in cash flow from growth companies is not uncommon, it is mainly due to usual acquisitions, restructuring, re-investments made. Current outstanding shares: \~345m
+
+# Now, on to some of their services.
+
+This is just a brief overview as their business model is pretty extensive and by this time you lovely bastards have already bought OTM calls expiring this weekend. (Don't yo, this is a long term play)
+
+**Yandex.Lavka**
+
+1. Grocery delivery within 5-12 min is the goal. Some sites are achieving this already
+2. Takt time per grocery item bagged is 10s. Takt time is the amount of time it takes to complete one process.
+3. Groceries are then transferred to drivers for delivery (think Amazon Prime Now)
+4. In order to reduce costs, additional lavkas in high concentration areas will be built.
+5. Not all but some Lavkas are kitchens where actual food is cooked
+6. Yandex Rover is making deliveries (actively) in three different locations. Currently a test but with the goal of going 100% driverless for deliveries and reduce costs.
+
+&#x200B;
+
+**Yandex.Market**
+
+1. Their current primary growth segment. They've recently acquired Sberbank's stake (Russia's most influential and one of largest banks) and now own 100% of market. Their goal is to rival other marketplace and ecommerce companies such as [Ozon.ru](https://Ozon.ru)
+2. They currently have fulfillment centers and are in the process of building additional ones. Does not want to store its own Yandex branded products but wants to become a pure marketplace that offers fulfillment services for sellers and makes it easier for customer (cliche, but think Amazon)
+
+&#x200B;
+
+**Yandex.Go**
+
+1. Offers delivery services to residential and commercial customers (stuff ranging from documents to pianos)
+2. More than 100k deliveries made per day on other customers orders
+3. "Delivery with a click" which delivers the orders to nearby lavkas (think Amazon locker). Delivery goals are to be within 15 min.
+
+&#x200B;
+
+**Yandex.Cloud**
+
+Not much to say here but theyre offering cloud services to companies. Main competition Amazon AWS
+
+**Yandex.Maps**
+
+Same as above. Main competitor Google Maps
+
+**Alice**
+
+Yandex's dedicated AI. Currently has 45+m users, mainly in speakers, navigation, Yandex App
+
+**Yandex.Search**
+
+Their actual search engine that makes up bulk of their revenues.
+
+1. What I loved seeing in their recent financial statements is that **while search engine revenues kept increasing, their TAC (traffic acquisition costs, the cost Yandex pays for others to refer customers to them) is decreasing.** What does this mean? It means customers are going directly to Yandex instead of using a medium. **Think**, why the fuck unless you're a boomer would you go to google, search for 'amazon' when you can go to amazon directly? This is actually a legit problem Google faces as Amazon cuts down on their revenues by not allowing customers to see Google Ads.
+2. TAC decreased nine months ended Sep 19 to Sep 20 by 16% while total ad revenues grew by 1%. Read that again god damn it. **They're paying 16% less while maintaining their ad revenues, their biggest segment!**
+
+**Yandex Self Driving Group**
+
+Yo. This shit. Is. Legit.
+
+Let me tell you about the streets of fucking Moscow. Dirt, snow, murky (or none at all) traffic lanes, chaotic drivers, alleys tighter than your uncles anus when JNJ took another -1.5% hit on his portfolio. And they STILL managed to develop an autonomous driving vehicle that navigates through all that shit without user input.
+
+They currently have logged over 5.5 million miles using autonomous driving in Tel Aviv, Michigan and Moscow. That is a big fucking deal. They also have a partnership with Hyundai.
+
+**However**, coming straight from their engineers it will take several years before fully autonomous driving can EXCEED human driving. This means it will take several years for perfection, whos to say sales cant happen before that?
+
+# Other stuff
+
+They sponsor educational camps and programs that focus on hard sciences in Russia (Physics, mathematics, engineering) and they continue to choose talent from these areas. This lessens the reliance on foreign specialists from the US/Europe to develop their products
+
+They focus heavily on customer service and truly understand their core audience. I am telling you, Russians (especially those born in Soviet era) is TOUGH to accept technology. And yet they've done it by Yandex.taxi and Yandex.Lavka .
+
+I'm kinda of a gay bear for our stock market right now, I feel like we're running on fumes with the stimulus cash and might see some extreme volatility in short term in US stocks.
+
+Institutions have loaded up on Yandex since late 2020. Don't ever take this as a tell-tale sign to buy, but rather as one part to consider
+
+&#x200B;
+
+https://preview.redd.it/such0qzcwyg61.png?width=1223&format=png&auto=webp&s=ada9db77485d334a8ec2d3a7ca63494eccc35fad
+
+# Gay Bear cases (in this case I am also a gay bear)
+
+Russia is not stable politically - things can be done under the table.
+
+* True, fair risk. But more or less the same thing in US except it's official (lobbying, insider trading, congress hearings that are just a facade)
+
+They're too over-extended in their segments. They're focusing on all at once instead of focusing on what they can do really well.
+
+* I would be concerned about this if their cash flow, revenues and net incomes would be decreasing YoY. However their current trajectory is that theyre consistently increasing. Also, think about it more simply - if they have these specialists working on all these segments, they can easily sell them off for a profit. Yandex.Pay was a cashless payment system that was 100% sold off to Sberbank. It is something that Yandex created and then re-invested those proceedings to their different ventures like Yandex.Market
+
+What else you got? I am legitimately interested as my overconfident ass has 50% of his portfolio in this.
+
+Current positions
+
+20k in shares, 4k in calls.
+
+This is not a short term play. Play at your own risk boys & girls this isn't advice but some DD thatll probably get buried by the 10,000 GME/AMC posts.

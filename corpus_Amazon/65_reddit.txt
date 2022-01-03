@@ -1,0 +1,27 @@
+Before I begin, it should be noted that I don't have a position in FSLY, but tomorrow I'm planning entering.  I'm primarily looking at shares (I've been fucked too many times with options...), but might also buy some longer DTE options as well as FDs.
+
+# Part 0: Short Squeeze
+
+This isn't the main reason I'm buying, but the short interest on $FSLY is definitely worth noting and is high enough to trigger a squeeze.  We're looking at about 20% short interest [\[1\]](https://www.wsj.com/market-data/quotes/fsly).  
+
+# Part 1: Company Profile and Market Overview
+
+Fastly is a cloud computing company.  One of their main services is a CDN, which is basically how you're able to load up anime titties 10 minutes before you go to sleep.  Additionally, they have some cybersecurity operations as well, coming from a subsidiary they acquired in August 2020 for about $700M (cash + stock).
+
+Before getting into their numbers, I'd like to talk about their most recent earnings shitshow.  At time of writing, the stock is down almost 20% after some bad forward guidance.  For the full year of 2020 Fastly called for an adjusted loss of -$0.65 to -$0.57 EPS and revenue of $340 to 350m. This is against an original analyst expectation of -$0.43 on $382m in revenue.  The main reason for this is that FSLY had an outage that lasted for about an hour and affected companies like Reddit, NYT, and Twitch, among others.  Keep in mind that Fastly reported this issue on June 8, yet from the week June 7 to June 14, the stock rally about 13%.  Rather bizarre, as you'd think this would have tanked the stock then.  What I take from this is that initially the market underestimated the impact of the outage and is now overestimating it.  Overall, the outage is a valid cause for concern, and you should take into account whether or not you trust FSLY to fix its shit going forward.
+
+Now lets get down to the fundamentals.  FSLY has show solid revenue growth, of \~40% since 2017.  Even though that should drop to 20% this year, that still represents solid growth.  Additionally, if you think that the outage was a one-off event, then presumably we can expect to go back to that juicy 40% annual revenue growth.  It's also worth drawing attention to FSLY's total asset growth which has gone up 10x from 2017 to 2020.
+
+With respect to Cloud Computing, I'm sure most of us know that this is an industry that's going to generate a lot of wealth.  The industry has a CAGR of \~18% over the next several years.  Additionally, the market is already estimated anywhere from $200-300b (as of this year).  Most big tech companies have spent huge amounts of money on their cloud computing efforts (see Amazon, Google, Microsoft, etc.).
+
+# Part 2: Analysts are (were?) bullish
+
+The average price target of FSLY is around $52, representing \~50% upside from the current price of $35 [\[2\]](https://www.wsj.com/market-data/quotes/FSLY/research-ratings).  Now, it should be noted that price targets may not have baked in the bad guidance and outage, but it should also be noted that historically FSLY has traded well above $50.
+
+Honestly, I don't really pay to much attention too much attention to analysts, but it's nice confirmation bias.
+
+# Part 3: Final Thoughts
+
+First, apologies for typos/incoherence.  This was written at 4 AM, and I'm retarded.
+
+Second, do you own DD; as stated above, I'm retarded.

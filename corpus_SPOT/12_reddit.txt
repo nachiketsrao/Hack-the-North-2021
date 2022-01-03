@@ -1,0 +1,188 @@
+^(I'm  not a financial advisor, nor am I giving any financial advise. This is  an entertainment/comedy-nonfactual post. I'm a retard  posting on WSB  with a bias due to having a position of my portfolio in $ASTS.  So, Don't act on anything posted in here and proceed on your own risk...)
+
+**This DD contains 10 hours of research and writing.**
+
+**It is very comprehensive and will go into the nitty gritty details. It will be almost like a wiki for what we currently know about ASTS. In addition, I've went through all of the comments and tried my best to address all of the criticism in this part.**
+
+Since my first $ASTS DD, The stock went up quite a bit, but it's still no where near the valuation it deserves. The potential upside of ASTS is comparable to $TSLA in its 50$s(post split) and this is an understatement. At a valuation of 2.03 Billion(now), a **10-100X increase in valuation**(stock price) is not far away from reality, if everything goes to plan. This is literally a once in a lifetime opportunity which for me deserves the risk (The risk of it going to 0$ if shit hits the fan or going to **200$+**).
+
+One thing that ASTS has recently shown, **which ClOV failed to do**, is that **it's not a pump and dump scheme.** When it shot up, it stayed up and for me that shows that the holders are true believers and not just pumpers.
+
+# WARNING! (Should Not be Skipped)
+
+Since this is a speculative play, skepticism is healthy especially when the stock is in it's very early stages. We definitely don't want this to become the next $NKLA... In addition, as I mentioned, this could go either way **0 or +200$+ so always keep that in mind!**
+
+# Intro (Should Not be skipped)
+
+Roughly 40-47% of the world doesn't have access to online Porn or the internet, a **Trillion** dollar market unFapped. Imagine more than **3 Billion** horny people limited to only masturbating to their imagination!!
+
+ASTS is developing the **First and Only** Space based Cellular Broadband network, **SpaceMobile.** SpaceMobile will be **compatible** with all currently existing 5G and LTE smartphones without the need to do any modifications to your phones hardware. It will provide connectivity **at 4G/5G speeds** **everywhere on the planet – on land, at sea and in flight.** In addition, 5 Billion phones move in and out of coverage all the time, SpaceMobile is planning to bridge the gap of connection loss without the need of specialized equipment! Finally and More importantly, it currently has **no competitors,** not even **StarLink**(as per the CEO).
+
+# 1) The Technology in details (Too fancy and can be skipped):
+
+**TLDR;  The tech has been proven to work on smaller scales but has yet to be done at the scale ASTS is aiming for. Additionally, it's 6G forward compatible!**
+
+AST SpaceMobile has designed a large aperture satellite system to provide ‘direct-to-device’ service to normal phones using a **low earth orbit satellite** array to directly connect to mobile phones anywhere on Earth.
+
+    1- Low Earth Orbit Satellites
+
+Now let's start with good old GEOsatellites so that we can talk about LEO satellites. Traditional communication satellites are geostationary and have been in orbit for more than 50 years. GEOsatellites weigh more than 1000kg and operate 36,000 kilometers above the earth. These satellites remain in a fixed position relative to any position. Despite Earth’s orbit, this allows ground-based antennas the ability to point directly at the  satellite, in a fixed position. 
+
+In contrast, Low Earth Orbit (LEO) satellites(which ASTS is going to use) orbits between 200 and 2000 kilometers above Earth’s surface. ASTS is planning to have their satellites at 720Km using cellular spectrum primarily located between 600mhz - 2.2ghz weighing around 2000kg.
+
+Unlike Geostationary Orbits , LEO satellites move rapidly(at an altitude of 500km, it can move at a speed of 7.6 km/s)  with respect to the Earth’s surface and have a small ground coverage. In particular, the ground coverage of a LEO satellite deployed **at 600 km** above the Earth’s surface and with a typical elevation angle of 30 degrees **is around 0.45% of the Earth’s surface.** Moreover, **due to the low altitude of deployment,** LEO satellites can communicate **with diverse types of ground terminals, such as dedicated ground stations (GSs), 5G gNBs**, ships and other vehicles, or Internet of Things (IoT) devices. This creates the need for a relatively dense constellation **to ensure that any ground terminal is always covered by at least one satellite.** Therefore, global commercial deployments such as ASTS usually consists of more than a hundred satellites to be able to have a full global coverage.
+
+5G is a standard that incorporates many different bands of spectrum, including cellular (600mhz - 3.5ghz), which has great distance and propagation characteristics, and much higher millimeter band spectrum which has issues traveling far distances and penetrating objects.  ASTS is planning to use its partner’s CELLULAR spectrum, which can travel much further than millimeter band spectrum that is referred to by bears.
+
+Now AST satellites each will have up to 2800 user beams and two or three gateway beams. Each user beam will be electrically steered through a large phased array antenna and will be capable of being pointed anywhere within the Field of View (“FoV”) of 20 degrees elevation angle. Additionally, each satellite in the AST constellation will provide service up to 58 degrees away from boresight.
+
+The satellites may transmit all of its active user beams on the same frequency or different frequencies. Each active user beam will track a fixed cell on the ground within its FoV without steering the boresight of the planar phased array antenna. All of the active beams can be distributed flexibly  within the FoV.
+
+The same cell on the ground can be illuminated by a single beam, by multiple beams from same satellite, or by multiple beams from different satellites with in the view of the cell to enhance the user experience. The beam-to-beam handover and the gateway handover are based on schedules and  use a “break -then- make ” approach.
+
+    2- Frequency and User count
+
+The large LEO concepts are mainly planning to use Ka band for Backhaul. These frequencies **enable higher data rates,** smaller antennas, narrower beams, and greater security. Moreover, improved spectral efficiency and spectrum-reuse rates can also **increase the amount of data a system delivers.**
+
+In addition to better use of spectrum, advances in active antennas and processing have **raised throughput per individual satellite, increasing constellation capacity.** Consider a few changes:
+
+* A satellite can now deploy more spot beams, and greater power can be delivered through each beam.
+* Intersatellite links (ISLs) improve connectivity and confer particular benefits to large constellations, including improved throughput and management.
+* Improved data-compression methods reduce bandwidth requirements without reducing the quality of communications.
+
+So, a 10 Ka-band steerable antenna can provide up to 1.6 Gbps of symmetrical data connectivity. In addition, two high-performance antennas, can provide up to 5.2 Gbps of symmetrical data connectivity. This is only for the backhaul between the satellites and terrestrial stations. ASTS btw is planning to use V bands for backhaul, which have less traffic on them vs. Ka.
+
+Now for the Fronthaul ASTS will use cellular spectrum (600mhz - 2.2ghz). These frequencies are used today by cellular phones. These frequencies are the best at covering long distances and can propagate through rain, walls, trees, etc .
+
+The numbers for ASTS aren't out, but we can talk about Starlinks numbers since it uses LEO satellites too which is essentially the same technology. Starlink will be able to support 485,000 simultaneous users at 100Mbit/s across the entire US, according to new estimates. Additionally, Elon Musk tweeted on 26 of June "Starlink simultaneously active users just exceeded the strategically important threshold of 69,420 last night!". The technology works and the numbers are impressive.
+
+    3- Latency
+
+Ancient geostationary satellites (at 35,786 km) already provide broadband services but their transmissions take about 500-700 milliseconds (ms) to travel up and another 500-700 milliseconds to travel down. This time-lag is why users suffer the infuriating time delay during a conversation between the broadcast studio and an outside broadcast unit. Additionally, If the OB (Outside broadcasting) is more than one satellite ‘hop’ away, then the delay is multiplied.
+
+Now on the other hand, A low Earth-orbiting satellite(What ASTS is using), between 200 and 2000 km, would manage these links in **about 25-35 ms**, a true fraction of existing satellite links and quite comparable to existing cables or fibre networks!
+
+# 2) Timeline(can be skipped):
+
+**TLDR;** **They have broken up their plan into 5 different phases spanning multiple  years with the intent of slowly expanding their satellite constellation until full global coverage is achieved.**
+
+&#x200B;
+
+* Phase 1 - Equatorial constellation, 20 satellites by 2022
+   * Cash flow from phase 1 will support the following phases
+* Phase 2 - NA/Europe/Asia, 45 satellites by 2022
+* Phase 3 - Full global coverage, 45 satellites by 2023
+   * At this point ASTS expects to start turning a profit
+* Phase 4 - Full global MIMO coverage (increased data capacity), 58 satellites by 2023
+* Phase 5 - Scaling network globally, 16 satellites by 2028
+
+# 3) Management(Can be skipped):
+
+* CEO Abel Avellan
+   * 25+ years of space industry experience
+   * Track record of building a successful global satellite communications company
+      * EMC Emerging Markets Communications
+* CFO Tom Severson
+   * Former CFO of Emclaire Financial Corp
+* Chief Technology Officer Huiwen Yao
+   * 30+ years of experience in satcom
+* Chief communications officer Chris Ivory
+   * 25+ years of experience in satcom
+
+Employees:
+
+* 236 full-time employees
+* 13 part-time employees
+* 161 scientists and engineers
+   * 34 of whom are PhDs
+
+**The deep executive ranks include executives from Orbital ATK, Globecomm,  NASA, and Maxar • The team has 161 scientists and engineers, 34 of whom  are PhDs.**
+
+# 4) Business Model(Can be skipped):
+
+**TLDR; ASTS brings the satellites and execution while their partners bring the customers.  Projections for 2024 annual revenue are $1 billion, and for 2030 annual revenue of $16 billion with 90% EBIDTA margins.**
+
+***The Model:*** ASTS has chosen to partner with **preexisting telecom giants** to acquire a large customer base with essentially **0 acquisition costs per customer** for ASTS. They have agreed to a **50/50 revenue** split with its partners who are going to provide the customers. The 5g connection will be offered as an add-on to preexisting data plans provided by their partners or as a standalone purchase.
+
+***How Does it generate Money? :***  With its current carrier partners, Vodafone and AT\&T; given its large, fixed cost base, the Company expects to generate 90% asset-level EBITDA margins that provide  significant operating leverage and cash flow.
+
+In-place there are binding agreements with carriers to provide ASTS with access to  >1.3BN existing customers without having to independently market to or acquire customers (or directly bear the cost of churn). Phase 1 will  target key Equatorial regions and cover 1.6BN people. In subsequent phases, it's planning to expand into Europe and N. America by 2024.
+
+The company is expected to generate >$1bn of EBITDA by 2024 based on 168 satellites launched, 27MM total subscribers, with an ARPU of $2.50 per user.
+
+***ASSets:***  ASTS has 750+ patents as well as a first-mover advantage(no competitors yet). Moreover, Commercial progress reinforces the Company’s technical lead in the market having ATT, Vodafone, American Towers and Rakuten in it's pocket.
+
+# 5)Catalysts(can be skipped):
+
+**The most important catalyst is the BlueWalker 3 satellite launch which will be taking place between March and April of 2022 and will be launched by SpaceX.**
+
+This will be a bigger satellite than any previous ones created but it still is not the biggest they plan to make. However, a successful launch and connection to BlueWalker 3 would definitively **prove that the tech works at larger scales.**
+
+**Expect major runup to BlueWalker3 test date. AST is currently valued at only about $2 billion ($12/share). In 2017, about 7 months prior to Starlink's first test launch, it was valued at $15 billion ($83/share).**
+
+Other smaller but still significant catalysts include:
+
+* Government approvals for servicing in each country
+* The launch date for BlueWalker3
+* Acquisition of a portion of the federal 5g fund
+
+# 6) Share Holders(Can be skipped):
+
+According to Fintel, 29% is held by institutional investors. In  addition, These investors are well versed in the 5G market and I don’t  think that they would’ve invested if they didn’t see a proof of concept.
+
+The following companies are partners  and large shareholders with their percentage of capital ownership  (includes both Class A and B common shares):
+
+* Vodafone - 6%
+* American Tower - 3%
+* Rakuten  - 17%
+
+Other notable partners include:
+
+* ATT
+* Samsung
+* Safran
+* LLA
+* Telefonica
+* Telstra
+* Tigo
+* Telecom
+* Indosat
+
+# 7) Risks(Should not be skipped Asshole...):
+
+Every play ranging from 0dte to year long investments come with some amount of risk and this is no exception.  While some may simply be setbacks they are still worth knowing.
+
+* Delays
+   * Satellite construction and launch delays.
+* Execution
+   * Building, launching and deploying the satellites.
+* Regulators
+   * Need governmental approval for satellite operations from each country they wish to provide before they can service them.
+* Tech
+   * Satellite to phone connection still unproven on a large scale.
+* Funding
+   * Not fully funded (Need to raise \~1.5 bn) however phase 1 is fully funded and is planned to help pay for the subsequent phases.
+
+# 8) Valuation(Most important part):
+
+The current market cap of ASTS is only 2.03 Billion for a stock with an extremely high potential, endless possibilities, and no competitors.
+
+SpaceX's Starlink(If we want to compare apples to oranges), will provide **FIXED-POINT(Doesn't connect to mobile)** broadband to customers at very high costs with unclear quality. Moreover Starlink cannot translate to mobile devices. It depends on Dish Satellites.
+
+StarLink is valuated between 40-50Billion Dollars! **Which equals around 222$-277$ of ASTS!!**
+
+Just like Facebook found out after it's IPO, the real market is and always will be in **MOBILE** and Starlink cannot translate to mobile devices.
+
+***Deutsche Bank most recent coverage:*** Their price target was set on 35$ and they added this nice comment **“If management executes on plan over the next five years, the company's intrinsic value should ultimately be "significantly higher"** than the $35  price target."
+
+**Deutsche Bank adds: "2024 is  early in this project's lifecycle. If we take AST management's 2030  EBIDTA of more than $16 billion and apply a 10x multiple (which we think  is still conservative given the business' expected growth profile),  this implies a 2030 enterprise value of $163 billion (vs $2 billion  today). Discounting that EV back to present time at a 15% discount  yields a share price of roughly $190 today."**
+
+***Barclays Most recent coverage:*** Their price target was set on 29$.
+
+**And Most importantly my coverage:** Well, you cannot really valuate this rare breed, because it's like trying to valuate $TSLA in the early days when it was just 50$(post split). ASTS is in a very similar situation right now having no competitors with a massive lead in the industry(A proven product on a small scale with well established partnerships with Vodafone, ATT, American Towers and Rakuten).
+
+Right now, it should atleast have a market cap of 10 Billion, which is 1/4 Starlink, and there's actually no competition.
+
+My price target remains unhinged and will be illustrated bellow with Crayons:
+
+[AST SpaceMobile Price target Illustrated with Crayons](https://preview.redd.it/v2izvf7vepn71.png?width=689&format=png&auto=webp&s=2c691ee2d5b2ac8e8726325e773d3e7f6df97f6b)

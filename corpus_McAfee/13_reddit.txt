@@ -1,0 +1,60 @@
+Good Friday, and welcome to this installment of Congressional activity and financial markets. The general idea is that the statements and actions of federal legislators can have an effect on broader markets. I try to provide interesting happenings as well as participants. I don't suggest any specific positions: I'd like those to come from consensus in the discussion.
+
+A few things to keep in mind:
+
+- All of this is subject to change at any time (i.e. votes can be delayed, hearings can be canceled, witnesses can be struck). The House and Senate operate under their own rules, and those rules are entirely enforced by the chambers themselves.
+- The House is controlled by Democrats, and the Senate is controlled by Republicans. So if a hearing is happening in the House, it is somewhat safe to assume that it reflect a relatively liberal position. However, the committees have representation by both parties, so the discussion won't be entirely one-sided.
+- In general, recorded votes on the ``floor'' of either chamber are taken the most seriously, followed by votes (or hearings) taken by the full committee, followed by votes (or hearings) by a subcommittee.
+- The Senate is generally taken more seriously than the House, since it moves slower and is less likely to produce legislation. Thus, the legislation it does produce is exceptionally important. A corollary, though, is that the Senate has much less activity in any given week (only 100 members, but the same workload [plus appointments] as the 435-member House).
+- The floor schedule of either chamber is notoriously hard to predict more than a day or two in advance, as it is structured almost entirely by party leadership and can change on the whims of that leadership. Hearings, however, are relatively more stable and scheduled. (In other words, the hearings are much more certain to happen, while the votes can be added or subtracted with much less certainty.)
+- This is not all activity, just activity most likely to be relevant to financial markets. There is also no guarantee this activity has an effect on any individual stock or market. I'm not an expert, and this is not advice. It is the beginning of a discussion.
+
+***
+
+Results from last week:
+
+- UNH dropped as low as $232 from over $240 last Friday, after the passage of HR 987 (lowering drug prices)
+- GILD dropped almost immediately on Friday morning after posting the Congressional discussion, and it extended that decline through Monday (along with the broader market, to be fair)
+- BA recordings were leaked on Wednesday night, which just happened to be the day before the FAA hearing
+- XLF had a broadly down week, despite the market pickup
+- NRG and OXY both had awful days on Thursday (despite the broader market killing it), suggesting truth to the adage that it's almost universally bad to appear before Congress
+
+***
+
+Shared activity (across both chambers):
+
+The House is likely to take a vote on HR 1994, a bill to encourage retirement savings (https://www.govinfo.gov/content/pkg/BILLS-116hr1994ih/pdf/BILLS-116hr1994ih.pdf). This is paired with an as yet unnumbered Senate bill to do the same (https://www.portman.senate.gov/sites/default/files/2019-05/Retirement%20Security%20%26%20Savings%20Act%20-%202019%20final_0.pdf), which is important because it's bipartisan (introduced with Chuck Grassley). The (Senate) bill would delay the mandatory minimum distribution age to 75 and provide more flexibility about student loan repayments (https://www.thinkadvisor.com/2019/05/14/new-retirement-bill-would-boost-rmd-age-to-75/?slreturn=20190417081424). The two versions are (as of now) pretty different, and only the House version is being voted on this week, but this legislation has a strong chance of emerging from both chambers. 
+
+The House (on 5/21: https://appropriations.house.gov/events/markups/fy2020-energy-water-and-defense-full-committee-appropriations-bills) and Senate (on 5/22: https://www.armed-services.senate.gov/hearings/19-05-22-schedule-for-armed-services-full-committee-markup-of-the-national-defense-authorization-act-for-fiscal-year-2020) will markup their chamber's versions of defense appropriations. This isn't the same as holding a hearing or taking a vote; it's just to make committee-specific changes before sending a bill along to the floor. The process will probably be pretty mundane, but there's an off chance that news will break about dollar amounts appropriated to defense contractors. 
+
+***
+
+House activity:
+
+The House is likely to take a vote on HR 1500, a bill to put consumers first, which broadly means strengthening the CFPB and enforcing regulations on lenders (https://rules.house.gov/bill/116/hr-1500, better text at https://docs.house.gov/billsthisweek/20190520/CP-116HR1500RH-COMPARED-RCP116-15.pdf). But it contains a pretty damaging amendment requiring credit score generators to provide a free version of the score directly to consumers (https://amendments-rules.house.gov/amendments/COHEN_017_xml%205.14515191754165416.pdf). The additionally nice thing here is that it isolates clear losers, like TRU. 
+
+The House will hold subcommittee hearings on 5/21 on growing the cyber talent pipeline (https://homeland.house.gov/hearings-and-markups/hearings/growing-and-diversifying-cyber-talent-pipeline). Witnesses include Wesley Simpson, Chief Operating Officer, International Information System Security Certification Consortium; Richard Gallot, President, Grambling State University; Dr. Amelia Estwick, National Cybersecurity Institute, Excelsior College; and Candace Worley, Vice President and Chief Technical Strategist, McAfee. 
+
+The House will hold full committee hearings on 5/22 on modernizing infrastructure (https://energycommerce.house.gov/committee-activity/hearings/full-committee-hearing-on-lift-america-modernizing-our-infrastructure). Beyond construction, though, the bill will seek to include money for broadband buildout (https://www.benton.org/blog/house-commerce-democrats-propose-40-billion-broadband-buildout-newest-version-infrastructure), which might have an effect on telecoms and other industry players. 
+
+The House will hold full committee hearings on the tension between facial recognition and privacy (https://oversight.house.gov/legislation/hearings/full-committee-hearing-law-enforcement-s-use-of-facial-recognition-technology). This comes on the heels of municipal action against the same technology by San Francisco (https://www.theroot.com/citing-fears-of-worsening-racial-bias-san-francisco-vo-18348154920). A variety of companies are developing this technology, and the more narrowly tailored the company is to revenue based on it, the more this could have an effect (or at least is something to monitor).
+
+The House will blast drug companies <again again> this week. The House will hold subcommittee hearings on 5/21 on improving prescription drug prices (https://docs.house.gov/meetings/IF/IF14/20190521/109551/HHRG-116-IF14-20190521-SD001.pdf). A separate subcommittee will hold hearings on 5/21 on protecting patients from surprise medical bills (https://waysandmeans.house.gov/media-center/press-releases/chairman-doggett-announces-health-subcommittee-hearing-protecting). In addition, the House will hold full committee hearings on 5/21 on establishing a single-payer healthcare system (https://budget.house.gov/legislation/hearings/key-design-components-and-considerations-establishing-single-payer-health-care). Witnesses include Mark Hadley, Deputy Director, Congressional Budget Office; Dr. Jessica Banthin, Deputy Assistant Director for Health, Retirement, and Long-Term Analysis, Congressional Budget Office; and Dr. Jeffrey Kling, Associate Director for Economic Analysis, Congressional Budget Office. The hearing is almost certainly just saber-rattling (i.e. signalling threat rather than making policy), but the witness list <does not> include industry representatives, so the story might be shaded towards government over private industry. 
+
+Lastly, the House will hold subcommittee hearings on 5/22 on student debt and the oversight of for-profit colleges (https://docs.house.gov/meetings/GO/GO05/20190522/109532/HHRG-116-GO05-20190522-SD001.pdf). The witnesses are TBD, but this should be a layup to score easy Democrat points against clear losers like LOPE. 
+
+***
+
+Senate activity:
+
+A pair of hearings that could be bad for FB, GOOGL, TTD, and other digital advertisers. The Senate will hold full committee hearings on 5/21 on data privacy and competition policy (https://www.judiciary.senate.gov/meetings/understanding-the-digital-advertising-ecosystem-and-the-impact-of-data-privacy-and-competition-policy; witnesses TBD), while separate full committee hearings on the use of ``persuasive technology on internet platforms'' (i.e. online campaigns; https://www.commerce.senate.gov/public/index.cfm/hearings?ID=ED70F463-BA16-40B8-9C93-67AA5991AA6D) will happen the same day. For the latter hearing, the witnesses include Dr. Dean Eckles, Assistant Professor of Marketing, MIT Sloan School of Management; Mr. Tristan Harris, Co-Founder and Executive Director, Center for Humane Technology; Mr. Jason Hreha, former Head of Behavioral Science, Walmart; Ms. Rashida Richardson, Director of Policy Research, AI Now Institute; and Ms. Maggie Stanphill, Director, Google User Experience, Google, Inc. In case you were wondering, the Center for Humane Technology believes that "today’s tech platforms are caught in a race to the bottom of the brain stem to extract human attention. It's a race we're all losing. The result: addiction, social isolation, outrage, misinformation, and political polarization.'' So I'll give you one guess what their testimony will be like. If the Senate signals any real action, there will almost certainly be an appetite to mirror that action in the House.
+
+The Senate will hold full committee hearings on 5/22 on the risks of Per- and Polyfluoroalkyl Substances (PFAS) (https://www.epw.senate.gov/public/index.cfm/2019/5/examining-legislation-to-address-the-risks-associated-with-per-and-polyfluoroalkyl-substances-pfas). I don't know anything about these substances. But I'm assuming someone does, and might be able to identify a manufacturer that doesn't want the Senate to talk about them.
+
+***
+
+Be sure to get economic news, available at https://ns.reddit.com/r/wallstreetbets/comments/bphjbe/economic_news_for_your_radar_week_of_may_2024/?ref=share&ref_source=link courtesy of /u/TacAirlifter.
+
+***
+
+Edit: spelling, economic news link, flagged as DD instead to live next to economic news link.

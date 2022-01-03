@@ -1,0 +1,40 @@
+While I know most of you smooth brains won't be able to get that reference I'm just gonna go over some quick facts.
+
+Website for reference [https://www.microvision.com/](https://www.microvision.com/)
+
+MVIS has many uses for it's technology but the two main verticals are Automotive Lidar & AR/VR.
+
+**Automotive Lidar -** Microvision just completed what they claim (with good reason) is their "Best in Class" Long Range Lidar unit. It is an actual product that they are track testing and showing off at the IAA Mobility Conference in Germany. Look at the live demo they have up vs. our competitors:
+
+* Luminars Lidar Live Demo: [https://streamable.com/c8v23x](https://streamable.com/c8v23x)
+* Continental Lidar Live Demo: [https://streamable.com/gyee85](https://streamable.com/gyee85)
+* Velodyne Lidar Live Demo: [https://streamable.com/lhtsw2](https://streamable.com/lhtsw2)
+* Microvision Live Demo: [https://streamable.com/paywxe](https://streamable.com/paywxe)
+
+As you can see by the point cloud and refresh rate MVIS sure looks best in class. MVIS is currently on the path of scaling for production and looking for partners.
+
+Market Size - The global lidar market size is projected to reach **$6.77 Billion by 2026** and virtually every car company is investing/looking to utilize Lidar in the future for assisted and automated driving. It could be in every new vehicle. Luminar (LAZR) the inferior product as you can easily see by the videos above IPO'd last year with a market cap of $8.1 Billion.
+
+**AR/VR** \- Microvision produces the MEMS Laser Beam Scanning display engine found in the Microsoft Hololens 2. It was confirmed through a tear down before and just officially via MVIS's last ASM. Also, since Microsoft produces the IVAS (rugged Hololens 2 for military use) it is highly speculated that MVIS is the engine inside that also.
+
+Market Size - According to a comprehensive research report by Market Research Future (MRFR), “Global AR and VR Market information By Technology, By Component, By Device Type and Vertical - Forecast till 2027” the market to reach **USD 766 billion by 2025.** Also, Microsoft just won an army contract this year **worth up to $21.9 Billion.**
+
+Google the Hololens 2 or IVAS units to see all the cool futuristic shit they can do. I'm not gonna spoon feed you everything.
+
+**Stock Info**
+
+Current Market Cap = $2.24 Billion
+
+52 Week High = $28
+
+52 Week Low = $1.38
+
+Estimated Short Interest = 29.75m or 18.29% of FF
+
+Q2 2021 shares held by institutions: **42,174,027 (25.7%)**
+
+**Summary**
+
+Since Sumit Sharma took over as CEO he continues to deliver on his promise to increase shareholder value. The company is open for a buyout, strategic alternative, or going it alone with it's amazing technology. Whatever will be the best route to **INCREASE SHAREHOLDER VALUE**. At it's current share price we are way **UNDERVALUED.** There is more DD out there on the technologies, different verticals, and how we are at an inflection point for these things to pop. Go look at the MVIS subreddit and the meta thread there of DD I can't link.
+
+**Edit -** Thanks for all the internet points you POS I'm gonna take a screenshot and hang this on my fridge. Seriously though this was just a quick bullish summary I put together, there's way more going on if you're interested all the info is on the line and with some in the comments.

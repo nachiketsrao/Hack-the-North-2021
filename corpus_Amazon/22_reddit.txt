@@ -1,0 +1,77 @@
+First of all, [u/RossPG](https://www.reddit.com/user/RossPG/) rocks man! His [DD](https://www.reddit.com/r/wallstreetbets/comments/p50n5p/amzn_is_up_to_something_with_afrm_obsessive_dd/) on Affirm was so spot on. Gems like these make WSB such an amazing place!
+
+I will try to keep the post as concise as possible and link to verifiable sources so that the reader can research and draw conclusions on their own.
+
+# Introduction
+
+Lion Electric is a Canadian-based manufacturer of commercial vehicles founded in 2008. It is the North American leader in all-electric medium and heavy duty urban vehicles. It designs and assembles the vehicles in-house and is vertically integrated (from battery design and assembly, charging network, to vehicle software and monitoring).
+
+# The Amazon angle
+
+Let's start with the elephant in (every) room, Amazon. While Amazon is going to work with Rivian to build the last mile delivery trucks, it is going to procure up to 2,500 all-electric Lion 6 and Lion 8 trucks from Lion Electric by 2025. Amazon has a [contract](https://www.electrive.com/2021/01/11/huge-order-for-lion-electric-trucks-from-amazon/) with Lion Electric which provides for the reservation of production capacities at Lion Electric  for up to 500 e-trucks per year between 2021 and 2025. The contract order also states that Lion Electric will keep 10% of its production facility free from 2026 to 2030 to supply at least 500 electric trucks per year. Lion Electric has already delivered the first production batch to Amazon.
+
+&#x200B;
+
+[Lion's all Electric Amazon delivery trucks ](https://preview.redd.it/i5xrpt55pik71.png?width=1070&format=png&auto=webp&s=8e771246e56a14969833763c7ae4aae741b0da8d)
+
+To get over all the negative press Amazon is getting, its focusing heavily on showing its positive environmental impact (including some desperate [efforts](https://www.bloomberg.com/news/articles/2020-06-25/amazon-to-rename-seattle-s-keyarena-climate-pledge-arena) like buying Seattle's KeyArena and renaming it to Climate Pledge Arena!).
+
+The SEC filing which Lion Electric had filed earlier this year also included an option for Amazon to purchase common shares  of Lion Electric at $5.66 and **warrants to purchase shares at $23.36**. **The  full vesting of the warrants requires spending by Amazon of at least  $1.1 billion annually. Amazon could own 20% of Lion Electric in the  future with its ownership options.**
+
+([SEC filing](https://sec.report/Document/1834974/000119312521035605/d916282dex109.htm): Although most of the document is super dense, you could search for "SCHEDULE OF TERMS OF WARRANT SHARES")
+
+# The Rivian connection
+
+Coincidence that Lion Electric chose Juliet, Illinois as their manufacturing plant in USA? Less than 100 miles from Rivian's facility in Normal, IL?  ([ref](https://www.onlineev.com/rivian-and-lion-electric-vehicle-plants-make-illinois-a-potential-hub/))
+
+Rivian is supposed to be delivering last mile all-electric delivery vehicles for Amazon whereas Amazon has contract with Lion for medium/heavy duty vehicles.  Amazon has supported Rivian through all its delays and remains heavily invested in it. There will be a lot of synergy & partnership between Rivian and Lion Electric since Lion Electric has been in business for a long time and has many production vehicles on road. We will know more about it when Rivian SEC filings. Rivian has been in pre-production phase and will look up to its older brother for production expertise. Elon Musk has [mentioned](https://twitter.com/elonmusk/status/1389102532706848768) time and again that prototyping is way easier than actually making production vehicles. Lion Electric has been designing and making production vehicles for quite some time and Amazon would be more than happy to take advantage of its relationship with Lion Electric to propel Rivian.
+
+# OK so what's Lion Electric on its own?
+
+Lion Electric has more than 400 production vehicles on road with approximately 8 million miles driven. Announced in Q2 earnings call ([ref](https://s27.q4cdn.com/902820926/files/doc_financials/2021/q2/Q2-2021-Earnings-Presentation-v20.pdf)), it has an order book of more than $280 million dollars worth of all-electric medium and heavy duty urban vehicles. Clients include IKEA, First Student, (the largest student transportation provider in North America) who recently ordered 260 all-electric buses for pilot, LA School District etc.
+
+&#x200B;
+
+[Lion's vehicles along with its current customers](https://preview.redd.it/1x6v6swfpik71.png?width=1701&format=png&auto=webp&s=d62fd40b3aed46056797b0e7a22aa9f8da851d13)
+
+Lion Electric has also successfully deployed vehicle-to-grid (V2G) charging in a pilot program. This opens up potential revenue streams for its customers. Lion's buses and heavy-duty vehicles come equipped standard with V2G technology, providing opportunities for its customers to sell electricity back to the grid when demand for energy is high. ([ref](https://www.newswire.ca/news-releases/lion-electric-announces-successful-electric-school-bus-vehicle-to-grid-deployment-with-con-edison-in-new-york-869214579.html))
+
+Lion Electric is targeting a TAM of $110 billion dollars.
+
+**Production Facilities:**
+
+Its current factory in Montreal has a capacity to produce 2500 vehicles. It is also building a 1.6 million sq ft battery plant in Quebec, Canada with a planned annual capacity of 5 gigawatt hours aimed to power up to 14,000 Lion vehicles.
+
+For customers in USA (\*cough\* Amazon \*cough\*), it is building USA's largest all-electric medium & heavy duty vehicle plant in Joliet, Illinois, USA which is about 80% complete and will have a production capacity of 20000 vehicles.
+
+&#x200B;
+
+[Lion's factory in IL. USA's largest all-electric medium & heavy duty vehicle plant. 80&#37; complete](https://preview.redd.it/n5a1dyyjpik71.png?width=1194&format=png&auto=webp&s=dcb4eb4464dd6a12f74758994d49e3a630060a2e)
+
+**Other tailwinds:**
+
+Lion Electric has a lot of support from Canada government. Both at the state and federal level. Canada is also pushing a lot on the electric bus & truck infrastructure ([ref](https://electrek.co/2021/03/05/canada-announces-2-75-billion-investment-in-zero-emissions-buses-and-charging-infrastructure/)). In USA, although we don't have anything concrete yet, Biden's trillion dollar infrastructure bill has a lot of meat for Lion Electric and its competitors. Lion Electric also has been working very closely with local and state government authorities to sell electric school buses. Illinois gave Lion Electric $8 million incentive to setup their factory in Illinois [(ref)](https://www.onlineev.com/rivian-and-lion-electric-vehicle-plants-make-illinois-a-potential-hub/). Recently, LA school district (which is the largest school district in California) also started a pilot project with Lion Electric. ([ref](https://ir.thelionelectric.com/English/news/news-details/2021/Lion-Electric-to-Bring-Zero-Emission-School-Buses-to-Californias-Largest-School-District/default.aspx))
+
+&#x200B;
+
+**Valuation:**
+
+**$LEV is currently trading at a market cap of 2.2 B**. It is projecting $0.7 Billion revenue in 2022, $1.6 Billion in 2023 and $3.6 Billion is 2024 growing at an average rate YOY of more than 240%.
+
+At $3.6 billion in fiscal 2024 & 20,000 in annual vehicle sales, $LEV is trading at a forward 4-year price to sales revenue multiple of 0.5x.
+
+*Meanwhile, Rivian is IPOing at 80 B valuation...*
+
+# tl;dr
+
+Ape thinks Lion Electric is highly undervalued (both long term and short term) given its current sales, its growth trajectory and its Amazon connections. It will go astronomical when Rivian files IPO.
+
+**Positions:**
+
+Long term: 200 01/20/23 15C 
+
+Short term lottos: 100 Oct 15 15C
+
+This ain't a financial advice. Do your own research. I have added as many sources as I could. Go dig them and see for yourself.
+
+Cheers!

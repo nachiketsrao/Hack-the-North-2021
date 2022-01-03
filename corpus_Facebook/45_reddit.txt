@@ -1,0 +1,7 @@
+The latest iOS change forces developers to have their apps ask users for permission to opt-in for the apps to track their use and traffic across the web. Per this article only 4% of US based users granted this permission: https://www.engadget.com/ios-14-5-users-reject-app-tracking-165309407.html
+
+Facebook tried to fight this change in legal system. Now they’re trying to fight it by having banners in the FB and Instagram apps asking users to opt-in and pleading it is what keeps the app free and by opting in it helps support local small businesses. https://i.imgur.com/6Quah0Z.jpg
+
+Even if a slightly larger percent opts in how does this not decimate FB’s stock price?
+
+Positions: nothing yet, but thinking of buying Puts. Unsure how soon and how deeply this will attack the price which is why I started the discussion.

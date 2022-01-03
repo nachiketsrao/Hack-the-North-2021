@@ -1,0 +1,79 @@
+  **TLDR: The AMC short squeeze is over. Short interest (15% of shares outstanding) and borrow rates (less than 2% per year) have been rapidly declining.**  **Most hedge funds that are short AMC are short in small sizes, allowing them the ability to hold their short positions indefinitely. AMC is not GameStop – GameStop is led by a visionary CEO and actually has a viable path towards transforming itself. AMC, on the other hand, is stuck with its old CEO and management team and faces significant revenue cannibalization from home streaming services (which has been exacerbated by the pandemic).**
+
+Introductory Disclosure: 
+
+Even though I reference GameStop (GME), I do not advocate buying shares in GME. I also do not hate AMC or think anyone who bought AMC is foolish. I have been invested in both stocks. With this post, I am trying to be as objective and helpful as possible. 
+
+Many of you may consider me a shill because I do not share all your opinions and/or urge you to hold AMC until the stock reaches some non-sensical price target.  That is fine.  But I am definitely not a shill per the actual definition of the word in that I am not an accomplice to anyone. 
+
+I invest money for a living and have run my own investment fund for over a decade. It’s not a huge hedge fund like Citadel, but I have outside investors. I also have a lot of my own money in my investment fund. I have no special agenda other than making money for myself and my investors. I also do not have special access to regulators, AMC or other large investment funds including hedge funds, short-oriented or otherwise.  I hardly ever speak with other portfolio managers. I can’t manipulate stocks (I wish I could, legally of course). If you imagine the equity market as every casino in the world, maybe Citadel is MGM Resorts, and I’m just a card shark counting cards at the blackjack table. 
+
+We do a lot of research on our positions. I am here to share some of that research for no other reason than I find this community fascinating. I like underdogs. I often root for them.  But, to be clear, I’m just trying to make money and have recently invested based on this diligence. Specifically, I am long AMC puts.
+
+**The AMC Short Squeeze is Over**
+
+I joined Reddit during the GME short squeeze. To be sure, it was a great way to make money. GME had over 100% short interest when Ryan Cohen joined the Board, so it appeared to many that the short squeeze was going to happen. Good for everyone that saw it early. 
+
+The GME short squeeze really did happen. GameStop traded to over $450 per share. Then the squeeze abruptly came to an end when GME’s short interest declined to less than 10% of shares outstanding. Stock borrow rates collapsed in tandem. The stock dropped to $40 per share and the short squeeze was over. As many of you put it, the squeeze was squeezed. That part of the trade had concluded. 
+
+AMC also experienced a squeeze, or more accurately, the perception that a squeeze could happen. Rapid and sustained buying caused share volumes to explode and the stock price to appreciate quickly (we think this may have been ignited by unusually large call option buying).  Hedge funds who were short needed to post 5-10x the collateral previously required to hold a short AMC position. Buyers, including and maybe especially retail traders, continued to overwhelm sellers. As that occurred at the end of May and early June, AMC shares ran up to $72 per share. Wave after wave of retail buyer piled in hoping to make life-changing money.  Some did.  
+
+The problem is the squeeze (or, more accurately, the perception of the squeeze) ended, and now the stock is drifting lower every day. The amount of AMC shares short relative to its market cap and trading volume has never been that high and is currently declining. 
+
+&#x200B;
+
+https://preview.redd.it/kuyjlumh0zd71.png?width=458&format=png&auto=webp&s=7af96d60af7932c3117851ae40d9cdad8b988d29
+
+Borrow rates are consequently diminishing as well - shorting doesn't cost that much anymore (less than 2% per year) and there is plenty of borrow available. If you need to cover your short, you can do so pretty easily. For example, if you’re short 1 million shares, you can cover that before breakfast with recent trading volumes and it wouldn’t move the stock at all. Remember, covering a short is simply buying shares in the market at the prevailing price. AMC trades over 50 million shares a day. People keep yelling “they have to cover!” Or, “we own the float!” Both of those things are true. But when someone wants to cover, they don’t need to ask for everyone’s permission. They just need to buy stock in the market at the current price much like people in this community buy stock every single day from people that are selling it. That’s how it works.  
+
+&#x200B;
+
+https://preview.redd.it/9lne56ti0zd71.png?width=458&format=png&auto=webp&s=fff4c1d06207b571e3adbc8f41d37149e149ec4a
+
+Finally, hedge funds that are short AMC are doing so in small size relative to the size of their funds. In other words, most are assuming over 200% price appreciation in their downside scenarios and have plenty of collateral in reserve to place against the short position they are maintaining if the short goes against them. For all intents and purposes, they can hold these short positions forever. This is not a recipe for a short squeeze.
+
+**AMC is not GameStop.** 
+
+After the GME squeeze ended, GameStop continued transforming itself. GameStop raised a ton of cash ($500 million in April), paid down all its debt, and then raised even more cash ($1 billion in June). In the midst of cleaning up its capital structure, Ryan Cohen hired an experienced team of top-notch managers. GameStop (current market cap: $14.5 billion) now has a real shot at becoming a successful niche online retailer of gaming accessories and related products that competes effectively against Amazon. Investors are now betting that Ryan Cohen can make GameStop as successful as his last company Chewy (current market cap: $35 billion). Chewy captured market share from Amazon and others in the pet food and accessories market on its way to becoming a very large and thriving business.  Investors hope GameStop will do the same against Amazon, Best Buy and others.  
+
+The value reflected in GameStop’s current market cap is driven mostly by an optimistic bet on this transformation. The gamble on the short squeeze is over. GME is trading fairly rationally right now – maybe a little expensive considering the road to $35 billion is going to be really bumpy. GameStop’s valuation is not completely detached from reality in that GameStop has a good chance at succeeding. 
+
+AMC, on the other hand, has traded from the realm of the improbable into the universe of the impossible. AMC is stuck with its old management team and is pursuing the same tired strategy of trying to get people to fill theaters even though every content provider, including video game producers, are pushing consumers to enjoy and participate in content at home. AMC does not have Ryan Cohen. It has Adam Aaron who is struggling to steer AMC through $5 billion in debt and growing rent obligations. With this debt burden, and with zero history of being an entrepreneurial visionary like Ryan Cohen, Adam Aaron will not be able to attract the kind of talent Ryan Cohen can recruit. Consequently, AMC doesn’t have a shot at competing against Disney, Netflix, Amazon and every other streamer. AA’s only hope is to cynically appeal to apes so that you keep buying his stock. My bet is that he’s going to have to deliver a lot more than free popcorn to keep people buying.
+
+But enough of my opinions. Here are the facts. 
+
+&#x200B;
+
+https://preview.redd.it/zia6u1mj0zd71.png?width=510&format=png&auto=webp&s=07ac2e7e676c7ffe15957086337e4174696b2c7b
+
+&#x200B;
+
+https://preview.redd.it/wm4q3b4k0zd71.png?width=506&format=png&auto=webp&s=a03689104ff0bfabdaef53a94c12c7c2c75b13e6
+
+Clearly, 2021 box office is well below 2018 box office on both a cumulative and weekly basis.  But yes, we are in a pandemic, and theaters are closed, so let’s look at revenue per theater.  
+
+&#x200B;
+
+https://preview.redd.it/f8fj54nk0zd71.png?width=506&format=png&auto=webp&s=d7bf2b12ff11fcd2d6bea2a4a6bc73a75e9d3701
+
+Although improving, 2021 box office per theater is well below 2018. Even last week, when Disney released its expected blockbuster Black Widow, box office per theater is well below 2018 levels.  The reason for this is actually pretty straightforward. The battle for viewers is no longer in the theater. It’s at home. In 2018, Netflix, Hulu and Disney+ combined had 164 million subscribers. Now they have over 350 million. 
+
+&#x200B;
+
+https://preview.redd.it/w1nawg2l0zd71.png?width=325&format=png&auto=webp&s=165d1c90746723ed10c03b1252323166110c854c
+
+The major studios are no longer competing against each other. They are competing against Netflix and Amazon. In 2018, Netflix and Amazon produced 77 films. In 2020, they produced 145, most of which were never intended to be displayed in theaters. Amazon recently bought The Tomorrow War from Paramount for over $200 million. Rather than releasing it in theaters, Amazon digitally released it instead on Prime Video. 
+
+&#x200B;
+
+https://preview.redd.it/nqxll5gl0zd71.png?width=328&format=png&auto=webp&s=7ceab142dbb333a09f82687d6307ad4b0c4a68a1
+
+A lot of Redditors say “well, AMC makes most of its money on concessions.” That is actually not true. Over 62% of AMC’s revenue and 48% of AMC’s gross profit comes from actual ticket sales. Even if it were true, people need to visit theaters in order to buy popcorn and candy and soda, so tickets and concessions are joined at the hip. You can’t have one without the other. 
+
+https://preview.redd.it/0yakedbm0zd71.png?width=937&format=png&auto=webp&s=e0f523348018dc1ef621eadff4e7fcc8975c2e4c
+
+**Conclusion** 
+
+I'm not telling you what to do. This isn't financial advice. I posted my research, my source data, and my position. I'm not replying to (or even reading) comments. If you have data that refutes any of this, post your own DD. If you're right, I hope people listen.
+
+Good luck!

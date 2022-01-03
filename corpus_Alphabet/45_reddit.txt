@@ -1,0 +1,152 @@
+Have you ever woken up in the middle of the night wondering which airline stock you should go long for the post-pandemic reopening? Well autist, if this is you, then you should stick around for this DD. I'll be comparing the four hottest airlines and make a case for why I $LUV Southwest. This can also serve as a walkthrough if you still don't know how to do your own DD. So grab a beer, strap on your helmet, and review the alphabet one more time, because hopefully by the end of this you'll learn how to do your own DD.
+
+# Financials
+
+Ok, let's start by examining some financial metrics. Now, we don't want to just look at a snapshot of these companies' financials at the end of 2020; we also want to see what these metrics looked like before some guy decided to chow on some bat soup. This will help to give us an idea of how they changed and what to look forward to as we approach reopening.
+
+For the 7 million of  you new here (holy fuck), or for those of you with aggressively smooth brains, I'll go over some of the more complicated metrics.
+
+* **P/E ratio** (price-to-earnings ratio) - share price divided by EPS. This can help us determine the relative value of a company's share price compared to its competitors.
+* **P/S ratio** (price-to-sales ratio) - market capitalization divided by revenue. This shows how much investors think each share is worth compared to the company's revenue.
+* **Profit Margin** \- profit divided by revenue. This tells us what percent of revenue actually turns into profit.
+
+These are simple calculations, and you can find all the data necessary on yahoo finance \[1\]. If you don't know what profit, revenue, EPS, or market cap are, then at this point just buy 0DTE SPY puts and hope for the best. Below is a table of these metrics for UAL, AAL, DAL, and LUV for the year 2019.
+
+&#x200B;
+
+|Ticker|Share Price (EOY)|Market Cap|Revenue|Profit|P/E|P/S|Profit Margin|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|UAL|$88|$22.1B|$43.3B|$12.5B|7333|0.51|28.9%|
+|AAL|$27|$12.4B|$45.7B|$10.4B|7105|0.27|22.8%|
+|DAL|$58|$37.6B|$47.0B|$10.4B|7945|0.80|22.1%|
+|LUV|$54|$28.0B|$22.0B|$6.0B|12558|1.27|27.3%|
+
+&#x200B;
+
+LUV's P/E and P/S ratios from 2019 may suggest that it was overvalued compared to the other airlines. But this won't matter to you once we see how much better they are doing compared to the rest of the field in 2020. Below is a table of the same metrics for these airlines for the year 2020.
+
+&#x200B;
+
+|Ticker|Share Price (EOY)|Market Cap|Revenue|Profit|P/E|P/S|Profit Margin|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|UAL|$43|$22.1B|$15.4B|\-5.0B|\-1.70|1.44|\-32.5%|
+|AAL|$16|$9.8B|$17.3B|\-7.6B|\-0.87|0.57|\-43.9%|
+|DAL|$40|$25.6B|$17.1B|\-6.5B|\-2.05|1.50|\-38.0%|
+|LUV|$47|$26.3B|$9.0B|\-1.9B|\-8.64|2.92|\-21.1%|
+
+&#x200B;
+
+Again, the P/E and P/S ratios could suggest that LUV is overvalued compared to the rest of the field, but a valuation above its competitors is warranted because of how much better its profit and profit margins are. But these metrics are just a part of the picture; we also want to analyze a company's balance sheet to see how it fairs in terms of its total assets and liabilities.
+
+# Balance Sheet
+
+A company's balance sheet can easily be located on their annual 10-K or quarterly 10-Q SEC filings \[2\]. The data for this analysis will be extracted from each company's 10-Q form for Q3 (since not all of them have filed a 10-K for 2020). The two sections on the balance sheet we want to pay close attention to are the assets and liabilities.
+
+In the current assets section, we'll be looking at AR (accounts receivable) and most importantly CASH, because CASH is KING. It's important for a company to have lots of cash on hand because it shows how able they are to pay off short term debts. There are other sources of assets listed in the file, but I'll skip those since they aren't as important as cash and AR.
+
+In the current liabilities section, we'll be looking at AP (accounts payable) and maturing debt (debt that is owed pretty soon). All you need to know about AR and AP is that they are basically opposites. AR is money that a third party owes the company pretty damn soon, and AP is money that the company owes a third party pretty damn soon. A good rule of thumb is that these values should generally match up. Here as well, there are other sources of liabilities listed in the file, but I'm skipping them because they aren't as important as debt and AP.
+
+Lastly, we'll also take a look at long-term debts and debt-to-equity ratio, to determine how much debt a company has to pay off in the future and how much debt they are leveraging to finance their assets.
+
+Still with me? Ok good, more numbers now. Shown below is a table of the current assets of UAL, AAL, DAL, and LUV.
+
+&#x200B;
+
+|Ticker|Total Current Assets|Cash|Accounts Receivable|
+|:-|:-|:-|:-|
+|UAL|$16.5B|$13.2B|$1.2B|
+|AAL|$21.4B|$0.2B|$1.1B|
+|DAL|$25.0B|$16.5B|$1.5B|
+|LUV|$16.1B|$12.1B|$0.9B|
+
+There are two things you should note about this table. First, around 75% of LUV's total assets is cold hard cash. We like to see that. This also compares closely with UAL's cash. But another thing to note is how dogshit AAL's small pp pile of cash is. They're in some shit and will probably have to leverage more debt to make short-term payments. But regardless of that, so far so good for LUV. But let's see how everyone is doing with their liabilities. Shown below is a table of the current liabilities of these airlines.
+
+&#x200B;
+
+|Ticker|Total Current Liabilities|Current maturities of long-term debt|Accounts Payable|
+|:-|:-|:-|:-|
+|UAL|$15.8B|$4.6B|$1.8B|
+|AAL|$16.3B|$2.7B|$1.0B|
+|DAL|$19.7B|$5.0B|$2.4B|
+|LUV|$7.8B|$0.7B|$1.0B|
+
+Hopefully by now you're starting to see how much doper LUV is compared to its competitors. LUV has more than double the current assets to liabilities, less than $1 billion in short-term debt (which is easily covered by their amount of cash), and generally equal AR and AP. No other company listed here checks all three boxes.
+
+Finally, we'll examine long-term debt and debt-to-equity ratio shown in the table below.
+
+&#x200B;
+
+|Ticker|Long-term Debt|Debt-to-Equity Ratio|
+|:-|:-|:-|
+|UAL|$22.3B|7.74|
+|AAL|$26.5B|\-12.36|
+|DAL|$29.8B|22.6|
+|LUV|$10.1B|2.64|
+
+Immediately glaring off that table is the fact that DAL is levered to the tits and AAL has a negative debt-to-equity ratio. So in essence, DAL is dogshit, and AAL is dogshit wrapped in catshit. But our shining star LUV has a debt-to-equity ratio of only 2.64 which, when considering how the pandemic has impacted air travel, is pretty fucking stellar. And compared to the rest of the field, LUV is sitting pretty with only $10 billion in long-term debt.
+
+# Business Operations
+
+Now that we've seen the numbers, it's time to dig a little deeper to see how Southwest's business operations will lead it through the reopening. Most of the following information can be found in Southwest's 10-K filing (I'll link any alternative sources). Southwest began operations in 6 new airports in 2020 and plans to begin operations in 8 more airports in 2021, including Chicago O'Hare (hint: that's a big one).
+
+The Boeing 737 MAX also has a role to play in all of this. These aircraft are more fuel efficient than their predecessors (hint: this saves costs), and Southwest is quick to add them to their fleet. I know you're probably thinking the MAX is dangerous and a liability to the company, but I promise you the MAX is probably the safest plane in the sky right now because Boeing knows they'd be in deep shit if they fucked it up again. Southwest will start flying MAXs again in March, and they currently lease or own 41 of these aircraft, which is about 5% of their fleet. This year they will be adding 107 more MAX 7s and MAX 8s, which will then make up 17% of their fleet.
+
+But what really sets Southwest apart from these other large airlines is that the vast majority of their business is domestic, so during a reopening economy, they will see operations return to normal much faster than their competitors that also rely on revenue from international flights.
+
+Finally, Southwest continues to offer low fares in part due to their use of higher complexity flight plan optimization models. They use linear flight systems instead of the simpler and more common hub and spoke methods that other airlines utilize \[3\]. If all that flew over your head, don't worry, all you need to know is that this helps Southwest save costs.
+
+# Institution Holdings
+
+For any DD, it's also important to see if institutions own a certain stock. It's always good to have the big boys on your side in an investment. Let's see how institutional ownership compares across the airlines we've been studying.
+
+&#x200B;
+
+|Ticker|Institutional Ownership|
+|:-|:-|
+|UAL|57.2%|
+|AAL|43.8%|
+|DAL|60.9%|
+|LUV|76.0%|
+
+As you can see, the big boys favor LUV over the rest \[4\].
+
+# Technicals
+
+Fuck outta here with your crayons. This is a DD for a long-term play so miss me with those head and shoulders, cup and handle, batman, or dick n balls lookin ass patterns.
+
+# Final Notes on Macroeconomic Trends
+
+After being locked down for a year, there's going to be some serious pent up demand for vacations and travel. Southwest is in a perfect position to meet these demands with its low fares, and will emerge from the pandemic mostly unscathed relative to its competitors. Also, two bags fly free? Say no more fam. With that being said, I think Southwest is on pace to eclipse its ATH and I see its share price worth no less than $80 EOY (maybe more considering the retard strength of this market).
+
+However, this thesis and price target is completely invalid if the market turns bearish, no matter how successful the reopening is for airlines. But, as long as the Federal Reserve continues to support the heights of this market, then calls on everything.
+
+&#x200B;
+
+Positions: LUV 1/20/23 70C
+
+&#x200B;
+
+If you made it this far, congratulations. If you didn't, fuck you, read the TL;DR I guess. Did I leave anything important out? Do you disagree with my thesis because of some critical information that I didn't pick up on? Let me know. Also if you enjoyed this and want to see another DD, I'll take some suggestions.
+
+&#x200B;
+
+TL;DR
+
+* LUV profited way better than its competitors during the pandemic
+* LUV has a great balance sheet compared to its competitors
+* LUV is adding more destinations and using more MAX aircraft ($$$$$)
+* Institutions love LUV
+* Pent up demand for travel this year means $$$$$$
+
+&#x200B;
+
+Sources:
+
+1. [https://finance.yahoo.com/quote/LUV?p=LUV&.tsrc=fin-srch](https://finance.yahoo.com/quote/LUV?p=LUV&.tsrc=fin-srch)
+2. [https://www.sec.gov/edgar/searchedgar/companysearch.html](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+3. [https://commons.erau.edu/cgi/viewcontent.cgi?article=1443&context=jaaer](https://commons.erau.edu/cgi/viewcontent.cgi?article=1443&context=jaaer)
+4. [https://www.nasdaq.com/market-activity/stocks/luv/institutional-holdings](https://www.nasdaq.com/market-activity/stocks/luv/institutional-holdings)
+
+&#x200B;
+
+*DISCLAIMER: I am not a financial advisor and this is not financial advice. Do not place a trade based on what you read here. Do your own DD. This is for special educational purposes only.*

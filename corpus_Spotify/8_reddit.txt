@@ -1,0 +1,56 @@
+**TL;DR: $FSLY is reporting earnings today after hours. Every cloud company out there worth its salt has reported great earnings so far. FSLY has been sold off for last 4 quarters post earnings primarily due to concerns regarding its largest customer being banned in US, which is not the case now. FSLY hired a new CFO, who was earlier the CFO of Fitbit fueling acquisition rumors**
+
+**Company Summary**
+Fastly is a content-delivery network (CDN). Its customers include Spotify, NY Times, Shopify etc. It is positioned strongely in streaming, e-commerce, and online gaming.
+
+**Catalysts**
+- Earnings after hours today - August 4
+
+- Potential acquisition - Appointment of Ronald Kisling as CFO, who was most recently CFO of Fitbit, which was acquired by Google.
+
+- Potential earnings beat and increase in Guidance - FSLY recently acquired a cloud security company - Signal Sciences. This might be key for increased guidance and earnings beat as this product allows developers to protect their apps in every environment including cloud / onsite and edge.
+
+**Why it is 10x Bagger**
+- Short float is 22.25% and short ratio 6.26, that means at current volume it will take over 6 days for shorts to cover. Any increase in guidance and a healthy beat on earnings will rocket this stock to mars.
+- A very small chance of acquisition announcement in earnings call
+
+**Why it may flop again**
+- Its revenue is concentrated. Top 10 clients account for 29% of sales revenue. So, if any one of them fails, it materially affects FSLY. Good thing is, in 2017, the top 10 client's revenue accounted for 37% and now it has decreased to 29%.
+
+- Its main competitor is Cloudflare which offers everything that FSLY offers, and both are competing for the same sales share from legacy operators like Akamai etc. Though Cloudflare ($NET) product is more focused toward small and medium size businesses, whereas FSLY deals with big enterprises.
+
+**What does analysts say**
+
+- 12-month target - $52
+
+- Buys - 2 | Holds - 7 | Sells - 2
+
+
+**Play**
+The stock is currently trading near its all-time low, current price is $46 and 52 week low - $40. $136 is all time high.
+
+- Since it's a binary and very risky play, its best to do a strangle, that is buy a call and put together on same strike or very close strike, near the money, considering the move is highly likely going to be over 10%, it will very much cover the cost of strangle.
+
+- You can also buy shares and hedge it with a near the money long puts for same week or next week.
+
+- And if you are feeling frisky, you can yolo $50 strike calls for Aug 6 | Aug 13 or Aug 20
+
+
+**My Position**
+- $49 Calls(200) for August 6 
+
+- 20,000 shares
+
+- $45 Puts(200) for August 13
+
+
+**Tracker**
+As I am looking to do regular short and crisp DD's on /wsb for the stocks which I am playing myself, I will track my performance with each DD. My last DD is here:
+https://ns.reddit.com/r/wallstreetbets/comments/omvwpu/why_xpo_is_your_next_510x_bagger/?
+This has done very well; stock has already gone up over 15% since the time of DD and thesis that I put in the dd unrolled exactly like that.
+Score - 1/1
+
+**Warning**
+ I am degenerate like you all and I don't know shit. Do you own DD and don't trust anything from a stranger on internet. The above is no financial advice.
+
+**All the best apes, lets lose money together! **

@@ -1,0 +1,29 @@
+The Epic - Apple truling will probably be a big deal for a bunch of stocks that currently have to pay fees to apple for every transaction. I was wondering which will be the stocks that will benefit more.
+
+This sure depends on the type of payments and the feasibility of disturbing the user experience (by bringing the player/user outside the app)... but I am sure that companies will come up with ways to cope with that in order to save the hundreds of millions currently paid to Apple.
+
+Until more work is done, I found this table (source Stifel) to help with initial screen. ZNGA SCPL RBLX and PLTK should benefit the most. 
+
+&#x200B;
+
+|Ticker|Mobile revenues (as % of total sales)|Fees to AAPL/GOOG (as % of total sales)|
+|:-|:-|:-|
+|ATVI|27%|8%|
+|CDR|7%|2%|
+|EA|18%|5%|
+|TTWO|6%|2%|
+|UBI|8%|2%|
+|**PLTK**|**67%**|**20%**|
+|**RBLX**|**51%**|**15%**|
+|**SCPL**|**84%**|**25%**|
+|**ZNGA**|**77%**|**30%**|
+
+Positions: ZNGA Sep 9, 10, 11, 12, 13 calls (they are almost free)
+
+&#x200B;
+
+FUll table here (hopefully this time wont be removed)
+
+&#x200B;
+
+https://preview.redd.it/d2e7qxql45n71.jpg?width=674&format=pjpg&auto=webp&s=687675393051ce8efd9fb944ddfbd6e11d06dc45

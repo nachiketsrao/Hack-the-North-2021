@@ -1,0 +1,40 @@
+Hello fellow autists, it's me, another WSB shitposter who got lucky with predicting the 2018 sell off and made a bunch of tendies only to lose a majority of it YOLO'ing on call options for a triple leveraged natural gas futures ETF banking on a 3rd 2019 polar vortex. *(FOR THE RECORD I still think it was a good play, but some weird gulf front forced it to teeter out right at the TN state line and pooped all over my position.)* \- In other words I like to think about dumb shit a lot of other people don't really consider and this is one of them.
+
+&#x200B;
+
+# The Great RobinHood Ass-Covering
+
+*(sources listed at bottom for images & info btw)*
+
+**Pre-cursor Statements:**
+
+* This is sort of a question + hypothetical + little tinfoilery so bear with me regarding RobinHood's "f*ractional share*" / "p*artial stock*" ownership investing tool (*I'm not sure what they call it*).
+* I'm also under the assumption a lot of you purchased these 'partial shares' in an attempt to get in with the GME move.
+
+**The Hypothetical Rambling:**
+
+So let's [look at how many institutions had stakes in GME](https://i.imgur.com/1DA71UK.png) prior to what will most likely go down in history as the most hilarious HF short-covering shitshow of all time. [Even looking through the alphabetical assortment of institutional ownership](https://i.imgur.com/lIfPwV5.png) I don't see anywhere that Robinhood owned GME prior to the reporting date of 12/31/2020. So how is Robinhood able to sell small partitions of an equity / stock without actually owning it? This questions is bugging me, especially [since they claim these fractional shares are pieces of actual whole shares](https://robinhood.com/us/en/support/articles/fractional-shares/). So if Robinhood is selling these fractional shares... wouldn't they have to initially own the whole share in order to partition this stock into sublet shares to sell on their platform?
+
+Enter the tinfoil hypothetical - **Robinhood never actually bought the GME stock and just sold the partial shares to investors, effectively creating their own uncovered GME position.** You autists purchased so many GME fractional shares that Robinhood's risk assessment team had a stroke. Combined with the GME shares they handed over on margin, the fact multiple major short-positioned HFs were frantically covering their own ass, and how many "*whole shares*" were needed for covering all the sold "*fractional shares*", RobinHood had created themselves an environment in which they are getting fucked harder than a mollied-up Kimberly Guilfoyle at an RNC convention. Once the realization set in that RobinHood is potentially on the line for 1,000,000s of uncovered GME shares they had to do something.
+
+Welcome to Thursday 01/28/2021 where Robinhood freezes the sales of GME, strips margin accounts of GME positions, and gets their hands dirty in price manipulation based on the fact they had control over a massive GME purchasing power group. My hypothesis is they used this time to cover their own asses and buy their own shares of GME to close out this magnificent fucking failure of their own investing platform. It's completely possible they are even the reason behind the +100% short interest because they were borrowing already short-sold shares from Citron to sell the margin account GME positions and fractional shares.
+
+&#x200B;
+
+**TL;DR** \- Robinhood put themselves in their own short-sold position with GME with fractional shares, possibly margin sales as well, and they halted the GME stock on their platform so they themselves could cover.
+
+This is just speculation and a thought, I'm curious if this holds any weight or could be a realistic situation. What are your thoughts?
+
+&#x200B;
+
+Sources:
+
+* [https://money.cnn.com/quote/shareholders/shareholders.html?symb=GME&subView=institutional](https://money.cnn.com/quote/shareholders/shareholders.html?symb=GME&subView=institutional)
+* [https://robinhood.com/us/en/support/articles/fractional-shares/](https://robinhood.com/us/en/support/articles/fractional-shares/)
+* [https://en.wikipedia.org/wiki/Kimberly\_Guilfoyle](https://en.wikipedia.org/wiki/Kimberly_Guilfoyle)
+
+&#x200B;
+
+**EDIT 1:** Additional note - it's possible they planned to pay out the fractional shares a cash-dollar amount based on performance but then we find ourselves in a darker place. If the partial equity (*fractional share*) was never real in the first place, and the bought + settlement exchange is cash only and detached from an underlying asset... wouldn't this effectively be a Ponzi Scheme?
+
+**EDIT 2: Apparently they aren't allowing people to buy fractional shares anymore on GME** \- this potentially supports my hypothetical.

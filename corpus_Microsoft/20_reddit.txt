@@ -1,0 +1,157 @@
+Ok, maybe not a millionaire, but the upside potential here is ridiculous... hear me out.
+
+### Executive degen 🚀🚀 TLDR summary:
+
+- New IPO (Dec 2020).
+- Seeking to disrupt a huge market ($4.2 trillion).
+- They have the best tech in the space, with a 9 year lead in lending AI/ML (very good moat).
+- Exceptional leadership, with founders being high level Google execs who left to start the company.
+- Incredible financial results reported in their Q2'2021, growing +10x as much as the likes of TSLA.
+- No fear of regulation as they have a "No Action" letter from US government body.
+- Still at the very tip of their growth journey, having only 4% market share of the unsecured personal loan space = massive growth runway.
+
+
+### For visual learners:
+
+I've also made a video about this review, if like me you're more of a visual learner, and can get over my monotonous voice feel free to watch my video on [Why You Should Own Upstart](http://youtube.com/watch?v=rartz8VcWjw).
+
+# Intro
+
+I've been heavily reading up on [Upstart](https://www.upstart.com/) for the last few months, and I believe we're looking at a once-in-a-lifetime opportunity here (despite being up [362.37%](https://www.google.com/search?q=upst&rlz=1C5CHFA_enGB885GB885&oq=upst) since IPO already). From everything I've read about the technology, leadership and market and competition, I think we're looking at a future tech behemoth currently hiding in plain sight. 
+
+I've compiled my notes in the report below, if you need the *executive degen TLDR*, or prefer visual notes you can head straight to the bottom.
+
+# Company History
+
+Borrowing & lending is a practice as old as time. Our economies are based on borrowing be it at government level, institutional level, or even at the individual level. Whats mind-blowing is that borrowing and lending remained largely the same for the last [5000 years](https://link.springer.com/chapter/10.1057%2F9780230554511_1). The problem Upstart set out to solve is the question of how to quantify the borrower's risk of defaulting. In simple terms, there are a lot of "[good borrowers"](https://www.upstart.com/about#credit-limits-2) out there, but lenders generally have a hard time identifying them using current systems which are [old and dated](https://www.fico.com/25years/). So just like shopping (AMZN, SHOP..etc), EV (TSLA) and consumer tech (AAPL),  consumer lending, a [$4.2 trillion market](https://www.notion.so/361e12bb766a4ad0bd38ffbd2ce37169), was due a massive tech disruption (UPST).
+
+Key dates:
+
+- Founded in 2012
+- [Pivoted](https://www.bizjournals.com/sanjose/news/2014/05/23/why-upstart-abandoned-education-crowdfunding-to.html) from its initial niche (crowdfunding loans) to the larger [$84b](https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/) market of personal loans in 2014.
+- Entered the auto-lending market in [2020](https://www.upstart.com/blog/introducing-ai-enabled-auto-loans?__cf_chl_captcha_tk__=pmd_LfWzrC0S2PevMQ6xYcT2HwpIxXCbBEE0HeX9COT3a78-1629740458-0-gqNtZGzNAyWjcnBszQ-R)
+- [IPOed](https://www.marketwatch.com/story/upstart-prices-ipo-at-20-for-market-cap-of-1-45-billion-11608092379) late 2020
+
+# Leadership
+
+The story of Upstart is quite unusual. The company was founded by three people with diverse backgrounds expertises, and even generations. Dave Girouard was the [former head of Google Enterprise](https://venturebeat.com/2012/03/16/googles-president-of-enterprise-dave-girouard-is-leaving-to-launch-his-own-startup/), and before that he was an executive at Apple. His co-founders are Anna Counselman, the former [manager of Online Sales & Operations](https://www.bizjournals.com/sanjose/news/2013/12/06/silicon-valley-40-under-40-anna.html) at Google and Paul Gu, a university student who dropped out of the computer science program at Yale to start the company (also a [Thiel Fellow](https://en.wikipedia.org/wiki/Thiel_Fellowship)). For a founding story, its unusual for three people to come together and decide to build a company on the spot. But 9 years later, they are still at the helm of a profitable and disruptive company. 
+
+# Upstart's Business
+
+Upstart's business caters to two distinct segments: [Individuals](https://www.upstart.com/personal-loans) and [banks](https://www.upstart.com/for-banks).
+
+Their offerings to individuals consist of a variety of personal loan products, examples of these include:
+
+- Credit card and Debt consolidation loans
+- Home improvement loans
+- Medical loans
+- Wedding loans
+- and Moving loans
+
+For banks, Upstart offers its AI technology as a way for banks to improve their archaic lending processes. This is kind of genius because instead of competing with banks, Upstart [partners with them and complements their services](https://vimeo.com/489878274). Studies completed with several  US banks suggested that Upstart’s model [could approve almost three times](https://www.upstart.com/about?__cf_chl_captcha_tk__=pmd_52250deb9dc2f9889c94cd45e31c286d7522a9f8-1629210053-0-gqNtZGzNAuKjcnBszQvO#results-to-date)  the number of borrows at the same loss rate as traditional models, as well as make a reduction of 75% in defaults at the same approval rate, this is unprecedented in the lending business.
+
+## The Problem
+
+At the moment, [90% of the top lenders in the United States use FICO scoring](https://www.cnbc.com/select/what-is-fico-score/) to assess credit-worthiness, this is a scoring system first developed in 1989 which is comprised of five components:
+
+- Payment history
+- Amount owed
+- Length of credit history
+- How many times someone has applied for new credit
+- The variety of credit products you currently have
+
+## The Solution
+
+This old scoring system prevents many people from getting loans at a reasonable rate. By comparison, Upstart leverages [1600 different data points](https://vimeo.com/492637158) [fast forward to 05:35]  that have been trained on more than 10 million repayment events to reach decision within seconds. This machine learning model continues to get more effective as it processes more repayment data [!!]
+
+And this is Upstart's competitive edge. Their AI and machine learning models facilitate *better* borrower selection and provides both *higher* approval rates as well as *lower* interest rates for customers. The numbers here are staggering: tested Upstart models were found to approve [26% more borrowers than traditional models whilst yielding 10% lower average APRs for approved loans](https://www.upstart.com/about?__cf_chl_captcha_tk__=pmd_cDRNu2tNRiO1uogDDmRKdDE3YeeO2hfOn4Xr6m5gmrU-1629741551-0-gqNtZGzNAuWjcnBszQzR#results-to-date). This expands access to prime credit, which is great for customers (but its also great for banks as they would approve almost **twice** as many borrowers with fewer defaults). This is a [win win](https://leadersinlending.sounder.fm/episode/hybridized-banking-system-jeff-keltner?page=2) [start at 03:00] situation for both lenders and customers seeking credit, absolutely mind-blowing!
+
+Upstart's AI also increases automation throughout the lending process for banks and institutional buyers. To illustrate this point they recently reported that [71% of their loans were instantly approved and fully automated](https://www.notion.so/0281f9ee44c647e3813632295b007347) -[page. 4] - with no need for document uploads, calls or waiting! 
+
+Upstart is using state-of-the-art AI technology to disrupt:
+
+- [$84B unsecured personal loan market](https://www.notion.so/0281f9ee44c647e3813632295b007347) [p.6] (already working product, ~4% of the market).
+- $635B auto-loans market [also p.6] (just acquired Prodigy, a leader in this space).
+- $4.2T US consumer credit market [also p.6]
+
+## How Upstart makes money
+
+From page 101 of Upstart's [SEC filing](https://www.sec.gov/Archives/edgar/data/1647639/000119312520313385/d867925ds1a.htm):
+
+> Upstart’s revenues are primarily earned in the form of three separate usage-based fees, which can be either dollar or percentage based depending on the contractual arrangement. We charge our bank partners a referral fee of 3% to 4% of the loan principal amount each time we refer a borrower who obtains a loan. Separately, we charge bank partners a platform fee of approximately 2% of loan value each time they originate a loan using our platform. These fees are contracted for and charged separately, although they are generally combined for accounting purposes as they usually represent a single performance obligation. We do not charge the borrowers on our platform any referral, platform or other similar fees for our loan matching services.
+
+> We also charge the holder of the loan (either a bank or institutional investor) an ongoing 0.5% to 1% annualized servicing fee based on the outstanding principal over the lifetime of the loan for ongoing servicing of the loan. Taken together, these fees represented 98% of our revenue in the nine months ended September 30, 2020. In addition, we earn a small portion of our revenue from interest income and our securitization activities.
+
+## The Competition
+
+Another point that makes the case for Upstart's future growth is just how far ahead they are from the competition. As an example the scoring methodology used by Goldman Sachs, the underwriting partner of Apple responsible for Apple Card, has been the subject of much public scrutiny and criticism in a number of recent high profile cases. One example being the case of David Hansson the creator of Ruby on Rails who in late 2019 received [20x the credit limit of his wife despite sharing the same financial ability](https://techcrunch.com/2021/08/14/how-the-law-got-it-wrong-with-apple-card/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAE57fF0YBl-DFkXQ2li8zbbzDR75qwiW-PyKPzfrssfgJSecSj9o_GV8iZ5SNYQlRythx0XAAqN5CTuqpV6sAoDun3fsn4ohmiBUHrqN6ooT-_fgbOIcVN4wr9C4fQrbE26BqXrhl6ttnT1xTpUKj2GUkFzf4dKoCaNFGjiOSL1t). Another more recent example is when the CEO of Cloudflare, Mathew Prince [applied for an Apple card and received credit limit of only $4500](https://twitter.com/eastdakota/status/1426552810896871435?s=20) at a rate of 21.99% APR, [despite being worth $4.2 billion](https://www.forbes.com/profile/matthew-prince/#:~:text=REAL%20TIME%20NET%20WORTH&text=Matthew%20Prince%2C%20CEO%20of%20Cloudflare,Microsoft%2C%20Baidu%20and%20Qualcomm%20Ventures.)!
+
+These examples may appear trivial, and they are.. after all we are discussing billionaires being denied credit, but they are high-profile examples of the competition's inferior AI offerings. Besides, the questions and concerns around lending and borrowing in the age of artificial intelligence are very much real, and touch upon very important questions about access and fairness, an aspect of Upstart's offering that is quite compelling. [Listen to Jeff Keltner](https://leadersinlending.sounder.fm/episode/digital-lending-sam-sidhu?page=3) [47:20], Upstart's head of Business development touching on Upstart's effectiveness as a fair lender:
+
+# Financials
+
+To better understand how the business of Upstart is doing, lets take a look at their [most recent earnings report of the second quarter of 2021 published just about a week ago on August 10](https://www.notion.so/0281f9ee44c647e3813632295b007347), I will preface this by saying that its one of the best earning reports I've ever read! 
+
+- **Revenue:** In the 2nd quarter of 2021 Upstart reported revenue of **$194 million**, this is an increase of - get this-  **1,018%** from the second quarter of 2020 [!!!]. I can not stress how impressive this is, even by growth stocks standards, you simply dont see numbers like this everyday!
+
+    To illustrate just how out of this world Upstart's revenue growth is, lets look at revenue growth reported by other more popular degen-type growth stocks for the same quarter: 
+
+    - **[Tesla reported revenue](https://tesla-cdn.thron.com/static/ZBOUYO_TSLA_Q2_2021_Update_DJCVNJ.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22q2_2021.pdf%22) of** $11.69 billion, representing a year-over-year increase of **98%**.
+    - **[SoFi reported revenue](https://s27.q4cdn.com/749715820/files/doc_financials/2021/q2/SoFi-Earnings-report_FINAL_081221_4.pdf) of** $231.3 million, representing a year-over-year increase of **101%**
+    - **[Shopify's reported revenue](https://s27.q4cdn.com/572064924/files/doc_presentations/2021/07/Shopify-Investor-Deck-Q2-2021.pdf) of** $1.12 billion, representing a year-over-year increase of 57%
+    - **[Palantir reported revenue](https://investors.palantir.com/files/Palantir%20Q2%202021%20Business%20Update.pdf) of** $376 million, representing a year-over-year increase of 49%
+    - **[Fiverr reported revenue](https://s23.q4cdn.com/749308338/files/doc_financials/2021/q2/Q2_2021-Fiverr-Shareholder-Letter_FINAL.pdf) of** $75.3 million, representing a year-over-year increase of 60%
+    - **[Etsy reported revenue](https://s22.q4cdn.com/941741262/files/doc_presentations/2021/08/[FINAL-NAP]-Etsy-2Q-2021-Earnings-Presentation-V2.pdf) of** $529 million, representing a year-over-year increase of 23%
+
+    ...etc etc, I can go on. 
+
+    Even if you account for this improvement being partly due to COVID, looking at the results sequentially you still see an improvement of 60% from $121 million in the first quarter of 2021 to $194 million in the second quarter. No matter how you look at it this is an incredible result.
+
+- Transaction Volume Growth was up **69%**
+
+    Upstart's bank partners originated 286,864 loans, totaling $2.80 billion, this is up 1,605% from the same quarter of the prior year. Conversion on rate requests was 24% in the second quarter of 2021, up from 9% in the same quarter of the prior year.
+
+- **Income from Operations:** Income from operations was $36.3 million, up from ($11.4) million the prior year.
+- **Contribution Profit:** Contribution profit was $96.7 million, up **2,171**% from in the second quarter of 2020, with a contribution margin of 52% compared to a 32% contribution margin in the second quarter of 2020.
+- **Adjusted EBITDA**. Adjusted EBITDA was $59.5 million, up from ($3.1) million in the same quarter prior year.
+
+In terms of financial outlook for 2021, Upstart expects:
+
+- **Revenue of approximately $750 million (they have essentially raised guidance by $150 million since their previous report guided for $600 million)**
+- **Contribution Margin of approximately 45% (vs prior guidance of 42%)**
+- **Adjusted EBITDA Margin of approximately 17% (vs prior guidance of 10%)**
+
+***Sirs, do you get it?***
+
+I cant overstate how incredible these results are. As I was listening to the earnings conference call, I caught an amusing moment when the Director of Equity Research for Bank of America could not help but address the fact that he has never seen a four-digit growth figure reported in his career.. [have a listen yourself](https://edge.media-server.com/mmc/p/gn5dbj7b) [35:40]. 
+
+What the bank of America analyst correctly pointed out was that Upstart managed to achieve such incredible levels of growth at a time when the personal loan market across the United States was actually down.
+
+# Risks:
+
+- In terms of risks to investing in Upstart, one of the main issues facing the company is business concentration. Cross River Bank is Upstart’s most significant partner, [with fees received from the bank accounting for 60% of revenue](https://drive.google.com/file/d/1edgjPy-jXuIhvLSFLkuvTMXxMDt_Kq0R/view) [p.9]. Having a single customer generating such a big portion of your revenue is a serious risk for any business. The good news is that Cross River’s concentration of Upstart’s business has come down meaningfully over the last year from 79% to the current 60%. The hope is that, increased Upstart partnership with other banks will diversify its funding base and thus reduce concentration risk.
+- Another risk is increased [regulations](https://gfycat.com/coldcanineeyas-nate-dogg-regulator-warren-g) or legal scrutiny that can stop or restrict Upstart's AI models. This is obviously a real risk, particularly given how new AI lending is. The good news is that Upstart received a [no-action letter](https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-issues-no-action-letter-facilitate-use-artificial-intelligence-pricing-and-underwriting-loans/) from the Consumer Financial Protection Bureau that essentially guarantees no supervisory or enforcement action against Upstart for the next few years.
+
+## Future
+
+- In terms of Upstart's future plans for expansion, the company plans to target the $635 billion Auto lending market. [They've already expanded to 47 states](https://www.notion.so/0281f9ee44c647e3813632295b007347) (up from 33 states last quarter), thus having access to more than 95% of the US population. They've also increased their dealership footprint by 24% sequentially this quarter.
+
+    But their biggest move in the auto lending space has to be the [acquisition of Prodigy Software](https://www.bloomberg.com/press-releases/2021-03-17/upstart-to-acquire-prodigy-software-a-leading-automotive-retail-software-provider) which is a leader in the automotive retail software space. Paul Gu, the co-founder of Upstart describes **Prodigy as the" Shopify for car dealerships"** .
+
+    Through acquisition of Prodigy Upstart was able to generate vehicle sales of over $1 billion this quarter, another very impressive result. They also already have five bank partners signed up for auto lending on their platform.
+
+- Recently, Upstart filled a newly created [General Manager of Mortgage position](https://twitter.com/saxena_puru/status/1426859770833637380). This signals early stages of offering a mortgage product which would mean entry to a massive $2.5 trillion dollar category.
+
+To conclude this section on the future of Upstart, I will leave you with [a short clip](https://www.buzzsprout.com/1697077/8693359-investing-in-ai-episode-10-dave-girouard-from-upstart?client_source=twitter_card&player_type=full_screen) of Upstart's CEO discussing how the company is setting out to be the biggest player in AI lending in the world. My main takeaway from this interview was just how early we are to the Upstart story [23:45].
+
+# Putting my money where my mouth is
+
+In short, [YES](https://streamable.com/73pefs). I am a mere mortal so no over the top yolos. I mainly invest in growth stocks and have recently been adding to my Upstart position like crazy, taking it from 11% to around 30% of my portfolio. 
+
+# Conclusion
+
+Upstart reminds me so much of Shopify at the beginning of its growth-spurt, in the sense that it is a future giant hiding in plain sight. Do your own due diligence on the company before making any investments, but after many many hours of consuming every bit of data I can get on the company, I believe it will a massive success over the next 5 years, and we will all look back and wonder why we didnt invest enough.
+
+This is a once-in-a-life-time opportunity imho.
+
+If you've read all of that I salute you friend!

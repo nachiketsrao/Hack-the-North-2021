@@ -1,0 +1,28 @@
+Recent news shows that **Tesla** wants to launch their self-driving beta in **September**, in the following [video](https://www.youtube.com/watch?v=ur4nmpbkYqQ), Kevin raises a situation where **Tesla** cameras **recognized** the **moon** as a **yellow traffic-light**, and mentions $**MVIS** (1:00) LiDar as a **potential** **solution**.
+
+**IAA** week is still on-going, and whether **Tesla** shall use LiDar or not, it seems like $**MVIS** is not only picking up recognition, but also **shows** **why** and **how** it is ahead of other competitors. In before people claims the gap-revenue indicates that $**LAZR** has more success, don't forget that $**MVIS** announced it A-Sample's were only completed in late April ([source](https://www.globenewswire.com/en/news-release/2021/04/28/2218643/0/en/MicroVision-Announces-Completion-of-its-Long-Range-Lidar-Sensor-A-Sample-Hardware-and-Development-Platform.html)), and as we speak about growing potential, take a look on the following, in terms of accuracy and quality:
+
+[MicroVision vs Luminar](https://preview.redd.it/uhl0fgepwnm71.png?width=1472&format=png&auto=webp&s=4102b1d7e696760f03556bdbc360accb15aec294)
+
+Some people have raised some concerns about how LiDar could be problematic in certain weather conditions, **MicroVision** uses 905nm laser, and the following picture sums it up nicely:
+
+&#x200B;
+
+[905nm VS 1550 nm, published by Velodyne](https://preview.redd.it/z79582i2unm71.jpg?width=1536&format=pjpg&auto=webp&s=aafddea71f44f946764286215a7a6b181420d380)
+
+&#x200B;
+
+I do recommend to people who are still judging their next moves about A/V, to take a look on the following:
+
+1. [S2upid tour to IAA](https://www.reddit.com/r/wallstreetbets/comments/plb2ye/microvision_booth_tour_at_iaa_2021_munich_meeting/) \- Updates from recent IAA conference.
+2. [MVIS Mega DD Thread](https://www.reddit.com/r/StockTawk/comments/lbrwwj/microvision_mvis_dd_megathread/) 
+
+&#x200B;
+
+What a great time to invest in A/V and E/V opportunities. 2021 will not repeat itself.
+
+Disclaimer:
+
+I hold shares and calls.
+
+**Am not a financial advisor, research and invest wisely!!**

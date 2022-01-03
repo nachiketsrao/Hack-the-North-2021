@@ -1,0 +1,87 @@
+I've seen a lot of people suggesting BB's time has come and gone after their rise and fall last week. I'm here to show you that BB is still massively undervalued. I **really** like this stock, so below I've consolidated some of my favorite DD, with links at the end if you'd like to read more.
+
+# Products & Customers
+
+* BlackBerry isn't just a phone company any more. They provide best in class cybersecurity.
+* BlackBerry's most notable product is QNX, an RTOS with several applications. [Read here for more.](https://np.reddit.com/r/wallstreetbets/comments/le53ol/comprehensive_guide_about_bb_and_how_it_shall/)
+* In December of last year, Amazon announced a multi-year global agreement with BlackBerry QNX and developed IVY, a cloud-connected smart vehicle data platform. IVY allows automakers to provide a consistent and secure way to read vehicle sensor data and create actionable insights from that date. It's possibilities are endless, and I highly recommend reading more on Amazon's initial announcement.
+* OK, so what the fuck does the point above mean? It means that **right now, electric vehicles are a gold rush, and BlackBerry is the one selling picks and shovels.** Through Amazon, IVY is going to become an integral part of the EV process.
+* The market is sucking the dick of EV manufacturers, but EV production is low margin and low scale. **BlackBerry IVY is data monetization, which is high margin and has unlimited scale.** Within a few years, BlackBerry will be making much more than the auto manufacturers they're partnered with.
+* Blackberry QNX is used by 23 of the world's top 25 electric vehicle OEMs.
+* BlackBerry targets more than just EVs though. They also have or are developing products for healthcare, financial services, government markets, energy, gas, oil, and smart grid connected transportation.
+
+# Cybersecurity Leader
+
+* BB offers best-in-class security, safety, and reliability. 18 of the G20 governments are customers, and they are the only software company to attain various security certifications from the US Govt.
+* Ransomware attacks have begun to impact American businesses like never before. Today, the commerce secretary stated ransomware attacks are here to stay, and that businesses should plan accordingly.
+* You know that oil pipeline that was taken out by DarkSide ransomware and caused oil shortages across the southeast U.S? That wouldn't have happened if Colonial Pipeline were using BlackBerry. Something tells me companies won't be making that mistake in the future.
+* According to Frost & Sullivan Research, BlackBerry addresses 96% of cyber threats, and 77% of Fortune 100 financial companies use BlackBerry software.
+
+[Here's a list of BB Certifications obtained in 2020.](https://preview.redd.it/qey899yxnp371.png?width=1259&format=png&auto=webp&s=f51e571ce7afcaf17126b2c168cb3f7a37343c35)
+
+# Some Basics and Fundamentals
+
+* BlackBerry has an \~$8bn market cap with $1bn+ in yearly revenue and $800m in cash.
+* Since 2016, the number of QNX products has grown from 50 million to 175 million.
+* BB owns \~38,000 patents worth approximately $450 million.
+* BB recently won a lawsuit against Facebook. I am unable to find the details, but most estimates are for between $1bn - $5bn total, paid over the course of a few years. BlackBerry's current market cap is only $8bn...
+* Blackberry has a strong customer base of critical infrastructure already, and their pivot from hardware to software means continuous subscription revenue.
+* **If BlackBerry had the same market cap as competitor Crowdstrike -** **who it outperforms** **- it would have a stock price of $83.** That's just taking into consideration one aspect of it's business model.
+* [Vanguard has doubled their position since Dec 31/2020.](https://np.reddit.com/r/stocks/comments/lzw0pn/vanguard_is_bullish_on_bb/)
+
+# TL;DR: 🚀🚀🚀 BB is going past the moon and into Alpha Centauri. This company is so much more than a meme stock or a short term squeeze - it's a life changing opportunity. When BlackBerry starts getting IVY revenue, $20 will look like a joke and you'll have to explain to your wife's boyfriend why you didn't get in under $14 when you had the chance.
+
+# Positions:
+
+* 2000 shares @ $11.20
+* 50 1/20/23 $40c
+* 50 1/20/23 $25c
+* 10 1/20/23 $10c
+* 20 6/11/21 $30 covered calls
+
+&#x200B;
+
+[Sorry for the Robinhood screenshot, I'll be using Fidelity after closing this position.](https://preview.redd.it/q1m9r7vanp371.png?width=760&format=png&auto=webp&s=e5acddc6abc1f4ff3378a774cfe79c93ab17582b)
+
+# Important DD's and Threads:
+
+* [Comprehensive Guide about BB and how it shall take off in coming years](https://np.reddit.com/r/wallstreetbets/comments/le53ol/comprehensive_guide_about_bb_and_how_it_shall/) \- by u/whatisgf
+* [9 Reasons Why BB is 🚀🚀🚀🚀🚀 from former BB employee](https://np.reddit.com/r/wallstreetbets/comments/kxknrl/bb_dd_9_reasons_why_bb_is_from_former_bb_employee/) \- by u/josh_moworld
+* [BlackBerry, Why you need it.](https://np.reddit.com/r/wallstreetbets/comments/l5sno2/blackberry_bb_why_you_need_it/) \- by u/DevantLaMachine
+* [BlackBerry -- A Dormant Giant](https://np.reddit.com/r/stocks/comments/li0rpg/blackberry_a_dormant_giant/) \- by u/UncleZiggy
+* [$BB King - The Blacker the Berry, the Sweeter the Juice](https://np.reddit.com/r/stocks/comments/leohs2/bb_king_the_blacker_the_berry_the_sweeter_the/) \- by u/Rotatos
+* [BB is not a phone company. Here's some DD.](https://np.reddit.com/r/stocks/comments/lfuoe9/bb_is_not_a_phone_company_heres_some_dd/) \- by u/artisticdragon96
+* [$BB DD thread: Why this retard believes the fair market value for $BB is $45.](https://np.reddit.com/r/wallstreetbets/comments/lgsec7/bb_dd_thread_why_this_retard_believes_the_fair/) *-* by u/TheGeffez
+* [BlackBerry is NOT a Meme Stock](https://np.reddit.com/r/wallstreetbets/comments/liixji/blackberry_is_not_a_meme_stock/?utm_medium=android_app&utm_source=share) \- by u/ramjaz
+* [BlackBerry DD - Why $BB is Mooning and heading to Mars](https://np.reddit.com/r/wallstreetbets/comments/l2c4dh/blackberry_bb_dd_why_bb_is_mooning_and_heading_to/) \-by u/daygoumahaha
+* [A sum-up of all the recent news on $BB.](https://np.reddit.com/r/stocks/comments/lhq59l/a_sumup_of_all_the_recent_news_on_bb/)\-by u/Tradergurue
+* [BlackBerry secured another catalyst for growth with Motional.](https://np.reddit.com/r/stocks/comments/lgbknd/blackberry_bb_secured_another_catalyst_for_growth/)\- by u/gochugrande
+* [BB Deep Value](https://np.reddit.com/r/wallstreetbets/comments/ln4sqv/bb_ddiiiiiiiiiiideep_value/) \- by u/RelationshipOk3565
+* [BlackBerry earnings/call were actually bullish.](https://np.reddit.com/r/stocks/comments/mhhxq0/bb_blackberry_earningscall_were_actually_bullish/) \- by u/Rivaaal
+* [A short list of BB DD](https://np.reddit.com/r/wallstreetbets/comments/lawlki/i_have_attached_some_bb_dd_below_for_those_of_you/) compiled by u/bulldogbaker03
+
+I've had to remove a number of sources due to the Visual Mod, so if you'd like a claim sourced just let me know in the comments.
+
+^(None of this is financial advice; it was written by an infinite number of monkeys hitting keys at random.)
+
+# BIG EDIT:
+
+**I was asked about the bear case for BB. It's important to understand the risks of investing, and I'm not so in love with this stock that I'm blind, so here's the bear case:**
+
+* A lot of investors have been underwhelmed by revenue so far, and BlackBerry missed their expectations for Q4 2020. But it's worth noting the reason for buying BlackBerry right now is that when IVY revenue starts rolling in these concerns will wash away. It's a longer term play, similar to Palantir.
+* The bull case assumes CEO John Chen's estimate of being able to get roughly $500m for their patents is correct. If they get less than expected for that side of their business, or keep the patents and aren't able to monetize them in a meaningful way, that would be less than ideal.
+* The Facebook settlement could end up being more like 500m than the 2bn+ that's expected.
+* They could be passed in the cybersecurity field before they are able to leverage their current best in class service. This one is really unlikely considering how many other companies have tried to make products equivalent to what BlackBerry has - and failed.
+* EV companies could end up making their own OS and data services to resist IVY adoption. Several are trying (Tesla always comes in this conversation as an example), but from everything I've read none have managed to make as safe and comprehensive a system as BlackBerry.
+
+So, *if* IVY doesn't get adopted, they're no longer the leading cybersecurity company, their lawsuit is for less money than expected, and their patents are actually worthless - then BlackBerry is only a little undervalued instead of incredibly undervalued.
+
+**Here's the most meaningful bear case right now though, and how the bulls can beat it:**
+
+There seems to be a lot of upward resistance. Establishments, institutions, etc. are all convinced BB is a failed phone company stock worth $10. When it rises, large financial players short (because they believe they can buy back for $10 or less), buy puts, or just scalp to try and capitalize on the volatility which in turn creates a lot of resistance and breaks momentum.
+
+I don't think there's any conspiracy, I think the big players are just incompetent. These are pretty normal pullbacks and reactions to a stock that's gaining so quickly. The problem is that those big financial players I mentioned (as well as a lot of people on WSB) don't understand *why* this stock is so desirable. They just think it's a meme stock that's being pumped and don't understand the potential of: A) Becoming an essential step of EV manufacturing; B) Being best in class security during an age of ransomware attacks. So instead of getting in and riding the momentum, they create a self fulfilling prophecy of pullbacks.
+
+**The bulls can win the same way we've won in GME and AMC - by buying and holding. Continued days of large volume will completely fuck the bears who started taking huge short positions last week, leading to even bigger price movement. Buying shares or LEAPS and being patient is the way to play it and win big.** The bears win when bulls waste all their capital buying FDs that have no chance of finishing ITM or when they see a dip and paper hand their shares. It's funny to watch people freak out at a $2 dip when they easily could have just hedged that with a deep OTM weekly covered call. **Buy** ➡️ **Hold** ➡️  **Yacht**
+
+Regardless of the resistance that exists at the moment, there will come a day when big finance starts racing to get in on BB - and they'll pretend they were right all along. We've seen it constantly in tech stocks over the past few years. WSB can just expedite the inevitable by getting in on BB while it's still incredibly cheap.

@@ -1,0 +1,89 @@
+Why hello again apes,
+
+Remember me? Just one of your many friendly neighborhood PSFE bag holders who believes he’s cracked the code well enough to convince his wife’s bf to let him sleep in the house again soon. The key to that code? Richard “Da’ mill.” Wyckoff.
+
+I just wanted to give an update, so I won’t bore you with the same rambling explanation of the schematic and how it works, but I will explain why you should be looking hard in the coming days—heh, *looking hard*. You can find it in my previous post [here](https://www.reddit.com/r/wallstreetbets/comments/o9ptcy/psfe_wyckoff_schematic_and_the_great_tendie_heist/) though!
+
+My position (still): 2007 @ $15.21, yep.
+
+**The long short of it**: For 8 long weeks now, hedgies have been buying up every last seat on the Paysafe rocket right before your eyes. Guess what? Where you saw a pump and dump (emphasis on dump), what you were actually seeing was ‘tutes securing their pet goldfish a second private villa in Bora Bora paid for in full by paper handed apes who didn’t realize they were moon bound.
+
+The good news: we already have the Empire’s secret plan, the one that they’ve been using successfully for 100 years now, and Paysafe is playing it out in textbook fashion.
+
+*Oh, you want some proof?*
+
+**Exhibit A:** As of Today, institutional holdings of PSFE totaled 58.11% of the OS (723,734,536) BEFORE most of the Q2 filings have even been reported. In other words, we already know they can’t get enough of the stuff.
+
+[Per Fintel](https://preview.redd.it/gtr6z04yd3971.jpg?width=1772&format=pjpg&auto=webp&s=69e1f69cc792331a933cd6bed01454aea231e92e)
+
+Maybe you’re asking, “But surely a lot of that is PIPE shares under lockup all preparing to sell?” I’m glad you asked. The answer is: yes, PIPE accounts for a lot of those shares. However, we already found this little nugget awhile back showing not only that Blackstone has since bought 37m additional shares, but that, as a result, shares held by Blackstone, CVC, Foley, and FNF (and company warrants) now account for a *coincidental* 50.159% controlling stake of the max OS should all warrants be exercised. I go through this in great detail [here](https://www.reddit.com/r/PSFE/comments/nkedr1/another_piece_in_the_psfe_buyout_theory/). Feel free to ignore the tinfoil hat conclusion I came to though—I was bored (and am an idiot).
+
+[Per SEC Filings](https://preview.redd.it/32gm1hjzd3971.jpg?width=800&format=pjpg&auto=webp&s=29edb641d8f65a98b8fc4386fa4bd61f5ce2cfd5)
+
+&#x200B;
+
+[Per Fintel](https://preview.redd.it/oqzlbp30e3971.jpg?width=828&format=pjpg&auto=webp&s=a72104be083d7d865960f979cad1f11398935286)
+
+&#x200B;
+
+The Point is: Not only does it seem completely unlikely that they established that specific controlling stake just to sell months later, based on the language of the lockup clause, the Blackstone and CVC shares likely already unlocked last weekend. They clearly haven’t sold because yours truly would already be behind the Wendy’s dumpster right now. I’m not denying that possibility, but hey, at least I still (arguably) have my dignity so far. (FWIW, the rest of the PIPE remains locked for another couple months).
+
+*Disclaimer: there is some debate as to whether the “60 days thereafter” clause refers to calendar days or trading days. My read, and the read of the attorney I asked (yep, PSFE is all I’ve got these days :/ ) was that, having explicitly used “trading days” in the first clause and not in the second implies calendar days. Make your own call.*
+
+https://preview.redd.it/jmqakqj2e3971.jpg?width=828&format=pjpg&auto=webp&s=23d8eed25cfd2c0e7df33a4180927d4fa1d4ab3c
+
+Regardless, the point still stands.
+
+**Now, on to the Wyckoff**: Last week, following that oddly timed WSB pump (more on that in a minute), I made a post here about the way Paysafe’s price action has followed an age old accumulation schematic designed to allow ‘tutes to inconspicuously buy up every seat on the rocket ship they can while the rest of us are trying to figure out how to tell our wife’s bf that we spent our allowance money on tickets aboard the Titanic.
+
+Again, this is just an update on where we stand, so I won’t break down every phase again, but I will show our chart compared to the schematic and let you decide for yourself. I’ll also dig more into where I believe we are in the chart.
+
+https://preview.redd.it/ci0adze3e3971.png?width=975&format=png&auto=webp&s=ca2d1001f385324257fa6256679113ae5ce55447
+
+https://preview.redd.it/350yy1qdc4971.png?width=2376&format=png&auto=webp&s=feafd83667887e19e1f02224bc1b3daac01eb174
+
+When last we spoke, we were coming out of an interesting turn of events as suddenly Paysafe was trending on WSB out of nowhere—many of the posts coming from new accounts. Even I, a lowly bag holder, thought this was pretty suspicious. For one, Russell was reconstituting with PSFE making the 1000 with a 12m share purchase. For two, as I interpreted the lockup clause, we were pumping right into the weekend where those PIPE shares were to be unlocked.
+
+**Then what happened:** We had a glorious 10% day on enormous relative volume that broke out of the top of the Wyckoff channel only to be smited back down by shorts. Didn’t seem like enough of a pump to lead me to believe PIPE was looking to sell.
+
+At that time, I was curious as to whether that move was the beginning of our “sign of strength” within the structure, but had said that it felt a little premature within the channel.
+
+Instead, we came back down to the $12 range where guess what? ‘tutes kept right on loading. This time way higher in the accumulation channel than where they’d been loading previously (in the $11.2 range)—likely in large part thanks to paper hands and lingering demand below.
+
+**Why the pump?** Well, here’s where the Wyckoff Psychology comes into play. The purpose of an accumulation channel is, again, for ‘tutes to inconspicuously drain the channel of all liquidity, so that when the time comes for them to mark up the equity, they can trust the solidity of this floor—and make a king’s ransom of tendies in the process. How do they do it? By breaking your spirit and slowly eroding your self proclaimed diamond hands to find the paper underneath. They’ll let her run, sure. False breakouts will appear. FOMO creeps in. OG holders feel their bags get a little lighter, then wham! another shakeout. They’re starving for paper hands (liquidity). In other words, they want supply, and they want it in a way that isn’t going to reveal their master plan.
+
+Further, what better way to inconspicuously buy up a massive number of shares without drawing attention than to blame it on a bunch of apes while running media stories about how it was an orchestrated squeeze attempt? 57m shares traded immediately following a pump out of nowhere with countless WSBers saying “This feels fishy” “Pump and Dump” “Clearly an orchestrated distraction.” Interesting.
+
+Guess what? I now believe you were right, but that wasn’t the trap. The trap is what’s happening right now. It’s the part of the schematic where they’re hoping all of these new bag holders have paper hands and sell them their newly acquired rocket ship seats dirt cheap as they push her down, for what I believe is the final time. This is Phase C. This is the test. Now they even want you to think it was a pump and dump, so you'll panic and cut your losses at their gain. Further, there could have been some testing of the effectiveness of a markup strategy when the time comes where they need upwards volatility in the channel.
+
+https://preview.redd.it/4fxrprh5e3971.png?width=657&format=png&auto=webp&s=cd67e4a3e11804f45d40ae4ab91547d36a868ae9
+
+**Phase C:** Now, the ‘tutes have spent 8 weeks accumulating shares in this channel. They’ve done so with great success and have not been unloading them on the descents (that’s where watching the volume is important). Instead, they sped up the process drastically by hiding behind you guys, and clearing it out on the way up. They didn’t have to do that. They were in full control of this for months (trust me, I’ve watched it every last day)—unless they were running out of liquidity. If this is the case, we have indeed reached Phase C of the Wyckoff—the final shakeout. Suddenly, as if on cue, Paysafe, has spent the last few days following the exact same trajectory. Instant sucker punch down at open by shorts to the next line of support, followed by barcoding on decreasing volume—that latter part being very important.
+
+Translation: They are now testing supply at various supports within the channel on low volume—indicating low liquidity. Diamond hands are holding up. This is the purpose of Phase C. Further, they aren’t unloading. All those shares they bought on high relative volume at $12 the days before? Those shares are in the red too, and we aren’t seeing them being unloaded? Hmm, interesting.
+
+That being said, will your hands still be diamonds if they, say, push it down to the next line of support around 11.08, or will you be giving up your seat on the rocket at the bottom of an accumulation channel to ‘tutes that aren’t selling? The suits themselves spent last week(s) loading up at $11.20. ($11.28 being the point of control).
+
+What if they push it down even further into what looks like a structure break? Will you have a stop loss set so that they can steal your shares from you while you’re sitting on the launchpad? That’s what they want. That’s what Wyckoff called “the spring”—which like stonks, go up.
+
+https://preview.redd.it/ww3zcyu6e3971.jpg?width=626&format=pjpg&auto=webp&s=e0cec0b0a18192276ac9f2774c15cf744aaa5603
+
+Will they find more supply at the base of the channel from paper hands the world over and decide to keep right on loading the boat in a B phase, or will they find that this rocket is full of certified diamond handed apes who will hodl until they’ve broken the surly bonds of Earth and touched the face of Planet Tendie!? Game recognizes game here.
+
+Ultimately, the choice is yours.
+
+**What follows Phase C?** Phase D and markup. This is the point where institutions have loaded all that they can hold and have established this accumulation channel as properly drained and solidified. You'll also know this when you see it. Suddenly Demand comes in hard and up we go. Why? Well, because now that very same big money that has been holding us down becomes our tailwind looking to see how high they can get us before either re-accumulating or selling it back to retail at a fat markup. Those 34.7m shares shorted according to S3--most of which likely merely opened to manipulate us within this channel? They'll know when it's time to close and so will you.
+
+https://preview.redd.it/c5a7mwr7e3971.jpg?width=884&format=pjpg&auto=webp&s=0adf9fb0b58951495ae08ddaab58e114a50c9137
+
+**What to watch for:** Volume is number one here. I want to see low or decreasing volume on down moves. Again, that implies low liquidity and indicates that big money is not unloading shares. I want to see high or increasing volume on moves up. This indicates demand and its strength within the channel. Further, whereas a spring is not a necessity, the idea that we continue to move down and test 11.28, 11.08, and/or possibly even further in a spring scenario is not unlikely whatsoever, if not probable. Fwiw, notice the open interest on $11 puts as well. There could be big money looking to make money on this phase down as well. All in all, I want to see low liquidity at these supports; otherwise we run the risk of institutions moving back into a B accumulation phase. Then, I want to see demand take the reins, shorts to begin closing, and markup to begin.
+
+**TL;DR:** Believe it or not, even as a bag holder, I’m not posting this to beg you to buy here. In fact, if anything, I’m telling you wait and watch closely to what it does from here--but this is not investment advice. Buy if you want, but more importantly, watch for the point in this structure where they’re looking to shred every paper hand and don’t be one of them. Just hodl dammit. You’ll know it when you see it. Not every Wyckoff has to have a spring. Maybe she jumps from here and then be looking for support tests (sign of strength), especially above that 12.64 level on good volume.
+
+If not though, watch for the reactions below 11.28, 11.08, 10.23 (in the worst case) etc, and see it for what it is: Whales opening their mouths to suck in every last paper hand they can find. Instead, look them straight in the eye, and offer up the diamond studded appendage of your choosing—and LOAD AT THE SPRING/MARKUP (if you want). Why? because this rocket is bound for the moon. It’s only a matter of how many seats you want the ‘tutes to have on that journey.
+
+PS) Do your own DD, make your own decisions. I'm an idiot, but again, I'm clearly not just doing this as a pump by any means. I just like the idea of apes eating tendies, and my read on it is that there's a strong possibility to do so incoming on PSFE.
+
+EDIT: For some reason half of my post suddenly disappeared. Adding it back with the images and refixing typos and other edits real quick
+
+EDIT 2: Re-uploaded the PSFE chart when I noticed I was missing the upper resistance of the supply zone ($12.64). I cleaned up the labelling of the AR, and I also left the OBV indicator on the chart after u/Honey_Milk_Man commented correctly about it being another clear indicator of accumulation. As I said in my reply to that comment, the overall downward slope of the OBV further implies (to me) that the liquidity within the channel is dwindling overall.

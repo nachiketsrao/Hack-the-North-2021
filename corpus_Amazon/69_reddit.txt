@@ -1,0 +1,80 @@
+As the beginning of next year, California will enforce new animal welfare law for breeding pigs and other farm animals. But only 4% of the hog operations currently can comply. According to one farmer, to meet the new standard, he needs 3 million for the upgrade to raise just 250 hogs. Restaurants owners are worried because bacon is one of the most popular breakfast items and bacon helped their business survive the pandemic. ([https://www.bloomberg.com/news/articles/2021-07-31/bacon-may-disappear-in-california-as-pig-rules-take-effect](https://www.bloomberg.com/news/articles/2021-07-31/bacon-may-disappear-in-california-as-pig-rules-take-effect?srnd=premium)).  People love bacon from all backgrounds. "You know, I work and live with a lot of Asian and Hispanic populations in the city and their diet consists of pork bacon. Pork bacon is huge," Kim said. "It’s almost like bread and butter."
+
+Bacon love is ingrained into our soul and genetics and therefore an inelastic demand. A small change in bacon supply can lead to a drastic change in price, as explained by graph below.
+
+[Inelastic Demand Price Action](https://preview.redd.it/huc5pz6xoue71.jpg?width=570&format=pjpg&auto=webp&s=fcea15c61d5e19157c1cfb07d1e9684142bf67c2)
+
+According to consulting firm Hitamiya Group, if half of the pork supply was lost, bacon price would jump 60% which means a $6 package could rise to $9.60 cents ([https://www.bloomberg.com/news/articles/2021-07-31/bacon-may-disappear-in-california-as-pig-rules-take-effect?srnd=premium](https://www.bloomberg.com/news/articles/2021-07-31/bacon-may-disappear-in-california-as-pig-rules-take-effect?srnd=premium)). If 90% - 95% of the supplies are gone, the fair price should be at least 2.5 times the current market value. And that means **1 package of bacon is $15 per package.**
+
+You must wonder, how do I profit from this? A very ancient trade technique - BUY LOW SELL HIGH
+
+I am not talking about buying 10 packs of bacon from Costco and resale them later. I am talking about doing it at scale. Go big or go home.
+
+**Step 1 - Install Freezers in Your Garage**
+
+Let’s figure out how many freezers you can potentially have. First park your cars on the street and empty the garage. The average garage size is 12 feet \* 22 feet \* 8 feet. So 12 \* 22 \* 8 = 2112 cubic feet.
+
+The below fridge dimension is 37.25 x 20.75 x 33.25 inches and can storage up to 7 cubic feet items.
+
+[ Ideal Fridge to Keep Bacon](https://preview.redd.it/yfk3jbp3que71.jpg?width=1282&format=pjpg&auto=webp&s=731f5da26e2187ec37b1dbd4fbabc5b7789ebd15)
+
+Let’s do more math to see how many fridges your garage can potentially store.
+
+2112 (volume of garage) \* 1728 (1 cubic feet is 1728 cubic inch) / 37.25 \* 20.75 \* 33.25 (volume of fridge) = **142 fridges**
+
+Obviously you can’t just stack all of those fridges in the garage. Let’s say we can achieve 80% of that. And that means you can have around **110 fridges.**
+
+Remember to use Amazon FREE SHIPPING. Very important to save cost.
+
+**Fridge Cost with Tax**: 110 \* 229 \* 1.1 (Uncle Sam wants the tax) = **$27709**
+
+|**Item**|Cost|
+|:-|:-|
+|110 Fridges|$27709|
+
+**Step 2 - Buy Bacon in Bulk and use FREE SHIPPING**
+
+According to USDA ([https://www.ers.usda.gov/data-products/meat-price-spreads/](https://www.ers.usda.gov/data-products/meat-price-spreads/)), one package (1 pound) of bacon in  June 2021 is about $6.67. We can get this much lower by buying from Costco in BULK. As you can see below, **our one package cost is $4.53** AFTER tax including delivery. Again, very important to use free shipping to save cost.
+
+[Bacon Price From Costco](https://preview.redd.it/4a12382erue71.png?width=1840&format=png&auto=webp&s=48f5dacba1eb055847e3b266aef24fb5abcee393)
+
+It's time to calculate how much to buy. The size of one package of bacon is about 10 inch \* 4 inch \* 1 inch so 40 cubic inch. And the volume of our fridge is 7 cubic feet which is 12096 cubic inch. So one fridge can store around 300 packages or pounds of bacon. With 110 fridges, we can store 33000 packages or pounds of bacon. Each pound of bacon is $4.53, so the total cost of bacon is $149,490
+
+Total Cost So Far
+
+|**Item**|Cost|
+|:-|:-|
+|110 Fridges|$27709|
+|33000 packages or 2200 cases of bacon|$149,490|
+
+**Step 3 - Factor In the Electricity Cost**
+
+Running 110 freezers in the garage is apparently very energy consuming and electricity is expensive in California, at about 20 cents / kWh.
+
+The freezer is 150 watts so running 110 freezers for let's say 6 months will cost $14256. You can check my math below:
+
+150 watts \* 6 (month) \* 30 (days) \* 24 (hours) / 1000 = 648 kWh (one fridge running a year energy consumption)
+
+648 kWh \* 0.2 cents / kWh \* 110 = $14256
+
+Total Cost So Far
+
+|**Item**|Cost|
+|:-|:-|
+|110 Fridges|$27709|
+|33000 packages or 2200 cases of bacon|$149,490|
+|Electricity|$14256|
+
+Step 4 - Sell High And Take Profits
+
+Don't diamond hand bacon, you are in 2022 and it's time to sell for a profit!
+
+The cost of bacon per package factoring in everything so far is **$5.8.** And we unload each package for $15. So that means each package profit is $9.2.
+
+# The total profit is $9.2 * 33000 = $303,600
+
+If you too lazy to contact customers or answer phone calls yourself, just hire someone for like 20K a month to the work for you. I expect the inventory goes to zero in a month so at the end of the day, you pocket close to $280,000 profits.
+
+And you can figure out the tax part and probably can resell those freezers for half the price.
+
+TLDR: Buy Bacon Now and Get Rich Later

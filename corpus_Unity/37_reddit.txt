@@ -1,0 +1,40 @@
+\*\*Where they are:\*\*You've probably heard of Unity and the reputation of Unity games. But did you know that Unity commands 70% of the top 100 app store games? Almost half of all mobile games now are made using Unity.
+
+Okay so big deal I hear you say, they're big. But everyone knows their reputation, all shit games, right? Wrong! Not only do they dominate the mobile market but even AAA studios love Unity.
+
+A few small names powered by Unity:
+
+* Hearthstone
+* Pokémon GO
+* Rust
+* Wasteland 2
+* 7 Days to Die
+* Kerbal Space Program
+* RISK: Global Domination
+* Firewatch
+* Escape from Tarkov
+* GTFO
+
+Or any other number of massively successful titles & AAA studios which use this fantastic engine:[https://en.wikipedia.org/wiki/List\_of\_Unity\_games](https://en.wikipedia.org/wiki/List_of_Unity_games)
+
+\*\*Growth Potential:\*\*Unity has always been vocal, not only about expanding what they're doing in the game industry but with software far outside of just video games. Aquarium touch screens? Unity. Business deep-learning prediction software? Unity. Virtual museum? Unity.
+
+But what makes their plans for the future more special is their new scriptable render pipeline. Originally Unity was meant to be an out-of-the-box "One size fits all" model so that as many different games could be made with it as possible. With the introduction of the scriptable render pipeline they've now introduced URP and HDRP. So what does that mean?
+
+Knowing all the ins-and-outs of Unity was what was originally required for making a game look good. You had to know about the package manager, about how to make good post processing, etc. Now with HDRP & URP you get a premade choice. URP if you're going for mobile or performance. HDRP if you're going for AAA quality. Unreal Engine's starting to look dated by comparison!
+
+\*\*Why has there never been anything like it?\*\*Companies prior to around 2012 always had to write their own engines from the ground up usually in hard-to-program frameworks and in intensive languages like C++. Now games have become so complex that companies are opting to license out to software like Unity or Unreal Engine.
+
+What makes Unity special though is that this is the first time that a third party game engine has gone public. Literally history in the making. Millions of game developers and investors across the world immediately began pouring money into the stock and its increased in value over 100%. The stock opened September 18th @ $75 and is already valued at $166. And as the first publicly traded engine this also means they now have access to a massive cash pool with they can use to innovate, and expand in a way their competitors just can't keep up with!
+
+With the massive growth of companies in and outside of game development switching to Unity the company is seeing unprecedented levels of growth. And with their introduction of the scriptable render pipeline & HDRP they now even threaten their main rival Unreal Engine's advantage which was primarily in graphics. Not to mention the large asset store, a mini free market where developers can put up their own paid game assets which Unity taxes every sale of. Models, Scripts, Audio, you name it. And with it being all virtual there's little overhead.
+
+What's more is that similar to Windows or Apple, Unity inspires loyalty among its users who believe in it. This immediately meant that software engineers, game designers, and more began investing in it. And the better it does, the more those who waited jump on board.
+
+This concludes my wsb talk.
+
+oh and one more thing.. 🚀 🚀 🚀 🚀 $U TO THE MOON BABY!🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀🚀 🚀 🚀 🚀
+
+Source: I'm a professional game development software engineer, worked with Unity 6 years.
+
+Obviously I'm not a professional investor nor am I qualified to give investment advice, this is just why I personally own $U stock. This is also an analysis for the long-term.

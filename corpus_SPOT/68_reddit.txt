@@ -1,0 +1,13 @@
+Hey all,
+
+Got an interesting pay to consider here. This is based off of  [**epicoliver3**](https://www.reddit.com/user/epicoliver3/) DD on MCFE.
+
+Take a look at the following double calendar spread:  40c Aug/Sep and 25p Aug/Sep. At a 2 to 1 ratio of calls to puts, the B/E is 23 and 54 with profit peaking at 40 with another little pop around 25. The risk reward ratio is almost 10:1 with over a 90% probability of it being ITM.
+
+There's no guarantee it'll land in the sweet spot and the whole div and volatility may make for a rough ride, but come expiration, it only has to land above 23 to not lose money - and it's been above 23 for the past 4 months.
+
+Not a perfect play, but something to ponder. Keep in mind this is the first time WSB bots are actually letting me post anything...
+
+https://preview.redd.it/rrlsa4q7gmf71.jpg?width=893&format=pjpg&auto=webp&s=b54a953727459e857a14c3280405325e6d09fa7f
+
+https://preview.redd.it/q39igvidomf71.jpg?width=863&format=pjpg&auto=webp&s=b8357c3aacb620273ad5d8c1b28819208bb77254

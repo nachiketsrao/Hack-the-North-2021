@@ -1,0 +1,49 @@
+**My fellow APES** 🐵 **just remember that DIAMONDS 💎 are made under PRESSURE  🖐**
+
+[Cyber Security Competitors \(BlackBerry VERY undervalued\)](https://preview.redd.it/4jgrcdko9ej71.png?width=1793&format=png&auto=webp&s=dbadfb002e309d49dfbec98eb27d21a4de228409)
+
+**Facebook Patent Settlement/Partnership Catalyst**
+
+Blackberry filed a lawsuit against Facebook for Patent Infringement (and won). Technology in WhatsApp Messenger apparently is Blackberry's tech and Facebook wasn't paying any licensing fees to Blackberry. Both parties settled out of court, Blackberry got a positive judgement against Facebook and a judge in Germany ordered a halt on WhatsApp use of BB technology which could have affected nearly 80 million users.
+
+Only the patent settlement Facebook and Blackberry reached out of court recently turned into a patent sale. With a large upfront payment and 7 years of IP licensing tail.
+
+John Chen CEO said in March that BB entered into patent sale negotiation with North America based tech company and can't disclose more.
+
+I strongly believe that BB and FB are negotiating not just patent sale but also a partnership agreement. Blackberry will secure WhatsApp Messenger for Enterprise. (This might be huge as Salesforce bought Slack). Blackberry also gets free advertising on FB Instagram.
+
+Patent payout upfront 600 million plus 1.4 billion over seven years in IP licensing.
+
+Facebook wants to get in on the action and partner with Blackberry. After all it's Blackberry who invented the smart phone and the instant messenger. Judges, lawyers and political figures were using Secure Messenger BBM well before anyone else. They were first to market in smart phones and BBM
+
+Mark Zuckerberg was living in the college dorm even Blackberry enterprise customers were already using BBM and it's only fair that Blackberry finally gets fair compensation for their innovative technology.
+
+John Chen when asked about the patent sale he said stay tuned. He meant there is very good news coming soon. Don't sell your shares.
+
+**IVY Connected Car (IoT Internet of Things) + Amazon Partnership**
+
+As we all know AWS has entered a multi-year, global agreement with BlackBerry (BB) QNX to develop BB IVY.
+
+Ivy benefits the whole value-chain
+
+* IVY enables automakers to create personalized driver and passenger experiences by allowing for a consistent and secure way to read vehicle sensor data, normalize it, and create actionable insights. AKA feed OEMs MORE DATA that is actionable.
+* The developers won’t need specialized or automotive software skills.
+
+Modern cars and trucks are built with thousands of parts from many different suppliers, with each vehicle model comprising a unique set of proprietary hardware and software components. These components, which include an increasing variety of vehicle sensors, produce data in unique and specialized formats. The highly specific skills required to interact with this data. With BB IVY there is no need to worry about special automotive programming languages, hardware variations, or proprietary sensor data formats.
+
+* The consumer (driver) gets more frequent feature updates allowing for better performance/experience along with safety of their data
+
+Data is the new Gold/Oil
+
+BB has had a vision to build a data analytics platform for years which they showcased at CES 2 years ago.
+
+In a Bloomberg interview, John Chen says the following in regards to BB Ivy “By the way this project, we’ve been working with Amazon has taken us probably about 2 years - we started this whole program 2 years ago at CES. We demonstrated a little piece of technology at that time, obviously not as elaborative as today..”.
+
+He goes on to say that this creates a recurring data business for BB. This point should not be overlooked! As a Mckinsey & Co report  ([https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/unlocking-the-full-life-cycle-value-from-connected-car-data#](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/unlocking-the-full-life-cycle-value-from-connected-car-data#)) connected cars (the new iPhone) will allow for the OEMs to monetize data from connected cars. We all know that 7/10 most valuable companies in the world generate billions in profits from data-based services.
+
+Chen explains that Amazon is interested in BB for 2 reasons:
+
+1. QNX provides Amazon with a secure, safety certified OS (aka the “plumbing” or ecosystem Ivy will be built on)
+2. BB secures all endpoints in the Internet of Things
+
+[Take us to the MOON, Papa Chen!  🚀  🌙  📈  ](https://preview.redd.it/o2hnpx27jej71.png?width=1211&format=png&auto=webp&s=f182596657194328fc93a5534ba08c80643d5d09)

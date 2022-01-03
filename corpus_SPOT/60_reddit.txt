@@ -1,0 +1,67 @@
+Every financial crisis is exactly the same. Investors figure out a fun new way to make money, lever up their investments, convince dumber investors and businesses to buy in, lever up some more, spread the risk around the entire financial system, and ride the wave up until it crests and crashes.
+
+* In the Panic of 1819, "wildcat" banks out west converted funding from the US bank (central bank at the time) into their own leveraged currency and handed out unsecured loans to land developers. Much of the land turned out to be worthless, and the banks went under, dragging down the US bank and US economy with them.
+
+* The Panic of 1837 was similar, except that east-coast banks handed out money to any and every cotton farmer in exchange for a profit split. When the cotton market crashed, so did the banks.
+
+* The next capital-P Panic, this one in 1857, was set off when the thousands of miles of tracks promised by mid-19th century-railroad startups stalled out in the construction phase. The implosion among investors reverberated through the entire economy.
+
+* Then there was the Really Big One -- the Crash of 1929 preceding the Great Depression. Investors in the 1920s were absolutely out of their minds. They dished out easy money like candy in every direction and in every industry -- materials, construction, retail, automobiles, railroads -- believing that the good times of profitable plays and high returns would never end. This is when the semiotics of the stock market began to shift: investors started putting their faith in the rise of the DOW like it was a Newtonian law, without regard to what it stood for or the investments underneath. When those investments turned sour, the bubble grew larger before it finally popped.
+
+* Skipping ahead to 1987's Black Monday, we have investors so high on their own supply that they truly believe financial wizardry will save them from any downturn. In this early era of computers, traders started using smooth-brained algorithms to hedge their portfolios. Since the robots were protecting us, it was totally fine to lever up and throw money at anything that promised above-market returns. Because the algorithms will surely warn us before we head off the cliff, right? Nah. Stocks dove and brokerages faced margin calls that wiped away their balance sheets. Oops.
+
+* Reagan-Bush economic philosophy is perfectly captured by the Savings & Loan Crisis. S&Ls were like banks, only without any oversight whatsoever and lots of accounting gimmicks to make them look *not* insolvent. The clarion call for credit lines by unimaginably shitty businesses was heroically answered by S&Ls across the nation. They doled out loans to just about anyone who asked for them at high interest rates and then cooked their books to make it look like they had plenty of working capital and a steady stream of investment income. Some of that income actually came from completely unrelated investments bought on margin, purportedly to hedge against credit risks. Like a mobius strip, the margin for those investments was backed by the loan obligations from the shitty companies they invested in. Just utter shit all the way down. The whole thing blew up in the early 1990s.
+
+* We didn't learn our lesson because we never do, which brings us to the Dot Com Bubble. Technology got shinier in the 1990s, and the investor class became ever-more transfixed by it. Imagine. The year is 1999. Dial-up speeds can load a gif in about one minute. You think you can start an e-commerce grocery delivery business on this platform, and investors are like, oh yeah man, fuck yeah, take my money! And even though you've reported less than $400K in total revenue, Goldman Sachs underwrites your IPO for a $5 billion valuation. (Goldman is shorting the shit out of you on the other side of their "Chinese wall.") The fiasco was fueled by Y2K-induced magical thinking by boomer investors placing highly leveraged bets on every empty LLC with "dot-com" in its name, and delusional boomer management in tech, media, and telecom (and everywhere else) going deep into debt to finance insane business plans reliant on internet connections that still made phone beeping noises.
+
+* Next is a story we know: the 2007-2008 Global Financial Crisis. Let's extend insane amounts of credit to anyone with a pulse, bundle up the worthless contracts, stamp AAA on top, sell it to shit-tier mutual funds, borrow against it to take out massive amounts of insurance on it, take out even more insurance on it to bet against it because hey why the fuck not, and then let the perpetual free money machine do its thing. Use the perpetual free money machine to lever up investments everywhere else. Use those levered investments to make more levered investments. Call yourself CFO of Lehman Brothers.
+
+I have no doubt that the illustrious investor class has continued to fuck around over the last decade to build up yet another unsustainable house-of-cards shit-bubble. And now that stocks are tanking, economic activity is screeching to a halt, bond yields are plummeting, and fed rates are reaching zero, it's only a matter of time before the first dominoes start to fall.
+
+But a market bubble implosion is also an opportunity for tremendous gains. Think John Paulson shorting the ever-loving fuck out of the housing market before the subprime mortgage crisis and reaping $4 billion. The only problem is that real bubbles are very hard to spot, even if they are obvious in retrospect. Finance has become so convoluted that everything can look like a bubble if you stare at it for long enough.
+
+So here are some ideas for where the bubble may be lurking. I'll add any other credible hypotheses to this list if the post gains interest.
+
+**1.** **Corporate loans**
+
+Low interest rates during the last 10 years have prompted businesses to borrow money with abandon. On the other side of the equation, investors seeking above-market returns have been dishing out these loans like candy. Rising tides across the economy have convinced businesses and investors alike that the risk of these loans going south are immaterial. Reminiscent of the S&L crisis, many of these loans have been given to businesses with little collateral, low liquidity, and tenuous cash flow. If these businesses cease to operate, they will quickly become insolvent, investors will realize huge losses on their loan portfolios, and insurance payouts will balloon.
+
+Per the Fed, corporate debt & loan liabilities have skyrocketed in recent years:  [https://fred.stlouisfed.org/series/TCMILBSNNCB](https://fred.stlouisfed.org/series/TCMILBSNNCB) 
+
+Same with bonds, which will face the same problem as loans:  [https://fred.stlouisfed.org/series/CBLBSNNCB](https://fred.stlouisfed.org/series/CBLBSNNCB) 
+
+"Other loans and advances" and "miscellaneous liabilities" (very mysterious) have boomed:
+
+ [https://fred.stlouisfed.org/series/OLALBSNNCB](https://fred.stlouisfed.org/series/OLALBSNNCB) 
+
+ [https://fred.stlouisfed.org/series/MLLBSNNCB](https://fred.stlouisfed.org/series/MLLBSNNCB) 
+
+I think this is the most likely origin of a potential market collapse. Market, bond, and loan values are dependent on the uninterrupted function of cash-poor businesses. If any of these are serving as collateral for other investments, or as the foundation for securitized products, then the crash could be spectacular.
+
+**2. Shadow banking**
+
+Following the financial crisis, Congress put a muzzle on the world's biggest banks through tougher capital and liquidity requirements. They were forced to delever their balance sheets, unwind from risky investments, and toughen their lending requirements. This didn't stop the demand for risk, though, which moved into the "shadow banking" sector. Investment firms like Blackstone, Blackrock, KKR, and Bridgewater and smaller investment banks like Moelis, Houlihan, and Jeffries picked up where JP Morgan and Goldman Sachs left off. We can assume they have loaded up on leverage to purchase what were considered low-risk assets amid low interest rates and broadly appreciating markets. The extent to which they can de-lever without blowing up their balance sheets will determine whether they sink or swim. If they sink, the repercussions will be broad and start to impact the TBTF banks that were supposed to be reined in by financial crisis-era regulations. We can also assume, to some degree at least, that firms like Goldman and Morgan Stanley, which do not have large consumer lending & banking businesses, were able to creatively skirt regulatory requirements and load up on riskier assets. Goldman's latest 10K shows that the firm has up to 70% of its credit portfolio in non-investment grade or distressed corporate loans (see #1 above). That's going to be a problem.
+
+**3. Leveraged real estate**
+
+A major part of the 2008 financial crisis was the implosion of the subprime mortgage market. A decade later, there has been a major shift away from home ownership and toward rental properties. But subprime mortgages have also started to creep back up, with longer terms and higher interest rates. Rental income & long-term mortgage payments are presumably safer for investors than the types of agreements we saw leading up to 2008, but that logic implodes when they're propped up by leverage, securitized into new investment products, and under-girded by rental and mortgage contract terms that consumers are unable to meet. We know that there is a lot of leverage in this sector -- investment firms attest to as much -- and depending on the extent of that leverage, the end result could be a disaster.
+
+Those are my initial musings. Still thinking through potential positions. I think Blackstone & Morgan Stanley could be left holding the bag if the system implodes. Urban-focused REITs could be in major trouble. And businesses with high levels of short-term liabilities in the form of leveraged loans and bonds could start to fold.
+
+**4. Consumer credit** *(added 3/21)*
+
+After the subprime mortgage bubble popped, lending standards in the housing market became more restrictive (at least, they did at first). But as the economy recovered, investors looked for other ways to extend credit to consumers in an era of low interest rates and below-average returns. You may have seen the advertisements -- $0 down and 0% APR for X number of years if you clear the lowest bar of underwriting standards, for credit cars, auto loans, and yes, eventually mortgages once again. The result has been a run-up in total consumer credit levels, topping $4 trillion in credit liabilities. These cash-flows have been leveraged and spun up into $16 trillion in debt securities & loans among the investor class:
+
+https://fred.stlouisfed.org/series/HCCSDODNS
+
+https://fred.stlouisfed.org/series/CMDEBT
+
+Auto loans have peaked: https://fred.stlouisfed.org/series/MVLOAS
+
+Residential mortgages are back to 2007 levels, right before the last bubble burst: https://fred.stlouisfed.org/series/HHMSDODNS
+
+And starting in 2015, delinquencies among consumer loans have crept up to the highest level they've been outside of a recession: https://fred.stlouisfed.org/series/DALLCCACBEP
+
+The bubble here is easy to spot: consumers are already over-extended, and their credit lines / loan agreements have been securitized and shared across the financial sector. Delinquencies had been rising before the current crisis. You can imagine how dire things will get once folks who were barely able to scrape together an interest payment last month have literally $0 in income to their name for the next few months (at least). The devaluing of these credit portfolios will bring heavily exposed investors to their knees, and the pain will spread to any other organizations they have a stake in.
+
+**TL;DR No tldr fuck you learn how to read**

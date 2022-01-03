@@ -1,0 +1,23 @@
+Why WISH is a "shitty app"? Well...it´s on purpose.
+
+"In June 2007, Szulczewski transferred to Google’s new office in South Korea and got a lesson in tech outside the Silicon Valley bubble. Koreans preferred search portals that were busy and crowded with information over clean, minimalist home pages like Google’s. Former Google colleague Mark Rabkin remembers debating the point with Szulczewski when he visited. “I could tell he was starting to think like a local,” says Rabkin, who’s now an ad executive at Facebook. The experience would help shape Szulczewski’s strategy for Wish: He learned to focus on building something people wanted rather than what Silicon Valley thought they should want."  
+
+
+Does WISH sell shitty products?  
+
+
+"Wish’s open-door policy meant that sales were taking off, but so were quality-control problems—which is somewhat inevitable when you have one million registered merchants, of whom 125,000 are active on Wish each month. By way of context, Amazon hosts an estimated 2.5 million active third-party merchants, while Walmart has roughly 21,000, according to Marketplace Pulse, a New York-based e-commerce intelligence firm.  
+
+To tackle this, Wish automatically culls about 8 million products over a week, or close to 3% of all products available on the site. Most are cut because visitors have scrolled past an item at least 1,000 times and haven’t tapped on it once. Wish also culls products from merchants who’ve received bad reviews or put up fake reviews. To automatically detect the fakes, Wish’s engineers trained its software on reviews that were obviously made up. One example: “Did not expect so soon, the owner of service enthusiasm.” Now the software can identify reviews with similar nonsensical phrases.
+
+Szulczewski seems unfazed by the quality-control challenge, pointing out that sometimes customers themselves are the problems."We sell 5 million contact lenses a year. Someone's going to sleep in them."Overall, there is a set of roughly 60 rules. If Wish’s algorithms see that a merchant has listed counterfeit products or shipped an order with a fake tracking number, they’ll be “fined” $500. Shipping a package with no product spells a potential $10,000 fine. Wish collects around $3 million a month in fines, and it can do that by simply withholding payments from merchants, says Szulczewski. Merchants can also get kicked off the platform, he adds. On the flip side, good reviews can lead to faster payments or a higher ranking in search. 
+
+Zhang, who is 6,000 miles away, overseeing operations in three locations in China with 150 staff members, is just as paranoid about being gamed. “Merchants definitely care about making money first,” Zhang says. The rules and monitoring software don’t always go down well. “The merchants look at Wish’s platform as very robotic,” he says, meaning there’s no way for merchants to negotiate a better deal by cultivating personal relationships with Wish staff.
+
+ “It’ll never be perfect,” admits Tung, the GGV investor. “You get what you pay for.” But Szulczewski paints a rosier picture. The flywheel of customer data going into Wish will mean more reviews, smarter targeting software and, eventually, better-quality items. Those unbranded smartphones will get better every year, he says, “just like our iPhones.”   
+
+
+So...the future is bright! 500 stocks at 12.11$  
+
+
+[https://headtopics.com/us/meet-the-billionaire-who-defied-amazon-and-built-wish-the-world-s-most-downloaded-e-commerce-app-4724677](https://headtopics.com/us/meet-the-billionaire-who-defied-amazon-and-built-wish-the-world-s-most-downloaded-e-commerce-app-4724677)

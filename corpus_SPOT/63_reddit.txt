@@ -1,0 +1,99 @@
+In case you haven't seen my previous post:
+
+[https://www.reddit.com/r/wallstreetbets/comments/pph79h/while\_playing\_uranium\_and\_looking\_at\_other/](https://www.reddit.com/r/wallstreetbets/comments/pph79h/while_playing_uranium_and_looking_at_other/)
+
+After receiving some feedback (which I really appreciated) I'll reply to these here but also add new findings, including heavy institutional ownership. Before we start:
+
+Harmony Gold Mining is probably one of the most undervalued companies I have seen in a long time. They focus heavily on growth and despite a market that favours growth companies this year they declined hard.
+
+First mentioned issue: it's South Africa. This is true and they are aware of that - and they diversified their mines to deal with potential issues.
+
+&#x200B;
+
+https://preview.redd.it/k1nbeoevvxn71.png?width=640&format=png&auto=webp&s=81e0b29fed882468cd51321aa22319194d73b8d4
+
+One big issue South Africa has/had is Covid, but this has got incrementally better. They are still on their way of recovery, and it's straight up like buying post Covid announcement dump, but before I just say that, let's continue.
+
+**Previous Post (if you read that already, skip to New Data):**
+
+Revenues and Costs
+
+>In fiscal 2021, revenues increased 45.2% to $2,710 million from $1,867 million registered a year ago. Average gold prices received during the period rose roughly 18% year over year to $1,719 per ounce (oz).Gold production was around 1.54 million oz for the fiscal, up around 26% year over year.Cash operating costs per oz declined 10% to $1,213. All-in-sustaining costs (AISC) declined 13% year over year to $1,460 per oz.
+
+So let's get these straight. They earned nearly 50% more, the prices for what they mine and sell rose and their operating costs, so what they pay to make their business run, got decreased. This is literally a 3/3 strike profit wise.
+
+Financial Overview
+
+>As of Jun 30, 2021, cash and cash equivalents declined from $367 in the year-ago period to $198 million. Cash flow from operating activities surged 99% year over year to $597 million in fiscal 2021.Net debt was $38 million at the end of fiscal 2021, down around 52% year over year.
+
+I don't even know what to add to this if you don't already get it. They halved their cash and cash equivalents, which can be a bad sign unless it's invested in the company. Was it invested? Well, their operating activities **surged** 99% in a single year while also casually halving their debt.
+
+Okay, let's go back a bit. Up top their production was around 1.54 million oz for the fiscal, what's the outlook?
+
+>Harmony Gold plans to produce 1.55-1.63 million oz of gold in fiscal 2022. The company also expects an all-in sustaining cost between R765,000/kg-R800,000/kg. Underground recovered grade is forecast in the range of 5.40-5.57g/t.
+
+So their outlook is to keep their record high or to increase it by 10% - and keep in mind outlooks are usually very down to earth since the last thing you want is being wrong on your outlook as a company.
+
+**New Data in chronological order:**
+
+**Dividend**. They increased their last dividend by nearly 200% to $0.06 per share. This is not a lot, but it played into their price movements heavily as this was the last time they reached $6 per share. Their dividend trend line also shows that the highest dividend they pay is around March/April and decreased in the following dividend cycle. [https://www.nasdaq.com/market-activity/stocks/hmy/dividend-history](https://www.nasdaq.com/market-activity/stocks/hmy/dividend-history)
+
+**Inflation**. I hate it. It's like someone making the money printer game harder - and I am no gay bear, so I don't masturbate to increasing numbers. But with recent record highs and with the announcement that far out interest will be increased it's unavoidable (not a crash, the measurements against inflation and inflation reaching its peak). Gold is known as a hedge against inflation and of course reaches record highs the higher inflation goes. Meaning anyone mining Gold will benefit off of that.
+
+**Uranium**. In case you didn't get current news, Uranium prices are being pumped up like crazy by SPRUTT, causing an increase in Uranium Spot prices and an increase in anything related to Uranium.  Harmony Gold Mining also extracts and develops uranium, silver and copper mines. [source](https://www.nasdaq.com/articles/7-penny-stock-companies-that-may-benefit-from-inflation-2021-04-15)
+
+**Cheap option prices**. They have already picked up in volume quite significantly today, but IV is still at only 60%. It's natural to have cheap options since the price of the stock is quite low, but this makes an entry level very easy. Heck, you could even buy 20 6$ strike price options out **126 days** and only pay $100. It's ridiculous if you are aware how well they perform.
+
+**They are oversold by indicators.** [source](https://www.nasdaq.com/articles/harmony-gold-mining-hmy-shares-enter-oversold-territory-2021-09-10) The RSI is steadily healthy or low. Due to the massive volume going in today (16th Sep) it rose back from 10 to 55, but prices dropped for the day from 3.41 to 3.21, implying RSI is completely useless in this particular scenario.
+
+**The company got major attention recently by big boys. Keep in mind, the market cap is only 2 billion.**
+
+QCM Cayman Ltd. | new | $82,000
+
+Oppenheimer & Co. Inc. | new |$734,000.
+
+Ronit Capital LLP | added | +7.2%, $3,630,000
+
+First Horizon Advisors Inc. | new | $91,000.
+
+CIBC World Markets Inc. | added | +28.0%, $93,000
+
+Institutional investors own **26.70%** of the company’s stock.
+
+That's right. Institutions own 1/4 of the entire company stock. You can tell me what you want, but if a company has such a high institutional holding, there is definitely something going on.
+
+**Price Targets**
+
+[https:\/\/www.wsj.com\/market-data\/quotes\/HMY\/research-ratings](https://preview.redd.it/0qnljzx4wxn71.png?width=331&format=png&auto=webp&s=8c77082e2e82bdf50cdf30a11ea181fd1d0ac7fc)
+
+This is taken out of the other post, but you can see how right now the stock is hitting near rock bottom. As said, price targets mean nothing, but you can't tell me a company that increased its earnings so heavily, stabilized as much as possible AND has a 26.70% institutional ownership is worth the lowest price target given.
+
+**The Trend I am seeing:**
+
+First, this company should have a way higher price but the downtrend can't be ignored, so something has to happen to change that. It's way below its sector's and industries average despite having rock solid financials. They grow heavily and their earnings will represent this. My expectation is that this is just a company put under the rug and no one really cares about it a lot. All it takes for this stock is some attention, and I feel like it will receive it.
+
+To elaborate: [I will summarize my point but you can look for yourself](https://www.marketbeat.com/stocks/NYSE/HMY/news/)
+
+3 to 6 weeks ago the stock had 1 single media coverage. 1. And it was neutral. From now to 3 weeks ago it had 2 negative,  6 positive and 2 very positive ones. That's tenfold what it had and why I am more convinced that this will kick-off the more coverage it receives. Just to understand how bad it was in the past, despite the 5 articles this week it received the average is still 0 and the News Sentiment still at neutral despite all the recent super positive outlooks. This is a clear upward trend and the kick off it needs - it just has to go further.
+
+For a bit more background data:
+
+https://preview.redd.it/l4s3ibs3wxn71.png?width=848&format=png&auto=webp&s=b428bcd9c054fb59fa12d588852fe15e8145e1af
+
+Both RSI and Volume patterns indicate a heavy upwards movement incoming. But this is not what I am playing on. This happens all the time. What I am playing on is that inflation keeps rising as expected, Gold becomes worth more and more, Uranium is increasing a lot, and they will profit heavily off of that. And in my opinion that's why all these new or increased positions from institutions were made.
+
+**How do I play this:**
+
+I am still building up my position. I am looking for more data around the company and their plans, but I am convinced this will be an insane value play.
+
+**Positions in HMY:**
+
+200x 3 Jan21'22 C0.5
+
+1500x 3.17
+
+Everything speaks to a great recovery in the price - except needed media coverage and attention. And if this keeps increasing as it did lately, then this will catapult possibly even beyond the $6 mark, but that's currently my goal and where I will sell off my initial investment.
+
+Considering I'll buy more over the next 2 months this will be followed up either by my biggest loss or gain porn I have ever had.
+
+If you have concerns or feedback please let me know. This will help me to know what to focus on and what to look for. I deeply believe this will pay off heavily given all the circumstances, so I want to see with what it struggles that I apparently can't see.

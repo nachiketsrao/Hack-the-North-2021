@@ -1,0 +1,25 @@
+Hey WSB,
+
+I’m a SaaS business owner and have casually made video games since high school and I’m a bit retarded about stocks but I am buying $U because I think they can go to the moon if they play their cards right.
+
+None of this is financial advice or based on unity news reports; it’s based on what I’ve watched other platform companies do with strategic M&A and unity’s unique position to pursue a massive niche based on their tech and tech they are in a unique position to acquire. I eat crayons and have a TBI.
+
+Basic facts: Unity makes a game development platform that makes it cheap and easy to quickly build quality games. Most of their revenue comes from licenses and the content in their asset store and they tend to make money whether or not people even play your game. Some of their revenue also comes from providing operator solutions which basically means helping you keep your game up and running.
+
+#Big play #1: get paid whenever a game is played
+
+There are third party tools emerging on their platform that let you host server hosted multiplayer games and pay based on how many concurrent users you have. Unity could strategically acquire these types of services and bake them into the platform. **This effectively transforms them from a service that gets paid when you make a game to one that gets paid every time it’s played... even if you’re playing for free.** An example of this is Photon Unity Network
+
+#Big play #2: the Netflix of gaming
+
+What’s the number one thing gamers hate? Payment decisions. They hate microtransactions and as much as they won’t admit it they hate paying full price for AAA games just as much as they hate microtransactions. **Someone is going to go after the Netflix model. Unity is best positioned to do this.**
+
+Why is unity the best positioned to do this? Because they have a massive amount of assets in their store to crank out a crazy amount of copycat games. They can also be a platform for creators like YouTube is and pay out creators based on play time. They can even go as far as making the games free to develop cause you’re gonna put it on their subscription platform.
+
+Steam can’t do this because think they have their hooks in the development process enough to make this convenient for developers and it seems to directly conflict with their existing pricing model instead of working in conjunction with it.
+
+I could go on but my phone is getting really slow and the line at Wendy’s is getting long with people demanding tendies and claiming they own the place.
+
+tl;dr microtransactions in gaming can be killed off with a Subscription model that only unity can pull off. I have no idea if they have even are thinking about pursuing this.
+
+Disclosure: I own shares in unity

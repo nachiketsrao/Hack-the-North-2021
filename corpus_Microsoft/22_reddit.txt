@@ -1,0 +1,173 @@
+Upcoming catalysts :
+
+1. IVAS ARMY update after user jury discussion on Jul 12. Possible announcement or update from Microsoft. Which will in turn make MVIS and “ another company” spike. 
+
+
+2. ER date announcement(leads to hype and we are also waiting for closure of 140 million ATM offering #warchest)
+
+
+
+3. Q2 2021 results (and possible update on outside validation of LRL(long range Lidar) A-sample. 
+
+
+
+
+4. IAA Show on September (finally publicly showing LRL to world at mobility show where top OEMs and TEIR 1s will be attending as well. It’s in Germany so the likes of Volkswagen will be there.) 
+
+
+
+With a 140 million #WARCHEST and public display coming I’d be surprised if we don’t get an official partnership before the show in September. 
+
+And may I remind you this company has already landed partnerships with giants. They who shall not be named!! And the likes of sharp and others. Do some research and you will understand what I mean. Hint. Bill gates. LOL 
+
+
+I’ll also add that Microsoft is partnered with Volkswagen 
+
+https://news.microsoft.com/2021/02/10/volkswagen-group-teams-up-with-microsoft-to-accelerate-the-development-of-automated-driving/
+ 
+
+ May 24, 2021
+Data to be released this week will reveal that the Volkswagen Group hasn’t just overtakeb Tesla TSLA for the Number One slot in European battery electric vehicle (EV) sales, but has already streaked away.
+
+Schmidt Automotive Research data shows the Volkswagen Group has more than doubled Tesla’s sales in rolling 12-month EV sales in Europe and its lead continues to grow.
+
+Europe’s rolling 12-month EV sales grew to 856,000 from May 2020 to April 2021, and the Volkswagen Group claimed 206,400 of them.
+
+BAFF
+(Bullish as fucking fuck) H/T chartology
+
+
+
+
+
+
+
+
+MVIS Short Interest - As of 06/30/2021 - 29,740,942 - 2.5 million more shares added.
+
+https://www.nasdaq.com/market-activity/stocks/mvis/short-interest
+
+Shorts have doubled down on their bets.
+
+
+
+
+
+
+
+
+
+
+Also July 12 2021 we had an 8-k filed for CFO Steve holt
+
+The Role of a CFO in Mergers &amp;amp; Acquisitions
+
+Once a company has narrowed down a list of counterparties (either potential buyers, investors or acquisition targets), or has entered the transaction phase, the CFO’s role transforms into chief negotiator – making sure the company achieves the best deal possible. Both seller and buyer want to maximize synergy to make sure they’re extracting the most a deal can financially offer. It’s critical during this stage that CFOs from both sides maintain open communication about acquisition conditions, growth potentials, and other financial targets that will make the deal a success.
+
+As these negotiations progress and the end of a transaction nears, the CFO must simultaneously create a comprehensive integration plan that will be ready for execution the moment a deal ends.
+
+ 90,000 RSU's awarded to Holt, transferable upon change of control? $200k bonus payable NOW?
+
+https://ir.microvision.com/sec-filings/all-sec-filings/content/0001193125-21-213054/0001193125-21-213054.pdf
+
+
+$140M ATM to show a stronger balance sheet to potential partners and customers? #WARCHEST ??
+
+
+https://www.uts.edu.au/sites/default/files/article/downloads/ACCDG_Spr15Sem_HSpiropoulos.pdf
+
+Using a sample of U.S. firms during the period 2003-2012, we examine whether M&amp;amp;As impact the compensation of the Chief Financial Officer (CFO) in the bidding and integration phases of M&amp;amp;As. Our findings indicate that CFOs total compensation is higher in the year of acquisition relative to all other CFOs. The higher total compensation of CFOs is driven by higher equity incentives. Furthermore, CFOs receive a greater proportion of their compensation in the form of equity during and immediately after the year of acquisition. We also investigate if CFO compensation during M&amp;amp;A years is driven by M&amp;amp;A characteristics. We find that CFO compensation is higher in M&amp;amp;A years when; the deal size is larger, the time to completion is shorter, and when the target firm has a different 2-digit SIC code. CFO compensation is not associated with the short term change in the acquiring firms share price.
+
+
+Here’s a picture of microvision point cloud compared to Tesla point cloud 
+
+https://www.reddit.com/user/Kellzbellz8888/comments/oj5tmp/point_cloud_tesla_vs_mvis/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+
+
+Also looks like waymo is looking to incorporate a “new Lidar” system for their robo taxis 
+
+Waymo to integrate new LIDAR into the autonomous driving system for Level 4 autonomous driving ?
+
+[https://waymo.com/joinus/3218427/](https://waymo.com/joinus/3218427/)
+
+* **Design and implement data and control flow needed to integrate new LIDAR into the autonomous driving system**
+* **Develop, deploy, and optimize custom hardware drivers** 
+* **Develop novel calibration processes involving multiple sensors and actuation stages in the loop**
+* **Analyze data collected from sensor systems, and develop tools to help do so**
+* **Support sensor manufacturing by customizing existing systems to improve test integration, assembly tracking, and reporting pipelines**
+* **FPGA programming and supporting ASIC development teams**
+
+https://preview.redd.it/sp4ya65s9ma71.png?width=1319&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2e15318ab7bc956f88754c541f486b07eca4c392
+
+What i found additionally interesting is Microvision has two new software development requirement opened up. And those requirements uses "**CUDA"** which is supported **only on Nvidia GPUs**
+
+[https://en.wikipedia.org/wiki/CUDA](https://en.wikipedia.org/wiki/CUDA)
+
+[https://www.microvision.com/current-opportunities/?p=job%2FoWE5ffwE](https://www.microvision.com/current-opportunities/?p=job%2FoWE5ffwE)
+
+**Experience with GPU Acceleration and frameworks, such as Cuda, OpenCL, or OpenGL.**
+
+So i am pretty confident that Microvision LIDAR component uses NVIDIA GPU as we speculated before by many of us. 
+Picture of A-sample Lidar 👇 
+
+https://www.reddit.com/user/Kellzbellz8888/comments/oj5uwa/nvidia_chip_in_a_sample/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+
+CUDA (an acronym for Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by Nvidia.
+
+CUDA works with all Nvidia GPUs from the G8x series onwards, including GeForce, Quadro and the Tesla line.
+
+
+BONUS DD
+Look into MVIS board of directors. The likes of Judy Curran and Seval Oz. And the recently hired Drew Markham as legal counsel. Known for M&amp;A. 
+
+“Strategic Partnerships Timeline” – Things said by Sumit Sharma
+
+August 8, 2020 – Q2 2020 Conference Call:
+
+I note that Mergermarket recently published an article about our strategic process. The article referred to strong interest from bidders. I would like to clarify that we are engaged in discussions with certain potential interested parties who are at various stage of >diligence.
+
+We do not plan to make public statement about any bid or a potential transaction unless and until and appropriate agreement is reached.
+
+(Bunch of stuff between August 2020 and Feb 2021 about how completing the A-Sample will create value for MVIS. Something that will be required if we’re looking for that +$15bn buyout IMHO).
+
+ February 16, 2021 – MicroVision Announces $50M ATM:
+
+“We continue to make progress on completing our development goal of producing the best-in-class lidar sensor for range, resolution with velocity field output and remain on track to meet our previously announced April 2021 milestone. We believe this financing will give us an opportunity to firmly solidify our balance sheet as we remain committed to pursuing strategic alternatives and building value for our shareholders,”
+
+ March 11, 2021 – Q4 2020 Conference Call:
+
+“I would also like to thank our shareholders for their support that allows us to focus on obtaining the right value while exploring strategic alternatives, including a possible sale of the Company. I'm saying that strategic alternatives is the right way to think about it. And we are a stand-alone company right now, but we're up for sale. So I think that's the best way I can answer it.”
+
+ April 29, 2021 – Q1 2021 Conference Call:
+
+“I want to emphasize that the Company remains committed to exploring all strategic alternatives to maximize shareholder value. In October 2020 we set the objective to complete our lidar product and said having hardware that can be productized would be an important step for evaluation by potential interested parties. We completed that objective in April as planned and are prepared to support any potential evaluation of our technology and capability to scale. As I shared earlier today, I believe our sensor technology is differentiated by features that will potentially be recognized as disruptive in the market. I have shared with you that I believe consolidation in this space will continue and signs of this are starting to become public. I believe MicroVision needs to continuously build value with our products, roadmaps, and partnerships, while also exploring strategic alternatives.”
+
+ May 26, 2021 – 2021 Annual Shareholder Meeting:
+
+The completion of A-Sample hardware of our long-range lidar sensor on schedule was a major accomplishment. Passing this milestone provides an opportunity for potential customers and strategic partners to begin meaningful engagement on evaluation of our technology and capabilities.
+
+ June 17, 2021 – Drew Markham as General Council:
+
+Markham has more than 20 years of experience advising publicly traded technology companies in corporate governance, M&A and capital markets transactions… “Drew’s breadth of legal experience, in particular her transactional and governance work, will be an asset to the company as we focus on engaging with potential customers and partners, demonstrating key features of our long-range lidar sensor, as well as with parties interested in strategic opportunities.”
+
+ So what’s changed? Nothing IMO. They need to build value so we can justify this large +$15 billion dollar valuation we all have in the back of our minds.
+
+How does MicroVision build tens of billions of dollars in value?** By signing a long term supply contract.**
+
+June 21, 2021 – MicroVision Announces $140M ATM Equity Facility
+
+“I am proud of the progress our Company has made advancing our automotive lidar program. We look forward to more broadly promoting our technology to OEM and Tier 1 suppliers and publicly testing our sensor with external test-site partners,” said Sumit Sharma, MicroVision Chief Executive Officer. “A strong balance sheet gives our potential customers and partners confidence that MicroVision is a capable and trusted long-term supplier.”
+
+DDD
+
+
+
+
+
+TDRL:buyout or partnership imminent. Share price go boom.
+
+Here’s some inspiration 
+
+https://youtube.com/shorts/2_OmnuPJZV4?feature=share

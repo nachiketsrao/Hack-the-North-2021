@@ -1,0 +1,132 @@
+6/29/21- Original DD is below this. In the past two days I've gotten a large number of messages asking me what someone should do now. This is my general response to everyone. I can't reply to all of you. I am sorry. I wish you the best of luck with your decisions ahead.
+
+&#x200B;
+
+>So this is really something you need to decide on your own. I can't manage your position for you.  
+>  
+>If you're happy with the money you've made you should always cash it out, but yes, it could run farther. It could also pull back and then you lose what you've gained.  
+>  
+>Some people use a *winnings only* strategy. In other words, selling a portion of your position equal to your initial investment. This means you can't lose money now.  
+>  
+>I usually pull out some after a big multiplier and either:  
+>  
+>buy more time--i.e, rolling your contracts farther otm and to a longer date. But this can be risky for many reasons. It just means you can weather a short term fade.  
+>  
+>sell a portion, keep it in cash, ready to buy a dip if it forms.  
+>  
+>If you're ITM, yes, you can suddenly have your gains increase rapidly. This is a very difficult decision.  
+>  
+>When it comes to options you should ask yourself a question.  
+>  
+>Would I buy this contract right now for this price? Meaning, if you are holding 50 contracts at 2.00 that say expire in 2 weeks, would you still buy it today? If so, you hold. It doesn't matter what price you bought it at. What matters is the price it's at now and how you feel about the trade going forward day by day.  
+>  
+>Remember most contracts expire worthless. Something like 90% do. Yes, the ones that don't make tons of money.  
+>  
+>You'll have to make your own decision. I always recommend de risking.  
+>  
+>Pull out your initial investment and let the rest ride. You'll just make less, but you won't lose money.  
+>  
+>And people do lose money. A lot of it.
+
+&#x200B;
+
+Original post:
+
+Hello everyone,
+
+I believe that $AMD is on the verge of experiencing a catalyst that will push the stock to a new ATH. As many of us know $AMD has been trading sideways and down for the past year (with some noise) since last October. I feel fairly certain that that is about to change.
+
+Last October $AMD announced a merger with $XLNX. The two giant companies have been working it out since that time. Recently, both companies share holders overwhelmingly voted in favor of the merger.
+
+To summarize what this merger means to $AMD we're talking about increased revenue, increased profit margin, better synergy and heading towards better products. The number 1 thing $AMD is going to get out of this? A better shot at taking down $INTC for the cloud market. A company with a market cap of roughly 225 billion compared to $AMD's 100 billion. So this is a David vs Goliath moment.
+
+There's plenty of articles written out there on how this changes the financials and prospects for $AMD but I know you guys aren't going to read it if I re-write it here. To put it simply: This is a big deal. If you felt bad about missing $NVDA's stocksplit run, this is the potential chance of catching the 'next' big chip manf. movement.
+
+So why am I writing this now instead of last October? Well, it's because things changed last week. We know who the customer is now: $GOOG.
+
+That's right. A 1.67T company is tapping $AMD over intel to help support their cloud.
+
+Proof: [https://www.fool.com/investing/2021/06/17/why-amd-stock-rallied-on-thursday/?source=eptyholnk0000202&utm\_source=yahoo-host&utm\_medium=feed&utm\_campaign=article](https://www.fool.com/investing/2021/06/17/why-amd-stock-rallied-on-thursday/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article)
+
+So we know they picked up $XLNX. Now we know they are teeing up for $GOOG. This is freaking huge. Not to mention they also acquired business from $TSLA, another 600B+ company.
+
+Proof: [https://fortune.com/2021/05/31/amd-tesla-contract-chips-infotainment-system-lisa-su/](https://fortune.com/2021/05/31/amd-tesla-contract-chips-infotainment-system-lisa-su/)
+
+So, let's list them out...
+
+Catalysts:
+
+1. $XLNX Merger
+2. $TSLA contract
+3. $GOOG partnership
+
+This is clearly a big picture strategy on $AMD's part to push $INTC's weakening cloud business straight into the grave and take it's spot. I believe if $AMD is succcessful they will eventually reach a valuation closer to 200-300 billion dollars within the next 1-2 years. That's a 200-300$ share price.
+
+So what am I suggesting?
+
+&#x200B;
+
+1. I believe that post merger the fair value of $AMD is closer to 120-160 a share
+2. Without the merger $AMD has a value of about 120 a share(due to new contracts and overall market conditions. Just look at $NVDA's recent 50% run. Staying neck to neck as a competitor puts them at 120. But they have new business to justify it instead of black magic stock splits)
+
+Is there TA to support this? You bet there is. I use 2D time frames to wash out noise. I made some small crayon circles to give the picture some scope. You can use a 1W time frame and the analysis is the same. The stock's slow moving averages have begun to move higher and are approaching a cross, moving the stock towards positive. In simple terms: Gaining share value on average, every 2 days. And that rate is growing. The OBV is increasing meaning that **someone** 'aka Wall Street' is secretly scooping up shares and holding onto them. They are doing all of this while keeping the stock suppressed well below it's ATH. I believe they are intentionally gathering as much as they can before the catalysts combine and create a giant bull run. This is a long term run that could make a lot of people rich. The moment when $AMD sprints after $INTC and $NVDA. We all know as gamers and redditors that $AMD has become much much stronger and better in recent years. It's been amazing to watch their progress.
+
+&#x200B;
+
+[$AMD 2D time Frame](https://preview.redd.it/ueoex1s30q671.jpg?width=2448&format=pjpg&auto=webp&s=cae96daec77945f519f2c1a112456ec06399e2b3)
+
+&#x200B;
+
+Here on the 1 week you can see the faintest flicker of bullish life. This is due to the recent contract developments and the quickly approaching date of the merger. As I wrote above, **the catalyst is incoming**.
+
+[1 week time frame](https://preview.redd.it/9f80a7ur0q671.jpg?width=2440&format=pjpg&auto=webp&s=31722579984b09e8fa30bcf913e22b2d41a96c5c)
+
+So. When is the merger? I am sure you want some dates and some juicy possible plays. Here you go...
+
+We've got 3 approvals that have to happen.
+
+1. EU - Believed to have no problems and will probably be approved end of June, end of July at the latest.
+2. UK - July 6th Deadline. Also rumored to have 0 problems
+3. CCP - This one there's no rumored date, but CCP supposedly has no issues as well.
+
+Where can you verify these dates? I encourage you to google it. There is a SA article with them written down, but due to WSB rules I cannot post the link here. I highly suggest googling that data before you enter the trade.
+
+What is Wall Street doing? They are both shorting the stock while sweeping July calls as well as 2 year leaps. Take a look at July:
+
+&#x200B;
+
+You've got 19498 calls purchased for July 16th at a 90$ strike. That sure sounds like Wall Street betting on it hitting 90$... after something happens. But we know what that is. It's the merger.
+
+[Unusual Option Chain July 16th](https://preview.redd.it/s3ez29jl2q671.jpg?width=942&format=pjpg&auto=webp&s=ae8892e1f6a9a53eef3d2dc7a56f57c5a60926be)
+
+How is this unusual? Take a look at the week prior:
+
+&#x200B;
+
+[You could sum this up and it's barely even the volume for the 90$ strike on July 16th](https://preview.redd.it/53uatc9r2q671.jpg?width=944&format=pjpg&auto=webp&s=42bc7cd9650553fe2f3f34107f10c29c8a5e7ad6)
+
+So how to interpret this? Well, I read this as Wall Street ***knowing*** what's about to happen. I believe they know the status of the merger, and approximately how far it's going to take the stock. I believe we're looking at $AMD pushing above 90$ by Mid July. This is a potential 10 bagger. Especially with them trying to push down $AMD's price today, now is a good opportunity to get in.
+
+So what's the play? The easiest one is the 7/16/21 90$ strike. Go alongside wall Street and when you're happy with the profit--sell it. The merger could be announced any day so buying to at least that date is wise (IMO -- but I am just a degenerate not a financial expert).
+
+Buying longer could potentially let you capture more of the run if things play out the way I think it will. You could also take advantage of the current low to grab leaps and sit back and watch how this story unfolds over the next 2 years. Either way, there's real potential here in something most people are considering dead in the water.
+
+I am currently holding 119 contracts. A large portion are for the 7/16/21 90$. So yes, my money is on this play and continues to be what I pursue. This is my YOLO.
+
+&#x200B;
+
+My recommendations: Buy shares, Buy calls for mid july. Buy leaps. If you buy shares wait for the catalyst to occur. When it reaches an apex, start selling $CCs because the IV is going to grow.
+
+As a disclaimer, I am not a financial expert. I am just a retail stock trader. I love to do TA as a hobby. I truly believe that $AMD is being suppressed as Wall Street 'fattens' their positions. You know what I say? Fuck 'em. They think they are hiding what they are doing but I definitely see it. They are preparing and we can too. And, if we're right, we can make more than them.
+
+&#x200B;
+
+Best of luck out there. I hope you enjoyed my DD. I don't post DD often on WSB, but I hope y'all enjoyed the read. You guys are great and I love you all.
+
+As a disclaimer. I don't take responsibility for anyone's gains and losses. While I am in this and have put my own money on it, I do not promise 100% sure success. Only my own idea of what will happen.
+
+My position screenshot is below. I do edit out my current value and cost basis. I hope you don't mind but I am a relatively private person. My positions are not for everyone. I change them dynamically depending on how the stock is moving between dates. Please do not use my own as a template for yours.
+
+[Positions](https://preview.redd.it/51me4r197q671.png?width=1000&format=png&auto=webp&s=2586486263ca15acef28f83f66a9796607d37f57)
+
+Update: the UK regulator issues approval on 6/29. I don't know how much farther the trade goes in the short term. This is my last update. Best of luck everyone. I still believe we head towards 120 over the long term.

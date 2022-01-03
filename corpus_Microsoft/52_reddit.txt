@@ -1,0 +1,99 @@
+Paysafe, a fintech company offering digital wallets and integrated payment processing in 70 payment types in over 40 currencies across 120 countries, announced yet another acquisition, viafintech, to expand its global leadership position in open banking and eCash network. This comes on the heels of two other recent acquisitions. The new acquisitions combined with nearly 30 deals this year reflect Paysafe’s rapid and systematic execution on their strategy to restructure and expand into new markets, invest in technology, leverage expertise in risk management and data mining, and develop synergistic cross-selling opportunities.
+
+This morning, Paysafe also announced a deal with Glory, to "improve access to the digital economy  for the estimated 2 billion people globally who remain unbanked"
+
+Last week, Paysafe beat Q2 revenue consensus, reported 41% volume growth and their first net profit as a publicly traded company. Initially upon the announcement, the stock shot up 10%.  But then pre-market headlines suddenly shifted and the stock gapped down and fell over 20%. Forward price to sales of 3.85X is extremely low for a fintech.
+
+Why did the stock shift down so suddenly? Instead of acknowledging the revenue beat or other positive developments, financial headlines simply repeated : “Paysafe Stock Sinks After Third-Quarter Guidance Miss.”
+
+To be clear, Paysafe didn't miss or downgrade its own guidance. In fact, they reaffirmed full year 2021 revenue guidance of over $1.5 billion.  They also said they anticipated full year volume to grow 30% above guidance. ($130-140 billion vs \~ $105 billion)
+
+So why the miss?  Analysts’ modeling assumed that 2021’s remaining quarterly revenue growth would be linear, quarter to quarter, rather than taking into account the fact that sports betting, like sports, are seasonal. In the CC, Paysafe said they expect to meet full year guidance but predicted Q3 growth would moderate due to sports seasonality and Europeans going on vacation.
+
+The company beat estimates but growth isn't linear. Got it. Seems a bit of an overreaction for the stock to tumble 20% with short volume spiking to 50% and shares available to short suddenly dropping by 70%.  With half the volume short, real sellers are drying up. Seems buyers are patiently waiting for short sellers to exhaust themselves. With only 3 million shares left available to short, this could come any moment.
+
+Gaps like that typically get filled if there’s no material negative news.  On the contrary, Paysafe reported very positive news:
+
+&#x200B;
+
+* Paysafe reaffirmed FY21 revenue guidance of $1.53 - $1.55 billion
+* Reaffirmed FY gross profit guidance of $930-$970M and $480-$495M EBITDA
+* Beat revenue consensus, $384 million vs. $378 million
+* Met Q2 profit guidance and met positive EPS consensus.
+* 13% YoY revenue growth (nearly triple last quarter)
+* 23% YoY rev growth (excluding unwinding 2020 channel exits/divestiture)
+* 41% growth in total payment volume (TPV)
+* Revenue growth in all segments
+* eCash revenue +37% YoY  (now live on Microsoft Store/Xbox in 22 countries)
+* North Amercian iGaming revenue +48%; volume +72% YoY
+* Digital Wallet EBITDA grew 16% with a 48% margin (as they unwind channel exits)
+* Expecting 2021 volume to be $130-140 billion, up significantly from $105 billion guidance
+* Improved debt rating, improved debt terms and lowered costs
+* Several new US states and Canada open new multi-billion dollar iGaming market where they are already market leader with first-mover advantage.
+* Expecting Q4/2022 ramp up with strong pipeline growth in acquiring & E-commerce
+
+&#x200B;
+
+Further, Paysafe announced two new acquisitions: PagoEfectivo and SafetyPay. These deals bring their eCash business up to a million distribution points in 60 countries while connecting them with the majority of Latin American banks, and sets, “Paysafe up to be the leading open banking and eCash solutions provider in Latin America, one of the world’s fastest-growing online markets.”  Importantly, this move also expands their market leadership in iGaming and critical groundwork in Latin America’s fast growing iGaming market for key partners (Roblox, Draftkings, WynnBet, ESL Gaming, Microsoft/Xbox, BetMGM, Ceasar’s, PointsBet, Penn, Twitch, bet365 etc.)
+
+With their ongoing US expansion, these acquisitions also enable Paysafe to offer a more secure person to person payment platform for the $100 billion in remittances sent each year to Latin America.
+
+Importantly, these deals are expected to pay for themselves as Paysafe’s current projections don’t include their combined $60M revenue and $20M EBITDA, 55% CAGR, multiple cross-selling synergies, and the ability to scale up quickly at little cost.  Management noted, “These transactions are expected to be accretive to 2022 and further enhanced our long-term growth as we drive multiple cross-selling opportunities across all Paysafe business units…The deal synergies and our growth profile will allow us to de-lever quickly and meaningfully make progress in 2022 towards our target of 3.5 times adjusted EBITDA.”
+
+This quoted debt/EBITDA ratio is better than most fintechs, including FOUR, RPAY, AFRM, BILL, PAYS and FISV.  Even before they reach that target, the new interest rate of 3.25% indicates that their pro forma free cash flow to debt service ratio will be around 4.5 to 1.
+
+Chairman of the Board Bill Foley noted, “We see exciting synergies in key industry verticals like iGaming where we want to win. From the start, we have had a plan to grow in areas where we can achieve scale through operational efficiency. It is great to see the team execute and create more opportunities for growth.”
+
+These new acquisitions are perfectly in line with Foley’s play book. He is known for inorganically growing many companies through M&A, as he did with FIS, growing it from $1 billion to $88 billion. “Those characteristics of FIS are right in line with what we plan on doing with Paysafe.”
+
+&#x200B;
+
+Yet financial news headlines ignored the positive developments and fixated almost exclusively on a Q3 miss resulting analysts’ neglect to factor in predictable sports seasonality.  In fairness, there's no question management should have made this crystal clear to analysts in advance.  Still, the negative coverage fomenting 50% short volume was unwarranted.
+
+&#x200B;
+
+Paysafe vs PayPal
+
+Seemingly timed to help the short raid, an article tried to make the case that Paysafe was a bad investment compared to PayPal because PayPal is a "free cash flow machine."  The author apparently didn’t bother take into account that Paysafe actually generates proportionately more free cash flow than PayPal.
+
+In fact, if you applied PayPal’s EV/FCF ratio of 65x to Paysafe’s 2020 $362 million in free cash flow,  Paysafe’s share price would be $32.  A 4x gain from current levels.
+
+&#x200B;
+
+Comparisons between Paysafe and PayPal are far from perfect but, since they are so common, here are a few more to consider:
+
+1. PayPal’s Q2 ER also missed Q3 guidance AND was reported to be falling short on their 2021 full year guidance. (Paysafe reaffirmed all guidance.)  On top of that, PayPal missed on Q2 revenue consensus (Paysafe beat) and their Q2 EPS declined 22%YoY.  With all of that, headlines remained positive for PayPal and it went down only a third as much as Paysafe.  Keep in mind, PayPal came down from a lofty 15X price to sales on a real miss which is quite a contrast to Paysafe’s dropping over 20% to 3.85X on primarily good news.
+2. Paysafe, a market leader in risk analytics, has spent much of 2020 strategically exiting the high risk “buy now/pay later” business and riskier China market channels. They wisely did this just before China started cracking down on foreign payment processors. Meanwhile, PayPal has been entering both those same spaces.
+3. Due to the above divestiture and channel exits, Paysafe’s growth has temporarily slowed. They reported 13% YoY growth but said, excluding those strategic moves, Q2 YoY growth would have been 23%, which may be a sign of growth to come. In Q2 PayPal reported 17% YoY growth.
+4. Between 2012 and 2020, Paysafe’s revenue grew from $169 million to $1.43 billion (30.5% CAGR). During that same period, PayPal revenue grew $5.6 billion to $21.5 billion (17.8% CAGR).
+5. PayPal is currently much more profitable than Paysafe but, while PayPal’s EPS is expected to grow 25% in 2022, Paysafe’s EPS is expected to grow 425%.
+6. Based on Paysafe’s $480 million EBITDA, PayPal’s EV/EBITDA ratio of 47.2X would put Paysafe share price at $28.60
+7. Based on Paysafe’s 2021E revenue of $1.53 billion, PayPal’s Price to Sales ratio of 13.5X would put Paysafe’s share price at $28.40.
+8. According to Reuters, in 2017, Paysafe was taken private for $4.7B (inclusive of debt) and is currently valued at under $8B (inclusive of debt).  During that time, including their 2020 revenue channel exits and divestiture, Paysafe grew revenue 18.2% CAGR.
+
+* By comparison, in that same time period, PayPal grew 17.8% CAGR.
+* Paysafe hasn’t received much investor attention because it was private for the last 4 years so, while Paysafe’s overall growth was somewhat higher, their market value is only up 75% higher in that the, versus PayPal’s share value growth of 460%.
+
+There are obviously many different factors to consider so I’m not making any claims about fair value here. It’s simply interesting to note that all these comparisons (EV/FCF, P/S, EV/EBITDA, 4-8 yr growth) consistency put Paysafe’s share price between $28 and $32.
+
+This is not investment advice. Just a collection of observations. If I were to offer advise, I'd only suggest staying away from options.
+
+&#x200B;
+
+Sources:
+
+Paysafe Q2: [https://d1io3yog0oux5.cloudfront.net/\_22bb7ead34a47affd0aaab44e42d92dc/paysafe/db/1111/9781/file/2Q21+Paysafe+Earnings+Presentation+vFinal.pdf](https://d1io3yog0oux5.cloudfront.net/_22bb7ead34a47affd0aaab44e42d92dc/paysafe/db/1111/9781/file/2Q21+Paysafe+Earnings+Presentation+vFinal.pdf)
+
+Reuters : Paysafe $4.7B - [https://www.reuters.com/article/paysafe-m-a-foley-trasimene-idUSKBN28H1GP](https://www.reuters.com/article/paysafe-m-a-foley-trasimene-idUSKBN28H1GP)
+
+PayPal Q2: [https://s1.q4cdn.com/633035571/files/doc\_financials/2021/q2/Q2-21-PayPal-Earnings-Release.pdf](https://s1.q4cdn.com/633035571/files/doc_financials/2021/q2/Q2-21-PayPal-Earnings-Release.pdf)
+
+PayPal 2012 : [https://en.wikipedia.org/wiki/PayPal](https://en.wikipedia.org/wiki/PayPal)
+
+PayPal 2020 : [https://s1.q4cdn.com/633035571/files/doc\_financials/2020/q4/Q4-FY-20-PayPal-Earnings-Release.pdf](https://s1.q4cdn.com/633035571/files/doc_financials/2020/q4/Q4-FY-20-PayPal-Earnings-Release.pdf)
+
+Paysafe 2012 : [https://www.investing.com/analysis/optimal-payments:-still-at-discount-despite-ebitda-growth-137908](https://www.investing.com/analysis/optimal-payments:-still-at-discount-despite-ebitda-growth-137908)
+
+Paysafe 2020 - [https://www.paysafe.com/fileadmin/content/pdf/Analyst\_Day\_presentation\_March\_9\_\_2021.pdf](https://www.paysafe.com/fileadmin/content/pdf/Analyst_Day_presentation_March_9__2021.pdf)
+
+[https://iborrowdesk.com/report/psfe](https://iborrowdesk.com/report/psfe)

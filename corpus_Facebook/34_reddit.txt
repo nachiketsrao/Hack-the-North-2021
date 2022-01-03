@@ -1,0 +1,15 @@
+First off. Forget that Blackberry is a phone company. Blackberry is a growth late stage start up that utilizes the logistics and patents of an old phone company
+
+Black berry’s forward revenue will be dominated by two things. Cylance, their cyber security software, and IVY and QNX, their vehicle data hub. Let’s start with IVY and QNX
+
+QNX is a software for vehicles to compartmentalize all their software and data. It’s essentially an operating system for smart cars. It is currently in 175 million vehicles, with more being added every day. Any company without proprietary software (almost all of them besides Tesla) rely on QNX to run their cars’ software 
+
+IVY is a software that reads and organizes vehicle sensor data being picked up by QNX. This is a software in the process of being rolled out, that will create the early stages of a third party self driving solution for any car company without a proprietary self driving software (almost all of them besides Tesla.) With neural networks, which are what are used to make cars self drive, data is king, and you need a lot of it. It will not be an easy thing for car companies to build themselves. And when it comes time to compete with Tesla’s self driving cars, they’ll all be clamoring for IVY
+
+Cylance - Blackberry Cylance is an AI driven anti virus software. It’s confusing, but the gist is that there are many variations of the same virus, most being one time use and have never been seen before, and AI anti virus is needed to detect and stop all the variations. Cylance has been able to stop the attack used by dark side, the hack that brought down the colonial pipeline, since 2015
+
+Deep Fucking Value - black berry is currently trading with a market cap of 4.8 billion dollars. It’s cash on hand is $739 million. Bringing the market cap to $4 billion. It also has 38,000 patents, some of which are in the process of being sold to Facebook for potentially 1-2 billion dollars. On the low end of these patent sales, this puts the market cap at $3 billion.
+
+That’s $3 billion dollars for a key cog in the self driving pipeline (a trillion dollar industry) a key cog in the smart car pipeline (a trillion dollar industry) and a key player in the cyber security industry (a $250 billion dollar industry)
+
+This stock is a deep fucking value

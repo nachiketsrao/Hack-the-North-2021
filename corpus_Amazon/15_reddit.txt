@@ -1,0 +1,76 @@
+This is because i still see posts about PLTR sbc that are total crap. So here's a better more honest analysis of SBC and a look into the companies current prospects.
+
+
+
+Firstly regarding Palantir. Their leadership is incredible. 90% commercial growth YoY. 50% overall YoY growth and a guidance of 30% growth through 2025 that is totally sandbagged and going to get beaten easily next earnings. 
+
+They have 0$ in debt.  Zero fucking dollars in debt. 
+
+Roughly 2.5 billion in cash including 50 million in gold because they're so diversified 
+
+Hundreds of millions in start up investments
+
+3.5 billion in remaining money coming in from contracts (meaning they could stop doing business and still pull in 3.5 billion first) 
+
+Stock based compensation has gone down significantly in last two quarters. 
+
+Stock based compensation is completely comparable to other companies in similar fields or in tech. 
+
+It's not just for their executives it's a fantastic way to incentivize all employees existing and future to stay with the company for the long run by granting shares. 
+
+Stock based compensation doesn't equal them selling shares. It means granting shares. You're equating it with mostly Alex Karp and a few other leaders doing PRE SCHEDULED tax sales of shares because he's as part of going public (he has almost 10% ownership) the government is taxing him as if going public means he owes taxes on billions of dollars that he ONLY has in shares. In order to cover this he and others sell shares on a pre determined schedule so they don't go to jail with the IRS.
+
+
+It has nothing to do with their commitment to the company or their leadership or their faith in the future. If you had any idea what you were talking about you'd realize none of them have really changed their overall stake in the company which is basically what your post alleges is that they're just printing money and getting out dishonestly which couldn't be further from the truth
+
+There is a really good seeking alpha article on this that goes into comparing them to other companies, I tried to link to it but apparently it's a reddit rule that you aren't allowed to so if you want an HONEST analysis not hype bear fud. Google it you'll find it instantly it's titled 
+
+Palantir: The Truth About Its Stock-Based Comp
+Written by : Business Quant
+
+
+Nothing is uniquely negative about PLTRs stock based compensation and it's a very good long term tool for growing a company that has only been public for about a year so what can you really expect at such a stage. It's total dilution amounted to about 10% . Retail traders own 75% of this stock and have sold off well over 10% many times over the FUD from this shitty narrative. 
+
+
+-
+-
+-
+Here's some general insight into the company 
+
+
+The company is NOT a 20 year company that has never been profitable. What they were doing 20 years ago for the government is barely comparable to the company today. Foundry (their flagship product for both commercial and even government partners) has basically only existed for about 2 years and has even undergone significant improvements even in the last years that will guarantee great margins and efficient delivery. They continually built the company under a growth model taking in revenue, hiring the BEST engineers ask anyone who studied coding and software in any large schools around the country between 2005-now these guys have always had a legendary reputation with engineers students would wear palantir t shirts and shit constantly because they were the place that was actually doing cutting edge software work. They always reinvested over and over growing the government side while working on perfecting their current new products for over a decade making Foundry and the apollo AI framework that now allows them to actually deploy Foundry cheaply. 
+
+
+
+Lets even take a look at recent earnings. Quarter prior international growth was 17% So at most recent quarter 28% international growth they posted a pretty excellent QoQ increase. It suggests growth is picking up everywhere. Also I think the fact that they've done immense hiring in the short term plays into both why SBC is being kept high and why some margins were less than Q1. Most of the hiring they've done started in Q2 and only really picked up steam into the middle of the year. Let's also realize that the hiring has been almost entirely focused on distribution employees so they're very clearly moving into much greater expectations and focus of sales than they ever have in the history of their company. Peter Thiel actually has incredibly long explanations of how he thinks the optimal way to build a software companywide is to give as little focus on distribution as possible for as long as possible. This year's hiring is a dramatic indication that they're moving to a new stage as a company. 
+
+Also the fact that their product keeps improving even quarter to quarter. They're constantly saying that they themselves are continually finding new ways and more importantly new industries that Foundry and Appllo can enter and be extremely useful. The perfect example of this was the exciting and very recent development of their meta constellation satellite work that they're now doing. 
+
+I think the reason the stock jumped 10% on earnings and now a lot more since was a direct reaction to the evidence that there is no industry they aren't relevant in for software and they're definitely only at the beginning of entering many industries. 
+
+Recent announcements like Foundry for builders or startups more accurately is another reason for the stocks rise because it was argued for a very long time that they would never be viable at offering their product to anything other than extremely large companies. Most importantly was that at the end of Q1 they announced that they were going to be offering Foundry for free as a way to get it into the hands of more companies it seemed very clear as investors to expect this as a short term damper on margins. The idea is that it would get their product into so many more hands that it would be worth it in the long term with a very obvious temporary effect on margins. The fact that client growth both US AND internationally is accelerating not decelerating points to the idea that their distribution network is at its beginning but it is working and I assert extremely high odds that client growth continues to accelerate for consecutive quarters for a long time. 
+
+They will easily do more than 400 million revenue at next quarters report easily beat guidance and the one benefit to where SBC has been is that it is very likely it decreases potentially even dramatically decreases. Their trajectory is very predictable currently and they are a company that eventually will be a necessity to use if businesses don't want to get out competed. One of their main benefits to their customer companies is increasing margins of customers by finding many inefficiencies so they're one of the few products that can increase your bottom line without making you do anything as a company. This means that even during economic downturn they will be strongly potentially even more in demand because companies will need ways to look better and show cash flow even when consumption declines for periods of time.
+
+
+
+If you want to understand the history of the company or what they do they're basically a SaaS company (yes SaaS their margins are good enough and they're only going to improve as they focus more and more outside of government Gotham products) 
+
+Their software allows you to run your company through their platform and it keeps your data completely private. Meaning palantir doesn't see your data and mine information and neither does anyone else. You get better illustrations and representations of your companies affairs and it makes significant insights and determines ways to create better efficiency, heads up preemptive solutions before problems occur, and in many cases can bring so many data sets into play that you can learn things you didnt even know were possible. 
+
+If you want resources for this there are a number of testimonials from customers describing what Foundry does for them on Palantirs youtube
+
+You can go search Tom Nashs video on SkyWise (which is Foundry for airbus). He has a couple of them really incredible deep dive
+
+You can watch their most recent video about meta satellite constellations
+
+They have partners within every industry. Research, academics, science, cancer, genomics, aerospace, literally every military branch, health care both insurance providers and health care providers like the NHS, also NIH, big oil companies like BP, big manufacturers like 3m, faurecia, Rio Tinto mining, John deere, big retailers like bass pro and others even larger, news media companies, robotics, AI, autonomous driving like wejo partnered with gm on that, electronic vehicle startups and even electronic flying vehicle start ups, now satellite companies and US Government satellite ownership even. Do you see where this is going? There's nothing they can't break into and they are what is going to be necessary to have a competitive edge which is why everyone is going to have to use them. 
+
+
+Which brings me to another point. Palantir doesn't have direct competition. They've explained this many times and anyone who says they are a snowflake competitor doesn't understand them as a company at all. Their competition is potential clients who choose to attempt to make an in house software to glean insights into their own data and structure it uniquely for their own needs. This is Palantirs biggest "competition" and they will crush it. That kind of work often takes years and is extremely expensive. Just the time that Palantir can save companies and the headaches of making all the mistakes that come with originally building a software like that makes Palantir worth it. 
+
+They have incredible partnerships with Amazon and IBM for new and important distribution channels for getting their products out and quickly and have stated many times that they can deploy their software completely remotely cutting out the old concern that they will never scale because they need forward deployed engineers to set up software. They still use those but I think it's heavily around massive clients and particularly US gov gotham products not Foundry as we now know it. 
+
+Sick of this ridiculous SBC destroying value garbage narrative. We'll see how much value is destroyed in a year when their stock explodes and you'll be wishing you didn't listen to the geniuses who thought they caught Palantir swindling everyone. Also all the people who didn't get swindled by the bear narratives this year are fucking happy as hell because most of them have at least doubled their positions over the last 6 months as the stock constantly traded in a holding pattern. 
+
+Last point is its holding key resistance right now could easily break out in the short term towards 30$ or beyond. Don't say I didn't warn you. If it holds this 26$ mark and doesn't break down below it this month you'll never see PLTR under 24 dollars again and after next earnings I guarantee you'll never see it under 30$ again.

@@ -1,0 +1,65 @@
+ \*Tried to post this at 5 AM, but auto -mod removed because of some of the tickers I talked about. I've fixed it an am posting this again \*
+
+I'm seeing a lot of posts talking about a possible market correction, but very few people are talking about what to do if we see a correction.
+
+I'm posting this because I want those of you who are trying not to blow up your accounts to be aware of a few ways you can prevent yourselves from being completely hosed. Don't be a Timmy with a floppy taco.
+
+**(1) Inverse ETFs.** 
+
+An inverse ETF will move in the **opposite direction** of an underlying index. I don't want to go into too much detail here because there is a lot of ground to cover, but in general the US has three main indexes: S&P, DOW, and Nasdaq. You can buy inverse ETFs for each of these indexes if you think they may correct down.
+
+Personally I like the 3x leveraged inverse ETFs: [you can find them on this link because of I post them this post will be auto-banned.](https://etfdb.com/themes/leveraged-3x-inverse-short-etfs/) The ones I use are #1, #4 and #5 on that link. What makes these leveraged ETFs cool is that **you can get a lot of downside protection without a lot of cash**. Additionally, these inverse ETFs do not expire like put options. However, because they are inverse, they generally depreciate rapidly in value over time because the markets generally go up and are used mainly by day traders or swing traders.
+
+**Side note:** it's a **really bad idea to over leverage** an account with these things... You want to use the leverage so you can use less cash to protect more of your portfolio, not use 100% of your cash to try and maximize a downward move in the market. If you do that you risk blowing up your account because the 3x leverage will destroy you if the markets do start to go up
+
+**(2) selling covered calls:**
+
+Helpful Links:
+
+[What is an option (detailed 1-hr video)](https://www.youtube.com/watch?v=SD7sw0bf1ms&t=518s&ab_channel=InTheMoney)
+
+[What is a Covered Call](https://www.youtube.com/watch?v=jnTsQBJHMSk&ab_channel=InTheMoney)
+
+If you have 100 shares of a stock and want to limit your downside risk then you can sell calls with your shares (if you can). Essentially you can write a call option and sell it to someone in exchange for a premium. Your broker will **hold the shares as collateral** for the call you sold. This, if you don't want to sell your shares but you don't want to be a bag holder, you can sell covered calls for the stocks in your portfolio.
+
+The idea is that you sell options contracts at a strike above what you paid for the stock. This way if the stock does go up and you get exercised, you're selling at a profit and collecting a premium. If the stock goes down, then you just collect the premium
+
+**The downside to this is if your shares take a big hit** then future contracts you sell will have to be issued at a lower strike price **in order for you to get a decent premium**. This creates a **really vulnerable position** because you can possibly sell a call at a strike well under your entry, then some random good news comes out about your stock, it jumps above your strike over night, and then you get exercised and have to sell at a loss. 
+
+Example **(please read)**: if you bought [STMP](https://finance.yahoo.com/quote/STMP?p=STMP&.tsrc=fin-srch) at 210 in April, then it went down to 160. You could sell 170 calls thinking you're giving yourself enough time to adjust your position if the stock price goes up--however, in early July it was announced that STMP would be purchased by another company over night. So if you were selling a CC for under $210 at that time, you literally would not have any time to adjust your position because the stock went up over 50% literally over night. It's black swans like this that can completely destroy you if you're selling CCs under your entry price.
+
+**Covered calls are not free money**. They are simple to learn but hard to master. **Do not rely on this post to understand them.** Go on YouTube and learn about them. I'm just posting this so you have an introduction to the topic.
+
+**(3) Having cash.** 
+
+For some reason people feel like they have to have all their money in the market all the time, but doing so means you never have any cash on hand to buy a dip. If you think there may be volatility in the future, just make deposits in your account and don't spend the money on anything. I know that's hard to do when you see stocks go up, but if you have some money on the side while stocks are going down then you can always average down your position.
+
+**(4) Buying puts a few months out.**
+
+I think everyone knows you can buy a put if you think the markets will go down, but a lot of you probably are going to not buy the right one.
+
+In general, a downward move in the market is "fast." **This means it's going to take place over a few weeks or months unless there is government intervention.** If you're buying weekly puts, your time horizon is too short and if you're buying leap puts, your time horizon is too long (and you're tying up a lot of money). The sweet spot is a few months, maybe 4-6. Why? Because that's enough time to see a big move in a put contract and it's cheap enough for most of you to buy.
+
+Typically you should also be buying ITM or ATM puts. Don't be a goon and get puts where the stock needs to go down 25% before you break even. I know those are cheaper and when they hit, they hit big... **But they also are the most likely to lose money and if the market starts to recover they can lose a tremendous amount of value over night.**
+
+**Final thoughts:** 
+
+This **is NOT meant to be a guide** on how to play market corrections. To be honest, a lot of the topics I talk about are rudimentary and you can lose a ton of money doing any of this incorrectly. However, if you don't even know about these topics then you're likely to think you don't have any options, you'll panic sell, and you'll make mistakes.
+
+Also, I do think it is helpful for you to take some time and learn a little bit about technical analysis. I think that TA and patterns and all that chart stuff is honestly a lot of BS. However, it is helpful to know what a simple moving average is, what the MACD is, what the RSI is. It's just helpful. I've made some really dope swing trades over the years by getting into a position when a stock is oversold or getting out when it looks like it's over bought.
+
+**Helpful links:**
+
+[Moving Averages](https://www.youtube.com/watch?v=9iGfgajluP8&ab_channel=ZipTrader)
+
+[WTF is the MACD?](https://www.youtube.com/watch?v=bQT7R5hQfns&t=37s&ab_channel=ZipTrader)
+
+[What is the RSI?](https://www.youtube.com/watch?v=C6z4Ntf4Yos&ab_channel=ZipTrader)
+
+For charts you can use either Webull or Trading View. Just google those and you'll find them. I know Trading View lets you use their stuff for free, and webull as well--but I think you might have to deposit some cash with webull before you get the charting software with live data. I'm not 100% sure.
+
+**Positions:**
+
+I did open inverse positions yesterday because I saw we had candle closes below short term moving averages and that is a sign of a reversal. If we end up recovering then I will just sell my inverse positions at a loss and keep my longs in tact. 
+
+Try it out. Keep your👖 High and tight.

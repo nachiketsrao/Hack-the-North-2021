@@ -1,0 +1,25 @@
+Title should be October 15 puts not 11-15. What's up fellow retards,
+
+I am applying my strategy as a day trader to see what our long term resistance and support levels are. I'm a day trader of three years that has consistently used standard deviations, relative volatility index, and volume on a 6month and 1year time frame to determine my buy/sell areas on stocks, no matter whether I am swing trading or trading intraday.
+
+\-Easy Breakdown of Statistical Standard deviations - 68% of a stock's price range over a given time frame is within 1 statistical standard deviation (2 blue lines) of it's average/regression trend (middle line), 95% within two deviations (first upper and lower purple lines), and 99.7% within 3 deviations (second upper and lower purple lines), known as the 68-95-99.7 rule. Most importantly, these deviations also function as true support and resistance levels, with deviations, once crossed, becoming either the new resistance or new support level. I generally use this to find stocks that are trading above +2 deviations to short/buy puts or at -2 deviations to buy calls/stock as these areas represent only 5% of the price action over a given time period and statistically, there's a 95% chance the price will drop back below or climb back above +2/-2 deviations, respectively. I did this with Amazon puts recently as AMZN was trading above +2deviations. Otherwise I mostly trade off deviation support and ride volume up to next deviation resistance level before exiting the position which is what these TAs will be about.
+
+\-So, let's keep it simple stupid. Moderna, MRNA, is currently trading right along +2 deviation support on 6month chart, and right below +2deviation support on the daily(one year) chart. I've drawn red price level lines at these deviation support/resistance levels that carry over onto the one day chart. You'll need to download the charts to see the deviation levels.
+
+First Image is the One Year and 6 month chart from right to left -  [https://imgur.com/KZgqC2E](https://imgur.com/KZgqC2E)
+
+This is the intraday chart with the same red price level deviation support/resistance lines carried over -  [https://imgur.com/B7nOWox](https://imgur.com/B7nOWox)
+
+We are BARELY holding +2 6month deviation support of around $315. At open today, I'll be buying $270 and $300 puts for October 15th.
+
+Now, because deviation support is being held I expect there's a slight chance MRNA needs to complete its move up to +2deviation resistance on one year of $332 area before reversing, in which case, I'M JUST GONNA BUY MORE PUTS -  [https://imgur.com/GG4hhCo](https://imgur.com/GG4hhCo)
+
+\-Why $270 as my lower target? Because it's +1 Deviation on the One year chart. I could play the Mean/Average/Regression line (middle line on one year/6month/intraday) but I like to manage my risk and will be selling the PUTS once the price target of $272 area is reached (remember +1/-1deviation is blue lines on the charts) since this is the first statistical support area where the price may bounce a bit since we have deviation support on both one year and 6 month  -  [https://imgur.com/QyZlioQ](https://imgur.com/QyZlioQ)
+
+Good luck out there you stupid monkeys, make some money today!
+
+Positions as of this morning -
+
+https://preview.redd.it/2rz18h8l1zc71.png?width=817&format=png&auto=webp&s=bb53fe0a838e5c70311ab3ed1f83b99d4451c29e
+
+Edit - To all those messaging me saying it didn't happen...this isn't a short play. This is for those looking past the FOMO waiting for the sell-off. Buy your PUTS 60+ days out and it'll be below $300 again. 

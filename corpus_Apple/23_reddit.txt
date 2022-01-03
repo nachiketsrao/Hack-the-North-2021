@@ -1,0 +1,27 @@
+Affirm reports earnings tonight and is expected to report USD 226m in revenue, which would be a decrease from their Q1 revenue of USD 231m. Guidance for Q3 is expected to hit 233m. I think the expectations are lowballed and Affirm will outdo them. The price has cooled down a bit since its recent jump, and this stock has already seen a lot of volume at higher prices than it is at today.
+
+**Increasing consumer adoption**
+
+When Afterpay started becoming successful, Affirm started attempts to move towards being a consumer company in a similar vein, which seems to be paying off now. Their app downloads this Quarter were the best they have ever been, and much higher than in the same quarter of last year.
+
+https://preview.redd.it/6acfw397jhm71.png?width=1615&format=png&auto=webp&s=ee1c355673cb256324d8a2ebd159b03fbf0a510e
+
+**Partners outdoing expectations**
+
+Affirm's biggest customer is Peloton who just had a mixed quarter. However hardware sales were still solid and I don't think the product recall will be taken up by too many people. Walmart and Target both just had big quarters, as well as the travel industry were travel bookings were up bigly in Q2 (although the outlook of those is a bit more mixed now with the Delta variant), Bestbuy, Figs, etc.. Referrals to Affirm's website from partners (what happens when you click on the "Pay with Affirm" button on e.g. Walmart's website) increased steadily since the beginning of this year. 
+
+&#x200B;
+
+https://preview.redd.it/lf7lxywtkhm71.png?width=1349&format=png&auto=webp&s=0c83faf99687fef4a1efc8b446181f461123a4fa
+
+**Industry trends in BNPL favoring Affirm**
+
+With partnerships with Amazon and Shopify, Affirm is now a fixed player in ecommerce. Those companies prefer to keep the number of payment options low, so it is unlikely they will ever add more BNPL companies/loaners or replace Affirm. Affirm is now tied to 4 out of the Top 5 ecommerce companies and just launched a Canadian partnership with the 5th one (Apple). Affirm is probably the only pure play BNPL provider that can't be commoditized away. There will be some more consolidation to come for sure and I think these markets are pretty hot right now.
+
+**Positions**
+
+Since IV is quite high for my taste, I decided to go with a bull spread for this play. I'm pretty confident that numbers will be good and the stock price will at least be stable. I reach my maximum profit if Affirm is trading over 90 by expiry. Maximum profit and loss are both 24k. 
+
+&#x200B;
+
+https://preview.redd.it/ulq92qy77im71.png?width=301&format=png&auto=webp&s=bc3fe5c68aa32c1c7ee84ca049707382bd233a39

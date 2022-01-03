@@ -1,0 +1,93 @@
+# Quick News
+
+- Russia reports world's first case of human infection with H5N8 bird flu.
+- Facebook resumed their negociations with the Australian government after blocking content sharing in their platform. Facebook is still against their law requiring web giants to compensate local press for their content.
+- Insurers could suffer record first-quarter catastrophe losses after the historic Texas winter storm. "We expect this to be a large event, but we just don’t know how large it will be," said Texas Department of Insurance spokesman Ben Gonzalez.
+- Alphabet Inc’s Google fired staff scientist Margaret Mitchell on Friday. This is the second AI ethics leader fired by Google both of whom expressed concern that the company was starting to censor papers critical of its products. They also both called for greater diversity.
+- Taiwan raises 2021 GDP growth forecast to 4.64%.
+- After harassment complaints, BlackRock vows to strengthen training.
+- The yield on the benchmark 10-year Treasury note, which rises when bond prices fall, climbed to a one year high of 1.36% last week. This is due to expectations that the stimulus plan and vaccination program could further spur economic growth.
+- The rate of COVID-19 infections dropped 95.8% among people who received both shots of Pfizer's vaccine, Israel's Health Ministry said on Saturday.
+- Pfizer and BioNTech’s Covid-19 vaccine stimulated roughly two-thirds lower levels of
+neutralizing antibodies against the South African variant of the coronavirus in a lab study.
+- China's bank regulator on Saturday tightened requirements on the internet loan business of commercial banks, amid heightened scrutiny of online lending by internet giants such as Ant Group Co, the finance arm of Alibaba Group Holding Ltd.
+- Europe and the US should join forces in the fight against climate change and agree on a new framework for the digital market, limiting the power of big tech companies, European Union chief executive Ursula von der Leyen said.
+- Europe will decide whether to extend the suspension of its rules limiting budget deficits and debt, known as the Stability and Growth Pact (SGP), in coming weeks, the Commissioner for Economy Paolo Gentiloni said on Monday.
+
+# Quick Earnings I'm looking for today
+
+- Berkshire Hathaway B (BRKb)
+- Royal Carribbean Cruises (RCL)
+- Marathon Oil (MRO)
+
+# Quick Thoughts
+
+**Europe and the Stability and Growth Pact (ok this one is a bit boring)**
+
+[The Stability and Growth Pact](https://en.wikipedia.org/wiki/Stability_and_Growth_Pact) is "*an agreement, among the 27 member states of the European Union, to facilitate and maintain the stability of the Economic and Monetary Union*". The goal is to monitor members of the EU and to make sure of their fiscal stability. If the country's deficit or debt is higher than a certain limit, the other members will give recommendations on policy actions to correct this. 
+
+In 1997, at the inception of The Stability and Growth Act, the same limit was given to every state members and that was not very flexible. In 2004, they've reformed it to have limits specific to each states.
+
+This is still not very flexible. A country might have a "bad year" and based on this model will still need to take corrective actions even if there was no problem to begin with. Some countries' debt and deficit are cyclical and highly variable while some are pretty stable. And sometimes, a big event might put countries in the red zone and they can't do much about it (\*hum hum\* the pandemic \*hum hum\*).
+
+So, knowing all that, Europe decided at the beginning of the pandemic, to suspend those rules as they didn't make any sense during this context. And in the coming weeks, Europe will decide whether to extend this suspension or not.
+
+This is a key event for countries like Italy or Greece but really mostly Italy. So let's talk about Italy.
+
+**Italy might recover??! (Not clickbait!)**
+
+Italy's budget deficit reached 10.9% of GDP in 2020 and IMF expects it to go down to 7.5% in 2021.
+
+As for their public debt, it was at 157.5% of GDP in 2020 and is expected to rise to 159.7% this year.
+
+If the Stability and Growth Pact was still in place, the EU would basically ask Italy to cut costs anywhere it can at this point because there's no way Italy will ever repay its debt. And EU wants that knowing full well it's the worst course of action for Italy's sake. But Italy and the rest of EU have different objectives : 
+
+- Italy wants to recover (duh!) and hopes for a restructuration of their debt.
+- The rest of EU sees how fucked Italy is and wants to help them but at the same time wants to make sure that this doesn't bring the whole EU down in the process.
+
+Right now, the Stability and Growth Pact is suspended and Italy is set to get 200 billion euros from the EU's COVID Recovery Fund. It's crucial that Italy uses that money wisely. There are a lot of things going for them though :
+
+- Draghi is now Prime Minister of Italy. He was president of the ECB for 8 years, and before that chair of the Financial Stability Board and Governor of the Bank of Italy for 5 years. So regarding finance, let's say he knows his stuff.
+- Also, Draghi has a very big... majority at the Parliament which will let him do basically whatever he wants.
+- If he manages to prove himself capable of creating growth in a economically declining country, then EU will be much more open to give them more money.
+
+[Italy however decided to relax their pandemic restrictions](https://www.france24.com/en/europe/20210201-restaurants-and-museums-reopen-as-italy-relaxes-coronavirus-curbs) which is being criticized by Health Minister Roberto Speranza and the WHO. While this can indeed increase the number of cases, so far the number of new cases stabilized at 12k per day (7-day moving average) in february. 
+
+So if you need your gambling fix, you could go long on the Italia 40 index or you could stay on the sidelines and wait to have more informations on the matter. Or you could just not care at all, I wouldn't be offended.
+
+**Home Depot earnings play**
+
+Let's see the key points of last year :
+
+- Their revenue was at 33bn in Q3 of 2020.
+- Their net sales increased inside and outside of the US by roughly 18%.
+- They expect to have slightly less revenue in Q4 of 2020 and Q1 of 2021.
+
+My prediction is that, as countries reopen and all the constructions put on hold are resuming more and more, their revenue will beat expectations tomorrow.
+
+My short-term and long-term bullish thesis :
+
+- people are using their money for esentials only and if you've started big renovations before the pandemic it's pretty necessary to finish it. 
+- a lot of people work from home and plan on continuing to do so so. That means they will need to upgrade their home in the near future or already upgraded it.
+- some people are moving outside of the big cities and buying homes in smaller cities. This increases the number of renovations in the US.
+- the Stay-At-Home situation makes people buy more stuff to improve their confort at home.
+
+While some of this is factored in the price, I think investors are still pretty conservative and you can see it in the price action : it's flat since august last year.
+
+So, today, I will buy some shares. If you want to increase your risk, you can make a small bet on this earnings and for the long term bet, you can buy calls expiring in 6 months.
+
+... Or you could just wait and see what happens, I would not be offended.
+
+Ok Bye!
+
+-----------------------------------------------
+
+*Thank you for reading this. I'm putting a lot of effort into this. Before writing those posts, I didn't realize how much work it would take. I have a much bigger appreciation for the people posting long well thought out dd for free because it takes hours of work everyday to research and write those things.*
+
+*Also, sorry for not writing anything last week. I was busy with other stuffs. And since I was cash gang this whole time, I was researching/investing on biotech companies to see at least a little bit of movement in my portfolio (no shut up you have a problem).*
+
+*I'm still mostly cash gang and I don't think this will change this week. I'll update you when this changes.*
+
+*As for what I'm planning on writing next : Palantir (maybe), Doordash, Natural Gas and gold. I'm also writing a (very) long article on how inflation, rising bond yields, and low interest rates might impact the stock market over the next two years or so.*
+
+*Also, not english native sorry, hopefully it's not too difficult to understand. Also x2, not financial advice.*

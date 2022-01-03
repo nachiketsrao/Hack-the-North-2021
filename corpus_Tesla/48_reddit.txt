@@ -1,0 +1,64 @@
+#**Introduction**
+The world of finance is absolutely filled with people making claims about what’s good or bad, how you should or shouldn’t do something, and what you can and can’t achieve. My goal is to take a look at these claims, spend some time researching them, and then share what I’ve found. I’m going to investigate various strategies, ratios, indicators, portfolios, and general market concepts with the goal of determining which ones are just noise and which ones might help you get ahead. 
+
+In this write up I’m going to be taking a deep dive into another incredibly popular metric – the price to book ratio. I’m going to start with a walkthrough of how you calculate it, then I’m going to cover how it should be used, then I’m going to go over some of the pros and cons of it, and most importantly I’m going to see if it gives you any kind of advantage when selecting stocks. 
+
+#**What is P/B?**
+A company’s price to book ratio is the ratio between the company’s current share price and their current book value per share. Book value is essentially the value of a company from the perspective of an accountant. Accountants don’t care about future earnings or potential speculation. They look at the current value of the business by taking all of the company’s assets and subtracting all of the company’s liabilities. This is then divided by the number of shares to get the book value per share. Once you have that you simply divide the share price by the book value per share to get the price to book ratio. 
+
+#**Real Application**
+Now I’m going to walk you through a real example. Total assets and total liabilities can be incredibly complex numbers to try and calculate, thankfully every public company will already have these numbers listed on their balance sheet which can be found on any number of websites. I grabbed Ford’s values from Yahoo Finance for this example. 
+
+To find their book value you will be taking their total assets, which are things the company owns that have value and subtracting their total liabilities, which are things the company owes or is obligated to pay, like debt, interest payments, or workers’ wages. This is then divided by the number of shares in existence. This gives Ford a book value per share of 7.91. This means that for every $13.61 share - Ford has $7.91 of “real” value. Now the last step is to divide the price per share by this number which results in a price to book value of 1.72. 
+
+Now before I can go into depth on how to interpret this number I need to explain the different ways to classify assets. Assets come in two forms, tangible, and intangible. This is important to know because it explains why some industries have significantly higher average price to book values than others. Tangible assets are most commonly physical things like factories, land, or machinery. However, they also include two less intuitive items which are cash and investment vehicles like stocks or bonds. The thing that all of these have in common is they have a relatively easy to find real monetary value outside of the company.
+
+The other category of assets are called intangible assets which are things that are not physical and only have a theorized value. This can include copyrights, brands, or research. These have value but it’s far harder to put a price tag on them. In the standard price to book calculation the two will be added together if the intangible assets are given on the balance sheet. Another reason I defined both is because you will sometimes see people use price to tangible book value which means they did not consider intangible assets in their calculation. 
+
+#**How to use P/B**
+We calculated Ford’s price to book ratio as 1.72. Now like most fundamental ratios this seemingly random number each company has means absolutely nothing without some context. There is no definitive line of what defines a good or bad number because companies can have vastly different amounts of tangible vs intangible assets - and intangible assets are incredibly difficult to price. As with all fundamental ratios, you should only be using them as one of many data points to get an idea of how the business stacks up against similar competitors.
+
+For example, a consulting firm with a handful of employees and one small office building could generate as much profit as the steel mill on the other side of town. But because the steel mill has a lot more physical assets it’s going to naturally have a much lower price to book ratio. These companies are effectively equal but if you use price to book blindly you won’t see them that way. This means that in order to get the most out of a price to book comparison you want companies that are within the same sector and often even within the same industry.
+
+To illustrate this point, I calculated the average price to book ratio of all of the sectors over the past few years. The technology sector which relies heavily on intangible assets has an average price to book of 7.3 which is the highest. One interesting thing I found was that even among sectors that are very physical in nature the value varies by *a lot*. Industrials have an average of 4.8 whereas the energy sector has an average of only 1.65. 
+
+But what do these numbers actually mean? The price to book value compares the current valuation of the company, which includes future growth and speculation, to their current value, according to the balance sheet. A price to book of 1.72 means that the stock price is valuing Ford at 72% more than what their current accounting value is. At the very least, this means that large investors have an idea of how much they’d lose if the company went bankrupt and needed to be liquidated. This tie to real value is one reason why value investors prefer low price to book ratios, although as we saw when looking at the sectors, low is relative. 
+
+Let’s continue with the ford example and see how it can be used in practice. Let’s compare their 1.72 price to book value to tesla, who is the largest of all up and coming electric vehicle makers. Tesla has a price to book of 26.95 which shows that their price is almost entirely speculative and is incredibly disconnected from their current real value. For reference, the average price to book ratio for the automotive industry is about 4. You can see how Ford and Tesla stack up here. This doesn’t necessarily say that tesla isn’t something to buy, but it does say that it is a growth stock that people expect *a lot* from in the future. If tesla is not able to reach the levels of growth speculated it will appear to be a disappointment to its investors and has a lot farther that it can fall before it reaches a more stable price when compared to something like Ford. If Tesla fails miserably and goes bankrupt the shareholder is unlikely to get back more than a tiny fraction of their money. If ford fails miserably and goes bankrupt a large shareholder could potentially get more than half of their investment back – though the process of bankruptcy and liquidation is large and complex with varying results. 
+
+#**What are the pros and cons of P/B?**
+Price to book is a complex ratio that has a lot of implications. I’m going to go over a few of the benefits and shortcomings of it. Let’s start with the positives. 
+* Price to book can be used on companies that have negative earnings. New companies that aren’t yet profitable are very common and without a positive net income can be difficult to compare to companies that are profitable. Many companies that aren’t profitable are still great businesses as long as they are heading in the right direction. 
+* Price to book also offers investors a look into how much of the stocks price is based on real value and how much is based on speculation. This it is incredibly effective at separating growth from value stocks – so much so that the Russell indices use price to book for half of their decision weight when creating their value ETFs. 
+Now let’s look at some of the potential downsides. 
+* Price to book does not give any indication of how well a company is using its assets, only that it has them. If you have two companies that both have one million dollars’ worth of machinery and the same price to book ratio, you have no idea which one of those is actually making more money. This emphasizes the idea that you always need to look at a variety of  factors when trying to find good value companies. 
+* Another downside is that it also struggles to incorporate intangible assets because they are often incredibly difficult to value. This makes comparisons between more physical and less physical companies nearly useless with this metric. 
+* Lastly price to book value can vary from company to company because it relies on how that company does their accounting. This effect is even more pronounced if you try to compare companies from different countries. 
+
+#**Does P/B give you any advantage?**
+Now, can price to book value help you outperform the market by identifying undervalued stocks? It depends. The first thing it depends on is what type of company you are looking at. Price to book works far better on businesses that are physically intensive because the land, machinery, and factories all have significant real value. It also works well with banks and other financial institutions because cash, stocks, and bonds are all also considered tangible assets due to their easily identified real value. It does not work well when you are looking at intangible industries. Software companies, consulting firms, and pharmaceutical companies are all examples of highly intangible areas of business. 
+
+So, if you are looking to compare tangible companies from a similar industry - price to book has historically been a fantastic predictor of value. The paper called “value vs glamor: a global phenomenon” goes into incredible depth regarding the performance of price to book value. From 1968 to 2008 the 10% companies with the lowest price to book value outperformed the highest 10% by an average of 9.3% annually. This is a massive amount and with this it is pretty clear why many index ETFs use price to book to build their value ETFs. 
+
+However, it’s not all great news. The paper titled “price to book’s growing blind spot” which covers up until 2016, shows that the price to book ratio has been losing its edge in the last decade to the point where it has almost no benefit. This is a completely true phenomenon, but I want to explain why it may be misleading. 
+
+The last 10 years have been a part of the strongest bull market in history and this market is being led by primarily technology stocks. If you recall, technology stocks are mostly intangible and therefore are not able to be judged accurately with this metric. It is up to you whether you think this trend will continue. If you do, price to book may not be a metric you want to use. However, if you are looking at the long term and expect the market to return to more historically average conditions then it is likely still an effective measure of finding value. 
+
+#**Conclusion**
+The price to book ratio has certainly earned its fame, at least historically. Aside from the past 15 years the price to book ratio has selected strong value stocks again and again. It’s up to you whether you want to bet for or against the current paradigm of the market which is dominated by intangible technology. This will determine whether or not you should make price to book one of your tools. 
+
+###**TLDR:**
+Historically P/B has been one of the best predictors of value. This trend has nearly completely disappeared in the past 10-20 years. This is likely due to the dominance of tech companies which are incredibly heavy on intangible assets. Ideally it should only be used as one of many data points when selecting a stock and should only be used to compare similar companies in similar industries. 
+
+###**Mild subreddit self-promotion:**
+If you enjoy these kinds of posts I created my own subreddit r/FinancialAnalysis where myself, and eventually others, will be doing this style of research. 
+
+#**Papers on the subject**
+* P/E, P/B and P/CF are all strong predictors of value:
+    * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1289357
+* P/E, EV/EBITDA are good predictors, P/B losing power in recent years:
+    * https://www.osam.com/pdfs/research/_19_Commentary_Price-to-BooksGrowingBlind%20Spot_Nov-2016.pdf
+* P/B is effective at selecting outperforming stocks:
+    * https://www.researchgate.net/publication/341941538_An_Investigation_on_Performance_of_Key_Predictor_Ratios_in_Stock_Selection
+* P/B has the most predictive power of all variables tested
+    * https://doaj.org/article/a27d5be5592a4121a97ee4615f0378a7

@@ -1,0 +1,57 @@
+Auto mod won’t let me post the original link. I’ll try to post it in the comments, if you want to see the article. 
+
+Historically and statistically speaking the September is the worst performing month in the stock market, these numbers go all the way back to 1950. We are currently experiencing a torrent of things happening that as well are strongly affecting the stock market.
+
+In this last week:
+
+-there was talk about increasing the interest rates.
+
+-Several members of congress are in talks about trying to ban the federal reserve.
+
+-SEC is considering banning payment for order flow for companies like Robinhood.
+
+-Social Security is projected to be insolvent sooner than expected.
+
+Goal for this post is to talk about what is going on in the markets that could influence your money. Most importantly what you can do with this information to improve your financial situation.
+ 		
+Firstly, we are going to talk about Robinhood as it currently 18 million accounts with about $80 billion in assets. This all began a few years ago when Robinhood shook the industry and gave us free stock trades. Every single one of us benefits from this today as it used to cost anywhere from $5-19 dollars per trade. Yes, that is right, to buy and sell. This created a large barrier of entry for retail traders wanting to get into stocks. We can all thank Robinhood for free stock trades today and I am personally eternally happy that they gave me this. But at what cost?
+
+Payment for order flow
+
+There is an inherent cost with making stock trades. There is a lot that goes on behind the scenes when you buy a stock. Money being transferred in the background that we will never see. Your stock not actually being purchased until two business days later. Robinhood keeping a ledger and accounting of all your trades so you can report your taxes. The list of what happens when we make a trade is massive and does involve a lot. There is value behind that and that is why it used to cost us so much.
+
+Where does Robinhood make up for all those services they give us?
+
+A nasty little monster Robinhood calls “Rebates from Market Makers and Trading Venues”. What is this you might ask? It sounds so innocent! This is actually called payment for order flow. If you have traded on Robinhood or other brokerages that use payment for order flow you have paid for your service with your data from your trades.
+
+Here is how it works. When you make a trade on Robinhood, Robinhood is not that one that executes that trade. Instead they outsource the trade to another company ( CITADEL ) who pays Robinhood for the right to execute the trade on their behalf.  
+
+Why does this outsourcing for the trade affect us? It has to do with something called high frequency trading. The stock market is always fluctuating in price, and it is very volatile when considering the price of a stock in fractions of a penny. This volatility gives Citadel the opportunity to do it’s behind the scenes market magic.
+
+One example of how Citadel can profit from this is say you buy Tesla stock at $700 and by they time your order gets sent into Citadel from Robinhood the stock could be worth $699 and Citadel makes it’s profit margin. This is where high frequency trades come into fruition. This is where market makers have top of the line software that looks for opportunities to make that profit margin.
+
+What does that mean for you? You actually aren’t getting the ACTUAL price of the stock you thought you were buying. Citadel and Robinhood have highly sophisticated software and algorithms that find those price discrepancies and they make their profit off your trades.
+
+Now how much on average are we really paying for these trades we are making? Bloomberg estimated that we are paying somewhere around 0.0024 cents per share. So, if we are looking at this logically, we are still winning here from being able to make trades at a fraction of what we used to pay. 0.0024 cents vs $5-19 dollars is a massive win in my book. But darkness looms on this situation because nobody has revealed how much Citadel is making from our trades. Remember Bloomberg estimated that the spread Citadel is making is only 0.0024 but we don’t really know.
+
+ENTER SEC
+
+In 2005 the SEC passed what is called the Regulation National Market System which requires brokers like Robinhood and Citadel to acquire the best execution for their clients. This means that when buying stocks your broker should give you the best price possible, but Robinhood traders aren’t getting the best price are they?
+
+In 2019 Robinhood was fined $1.25 million for not giving their customers for not following the SEC regulation. Robinhood didn’t give many of their customers the best price and was slapped on their hand for breaking regulation. There were 4 broker dealers that were involved with these trades and those 4 were paid by Robinhood for executing the trades with them. By doing this Robinhood violated the best execution requirement.
+
+In fairness to Robinhood though, almost every stock trading brokerage participates in payment for order flow. Here is a list of a few of them.
+
+Weeble
+Vanguard
+Ally Financial
+TD Ameritrade
+Charles Schwab
+
+Payment for order flow is commonplace the stock trading industry. Well, if everyone is doing it, do we really have a problem? No. The problem is when a company like Robinhood doesn’t give us the best price and they get paid for your trade.
+
+ENTER GARY GINSLER FROM THE SEC
+
+Gary tells Barron’s that banning payment for order flow is a very real possibility. Since a large majority of brokers use payment for order flow, this could lead to us having to pay more for our trades again. For me I think there must be a better solution for this situation as I don’t want to see $10 trade fees ever again.
+
+What I hope it comes down to is some lawyer magic words which will define the cost of our trades, they are required to tell us the fee. In my opinion that would be fair as there really is a lot that happens behind the scenes with our trades, and I understand that a service is being offered on their platform. But I personally would like to see exactly how much I’m really being charged for my trades and more importantly, I’d like to get the best possible price on my trades.

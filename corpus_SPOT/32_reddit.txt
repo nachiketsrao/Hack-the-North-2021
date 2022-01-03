@@ -1,0 +1,33 @@
+The basics:
+
+As a pre-cursor - This post is not intended to be too much about the fundamental basics of the company. [This](https://www.reddit.com/r/wallstreetbets/comments/pmaxlb/auph_best_treatment_against_lupus_nephritis_still/) was posted here and did a pretty good job of that. Basically, they have a new standard of care drug that is saving lives in a rare disease. 
+
+Also, I am not a financial advisor, yada yada, this is not financial advice, yada yada standard disclaimer.
+
+Now that you’re current if you read the link, let’s get this thing going.
+
+Aurinia is in a very special spot right now. As many of you may know, we are headed into triple witching week (simply put, the expiration of stock options, stock index futures, and stock index options all fall on the same day), this only happens four times a year and makes stocks very volatile.
+
+Why does this make Auph special? While, for this week alone [Auph already has 27k options that are ITM](https://finance.yahoo.com/quote/AUPH/options?date=1631836800&p=AUPH), if you include the [October calls, its 68k options ITM](https://finance.yahoo.com/quote/AUPH/options?date=1634256000&p=AUPH). 
+
+What's really important is when you notice that they are on the precipice of $20. As they cross $20, another 25.5k options come into the money. At $25 another 33k options come into the money from both September and October. Most stocks, especially Auph, do not attract this much out of the money buying volume, especially one week until expiration. 
+
+So what happened?
+
+Usually, you can look at this and assume a whale or someone leaked something and a move higher is coming. Many figure this is the case as 2 weeks back, a bit over 40k call options were purchased in 2 days. Why? Possibly because for multiple reasons there is speculation a buyout is coming ([pr about a buyout resulting in firings](https://www.benzinga.com/m-a/21/08/22676683/aurinia-pharma-shares-up-3-7-following-earlier-press-release-from-co-disclosing-it-entered-deal-to-b), delisting from tsx, and multiple articles whisperings for months in reputable newspapers about buyout negotiations).
+
+That all being said, this puts the stock in a special spot. [**Referencing this post**](https://www.reddit.com/r/wallstreetbets/comments/lz8mgr/a_deepdive_on_the_actual_math_behind_gamma/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**, on the basics of how a gamma squeeze works,** if auph crosses 20$ on Monday morning, it should begin a gamma ramp. This process creates a runaway effect when the next set of available options also has a large OI. For example, as Auph crosses $20, MMs begin to cover their calls more aggressively as they begin to come into the money, meaning they will buy more shares. As they buy more shares, the stock price will raise, as the stock price raises, they will need to buy more shares. This is compounded especially when the next option has a large OI. With the massive OI on both September and October $20 and $25 calls, a gamma squeeze would be huge and could possibly even put the $25s in the money by the end of the week.
+
+As a precursor to all of this, I rode GME, from 10 to 400 ( go back and check [my comment history](https://www.reddit.com/r/wallstreetbets/comments/kakxrm/gme_tribe_a_story_about_how_ryan_cohen_is_about/gfbe9hx?utm_source=share&utm_medium=web2x&context=3) if you don’t believe me). No one really talks about it, but it was a gamma squeeze before it was a short squeeze. Auph, while not GME sits in a similar position. Over the past month during their run. They have not seen even a 1% change in short interest (current short interest is 17% of float). So after a gamma squeeze, there very well could still exist a chance for a short squeeze. 
+
+**TLDR:** Due to a massive option OI, Aurinia is ripe for a gamma squeeze **sending it much higher**. If it crosses 20, it could easily see 25. If it crosses 25, it will likely keep a runaway effect.
+
+**As a last note:** 
+
+All of this becomes moot if Aurinia is bought out before Monday morning or before calls expire at the end of the week. At this point, I would highly suggest looking to the XBI, and strong biotech tickers like MYOV (Shameless plug, but is currently undergoing a share buying program from the main owner that took it from about 20 to 27 and is only halfway complete, has a deal with PFE for $4.2b, and 3 standard of care approved indications), as well as some other strong biotech stocks that stand potential to surge in the case of AUPH money flowing to other tickers after a buyout (This happened after $TRIL buyout as well).  
+
+My positions: 
+
+Auph: 0 shares, 260 calls. September $20, $25, and $30. October $20 and $25.
+
+Myov: 22,500 shares. 210 calls, spread dates and strikes. Mostly ITM.

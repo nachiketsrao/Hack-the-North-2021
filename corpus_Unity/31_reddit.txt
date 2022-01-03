@@ -1,0 +1,143 @@
+ I am an individual investor that is looking to take a position in RBLX. Obviously, this is not financial advice, just my research and findings when it comes to Roblox fundamentals as a business. I have been doing a lot of digging and I am excited to share my findings with the community.
+
+GhostformTexas  has a good summary of the company in their DD. The DD goes into Roblox’s global market among other good info that I won’t get too deep into here. There are a few things that I am going to clarify in my DD that will counter some of the points made in [Ghost’s post](https://www.reddit.com/r/wallstreetbets/comments/lym9kc/upcoming_roblox_rblx_ipo_next_week_march_10th_2021/) , but this is all meant in good measure to encourage debate and discussion.
+
+**What is Roblox?**
+
+Roblox is an online cloud based gaming platform and game development creation system with a community of 8 million freelance developers, 32.5 million unique daily active users, and 20 million gaming experiences including VR experiences with 30.6 billion engagement hours since 2008. The platform was created in 2004 and released for public use in 2006. Roblox makes Revenue via subscriptions, their toy line and merchandise. However, this is not their main source of earnings. Most of Roblox earnings come from their Bookings which I will get into in this DD. Roblox also has a pretty extensive YouTube culture which GhostformTexas gets into in his [DD](https://www.reddit.com/r/wallstreetbets/comments/lym9kc/upcoming_roblox_rblx_ipo_next_week_march_10th_2021/).
+
+**RBLX is a Direct Listing, NOT an IPO!**
+
+RBLX is scheduled to hit the open market on March 10 as a Direct Listing rather than an IPO at a 29.5 billion dollar valuation with about 199 million shares available to resell. Many folks out there on the internet are referring to RBLX as an IPO, and it is not. RBLX will be a Direct Listing when it hits the market.
+
+If you want to know the difference between Direct Listing and IPO and why it matters, check out this article on [Investopedia](https://www.investopedia.com/investing/difference-between-ipo-and-direct-listing/#:~:text=Direct%20Listing:%20What's%20the%20Difference?%201%20IPO%20vs.,Explore%20Direct%20Listings.%20...%205%20IPO%20vs.).
+
+I do have DD on why Roblox decided to go Direct instead of IPO but I will leave it out for now; unless peeps are interested.
+
+**What is the Roblox Business Model?**
+
+Roblox’s community developers publish their games for other users to play for free or for a certain number of Robux. They provide incentives to their community developers to create quality content by paying them in Robux which can be converted into real cash or reinvested into the platform to grow their Roblox business. They have already paid out $329 million in cash to their developers and have increased incentives for their development community in 2021. This in turn will generate more quality content, which generates more users and more user engagement.
+
+It is a similar community creator based business model that YouTube has, but Roblox does have something that makes it unique. The Roblox Economy.
+
+The Roblox Economy accounts for a large amount of their earnings through Non-GAAP Bookings rather than GAAP earnings such as Revenue. This is another thing that many finance streamers and analysts are missing when it comes to evaluating Roblox’s earnings. Roblox’s Bookings make up a greater part of their earnings than their Revenue. This is something we should be paying attention to when trying to understand the value of RBLX. Some people are skeptical of Non-GAAP earnings, but for Roblox, it is a part of their business model.
+
+Roblox focuses on 3 key metrics:
+
+* **Daily Active Users (DAUs)** which are unique users that engage in the platform each day.
+* **Hours of Engagement** which is the number hours users are engaged with the platform.
+* **Bookings** which are Non-GAAP earnings on a per item basis from consumable and durable goods purchased with Robux.
+
+I will be getting into the growth of these 3 metrics in this DD. If you want to understand Roblox’s business model in depth, watch Roblox Investor Day at around 1:25:35 into the video.
+
+**The Roblox Economy & Non-GAAP Bookings**
+
+Roblox encourages users to spend their Robux on exclusive items, pay to play games, and ingame passes which is the most common way for developers to earn Robux. Developers also earn Robux for how much time users engage with the game, but it is not as lucrative as developing exclusive items, DLC, and pay to play games that users can purchase with Robux. Their development and player communities have a robust Trading System where users transfer Robux and items between themselves, and even commissioned dev work at the specific request of the paying user. Economic incentives encourage improved experiences and attract more players to the platform.
+
+The Economy’s ecosystem flows like this:
+
+Players Buy Robux -> Players Spend Robux -> Developers & Creators Earn Robux-> Developers & Creators Reinvest Robux or Exchange for Real World Currency
+
+What is extremely unique about Roblox’s “free market” Economy, is that developers get to set the price for their goods and control their profit margin. This puts the power of the value of a Robux in the hands of the creators and users themselves when it comes to the in-game purchases users make. The value of a Robux is set by the community and the goods it produces. Roblox does not charge for the games themselves but rather, the developers charge Robux for their games and items which allows developers to control their profit margin.  The developers then receive a percentage of the Robux used to purchase the content and can reinvest into Roblox or exchange the Robux for real world currency.
+
+Bookings are Realized in 2 ways, Consumables and Durables. Consumables are consumed through a specific user action and revenue is recognized as the items are consumed. Durable virtual items are clothing and accessories accessible to the user while they are on the platform. This revenue is recognized as a booking over the average life time of the user which now stands at 23 months according to their CFO.
+
+Let's take a look at Roblox’s earnings and their projections for 2021 for both Bookings and Revenue.
+
+||FY 2018|FY 2019|FY 2020|FY 2021 Estimate|
+|:-|:-|:-|:-|:-|
+|**Bookings**|$499 M|$694.3 M|$1,882.5 M|$2,603 M|
+|**Revenue**|$325 M|$508 M|$924 M|$1,478 M|
+|**Total**|$824 M|$1,202.3 M|$2,806.5 M|$3,541 M|
+
+Roblox attributes their growth to international expansion and aging up. In 2020, all international markets grew faster than the US and Canada and their age demographic is expanding to the 13+ age group.
+
+**Growth Outlook**
+
+Roblox has accelerated its rapid growth spurt since 2010 in 2020 due to the COVID-19 pandemic and the social distancing restrictions. Although Roblox’s Hours of Engagement is projected to decline a bit in 2021 as restrictions ease, the company's outlook for 2021 is extremely impressive.
+
+Michael Guthrie, Roblox’s CFO states “We headed into 2020 with strong organic growth which was further bolstered by social distancing restrictions. As those restrictions ease, we expect the rates of growth in 2021 will be well below the rates in 2020, however, we believe we will see absolute growth in most of our core metrics for the full year.”
+
+For the first quarter of 2021, the Company currently expects:
+
+* Daily Active Users, or DAUs: 37.6 million to 39.6 million, representing year-over-year growth of 59% to 68%.
+* Hours engaged: 8,600 million to 9,000 million hours, representing year-over-year growth of 76% to 85%.
+* Revenue: $320 million to $335 million, representing year-over-year growth of 98% to 107%.
+* Non-GAAP Bookings: $550 million to $575 million, representing year-over-year growth of 120% to 130%.
+* $51 million of one-time expenses related to the Company’s direct listing.
+* Fully Diluted Share Count: Approximately 652 million shares as of March 31, 2021. This measure is calculated on a treasury stock method basis with respect to all common and preferred shares assuming a hypothetical per-share price of $45, the price at which we issued our preferred stock in the latest round of private funding.
+
+For the second quarter of 2021, the Company currently expects:
+
+* Daily Active Users, or DAUs: 34.5 million to 36.3 million, representing year-over-year growth of 3% to 9%.
+* Hours engaged: 7,600 million to 8,000 million, representing year-over-year growth of -11% to -7%.
+* Revenue: $350 million to $372 million, representing year-over-year growth of 75% to 86%.
+* Non-GAAP Bookings: $500 million to $525 million, representing year-over-year growth of 1% to 6%.
+
+The projected dip in Hours of Engagement is pretty modest compared to the amount of growth over the past year when you look at the charts. From 2019 to 2020, they increased their Hours of Engagement by 124% and are only expecting a 0.003% dip in 2021.
+
+**Roblox is Aging Up**
+
+Roblox is increasingly appealing to the older demographic. Today, the 13+ age group makes up 44% of the users on the platform. The expansion into the older demographic in 2020 was extremely impressive with a whopping 107% increase. Roblox went from 7 million 13+ DAUs in 2019 to 14.4 million in 2020.
+
+**DAUs % of Increase by Age Group**
+
+||2019|2020|
+|:-|:-|:-|
+|**Under 13**|53%|72%|
+|**13 & Over**|42%|**107%**|
+|**Total**|47%|85%|
+
+The community developers make themselves available for hire to other players inside the platform itself through free community developed games like [GRP Recruiting Plaza](https://www.roblox.com/games/5118029260/Group-Recruiting-Plaza-2020). These communities make up a digital social network experience which is a step ahead of what our social network experiences are today.
+
+Users do not just use the group recruiting plaza to trade Robux for in-game commodities, they also form groups to engage in war games. Here are a few experiences that appeal to the older crowds if you would like to check them out.
+
+* [Scarif Research Facility - Roblox](https://www.roblox.com/games/4209191975/Scarif-Research-Facility#!/about)
+* [The Galactic Empire - Roblox](https://www.roblox.com/groups/4161004/The-Galactic-Empire#!/store)
+
+The Roblox Economy and being a part of Roblox groups is what really appeals to the older kids that are 13+. They also have subscription tiers that distribute a certain number of Robux to the subscribers account each month to incur what the community calls “Robux Monthly Gains.” Many players and developers reinvest their Robux back into the game to grow their Roblox business. Users are willing to trade real world currency for the experiences on Roblox.
+
+When you get into the Roblox Economy, you start to see where this is more than just a “kids” game. This is the kind of stuff that appeals to the older crowd and what keeps their users engaged for decades. Roblox has a robust [trading system](https://en.help.roblox.com/hc/en-us/articles/203313310-Trading-System) for users with a membership that allows them to exchange Limited/Limited U items and Robux with other members.
+
+I wouldn’t be surprised if community developers create a Robux stock market one day where Roblox Group stocks could be traded for a profit.
+
+**Roblox is Currently Operating at a Loss but here is why**
+
+Roblox Four Main Expense Buckets
+
+* **Cost of Revenue:** made up of mostly payment processing fees for Roblox purchases on Apple iTunes and Google Play Stores. This accounts for things like Processing fees for credit card, prepaid cards, and PayPal. ⅔ of the business is via mobile devices. Which is their largest cost.
+* **Developer Exchange Fees** is the amount of Robux developers earn on the platform. This is Roblox’s largest area of spending and a key area of investment for Roblox. Lowering payment processing costs will be invested into the Developer Exchange Fees. They expect the Developer Exchange Fees rate to grow at the same rate or even faster than the rate of bookings since they plan to continue to invest heavily in this area.
+* **Personnel Costs** are the costs associated with the engineering and product teams employed by Roblox. This is also a key area of investment for Roblox.
+* **Infrastructure and Trust & Safety** are the operating costs associated with running Roblox’s cloud infrastructure. Their infrastructure costs, similar to their personnel costs, have a lower growth rate than that of bookings.
+
+Roblox does have a history of Net Losses, but that is because they have been investing heavily into Deleverpor Exchange Fees and Personnel Costs so they can achieve profitability and growth in the future.
+
+Personnel Costs and Infrastructure costs are not growing faster than the rate of bookings which is a good indicator of a strong leveraged business which is what makes Roblox a solid long term investment. Roblox’s Free Cash Flow increased substantially in 2020 which is another strong indicator for a solid long term investment. This company can generate cash.
+
+Free Cash Flow ($ in millions)
+
+|2018|2019|2020|
+|:-|:-|:-|
+|$35 M|$14.5 M|$411.2 M|
+
+**Risk Assessment**
+
+GhostformTexas mentioned in his DD that there was an “Identified material weakness in internal control over financial reporting which resulted in restatement of their financial states for 2018 and 2019 and first 9 months in 2020.” However, the  financial restatement had to do with the way Roblox reports their earnings through Bookings which I don’t find to be a big risk. Rather, this was Roblox refining how they will be reporting their earnings to the SEC.
+
+Also, I demonstrated how their rapid growth has been an ongoing trend for Roblox but the company does expect a small decline in the rate of growth in their key KPIs as social distancing restrictions are lifted.
+
+Additionally, I don’t see that Roblox is affected by seasonal demand as much as they were affected by the COVID restrictions and social distancing. However, their business did not experience setbacks due COVID. The company actually exploded in growth due to COVID.
+
+Lastly, I don’t think that mobile devices are a bigger risk factor than the Cost of Revenue for their sales on platforms like Apple iTunes and Google Play Store.
+
+**Conclusion**
+
+In conclusion, Roblox (RBLX) is a solid long term investment from my perspective and has good fundamentals. I am also researching the value of Roblox’s experiences long-term and the increase of the creation of more quality engaging content on the platform which Roblox believes translates into more DAUs. They will also be coming out with a 13+ platform further increasing their reach to the older demographics. There are some pretty interesting future technologies that Roblox is developing that I am digging into as well. Looking forward to your feedback and please let me know if I am missing something.
+
+**DD Resources:**
+
+* SEC Filling:
+* [https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/dda2906b-ab8a-4ea1-927a-ff1cbf284463.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/dda2906b-ab8a-4ea1-927a-ff1cbf284463.pdf)
+* [https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/a327f07f-86d6-461c-a020-83cb4882d100.pdf](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/a327f07f-86d6-461c-a020-83cb4882d100.pdf)
+* Roblox Investor Relations: [https://ir.roblox.com](https://ir.roblox.com/)
+* Investor Day Video which you can find on the Investor Relations Website

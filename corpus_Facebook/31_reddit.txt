@@ -1,0 +1,74 @@
+**Posts have been surfacing all around Reddit/Twitter/Stocktwits regarding uncertainty and confusion about the integrity of CLOV due to its sudden thrust in to the spotlight this week so I'm creating this thread to answer common questions and provide some insight.**
+
+CLOV SEC Filings/Recent Releases/Events: [https://investors.cloverhealth.com/investor-relations](https://investors.cloverhealth.com/investor-relations)
+
+\_\_\_
+
+**Common Questions and Concerns (Sources numbered at the bottom):**
+
+**Q:** **Clover Health has 80/90/100%+ institutional ownership! This is very clearly a collaboration by the hedge funds to earn back their lost money from shorting GME/AMC/BB/(insert any other ticker here) right?**
+
+**A:**  Institutional ownership =/= shorts.
+
+Institutions decide if they are shorting a position or holding for the long haul. CLOV isn't just a meme stock, they are a disruptor in the Medicare advantage field with promising and improving results quarter after quarter. They were added to the MSCI index in May**^(1)** and are being added to the Russell 3000 index on June 25th at market close**^(2)**.
+
+CLOV has had a high short interest for months**^(3)** driving the price down from $17 in December 2020 to bottoms of $6 making this a prime long pick for non-shorting institutions in the intermediary time between then and now. Citadel isn't even in the top ten for institutional ownership**^(4)**. Do you know who is in the top ten? Vanguard and Blackrock, both very well-known for investing in to companies most likely to be successful.
+
+Number one in institutional CLOV holdings? Greenoaks Capital. "***Greenoaks Capital believes a small handful of high-quality technology companies define each generation. Their mission is to identify those companies early in their life cycle and partner with them for decades.***" **^(5)**
+
+\_\_\_
+
+**Q:** **Citadel owns 500,000 shares of CLOV, this must be a distraction scheme to cover their positions for AMC/GME/BB/(insert any other ticker here) right?**
+
+**A:** Citadel DID indeed own 500,000 shares of CLOV as of 03-31**^(6)**— Citadel also happens to have been holding over 700,000 shares of AMC as of the same date**^(7)**. Citadel owns approximately 0.45% of the entire existing non-shorted float of CLOV. Shorting Institutions often hold long and short positions at the same time. This is a normal occurrence.
+
+\_\_\_
+
+**Q:** **Clover Health only has 4 employees according to Robinhood! Why is this company worth anything AT ALL?**
+
+**A:** Clover Health has over 450 employees listed on LinkedIn**^(8)** and they operate in 8 states nationwide (Arizona, Georgia, Mississippi, New Jersey, Pennsylvania, South Carolina, Tennessee, and Texas)**^(9)** **and they even have an office in Hong Kong** **^(10)**. Clover Health has been involved in Medicare Advantage since 2014. Robinhood has faulty data.
+
+\_\_\_
+
+**Q&A Sources:**
+
+**(1)** [**^(https://app2.msci.com/eqb/gimi/smallcap/MSCI\_May21\_SCPublicList.pdf)**](https://app2.msci.com/eqb/gimi/smallcap/MSCI_May21_SCPublicList.pdf)
+
+**(2)**[**^(https://content.ftserussell.com/sites/default/files/russell\_3000\_index\_additions\_-\_2021.pdf)**](https://content.ftserussell.com/sites/default/files/russell_3000_index_additions_-_2021.pdf)
+
+**(2\*)** [**^(https://realmoney.thestreet.com/investing/trading-the-russell-indices-rebalancing-15677149)**](https://realmoney.thestreet.com/investing/trading-the-russell-indices-rebalancing-15677149)
+
+**(3)** [**^(https://fintel.io/ss/us/clov)**](https://fintel.io/ss/us/clov)
+
+**(4)**[**^(https://finance.yahoo.com/quote/CLOV/holders)**](https://finance.yahoo.com/quote/CLOV/holders)
+
+**(5)** [**^(https://www.crunchbase.com/organization/greenoaks-capital)**](https://www.crunchbase.com/organization/greenoaks-capital)
+
+**(6)** [**^(https://fintel.io/so/us/clov)**](https://fintel.io/so/us/clov)
+
+**(7)** [**^(https://fintel.io/so/us/amc)**](https://fintel.io/so/us/amc)
+
+**(8)** [**^(https://www.linkedin.com/company/clover-health/)**](https://www.linkedin.com/company/clover-health/)
+
+**(9)** [**^(https://www.cloverhealth.com/en/)**](https://www.cloverhealth.com/en/)
+
+**(10)** [**^(https://www.facebook.com/CloverHealth/posts/were-hiring-in-hong-kong-clovers-brand-new-hk-office-kicked-off-with-an-evening-/2405226302868174/)**](https://www.facebook.com/CloverHealth/posts/were-hiring-in-hong-kong-clovers-brand-new-hk-office-kicked-off-with-an-evening-/2405226302868174/)
+
+&#x200B;
+
+\_\_\_
+
+**Community DD & Sources (Short & Long Term)**
+
+|Title|Type|
+|:-|:-|
+|[Excoriating Vivek Garipalli; Or, Why I will Continue to Hold Clover Health](https://www.reddit.com/r/CLOV/comments/m2x9dv/excoriating_vivek_garipalli_or_why_i_will/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)|Long-Term (Comprehensive)|
+|[We're Just Getting Started $CLOV - DD (This is NOT financial advice)](https://www.reddit.com/r/CLOV/comments/nw9pl6/were_just_getting_started_clov_dd_this_is_not/)|Short-Term|
+|[TO ANYONE CONSIDERING SELLING, READ THIS FIRST!](https://www.reddit.com/r/CLOV/comments/nw43r8/to_anyone_considering_selling_read_this_first/?utm_medium=android_app&utm_source=share)|Short-Term|
+|[Short sellers are betting against a high-growth business that’s undervalued](https://livinittt.medium.com/short-sellers-are-betting-against-a-high-growth-business-thats-undervalued-4933024161cb)|Long-Term & Short-Term (Comprehensive)|
+|[$CLOV summary and data sources](https://www.reddit.com/r/CLOV/comments/nvxfoq/clov_summary_and_data_sources/)|Short-Term|
+|[$CLOV this is the perfect setup for an epic short squeeze](https://twitter.com/BoredBilionaire/status/1402185121860522000)|Short-Term (Catalysts)|
+|[Clover Cracked the Code](https://www.reddit.com/r/CLOV/comments/nvn7mf/clover_cracked_the_code/)|Industry Insight (Long-Term)|
+|[$CLOV showing a similar pattern as $AMC and $CLOV prediction for this week](https://www.reddit.com/r/CLOV/comments/nw0yog/clov_showing_a_similar_pattern_as_amc_and_clov/)|Short-Term|
+
+&#x200B;

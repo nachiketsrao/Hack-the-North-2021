@@ -1,0 +1,93 @@
+How are my fellow Palantards not seeing C3.ai?
+
+For anyone such as myself who likes Palantir, Snowflake and other data/AI companies, C3.ai is in a great position to be bought right now.
+
+The company is [led by Thomas Siebel](https://www.forbes.com/sites/quickerbettertech/2020/11/19/on-crm-tom-siebel-is-back-and-hes-working-with-microsoft/?sh=5859683d341f), and while he is kind of older and approaching retirement age, you cannot overlook him. He is the man who invented CRM’s, which are the software such as Salesforce and Microsoft Dynamics that drive most major corporations.
+
+What he is doing with this company is creating usable AI for companies, which he likes to repeatedly call “turnkey solutions”. Essentially this means AI programs that simpleton operators in big companies can use without any serious coding or programming.
+
+Basically, C3.ai is doing what Palantir does, but their focus is making plug and play programs, instead of relying heavily on forward deployed engineers.
+
+Of course, what really matters here is are these empty promises and big dreams, or does the software actually work?
+
+Well the contracts and partnerships they have developed would certainly suggest that their software friggen works.
+
+They aren’t doing this work alone, they are partnered with many serious players:
+
+# 
+
+# CRM’s:
+
+To make AI tools that are usable with CRM’s such as Salesforce and Microsoft Dynamics, they have officially partnered with **Microsoft and Adobe**. Microsoft went a step further and purchased some shares during the IPO last summer.
+
+Note, through their partnership with Microsoft, they are not competing with Salesforce, they are working with Salesforce.
+
+And this software is not in development, it just became available.
+
+*Partnership source:* [*https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/*](https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/)*Launch source:* [*https://c3.ai/c3-ai-announces-general-availability-of-c3-ai-crm/*](https://c3.ai/c3-ai-announces-general-availability-of-c3-ai-crm/)
+
+# 
+
+# Energy:
+
+To make AI tools that are usable in oil and gas, they partnered with **Baker Hughes**, and that software has been adopted by other oil and gas companies such as **Shell** and MEG. And obviously it works, because after their initial trial, Shell went ahead and renewed their commitment with them for 5 years.
+
+*5 year renewal source:* [*https://ir.c3.ai/news/news-details/2021/C3-AI-and-Shell-Extend-Strategic-Collaboration-to-Reshape-Global-Energy-and-Resource-Industries-with-Enterprise-AI/default.aspx*](https://ir.c3.ai/news/news-details/2021/C3-AI-and-Shell-Extend-Strategic-Collaboration-to-Reshape-Global-Energy-and-Resource-Industries-with-Enterprise-AI/default.aspx)
+
+# 
+
+# National Defense:
+
+To make national defense tools, they are working with both the **US Air Force**, and the **Missile Defense Agency**, to create AI tools used for diagnostics on aircraft, and ballistics for a missile defense system.
+
+Note, the Missile Defense Agency has the ambitious goal of creating an advanced system that would protect USA from airborne missile attacks. Basically, they are trying to create an iron dome comparable to what Israel is using to defend itself from Palestinian terrorists.
+
+*MDA source:* [*https://c3.ai/c3-ai-to-enable-ambitious-sustainability-and-energy-efficiency-goals-with-aluminium-beverage-packaging-category-leader/*](https://c3.ai/c3-ai-to-enable-ambitious-sustainability-and-energy-efficiency-goals-with-aluminium-beverage-packaging-category-leader/)
+
+&#x200B;
+
+# Autonomous Packaging:
+
+Now today, they just announced that they have expanded into technology that will obviously be useful in ALL retail. They just signed a deal to help develop autonomous packaging with one of the largest aluminum packaging companies in the world, **Ball Corporation, who does $12B** in annual revenue at 60 international locations.
+
+*Ball Corporation source:* [*https://c3.ai/c3-ai-to-enable-ambitious-sustainability-and-energy-efficiency-goals-with-aluminium-beverage-packaging-category-leader/*](https://c3.ai/c3-ai-to-enable-ambitious-sustainability-and-energy-efficiency-goals-with-aluminium-beverage-packaging-category-leader/)
+
+&#x200B;
+
+# Cloud Computing:
+
+C3.ai’s products are now being carried by both **Google Cloud and Snowflake**. Both of those companies are offering C3.ai’s products to their customers to work with their platforms, and both of those companies have an incentive to help sell the product. Google Cloud’s CEO has done a TV interview with C3, stating that they intend to use Google Clouds 2000 person sales team to get people using C3 on google servers.
+
+*Google source:* [*https://c3.ai/google-cloud-and-c3-ai-create-industry-first-alliance-to-accelerate-enterprise-ai/*](https://c3.ai/google-cloud-and-c3-ai-create-industry-first-alliance-to-accelerate-enterprise-ai/)
+
+*Snowflake source:* [*https://c3.ai/c3-ai-and-snowflake-partner-to-deliver-next-generation-enterprise-ai-applications-at-scale/*](https://c3.ai/c3-ai-and-snowflake-partner-to-deliver-next-generation-enterprise-ai-applications-at-scale/)
+
+&#x200B;
+
+So the question is this if these companies and organizations see value in C3’s software, why the hell is it valued so much lower than Palantir and Snowflake:
+
+* Microsoft
+* Google
+* Adobe
+* Shell
+* Baker Hughes
+* US Air Force
+* Missile Defense Agency
+
+&#x200B;
+
+**Some key fundamental facts:**
+
+* The stock is down 75% from it’s meme mania highs, and looks like it has technically bottomed out.
+* They have $1B of cash on hand, with like a $37M burn rate. They have LOTS of runway.
+* They are actually “structurally profitable” meaning they have a large margin on their cost of goods sold, but their loss is directly attributable to the money being spent on marketing and sales, which the CEO rightly defends as a smart investment.
+* YOY revenue is up 29% in the last quarter.
+* They operate in the large customer space like Palantir, and their enterprise AI customers grew 85% to 98 in the last quarter. With the recent announcements, they are likely over 100 now.
+
+Source: [https://ir.c3.ai/financials/quarterly-results/default.aspx](https://ir.c3.ai/financials/quarterly-results/default.aspx)
+
+&#x200B;
+
+\---
+
+# TLDR: If you like Palantir, you should probably be interested in C3.ai as well.

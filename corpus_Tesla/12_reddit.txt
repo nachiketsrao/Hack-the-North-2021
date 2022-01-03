@@ -1,0 +1,105 @@
+Below is not fun financial advice. Just analysis. You should probably quit reading here and go have fun. Run before it is too late!
+
+* **TL/DR:** $LAC, Lithium Americas, share price is about to increase because of catalysts and price squeezing on their product which is: Battery grade Lithium. **Skip to the bottom to see valuation.**
+
+**Junior Explorer. The price trajectory of mining companies.**
+
+* Lithium Americas is a mining company with two major projects: Thacker Pass in the USA and Cauchario-Olaroz in Argentina. We will get back to them later. But for now we will just consider that they are both huge, as in gigantic, and both are pre-production / pre-revenue.
+
+https://preview.redd.it/7cbhl2cm7an71.png?width=1188&format=png&auto=webp&s=43bea16374d62fa66472bab9196314e6b7f91ab8
+
+* The Thacker Pass project is in the development stage, having received its initial record of decision but awaiting its final water and air permits. Cauchario-Olaroz is leaving the development phase, finalizing construction and entering the startup stage.
+* In mining company price trajectory theory, aka the Lassonde curve, these two stages of development and startup often are treated as one single phase: Phase 4 Development. It is the period when a mining company sees the highest increase in share price during its entire life-cycle.
+* Phase 4 begins when the financing is done and construction begins. This is a sign that the project has been figured out, most permits approved, and third-party due diligence found no fatal flaws. The stock value increases on this positive news, especially if construction is on time and on budget. It is even better news if it is in a period of rising commodity prices. New long institutional owners enter.
+* Before the development phase comes the feasibility or orphan phase. Where prices are as depressing as that name sounds, financing is unclear, permits are not yet given and early enthusiasts sell.
+* After the development phase comes the production phase, also known as depletion phase. Here share price often falls at the pace of which the resource is depleted.
+
+**The market.**
+
+* Battery grade Lithium is used in consumer electronics, behind the meter and on grid storage, and vehicles including drones / remotely piloted aircrafts. The main market is that of vehicles.
+* Light electric vehicles, such as electric cars, are seeing a year on year sales growth in excess of 100% comparing one month to the same month one year earlier.
+* The definition of hypergrowth is 40% yoy growth. This means the demand for batteries is increasing very rapidly.
+* The same battery cell in a vehicle battery pack is cheaper than in a behind the meter home storage battery pack. This is due to something called economy of scale.
+* Vehicular battery packs are seeing the economy of scale affecting their production, which is one of the reasons electric vehicles are competitive with gas/diesel vehicles.
+* Analysts have projected increasing growth of the demand of vehicular battery packs due to this tipping point versus traditional oil powered vehicles.
+* What is not well understood, even by analysts, is that the increasing energy density of battery packs, and their decreasing likelihood of catching fire due to technical advancements - such as solid state electrolyte - will lead to battery packs for home storage and for drone aircrafts also reaching production volumes in the near future that requires large production facilities and thus brings the tipping point in affordability that is caused by economy of scale.
+* Analysts project the demand to 10-fold until 2030 and that is with very conservative, linear, estimates of the growth in sectors other than vehicles.
+* Long story short. In the near future demand for lithium will boom and while the manufacturing process of batteries gets cheaper the value of the battery packs will to a larger extent reflect the value of the raw material in them: Battery grade lithium.
+
+&#x200B;
+
+https://preview.redd.it/pdcxp32z7an71.jpg?width=1242&format=pjpg&auto=webp&s=8017b9359f93f9ce6026855a649504950b8f7bc5
+
+* In this image the covid-plunge effect on EV sales can be seen. August and September numbers are up. But there is room for further increase as sales eventually come back to the pre-covid trend like they did after the 2008/2009 financial crisis. But Lithium price is a leading indicator compared to EV-car sales, as it is used in produced cars. Not only in sold cars.
+
+**The producers.**
+
+* USA just declared Lithium production a national interest. The Chinese have since long understood that securing the entire supply chain of raw material and production is of great national importance and by this strategy they are dominating the world market.
+* In 2019, Chinese chemical companies accounted for 80 percent of the world’s total output of raw materials for advanced batteries. China controls the processing of pretty much all the critical minerals: Of the 136 lithium-ion battery plants in the pipeline to 2029, 101 are based in China.
+* Much like oil is priced in dollars. Lithium is today priced in Chinese currency, Yuan.
+* Why is that important? If you need oil first you must get US currency. If you need lithium first you must get Chinese currency. Once many currencies were guaranteed by gold.
+* In a way the value of the US dollar is guaranteed by the value of Oil, and the Chinese Yuan by the value of Lithium. As the world for some use cases shifts from oil to electricity this has geopolitical consequences. And the superpowers rush to secure control of these resources.
+
+**The lithium supply - demand squeeze.**
+
+* Like most materials lithium for cars sees an increasing demand during the bounce up from the covid plunge. This is causing price inflation. And while lumber and concrete prices are destined to settle as they do not see sustained 100% yoy growth like batteries there is also another factor causing Lithium prices to go up in the future.
+* As can be seen from the timeline in the first figure above it takes about 10 years to start a new mine. That is a much longer time than a saw mill or other types of factories. So production will not be able to ramp up to a sharp increase in demand due to this time lag.
+* This is why I would expect lumber prices to stabilize and even fall back, while lithium should soar.
+* Mines that are in the discovery / feasibility phase will not be able to meet demand until five years from now. In pole-position to reap the benefit of booming demand is already producing mines, and those in the development / startup phase like Lithium Americas both projects.
+* After the 2008/2009 drop in lithium demand it took until 2018, ten years, for Lithium price to peak, when production capacity finally catched up it was due to demand not increasing anymore. There was some overshooting of production capacity that coincided with the demand drop accelerated by the covid-plunge. Causing the shut-down of mines with high production costs in the period 2018-2020. And we are again starting a new cycle of supply-demand squeeze that just like the last time is likely to maintain high/ increasing lithium prices until the demand stops growing at the currennt pace, and / or the ten year period to start brand new production capacity has passed.
+
+https://preview.redd.it/cixhehvjdbn71.png?width=660&format=png&auto=webp&s=c0369b22537f3afd07eff510070b144bce49ca25
+
+&#x200B;
+
+* As can be seen from the chart above the demand-supply squeeze is already causing a sharp increase in lithium price. Recent highs recorded for battery grade Lithium carbonate in the market place is 145,000 Yuan. 22,460 USD per tonne. (source: [www.fastmarkets.com](http://www.fastmarkets.com/))
+
+**Lithium Americas Thacker Pass project.**
+
+* This is the largest deposit in north-america and the second largest in the world. You might know of Yellowstone, which is a Caldera or a super-volcano. There are more of them. The oldest is the MCDermitt Caldera, and Thacker Pass lies within it.
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/wzwjg6ffdbn71.png?width=701&format=png&auto=webp&s=61f559a2c22d3d50471f0a105ececffb11d3e506
+
+* The geological cause of the lithium deposit is due to erosion from the sides of the caldera being deposited as claystone at its centre in what was once the bottom of a big lake.
+* The Thacker Pass project is in Humboldt County, below the Montana mountains, in northern Nevada. It would be developed in two phases. It is expected to have a production capacity of 60,000 tonnes per annum (tpa) of battery-grade lithium carbonate (Li₂CO₃) and 46 years of mine life.
+* At the current price point that is $1.4 Billion USD worth of lithium.
+
+https://preview.redd.it/tl8rxpy28an71.png?width=914&format=png&auto=webp&s=bff3348b4c4da32f768d4e05539684cff40588cb
+
+&#x200B;
+
+* Thacker Pass feasibility study shows an operating cost of $4,088 / tonne.
+* This would mean a net revenue after operating costs are paid of $18,372 / tonne.
+* Which results in a $551 Million yearly profit in 30,000 tpa stage one, and twice that at $1.1 Billion yearly profit in stage two. The project is 100% owned by Lithium Americas.
+* Well timed in the last EV-hype in the stock market Lithium Americas made a public offering, which means stage one the 30,000 tps is fully funded. The development of stage two will be paid by revenues of stage one, requiring no significant further funding.
+* Tesla has a gigafactory next door in Nevada, but no partnership has yet been announced.
+* Lithium production from the first phase is anticipated to be started in late 2022 at a rate of 30,000 tpa for a period of 3.5 years. The second phase is expected to increase the production rate to 60,000 tpa starting from 2026.
+
+**Cauchari-Olaroz**
+
+* This is the largest deposit in south-america.It is a Brine project. Construction underway with first production targeted for early 2022
+* Updated 40,000 tpa Feasibility Study in October 2020 reaffirming capital costs of $565 Million.
+* Partnered with Ganfeng Lithium on the jointly (51/49) owned operation in Jujuy, Argentina
+* Partner Ganfeng is building a battery factory next to the mine.
+* Lithium Americas and its joint venture partner Ganfeng Lithium have started development planning for the second stage of the Caucharí-Olaroz lithium project in Argentina.
+* The second stage expansion will aim to add at least another 20,000 tpa of lithium carbonate equivalent (LCE) production capacity to the project. To expand production in 2025.
+* Currently, construction is in progress for the initial 40,000 tpa stage 1 operation at the Caucharí-Olaroz lithium project in Jujuy province. The partners estimate a capital expenditure of $641 Million for the first stage of the project.
+* Lithium Americas said that the partners are on track to achieve first production in mid-2022, with currently more than 1,000 workers on site.
+* Here we see a more mature project.
+* Operating cost is $3,579/tonne Li2CO3. This would mean a net revenue after operating costs are paid of $18,881 / tonne.
+* Which results in a 277.6 Mn yearly profit in 14,700 tpa stage one, and twice that 555.1 Mn yearly profit in stage two. The project is 49% owned by Lithium Americas; this is why 14,7 tpa is used here, while 30 tpa is produced. The partner chosen for the project is a world leader in this industry.
+
+**Net Present-Value**
+
+* Yearly revenue of $277.6 Million ($138.8 Million for half year) from mid 2022
+* $829 Million from 2023 as both projects start phase one
+* Then $1.1 Billion from 2025 as Cauchario Olaroz starts phase two
+* Finally $1.7 Billion yearly revenue from 2026 as both projects are in phase two production Lithium Americas has a significant Net Present Value at the current lithium price.
+* Using present day lithium prices and just counting the next ten years and a 12% discount rate, I arrive at the net present value of $6.4 Billion. The lifetime of the mines are much greater than ten years, namely forty-six years for the larger fully owned deposit. The current Market Cap of Lithium Americas at $22.80 per share is just $2.7 Bn.
+* Calculating the Net Present Value using the projected revenue for the next 20 years using current price results in a valuation of $9.4 Billion or $78 per share. To give you an idea about the sensitivity of this calculation to interest rate, using a discount rate of 8% and 20 years of revenue results in a Net Present Value that is $13.1 Billion or $109 per share.
+* This is the value of future cash flows discounted to the present day. Using a lower discount rate increases the value. This should be the real rate which is the nominal rate minus inflation. Meaning decreased nominal rates or increased inflation leads to higher Net Present Value.
+* Conclusion is that Lithium Americas is undervalued 2.3x just considering the next ten years and using 12% rate and 4.8x if you consider the next two decades and a rate of 8%.

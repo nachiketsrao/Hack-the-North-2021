@@ -1,0 +1,137 @@
+NFA (Not Financial Advice)
+
+Here's another round of some fairly comprehensive fundamental DD on a stock I believe is well positioned to provide many tendies going forward. If you hate reading, but want to spend your parent's inheritance on something that is somewhat defensible / not retarded, skip to the bottom for the bolded call.
+
+**I. The Company - CrowdStrike Holdings**
+
+Introducing CrowdStrike Holdings (NASDAQ: CRWD). Founded in 2011 by George Kurtz a former Worldwide CTO/EVP @ McAfee & 2 other guys (including a Russian hacking genius, Dmitri Alperovitch), the Company is a cloud native endpoint security provider. Google's venture capital arm initially put in $100mm into the Company & while private, took in funding from a couple big names in the VC/PE space then went public in mid-2019. What the fuck does cloud native endpoint security mean? In an era where everything is shifting to the 'cloud' & more folks work from home, this Company focuses on developing/implementing/selling cloud-based software that provides security to all 'endpoint' devices (laptops, servers, phones, tablets, etc.). Do I need to say more on how big this market opportunity is? Should be common sense at this point. To put some numbers to this - in June 2020, the endpoint security market was estimated to be \~$8Bn total, & adding up the other verticals CRWD participates in, the TAM (Total Addressable Market) of their line of products totals \~$27Bn \[9\], though there are estimates that this is much higher.
+
+So far, CRWD's products protect 49% of the Fortune 100's Company's endpoint devices \[9\], but before I go into more detail on what differentiates CrowdStrike from its competitors, I want to highlight a couple recent themes that are emerging which formed the pillars to my investment thesis.
+
+**II. CIO Investment Spending Surveys as of August 2020**
+
+At the beginning & midpoint of each year, the big investment banks conduct surveys from CIOs of major corporations to gain insight into where they intend to invest going forward. Here's a summary of a select few as of 8/2020
+
+\-  IT Spending Index fell to 21.5 from 60.5 in 12/2019, which is the lowest level since 2002
+
+\- IT budgets set to shrink by \~5%, removing the largest IT budgets (Companies with budgets >$1Bn), set to shrink by \~7% this year 
+
+So, IT budgets are overall shrinking & expected to be down. Let's get to the good shit:
+
+\- 79% of CIOs believe COVID is acting as a forcing function to make them digitally transform & move to the public Cloud even faster than they had planned with 36% of them increasing their spend in these areas for 2020 & beyond 
+
+\- Security remains the top spending priority, followed up with Collaboration Applications, Business Intelligence/Analytics, Workflow Automation & Public Cloud 
+
+\- Within Security, Identity, Firewall, & Endpoint are top priorities - 36% of CIOs polled expect Security spending to accelerate in 2020. Caveat: Is down compared to 10-year average of 38%
+
+\- Endpoint screened at #3, down from #1 for the first time since June 2016 - believe drop in ranking is temporary as shift in spending priorities to ensure seamless provisioning/de-provisioning of user rights accesses & secured traffic workflow to corporate network for WFH. This also may be due to the significant decline in PC spending from the 12/2019 survey (21% expected to increase PC spending vs. 33% prior) - more on this below
+
+\- Percentage of survey respondents that mentioned 'endpoint security' as a highly prioritized area of security investment expanded from 42.4% in the 1Q'20 VAR survey to 81.3% in the 2Q'20 VAR survey
+
+**III. WTF is Endpoint Security & Comparable Products from a Computer Autist**
+
+Since I'm fairly new to what the fuck "cybersecurity" is, I'm assuming most of you autists are as well. Here are my findings on 3 major components of cybersecurity - Identity, Firewall & Endpoint.
+
+Think of Identity/Firewall as basically the Security implementations a Company deploys that occur 'outside' of your Company issued device. Basically, it is all the encryption & other shit that secures your user ID/password & engages in the web traffic, etc. you go through.
+
+Endpoint on the other hand is basically 2 parts. 1st part is akin to your Anti-Virus bloatware shit that comes pre-installed on most retail laptops, etc. & runs in the background of your device constantly monitoring everything going on to make sure some weird file with an embedded virus doesn't end up on your device. I might get shit from the real cybersecurity folks on this, but I'm not an IT guy - I'm the user of these devices, I'm the one fucking paying you. Your 'endpoint' security thing is software that replaces my anti-virus, so I see it as similar. Deal with it fucking nerds.
+
+The 2nd part is what sets it apart from traditional AV software - which is some magical, computer geek shit that monitors 'network' activity that occurs as your device sends information out of your device & receives information from the web, usb devices, or whatever. This is where the 'Cloud' & 'AI' stuff occurs - a bit more on this later.
+
+Picture this: if you've ever worked on a Company issued device in the past, there's one thing that always sticks out. The AV is fucking annoying - when working with large excel files/presentations, basically anything outside of web surfing/email, there is a noticeable lag that really pisses you off, especially when you're in time-crunch situations & need to get work done quickly. On your personal devices, you can just pause the scans or whatever, but on Company issued devices you'll get random lag spikes & from my personal experience it is usually due to the security bloatware that you cannot uninstall.
+
+So what differentiates CRWD? There are a bunch of benchmarks full of computer-geek jargon but overall, the top products block \~99% of threats & deal with them in their own manners that are OK to me. So what do I want to focus on, & what matters to me as a non-IT employee is efficiency. So, I've done some research into CRWD's claim that they provide a 'light-weight' solution to all this. I don't give a fuck about how the Samsung Galaxy Note has a pen & all those gimmicks if it isn't executed well. I like my iPhone not because it can do all those weird things Androids can do, I like it b/c out of all the simplistic things I want a phone to do, it does it well, does it without lag, & does it predictably. CRWD seems to aim for this type of experience for the end user while providing top of the line cybersecurity.
+
+The market leaders in the endpoint security space based on market share as of July 2019 are: Symantec (16%), Trend Micro (12%), McAfee (12%) & a few steps down is Crowdstrike (5%) \[6\].
+
+So based on these comps, I want to try to proxy for which of the companies above offer an Endpoint Protection product that fits me, the most likely average user.
+
+I'm going to proxy the 'load' of each Company's product, proxied by RAM Usage:
+
+\- Symantec: 25MB of RAM, takes up \~450MB of hard drive \[1\]
+
+\- McAfee: Claims 75MB of RAM, complaints of 150-200MB+ \[2\]
+
+\- Trend Micro: Requirements of >256MB of RAM, install size of \~350MB \[3\]. They have all these configurations on how to reduce CPU usage but I'm going to ignore that as I want to compare standard installs. Google is full of complaints on how much memory usage other Trend Micro products utilize that bogs down computer performance
+
+\- **CrowdStrike: \~25MB of your hard drive & uses 2MB of RAM; also consumes 4-6MB of bandwidth/day \[4\]**
+
+Clearly the winning solution is CrowdStrike. With the previously mentioned finding that there will be a decline of PC buying as a CIO priority, older systems will be utilized for a bit longer than usual going forward. However, the size & complexity of software will continue to demand more & more computing power, paving the path for CRWD implementation as one of the easiest ways for an organization to improve efficiency while retaining the most advanced modern form of cybersecurity - a tailwind many might be overlooking, & something the Sales teams at CRWD are undoubtedly pushing.
+
+**IV. What else differentiates CrowdStrike & Total Addressable Market Continued**
+
+So we've gone over the market opportunity size & why CRWD's main product, Endpoint Security (called Falcon Prevent) would be the preferred choice for regular autistic users like myself, but couple other things:
+
+\- On Gartner.com - which reviews & compiles customer experiences of cybersecurity products, CRWD is the most highly rated & has one of the leading "would recommend" %s of 98% \[5\]
+
+\- While every fucking Company in the Tech space likes to throw around the term "AI" & "Cloud", these guys are legit in their claims. The reason their Endpoint Security is so lightweight is because it is Cloud-based & is AI-based in its architecture. Meaning - for every incremental customer added, the Endpoint Security collects more data & gets smarter.
+
+I'll get into how the Company scales financially later, but it's important to note that the product exhibits similar characteristics. Their product, along with its revenues, will scale with each additional customer added.
+
+CRWD's host of products are offered in 10 distinct modules across endpoint security, security & operations, & threat intelligence:
+
+\- Endpoint Security: Falcon Prevent (Nextgen AV - AI-based), Falcon Insight (Endpoint Detection & Response), & USB Device Control
+
+\- Security & Operations: Falcon Overwatch (Prov. customers with access to dedicated experts - managed threat hunting solution), Falcon Discover (gives deep visibility into endpoints on a customer's network), Falcon Spotlight (IDs unpatched vulnerabilities in real time running on endpoints), Falcon Complete (Comprehensive managed solution)
+
+\- Threat Intelligence: Falcon X (Leading threat research & intelligence), Falcon Search Engine, Falcon Sandbox.
+
+\- Crowdstrike Store: Provides 3rd party app developers the ability to leverage CRWD's cloud native architecture & lightweight agent to create custom 3rd party apps
+
+All said, CRWD charges $6.99 - $17.99 per endpoint, per month.
+
+In the U.S., it's estimated that there are \~1.2 endpoints per employee at every company in the US with >100 employees. At the aforementioned pricing, this represents potential revenues per year of $8.2Bn - $21.1Bn \[6\]. Remember this is the U.S. only - in 2019, CRWD generated 23% of its revenues outside of the U.S., and as of the most recent quarter, this came in at 27%. Globally, Morgan Stanley predicts the IT security spending market to reach $128Bn; while currently, 24% of IT security spend is spent on Endpoint Security. Putting these 2 together implies a TAM of \~$31Bn. \[8\] All of these calcs from extremely credible sources seem to imply that management's use of IDC's estimate that CRWD's 2020E TAM of $8Bn is an extremely conservative estimate (also something to note: what goes in each Company's investor presentations is highly scrutinized by internal legal counsel, so they play it as safe as they can - unless you're Elon Musk).
+
+**V. Financials**
+
+CRWD likes to market themselves to the investor community as the category-defining cloud platform for Security. CRM Cloud is dominated by SalesForce, Service Management by ServiceNow, HR by Workday, & Security by CRWD. So from the angle of a SaaS investment opportunity, the main things to focus on are subscription customers, ARR (annual recurring revenue) & billings plus the corresponding growth rates in each of the categories.
+
+&#x200B;
+
+https://preview.redd.it/s64sdnjqi9j51.jpg?width=895&format=pjpg&auto=webp&s=cd78748412a99433eaecb54229b89c42a2c2e8af
+
+CRWD as of the most recent quarter has 6,261 customers which grew by +105% YoY, adding +830 from the previous quarter. ARR came in at $686mm which grew +88% YoY. Billings came in at $231mm, representing +90% YoY growth.
+
+This is cool & all, but let's look at some ratios, & how they compare relatively to other SaaS peers.
+
+LTV (Lifetime Value) to CAC (Customer Acquisition Costs) ratio -> higher ratio means Company is acquiring new customers at higher levels of profitability & S&M investments will translate to higher profitability over time:
+
+CRWD is in the top 5 out of 34 SaaS companies with a LTV:CAC of 5.8x as of the most recent quarter vs. a 2.6x Median across SaaS companies \[6\]\[7\]
+
+Another interesting feature is they went EBITDA positive for the 2nd quarter in a row - a first in the Company's history; also want to add their EBITDA went bigly positive, growing by +270% QoQ from barely eeking out EBITDA of $0.3mm a quarter ago.
+
+What about sales efficiency? This is important as we want to assess the variable costs associated with generating incremental ARR & can be defined as the LTM S&M Expense / New ARR. As of the most recent quarter, CRWD clocks in a ratio of 0.9x, & is in the top 10 out of the 34 SaaS comparables \[6\]\[7\]
+
+**Final Remarks - Valuation / Is Everything Priced In? & Quick Management Overview**
+
+So far we've covered the scope & size of the Cybersecurity market, gone over some reasons why CRWD is differentiated, & have shown that their unit economics / business model is being executed at the highest levels. How does all this translate into a stock price?
+
+Let's start with market share. Some Wall St. firm estimates that these guys crank out \~$780mm of Revenues this year, & based on Management's conservative view of TAM totaling \~$27Bn this year \[9\], that shakes out to a *paltry 3% market share* for CRWD. Other analysts are pegging Rev. to this \~$770-$780mm mark, & based on everything said about the Company, their recent performance, all of these estimates seem to be *'playing it safe'* which should result in the Company positioned to 'beat' earnings expectations going forward. If you've done this autistic earnings play shit for long enough, you'll learn quickly that this is how the game is played; especially for high growth companies.
+
+All of this put together, I am **modeling a near/medium-term share price target of $120 - $135 per Share**. This represents a 21x - 24x EV/Sales multiple on \~$1.3Bn of Sales, which corresponds to a \~4.8% market share. Other SaaS companies like CRM, SHOP, NOW & WDAY trade at an average EV/2021E Sales of 17.4x, with 3-year Rev. CAGRs of \~28%. More importantly, SHOP trades at 33x EV/2021E Sales & has a 3-year Rev. CAGR of 44% & on the low end is SalesForce/CRM (more mature now) which trades at 9.6x EV/Sales with a 21% 3-year Rev. CAGR. The unit economics & current macro backdrop suggests CRWD should be at least a 30% Rev. CAGR company, which warrants the \~20x EV/Sales price target.
+
+More on the Rev figures: \~$1.3Bn of Rev. shakes out to Subscription Customers totaling \~11,800 based on their most recent ARR/Subscription Customer of \~$110k (which is below their '19 & '20 figures). While this may seem like some insane figure to reach given their most recent quarter had total subscription customers of 6,261, it is easy to make sense of if you think about how at the end of 2019, they had total subscription customers of 2,516 - so from then to now they've grown by \~2.6x! I will re-evaluate my positions if the stock breaches $140/Share. As a side note: Salesforce went from 10.5% market share in 2008 to 16.4% in 2009, their biggest jump in Company history. These SaaS companies really start to accelerate when shit hits the fan, CRWD is well positioned to mimic this phenomenon.
+
+Quick management overview:
+
+George Kurtz is their CEO - has \~30% of total Class B shares, controls \~23% of CRWD's voting power. Dude is 49 years old, been doing cybersecurity for nearly 30 years, & prior to CRWD was the worldwide CTO of McAfee. He later resigned from McAfee (where he was undoubtedly probably getting paid millions with a good shot at becoming CEO) to found CRWD with Dmitri Alperovitch & Gregg Marston. There are stories about what prompted the move, & one he usually talks about is how while at McAfee & on an international flight, he saw one of the passengers seated next to him boot up his laptop & wait 15 minutes for the McAfee AV software to load up to begin working. This story jives with my previous observation on the light-weightedness of CRWD's product vs. competitors. Anyway, this dude is definitely in line to produce as many tendies as possible along with us as he has a million shares that vest in 48 equal monthly installments that began on 11/2018 & another 350k shares that vest over 24 equal monthly installments beginning in 11/2022. On top of this, he has $131mm / 2mm additional RSUs that vest in 16 equal *quarterly* installments which began on 12/2018 - meaning this huge chunk of RSUs are starting to hit their stride this year, & you know Kurtz is definitely going to do what it takes to maximize the value of this. \[10\]
+
+\[1\] [https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=7101aafb-4290-4945-af3a-dd1e79f73659&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=digestviewer](https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=7101aafb-4290-4945-af3a-dd1e79f73659&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=digestviewer)
+
+\[2\] [https://community.mcafee.com/t5/Endpoint-Security-ENS/ENS-10-6-10-5-4-McShield-Average-Memory-Usage/td-p/596633](https://community.mcafee.com/t5/Endpoint-Security-ENS/ENS-10-6-10-5-4-McShield-Average-Memory-Usage/td-p/596633)
+
+\[3\] [http://www.ingrammicro.com/healthcare/TrendMicro\_enterprise-security-endpoints.pdf](http://www.ingrammicro.com/healthcare/TrendMicro_enterprise-security-endpoints.pdf)
+
+\[4\] [https://go.crowdstrike.com/rs/281-OBQ-266/images/WhitepaperGuidetoAVReplacement.pdf](https://go.crowdstrike.com/rs/281-OBQ-266/images/WhitepaperGuidetoAVReplacement.pdf)
+
+\[5\] [https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/crowdstrike/product/falcon/alternatives](https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/crowdstrike/product/falcon/alternatives)
+
+\[6\] Wall Street Research -  July 8, 2019
+
+\[7\] [https://ir.crowdstrike.com/node/7686/pdf](https://ir.crowdstrike.com/node/7686/pdf)
+
+\[8\] [https://www.forbes.com/sites/louiscolumbus/2020/04/05/2020-roundup-of-cybersecurity-forecasts-and-market-estimates/#1dd80739381d](https://www.forbes.com/sites/louiscolumbus/2020/04/05/2020-roundup-of-cybersecurity-forecasts-and-market-estimates/#1dd80739381d)
+
+\[9\] [https://ir.crowdstrike.com/static-files/547e5c92-3594-4eef-9dfc-9eca37b635f4](https://ir.crowdstrike.com/static-files/547e5c92-3594-4eef-9dfc-9eca37b635f4)
+
+\[10\] [https://www.bamsec.com/filing/104746920003177?cik=1535527](https://www.bamsec.com/filing/104746920003177?cik=1535527)

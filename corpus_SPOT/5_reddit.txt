@@ -1,0 +1,191 @@
+Greetings to the most intelligent people on the planet!
+
+I've been playing with GME and the other charts recently, and it all accumulated into a massive piece of delicious TA,  which I didn't really plan to post to WSB originally - because I felt like some of the honorable WSB residents might be a little tired from that particular stonk. However, after seening [this](https://www.reddit.com/r/wallstreetbets/comments/pppfro/tmc_spotted_the_cock_and_balls_upside_down_head/) and [this](https://www.reddit.com/r/wallstreetbets/comments/pph9f0/as_you_can_see_tmc_is_forming_a_classic_nut_sack/) beautiful examples of intellectual superiority, I just couldn't resist sharing my hard work with you, dear WSB!(If you, dear reader, are the one who is fed up with GME, then I would recommend you stop reading now and follow the two links above to appreciate HQ TA on other stonks).
+
+For those, who stayed - enjoy the read!
+
+It all started from my “L'Oreal shampoo commercial”-like hair bet post, where, in its third chapter, I was theorizing about GME's negative beta (particularly in light of the late January events, when the buy button was disabled) and the current general market setup - how it might influence subsequent GME moves. So, I decided to dive deeper into those correlations and deviations between the price movements of GME and other major assets, using January sneeze as the starting point. This led me to a fascinating, tits-jacking discovery that points at the upcoming inevitable volatile price action!
+
+Buckle up for the TA journey of your life, let’s ~~dive~~ fly in!
+
+Oh, almost forgot to quote Jack Black:
+
+>“This is not the financial advice, no.  
+>  
+>This is just a tribute.  
+>  
+>Couldn't remember becoming a financial advisor, no.  
+>  
+>This is a tribute, oh, to the greatest stonk in the world, alright!”
+
+&#x200B;
+
+First things first, it’s a good idea therefore to revisit **late Jan events**, which in my opinion was the moment of revelation and a preview of inevitable storm, when:
+
+&#x200B;
+
+# I. The North Remembers:
+
+&#x200B;
+
+&#x200B;
+
+[GME v VIX v SP, 30 min chart](https://preview.redd.it/yu1zzckpa2o71.jpg?width=2388&format=pjpg&auto=webp&s=e10bd82e172e82ea16a68da5c9c4a9c3e07f70ff)
+
+* GME shares added more than 500% in less than two days, showing off its negative beta in all glory,
+* making VIX volatility index explode more than 60% in a single day,
+* and injuring SP badly (sharp decline of about 4% in 21 hours).
+
+&#x200B;
+
+At this point, the thesis should sound something like GME🆙VIX🆙=SP🆘, and vice versa. It will be developed further in the next chapters.
+
+&#x200B;
+
+Also, quoting my bet post here:
+
+&#x200B;
+
+>Pepperidge apes should remember that during one of the Gamestop congressional hearings Vlad 'the Stock Implaler' Tenev mentioned something about late January events falling into five-sigma category, which scientifically speaking corresponds to a p-value, or probability, of 3x10-7, or about 1 in 3.5 million. He also used such a hackneyed expression as a 'black swan' event.  
+>  
+>...  
+>  
+>Categorizing January craze as five sigma is debatable to say the least, because Gamestop shares started to skyrocket and multiply in price long before late January, and it doesn't take a lot of wrinkles to understand that the volatility should likely increase further, requiring additional collateral and somewhat decent risk management. However, I'm not going to discuss Vlad's choice of sacrificing Robbinhood users (disabling buy button) in order to protect the solvency of Robbinhood customers (Citadel and co), because that has been done enough times already, and the North remembers. Rather, Robbinhood example and Vlad's interpretation are provided here as a vivid illustration of the fact which we all feel deep inside: there is just too much risk in the market, it is being too much fucking over-leveraged so that even a fucking retail stock broker may easily get margin-called in a matter of hours. It is especially hilarious, considering the fact that unsophisticated actions of buying and holding a particular stock is enough to fuck the system, making the entire house of cards fall apart. The problem is that when you dive deeper, 2008 seem to be a blessing.
+
+&#x200B;
+
+Furthermore, I should recommend  you reading u/peruvian_bull Endgame series, and/or u/Criand the Bigger Short in order to develop the understanding of the fundamental processes taking place under the hood of the financial markets. To sum up the core idea: the financial system is over-levereged, way more than it was in 2008, and coupled with the industry poor risk assessment standards, it is heading to the next, coming soon, financial crisis. And, in my opinion, what you can see on the charts above, was a sneak peak of the house of cards collapsing. Disabling the buy button was the only option for the big moni guys to stop (or rather to postpone) the system failing miserably. By bringing this dirty trick into play they were able to ~~buy~~ steal some time, which was necessary for deploying emergency measures and urgent market mechanisms (such as new DTCC/NSCC rules) - which, in turn, are aimed at mitigating the inevitable financial hail**shit**storm, ready to hit the fans.
+
+There is a plenty of outstanding fundamentals DD on that topic (start from clicking profiles in the paragraph above). As for me, I am the TA type of a wrincle-brained ape, so...
+
+Let me speak from my ~~heart~~ charts.
+
+&#x200B;
+
+# II. Negative beta more beautiful than Catherine Zeta
+
+&#x200B;
+
+Let's start from something that you must have heard about many times, but did you really dive into GME exceptional beta? So, what's that thing and why is it so negative? For the sake of saving my and your time, let me quote the almighty Inve**stop**edia:
+
+&#x200B;
+
+>In investing, beta does not refer to fraternities, product testing, or old videocassettes. Beta is a measurement of market risk or volatility. That is, it indicates how much the price of a stock tends to fluctuate up and down compared to other stocks.  
+>  
+>The value of any stock index, such as the Standard & Poor's 500 Index, moves up and down constantly. At the end of the trading day, we conclude that "the markets" were up or down. An investor considering buying a particular stock may want to know whether that stock moves up and down just as sharply as stocks in general. It may be inclined to hold its value on a bad day or get stuck in a rut when most stocks are rising; whereas the beta is the number that measures a stock's volatility, the degree to which its price fluctuates in relation to the overall stock market. In other words, it gives a sense of the stock's risk compared to that of the greater market's.  
+>  
+>Beta is used also to compare a stock's market risk to that of other stocks. Analysts use the Greek letter 'ß' to represent beta.Beta is calculated using regression analysis. A beta of 1 indicates that the security's price tends to move with the market. A beta greater than 1 indicates that the security's price tends to be more volatile than the market. A beta of less than 1 means it tends to be less volatile than the market.  
+>  
+>**Negative beta**: A beta less than 0, which would indicate an inverse relation to the market, is possible but highly unlikely.
+
+Essentially, negative beta asset is an asset that tends to move in the opposite direction from the general market. Famous precious metal is one of the good examples: gold and gold stocks have negative betas because they tend to do better when the stock market declines. That is exactly the reason why investors cherish this asset in the turbulent time of recessions, market crashes and corrections, or general uncertainty and volatility - historically gold tends to perform well during such periods, providing the 'safe heaven' to market participants and acting as a hedge. Noice, but this turbulent time we have something special on the horizon.
+
+\*\*Le wild negative beta unicorn appears\*\*
+
+[Captain GME to gold](https://preview.redd.it/rpv734w9c2o71.png?width=471&format=png&auto=webp&s=56080fa590e5ecb6f65ad1a72329cd4d12569014)
+
+Many of you must have seen -ß posts, but math and numbers are for geniuses, retards only understand crayons and visuals, so...
+
+Ladies and gentleapes, with the great pleasure I present you the new negative beta king:
+
+[GME v SP, daily chart](https://preview.redd.it/iwtaoohhc2o71.jpg?width=2039&format=pjpg&auto=webp&s=67b2824b31bf155c6f7d5f992c5141f67a82cdfb)
+
+What you see on the chart above is a vivid illustration of GME's negative beta behavior, which commenced during/after the January sneeze. As for SP, the stable uptrend with the minor corrections is evident, while the asset is achieving ATHs on a regular basis. Looking at the GME now and connecting its highs with the median line, we may observe the opposite trend, as the line is descending. All in all, there is a big-ass convergence manifesting between the two assets, which most probably will result in the increased volatility and the explosive GME breakout / trend reversal for SP. Who will blink first?
+
+&#x200B;
+
+[GME v SP daily chart + Tower of Pisa](https://preview.redd.it/3fiwmwwqc2o71.jpg?width=2033&format=pjpg&auto=webp&s=63ecddcaa4651b946a4df8541409c8d8e547d435)
+
+Next, take a look at this chart. Don't worry about GME's Pisa offset here, as it is insignificant for the point I'm making (and I had some struggles overlaying the charts in this case). If the previous chart indicates a longer term negative correlation, the one above is like a zoom in: there is an obvious series of divergences and convergences highlighted yellow and blue respectively, which illustrate negative beta again, but on a smaller scale and with local trends. As you can see, as soon a GME bullrun commences and accelerates, SP dips, and vice versa. I hope, that the examples provided are persuasive, and that they helped you to reach the same conclusion as I did, namely: sstonk goes up when stonks go down, while when stonks go up, GME is suppressed = GME🆙SP🆘. Should that correlation continue manifesting itself (which I'm pretty damn confident it will), the exciting times are on the way.
+
+Ok, so 🆙🆘 is a simple concept, but why is it important, you may ask.
+
+Well, that's why:
+
+[SP, daily chart ](https://preview.redd.it/6b41eaewc2o71.jpg?width=2388&format=pjpg&auto=webp&s=d9ae4bdc7758ecdbc84425e6ea567e1d4243f9e1)
+
+SP has been forming a powerful bearish technical formation called the rising wedge, through the past year and a half. Currently it is narrowing down, and the point of breakout is not far away - typically it is to the downside for such a technical setup. Add GME with its negative beta to this equation - if you know, you know.
+
+[SP 4H chart, I called it ‘Head of Penis’ formation ](https://preview.redd.it/sbs9va8od2o71.jpg?width=2388&format=pjpg&auto=webp&s=ce9b57e1a6fa2020ac1c91218ad5d462ceda5d07)
+
+But wait, there’s more!
+
+[SP, monthly chart ](https://preview.redd.it/1goqfoa2e2o71.jpg?width=2388&format=pjpg&auto=webp&s=e3eefcd4720f38907877a2791ea642c3955122b5)
+
+In one of my TA longwrites, the Big Short 2.0, I identified a beautiful, long term, juicy Elliott 1-2-3-4-5 impulse wave structure on SP, take a look! The investors are currently riding the top of the fifth wave, which is usually the most fun, euphoric and crazily risky. Everything in the nature works in cycles, and all the things that go up, must go down eventually! Considering the current bullrun being one of the (if not THE) most powerful and longest bullruns in history, you can imagine how nasty the retrace may look this time. Especially, when you take into account the fact that current financial markets are filled with shitty synthetic derivatives, excessive leverage of a bad quality, unthinkable level of risk, and... plain fucking crime. The financial world is craving for the correction (like Sahara for rainfall) and a proper bear market, as the deleveraging will make it healthier, and maybe, just maybe, it will bring price discovery back to life from the grave where it has been rolling for I don’t know how long.
+
+Man, I wish there was a safe heaven asset that would protect me from the upcoming financial typhoon, the price of which would move the opposite way from the overdue nasty correction on all financial markets, which have been enjoying the most powerful bullrun in history for more than ten fucking years... Oh, wait!
+
+[Vasco da Gama can’t be wrong ](https://preview.redd.it/gt1rnbz7e2o71.png?width=571&format=png&auto=webp&s=9f6db503236cce3d87f8c4511221e8b5e30f91bb)
+
+&#x200B;
+
+# III. Chew it Over with VIX
+
+&#x200B;
+
+Next, let’s talk about Volatility Index - what I noticed recently, is that VIX is often being neglected in the TA discussions, and in general also, so it’s a good idea to show it some love. Especially since GME and VIX correlate to a considerable fucking extent, but later on that.
+
+To begin with,
+
+[VIX, monthly chart ](https://preview.redd.it/1fcd3vlge2o71.jpg?width=2388&format=pjpg&auto=webp&s=78c23f899b3d623552b4b402c0abe74266108223)
+
+The chart above is provided for the visual explanation of how this instrument behaves. In short, markeds kaboom TWIX wroom wroom. In essence, the Cboe Volatility Index is a market sentiment tracking index that represents the market participants expectations for volatility over the coming 30 days. Volatility, or the severity of price fluctuations, is usually helpful to gauge market sentiment, particularly the degree of fear and uncertainty spreading on the financial markets. Investors use VIX to measure the level of risk, fear, or stress in the market when making investment decisions. It is an important index in the world of finance because it provides a quantifiable measure of market risk and investors' sentiments.
+
+And who would have guessed, throughout the year VIX spikes have been accompanying almost every single GME major run, but for one:
+
+[GME v VIX, daily log chart](https://preview.redd.it/ksd03p5pe2o71.jpg?width=1969&format=pjpg&auto=webp&s=835dee5dd6c8b5367088857995e01a720f41f13a)
+
+Just one major outlier to that tandem is late November 2020 run. Speaking of outliers, also VIX middle of June 2021 spike seems to stand out from the crowd, as there is no relevant proportionate positive price action on the GME side. Outside of those two occasions, the correlational behaviour of these two instruments is evident. Moreover, VIX and GME runs correlate to the extent that their peaks match time-wise in several run ups. Furthermore, take a look at how starting 2021 four out of five major VIX spikes correspond with the occasions when GME’s price action was trialling $230-ish level (margin call level, it seems) - the price territory, around which my concept of the ‘Purple Haze’ resistance (“break to initiate the squeeze”) is established, refer to the short squeezes comparisons post to explore the concept. The correlational behaviour described above, to my understanding, points at two big conclusions: the first and the most obvious one, is GME🆙VIX🆙; secondly, it seems that GME is currently the biggest risk for the market! - too much synchronicity is present between the two, for this to be a mere coincidence. Remember, VIX represents volatility, fear and stress - wut feelin Kenny?
+
+Oh, and did I mention?
+
+[VIX, daily chart ](https://preview.redd.it/q0hb68xue2o71.jpg?width=2388&format=pjpg&auto=webp&s=2bcfaadcd5304e1c57307f4b954759dd402f33f8)
+
+During the year and a half, the instrument’s price action has been consolidating into a beautiful bullish formation, called the descending wedge - which is exactly the opposite of what SP is consolidating into. VIX descending wedge + SP rising wedge + GME🆙VIX🆙SP🆘, quick math, and
+
+[We get an ape’s best friend, Gator the Bubbles Deflator \(the Greater\).](https://preview.redd.it/2fzj2pdye2o71.jpg?width=2032&format=pjpg&auto=webp&s=ecbdb4676a65c16dee75b9d3613fde91cecf7335)
+
+If you know, you know.
+
+&#x200B;
+
+&#x200B;
+
+# IV. This is the tits-jacking part. Achtung! You have been warned!
+
+&#x200B;
+
+&#x200B;
+
+Alright, that was quiet a TA journey. I hope that the discussion above helped you to build the solid understanding of what's happening on broader financial markets and how those correlations and tendencies are affecting GME price action, and will probably add the fuel to the rocket in the upcoming major GME moves. Now, the focus of the discussion is back on the GME current TA status quo! (yeah, finally!) And, what can I say, it is so fucking juicy!
+
+Firstly, let me remind you about this TA of mine, which aged like a fine wine:
+
+[GME, daily log chart ](https://preview.redd.it/ibiauo96f2o71.jpg?width=2388&format=pjpg&auto=webp&s=d4645e967977f6c91ad71f07546993dc6140fda1)
+
+The log chart support above proved itself to be an ape's ultimate best friend! As you can see, during the year, each time the price action approached the lower support, a sharp re-bounce followed - August and September confirmed the price line as THE most important support, manifesting the steadfast buying pressure. That pressure is currently confronting the most important resistance for GME in 2021 (magenta line). The battle will be legendary! (Hint: remember the current market setups discussed in II, and III, and the correlations? Based solely on that, what do you think the GME breakout will look like?)
+
+But wait, there's more! Let's change the viewing ~~tri~~angle:
+
+[GME, daily chart ](https://preview.redd.it/nii0wtvhf2o71.jpg?width=2388&format=pjpg&auto=webp&s=d29dc68d5034aa1a8258a22dae522f241ab3b196)
+
+Hm, looks familiar. I swear, I must have seen this TA setup before! Oh...
+
+[AMC, daily chart - 4 months old analysis ](https://preview.redd.it/aahe793pf2o71.jpg?width=2388&format=pjpg&auto=webp&s=ce50af7363612d218d3f98ba410416dbc1e3cbdd)
+
+Take a look at beautiful triangular wedge formations at the core of each chart. Retardos love triangles, and this love has a fair justification. Triangles incarnate the flattening of the price accompanied by diminishing volatility - for the price action subsequently to make a fucking explosion, should the triangle be broken out. The perfect example of that is theatre stonk’s price action after the breakout. \*\* GME: "Hold my beer" \*\* I'm pretty much convinced, that the triangle on GME chart above is how the Mother Of All Triangles must look like.
+
+Butth waaitt, therrz moooore! How about a monthly log chart bullish pennant?
+
+[GME, monthly log chart ](https://preview.redd.it/1sni96uyf2o71.jpg?width=1668&format=pjpg&auto=webp&s=8fadb4dbf28a61c83bcca28d30dc50e49df0114e)
+
+Chapter IV, TL;DR:
+
+[If you know, you know.](https://preview.redd.it/nockp5t5g2o71.jpg?width=1604&format=pjpg&auto=webp&s=4f8bf91be3db5fa7c09fe3a642966de613be8443)
+
+Well, such a good note to end this massive piece of delicious TA on! What do you think, fellow professional investors?
+
+&#x200B;
+
+**TL;DR: there is a strong correlational behaviour which goes like GME🆙VIX🆙SP500🆘, and which is evident when you overlay and compare the charts. According to the current ‘the everything GME’ market setup, GME is ready to moon fuelled by the upcoming massive VIX spike and the sharp SP 500 !negative beta rulez! correction (which is way overdue already, as the rally is longer than 10 years and SP is craving the proper bear market). Based on the TA outlook, the moment of revelation is just around the corner... There is only one safe heaven to protect investors from the upcoming financial typhoon, which goes by the name GME, so buckle the fuck up, shrinky brain astronauts primates! What a time to be alive!**

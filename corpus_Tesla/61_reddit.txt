@@ -1,0 +1,64 @@
+ Hey guys,
+
+For those that don't know me, I wrote the original FSR dd (pinned comment has it - thanks automod)   
+ In this post I will be going over what happened this week to the FSR share price and what I see happening in the future. I will be sure to keep it short
+
+So first of all the Morgan Stanley PT was released:
+
+" Adam Jonas at Morgan Stanley resumed coverage of Fisker’s stock at the equivalent of a buy rating, setting a 12-month price target of $40, or 122% upside over Tuesday’s share price. He set out a bullish case scenario Price target of $90". After this, FSR rose 20% in a day. Pretty obvious, right? People see a PT higher than current price and want in.
+
+But then Henrik goes and kills sentiment by announcing a $600 mil convertible notes offering (link in comments) " $600,000,000 aggregate principal amount of its Green Convertible Senior Notes due 2026"
+
+Now, people straight away see "offering" and have flashbacks to every other goddamn company that diluted like shit and messed up all hopes of their share prices rising. But this is actually bullish, contrary to popular belief.
+
+In the words of **Dan Gonzales**, the **Investor Relations officer** for FSR:
+
+" Hi all. I am seeing some confusion on the board here and I wanted to try to address a couple things: 1) We've been very consistent that the $1 billion FSR raised in the SPAC funded the Ocean program to start of production. That is still the case and we don't want to touch those funds for other projects; 2) As the press release says, purpose of this fund-raising is to fund the PEAR development, and other potential exciting projects; 3) We have great balance sheet now but the time to raise add'l capital is when you can, not when you have to (like Tesla always did); 4) Converts are very standard product and generally include conversion premium. Meaning dilution doesn't happen at current price but something higher. Capped call raises that even more typically; look at other convert annc'ts for example. Just wanted to add some facts and clarification. "
+
+These are also "capped call transactions" What that means is that dilution is reduced either way, worst case scenario is still less than 20%. Also, not being due until 2026 puts faith in FSR's ability to actually produce the PEAR vehicle, which reduces the main bear thesis that FSR will never actually produce a vehicle.
+
+So now that we have the details out of the way, (check the links if you want more info), here is my theory and how I am playing this:
+
+&#x200B;
+
+[Finviz short data as of this morning](https://preview.redd.it/b9qc3349uzg71.png?width=178&format=png&auto=webp&s=a1eda8b35bd9d1dcc3440d2a458744ccc2a15820)
+
+&#x200B;
+
+[Marketbeat quotes 22&#37; short interest as of July 15. Consistent with Finviz 20&#37; yesterday, meaning shorts must be deep](https://preview.redd.it/wngu0iy9uzg71.png?width=516&format=png&auto=webp&s=7d93bff5c54e513964473a99799a7528a8b2177e)
+
+&#x200B;
+
+[15 min chart showing the previous weeks action. Note the massive gap up after PT announcement and the massive red candle before close today. 600 mil offering was the gap down](https://preview.redd.it/81fb7sjbuzg71.png?width=1306&format=png&auto=webp&s=f174a1ddbf80e5af9a1548be525e80f3d0aab43e)
+
+&#x200B;
+
+[ORTEX data straight after the large red candle before close today. Looks like SI doubled on that particular candle. 4 million volume too](https://preview.redd.it/0fhn971duzg71.png?width=131&format=png&auto=webp&s=bce1f83af6e395d8406c01891b5b75505e17651d)
+
+&#x200B;
+
+https://preview.redd.it/jx2w7q0euzg71.png?width=275&format=png&auto=webp&s=886b009f897eca62b85812801aae4e1021aca7bf
+
+Also interesting to note is the following, from Quant Data. If my math is correct, this is roughly 400k dollars in long term bets against Fisker.
+
+&#x200B;
+
+[From just before close. Same time as the massive red candle](https://preview.redd.it/vef4u62fuzg71.png?width=417&format=png&auto=webp&s=957d0db452fac644be574884ac2f6af3ae95b8a5)
+
+It should be obvious what the play is here. SHORT SQUEEZE!!!!! I am not a fan of "squeeze" plays as 90% of them are not true squeeze potential. "Apes" and "stick it to the hedgies" types are what ruined this sub. But this, I believe is potential to make money and thats what I like.
+
+Read my original dd to see my PT of $100 for end of year 2022, or $35 for end of 2021. At a current price that is almost 600% profit on share alone by next year. Adam Jonas seen what I see in this company, announced his PT and then the price pumped. Everyone who was short panicked, Henrik done them a favour by announcing (bullish) news that got misinterpreted as dilution, which stupid traders, theres a lot of them nowadays, decided to sell the news without researching. Shorts seen the opportunity to double down and are now 40% of the float SHORT!
+
+If I had to make a wild guess, I would say they have an average short price of around $17.50, just assuming they were short first time at 19.40 (strong resistance according to crayons and what is resistance anyway, but a place where most sell positions were placed - aka a price heavily shorted at) and short second time at 16.50 down to 15 (the entire fucking red candle before close today)
+
+Assuming anything above 17.50 causes pain for short positions, then it should be interesting to note the open interest on all the calls expiring tomorrow, mainly 18 and 20:
+
+&#x200B;
+
+[Calls on the left and puts on the right. Open interest is the far right number, check out 18 and 20 calls. over 3,000 and 7,000 OI respectively.](https://preview.redd.it/r3ein8iguzg71.png?width=1278&format=png&auto=webp&s=8f1e70839c1e21c613318f7ea950f4863d7655b2)
+
+This research paper titled " *A Market-Induced Mechanism for Stock Pinning*" (found on google scholar) essentially states that unusually large OI generally results in pinning to that price by expiry. By that theory, either 18 or 20 should act as a magnet for price all day tomorrow. From the paper: "**We argue that if the open interest on a particular contract is unusually large, Delta-hedging in aggregate by floor market-makers can impact the stock price and drive it to the strike price of the option**".
+
+Positions: 500 FSR shares at 15.50 at 5:1 leverage (been in since May, and accumulating since, dollar cost averaging). Price target is $100 by next year, and I will likely keep dipping in and out until then, mainly holding a core position of shares
+
+Tl;dr is the same as always: Read the whole fucking thing you half-assed dimwit, your fucking wife ain't gonna be proud to be married to a bum too lazy to do some actual reading. Like good god, Im handing it to you as it is.

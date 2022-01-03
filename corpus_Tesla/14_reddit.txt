@@ -1,0 +1,191 @@
+What's up Degernates?  The $DUDE here with my periodic "Dude Diligence" reports on $CLOV - Clover Health Investments Corp and thoughts on potential price action for the upcoming week.  Be prepared to read a little bit (and I realize what I have here is probably more reading than most of you crayon-eaters have done collectively since the first grade)  ...but it will be worth your time if you're seriously considering trading CLOV
+
+I want to start off with a quick intro- I'm a long-time lurker here on WSB but rarely post.  I joined a little over a year and a half ago right before COVID hit as the subreddit was on the verge of breaking 1M Degenerates.  I spend a bit more of my time on Twitter and am active there if you care to follow me aka, The $DUDE  ([https://twitter.com/nikiped1a](https://twitter.com/nikiped1a)).
+
+Anyway, I don't want to make this too long but I've been trading for about 16 years which started with a single $2000 deposit as a college student in my early 20s which was a good chunk of my net worth at the time.  That $2K has grown significantly over the years through working, trading and has been diversified into real estate as well.  I work in tech for a publicly traded software company and now have few healthy trading accounts (primary trading, IRA and Roth IRAs) where I mainly swing/momentum trade some YOLOs and occasionally invest longer term if I feel there's a disruptive technology/company w/ high upside potential.
+
+Originally I came to WSB for the memes and then quickly realized it was a really helpful community w/ useful crowd-sourced info, strategies and data in addition to the solid meme game.  That was before it exploded 10X in size over about a 6 month period time leading up to the GME and AMC squeeze craziness earlier this year.
+
+While I will say most of the info here is still good for the most part, you do have to dig a bit deeper now, verify a little more often and pushback on a lot more misinformation than in the "early days".  And that brings me to the point I'd like to speak about today.  Misinformation and how it has run rampant especially when it comes to Clover Health Investments Corp aka $CLOV.
+
+I've been trading this stock since late Feb and seen the many ups, then downs, then big ups again and then downs.  But more than anything, I've seen and still see the disruptive potential of A.I. in a dinosaur of an industry like Healthcare.
+
+Here's my fresh take since I know there are a lot of new traders/investors in CLOV and there's been a definite uptick of late in interest to potentially invest moving forward... (Disclaimer:  I am not a financial advisor, this is not financial advice, it is solely made up of my own personal opinions.  I do currently hold a position in CLOV for obvious reasons once you read through this)
+
+&#x200B;
+
+**STORY TIME**
+
+I'm going to start this all off with a little story...
+
+Once upon a time, there was this new fangled company called Tesla and it was forward thinking and it was technology obsessed and it was innovation first and they wanted to build cars.
+
+Well, the collective good ol boys (GoB) club that makes up the automotive industry saw this quirky autist-lead company and laughed at them and pointed fingers at their silly electric motors with "auto pilot" and weird frunks and batteries- WTF??.
+
+The GoB don't like disruption.  Instead, the GoB loooove the status quo- because they're on top and in control, so why wouldn't they?
+
+This TSLA company didn't care that they were getting the cold shoulder and started to build their cars that were "never going to succeed" anyway and they were actually pretty f\*cking bad ass.
+
+"...There's no way this TSLA is a viable long-term company- they don't have the recharging infrastructure, there will never be adoption by the masses and ultimately they'll run out of money, " sneered all the GoB execs along with the know-it-all stock analysts, big banks as well as Jim Cramer and all his Wall St. buddies.
+
+And then something weird happened ...people started buying these electric cars ...and buying them even more and buying them even faster.   We all know how this story ends.  The GoB are now scrambling to catch up and acquire similar technologies to compete w/ the O.G. disruptor.
+
+This is what happens with disruptive companies- they see problems and their leaders are visionary problem-solvers and refuse to follow inefficiency and the status quo.  And it's weird because when these disruptive companies pop up, you'd think they would be praised and their industries would welcome their new ways of thinking.  But that's not real life- instead they're mocked and told they'll never make it and to give up because deep down the GoB know the legacy way of thinking is in danger of drastically changing and all of the sudden the go from leader to playing catch up.   So the collusion begins and they do all they can to ensure there's a failure to launch w/ negative publicity, or just ignored altogether, shorted to hell or option D:  all of the above.  Whatever it takes to kill off the "perceived threat".
+
+Well, there's another company similar to TSLA that's looking to disrupt another Dinosaur industry- Healthcare- and healthcare may be the oldest most dinosaur of the dinosaurs...  This company is $CLOV and why a lot of people in the rapidly growing community refer to it as #TeslaHealth.
+
+And before many of you in here sneer and mock- hear me out over the next few paragraphs.  I will support my DD w/ data, Press Releases, Quarterly Financials, etc, not opinions...
+
+&#x200B;
+
+**CLOVER HEALTH IS A TECHNOLOGY COMPANY FIRST**
+
+First and foremost $CLOV needs to actually be seen and recognized for what it is at it's core- NOT a meme stock.  **Clover Health, at its foundation is a Technology/ Artificial Intelligence company that just so happens to focus on the Healthcare/Insurance space.**   It's only a meme stock because it's heavily talked about here on WSB, but this is actually a long-term growth stock with rapidly improving fundamentals, massive growth... and down the list, the potential of a squeeze, but that is secondary in my mind.  I'm long on CLOV.
+
+&#x200B;
+
+**CLOVER HEALTH's MISSION STATEMENT**
+
+*Clover is a healthcare technology company helping members live their healthiest lives with its Medicare Advantage plans. On a mission to improve every life, Clover uses its proprietary technology platform to collect, structure, and analyze health and behavioral data to improve medical outcomes and lower costs for patients. As a company whose business goals fully align with its members' health needs, Clover works with members and their doctors to become a valued partner. Clover has offices in Nashville, San Francisco, Jersey City, and Hong Kong.*
+
+CLOV is a next-generation healthcare/insurance disruptor in that it has developed proprietary AI technology called the Clover Assistant (CA).
+
+**Clover Assistant Explanation Video:** [https://www.youtube.com/watch?v=TX4S8oDou4k](https://www.youtube.com/watch?v=TX4S8oDou4k)
+
+What's great about this is that it integrates with all FHIR EHR's (Electronic Health Record systems) ...hospital systems, doctor's offices, pharmacies, etc. use EHR to store and manage patient info (similar to a CRM used by all businesses) and these can now all integrate easily with CA.
+
+This allows for real-time data visualization & reporting at doctor's fingertips so they can not only make the best possible decisions for the health of their patients based on all available info across all EHR systems, but also concurrently make the most cost-effective decision from a business standpoint (improved margins compared to competitors w/o a similar type technology.)
+
+In short, as doctors are empowered to make the best possible decisions, patients health is significantly improved having fewer issues long term, which leads to fewer hospital/doctor  visits and a dramatic reduction in overall costs.  Clover Assistant has the ability to keep people healthier, longer.  How is this alone not something we should all get behind for the general good of our population??
+
+**Aug 10, 2021 PR Link:**  Now integrates with all FHIR-enabled EHR's
+
+[https://investors.cloverhealth.com/news-releases/news-release-details/clover-assistant-now-supports-all-fhir-enabled-ehrs](https://investors.cloverhealth.com/news-releases/news-release-details/clover-assistant-now-supports-all-fhir-enabled-ehrs)
+
+**Sept 8, 2021 PR Link:**  Clover Health partners with largest EHR company AthenaHealth for seamless integration of Clover Assistant
+
+[https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-integrates-clover-assistant-athenahealths-market](https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-integrates-clover-assistant-athenahealths-market)
+
+You want to know what's also pretty f\*cking awesome that doesn't get enough talk time?  They could also potentially license the Clover Assistant software to other healthcare orgs at some point, i.e. Software-as-a-Service or SaaS.  I work in this space and have been selling SaaS contracts to large corporations for the better part of 2 decades.
+
+My previous company had a stock price of $15 when they were selling "perpetual licenses" aka, dinosaur software sales model.  ...when they switched over to a SaaS model, their stock price climbed to over $500 during the next 10 years.  Did I play my ESPP during this time?  Uh, you know I did!
+
+In summary... just this software licensing component alone could have a massive effect on longer term company revenue, if played correctly.  Of note, I don't think productizing CA for resale is currently in the works from what I've seen, so none of this potential is priced in yet.  If/when that happens, you will wish you put every single penny you have into CLOV.
+
+&#x200B;
+
+**TOTAL ADDRESSABLE MARKET**
+
+CLOV plays heavily in the Medicare Advantage space and potentially at some point Medicare as well.  Currently citizens in the US are eligible for Medicare at 65 years old and about 60M people total or 18% of the US population are on it as of 2019:
+
+Total Medicare Growth (Original Medicare + Medicare Advantage)
+
+[Total Medicare growth in US from 1990-2019](https://preview.redd.it/xkm6dlk8o5n71.png?width=779&format=png&auto=webp&s=48ef0dd7523641c089b72e8da7d0f9f468cb889d)
+
+Medicare Advantage Growth (26M Medicare Advantage vs. approx. 36M Original Medicare enrollees)
+
+[Medicare Advantage Enrollment 2000-2021](https://preview.redd.it/dt9mpi6b65o71.png?width=778&format=png&auto=webp&s=9d2aba04aafdb94478983e2c0be05f0a95bb1f24)
+
+Medicare Advantage is gaining market share vs. Original Medicare
+
+[Medicare Advantage Penetration 2000-2021](https://preview.redd.it/ty5snobk65o71.png?width=777&format=png&auto=webp&s=68e57e18123c0369310dba08c5c0b99a997c2ed2)
+
+Look at the Baby-Boomer jump beginning around 2006 and its resulting sharp increase.  It's expected to continue this rapid rise during the next decade and if the eligible age of Medicare is dropped from 65 to 60, that could add another 24+ Million (a potential 40% bump) to its total lives managed within the program.
+
+A unique component that CLOV has when it comes to lives managed is that it has a direct contracting entity (DCE) program.  This is unique Medicare program by the CMS (Centers for Medicare & Medicaid Services) has only offered this to Clover Health and 52 other organizations at this time.
+
+This has been a boon for CLOV as they have nearly doubled their lives on Medicare in just over 6 months (take a look at revenue a little further below in this DD to see what just a single  quarter offering this program has done for revenue.)
+
+**Info on DCE Program:** [https://www.cloverhealthpartners.com/en/](https://www.cloverhealthpartners.com/en/)
+
+**Quick Video on Program:** [https://www.youtube.com/watch?v=dlTnq7cIoKM](https://www.youtube.com/watch?v=dlTnq7cIoKM)
+
+(...and someone correct me if I state this inaccurately) but my understanding of DCE (and it's by far the most exciting growth component that I've seen so far related Clover's massive upward revenue trajectory from Q1 to Q1 ) ...under direct contracting entity, Doctors are able to sign patients up individually, outside of the normal Oct 15 - Dec 7th Medicare Open Enrollment period.
+
+&#x200B;
+
+**EXPLOSION IN REVENUE GROWTH YEAR OVER YEAR**
+
+Here are Data from CLOV's most recent Q2 10Q filing on Aug 11, 2021:
+
+**Total Q2 2021 Revenue was $412.5M, which was a 139.7 increase YoY** compared to $172.1M in Q2 of 2020.  $216.4M of that was just from Direct Contracting- are you seeing why I'm pretty stoked on this hyper-growth company?
+
+Total **revenues for the full 2021 year are now expected to increase from $810-$130M which was reported following Q1 earnings to $1.4- $1.5B** following Q2 earnings.
+
+Total Lives (customers) under Clover Health management at the end of Q2 was approx. 129,000, **an increase of 126.3% YoY GROWTH!!!**  This has mainly come from the DCE program since it has only been available to Clover since they were included in it along with 52 other companies earlier this year.
+
+**Lives under Clover Assistant management grew by 229% YoY.**
+
+**Clover expects a significant increase in total aligned beneficiaries on Jan 1, 2022**, when claims aligned beneficiaries for 2022 become active - Uh, you probably want to jump onboard sooner than later given this projection.
+
+If this alone isn't enough to get you to jump on board blindly w/ no questions asked, I don't know what to tell you.  If you can tell, when Q3 earnings are announced on or around Nov 11, 2021, CLOV could rocket if Q3 report is anything like Q2, especially with a couple of weeks of Medicare Open Enrollment being included in this upcoming ER.
+
+**CLOVER HEALTH's EXEC TEAM:**
+
+Take a look, you have a mix of former Google, Uber, (remember how I said it's a technology company)  United Health Group, McKesson execs... Their board
+
+Exec. Summary:  [https://www.cloverhealth.com/en/about-us/our-story](https://www.cloverhealth.com/en/about-us/our-story)
+
+...also, check this:  [https://www.globenewswire.com/en/news-release/2021/04/15/2210944/0/en/Demetrios-Kouzoukas-Former-Director-of-the-Center-for-Medicare-and-Principal-Deputy-Administrator-of-CMS-Joins-Board-of-Clover-Health.html](https://www.globenewswire.com/en/news-release/2021/04/15/2210944/0/en/Demetrios-Kouzoukas-Former-Director-of-the-Center-for-Medicare-and-Principal-Deputy-Administrator-of-CMS-Joins-Board-of-Clover-Health.html)
+
+Demetrios Kouzoukas also just joined Clover Health's board in April.  He is a former Director at the Centers for Medicare- he obviously knows how the program works.  Here is a brief snippet from the PR:
+
+***“...Demetrios is a significant addition to the Board. Having led the legal and regulatory affairs department of the Medicare division at UnitedHealth, he understands the opportunity and challenge of operating at scale. He has an encyclopedic knowledge of Medicare rules and regulations, combined with an incredibly astute business and strategy acumen. We are grateful that Demetrios is joining us on this very important journey....”***
+
+&#x200B;
+
+**CLOVER RAPID EXPANSION IN COUNTIES WHERE THEIR SERVICES ARE AVAILABLE**
+
+CLOV just expanded its market from 108 counties in 8 states to 209 in 9 states (101 county increase) as of June 24, 2021, meaning essentially all of the earnings data I listed above were from the smaller market, so growth will continue to accelerate rapidly
+
+PR Link: [https://investors.cloverhealth.com/news-releases/news-release-details/clover-plans-expansion-101-new-markets](https://investors.cloverhealth.com/news-releases/news-release-details/clover-plans-expansion-101-new-markets)
+
+If that wasn't exciting enough, shortly after announcing the new counties, they announced on Aug 3, 2021 they will be entering a new state, the 10th, with their new partnership w/ ValueH.  That state just happens to be the great state of Florida- the third most populous in the US and a huge Medicare state.
+
+PR Link: [https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-launches-florida-partnership-valueh](https://investors.cloverhealth.com/news-releases/news-release-details/clover-health-launches-florida-partnership-valueh)
+
+&#x200B;
+
+**HEADWINDS, MISCONCEPTIONS & OUTRIGHT LIES**
+
+Market manipulation w/ the price is probably the biggest headwind.  CLOV, along with GME and AMC have got to be the most manipulated stonk tickers in the history of the stock market.  Market makers, HF and shorts have had an uncanny ability to nearly always pin the price on Fridays just below the options Max Pain price collecting premium and allowing them to do it cycle after cycle so they're making up their borrowing fees while making significant profit on top as well.  The more of the free float investors buy up and hold, the less ability they have to short & manipulate.
+
+The second biggest headwind in my opinion is probably the collusion between analysts, Hedgies and who know's who else (it may be conspiracy theory, but I feel the big insurance players like United Healthcare Group, Humana etc. are all somehow involved behind the scenes) is involved in colluding with these corrupt analysts to provide totally false price targets, driving price down, while holding short positions.  Help me if I'm mistaken, but aren't PT generally upgraded and downgraded following big news like earnings, PR of new developments, etc?  With CLOV, it doesn't seem to happen that way, they're just downgraded haphazardly for no aparent reason other than those holding short positions are either in trouble, or have some quick money to be made.
+
+Loot at these situations below as examples:
+
+There are at least two instances the community has heavily documented where Bank of America (Kevin Fischbeck) initiated a large 700K short position and within days downgraded their PT from $15 to $10.  Obviously manipulating the stock price in their favor.  What's funny, it was just a month and a half earlier he issued a buy and the earlier $15 target... just doesn't make sense.
+
+The second was a small relatively unknown analyst from Cowen Research that just so happened to downgrade CLOV right as it was building a lot of momentum during the past few weeks.  No negative news- actually if anything, CLOV has had a ton of really positive news and it follows a blowout Q2 earnings.  I really believe it was a greasy attempt to help save a lot of Hedgies from getting stuck w/ a lot of options expiring ITM this past week when it surged 22% the day after Labor Day only to be hit w/ hard attacks.
+
+Cowen just so happened to **also initiate a significant short position right before their BS downgrade.**  Cowen has a pretty greasy track record of shady dealings and has been fined  heavily and had to address many lawsuits over the years.  Why would anyone even trust them with this terrible track record??
+
+[https://www.prnewswire.com/news-releases/lawsuit-cowen-fired-top-investment-banker-who-raised-concerns-about-the-banks-business-ties-to-russian-oligarch-vitaly-malkin-301090919.html](https://www.prnewswire.com/news-releases/lawsuit-cowen-fired-top-investment-banker-who-raised-concerns-about-the-banks-business-ties-to-russian-oligarch-vitaly-malkin-301090919.html)
+
+I've also heard people talk negatively about losses.  Well, when you're in healthcare, and we're in the midst of the worst worldwide pandemic in over a century, your Medical Cost Ratios will get out of wack temporarily and that is the case over the past couple of quarters.  MCR was at 111% during Q2, however, Q2 of 2020 (before much of the COVID expense hit) it was 70.1% according to their earnings report.
+
+[https://investors.cloverhealth.com/static-files/149b80af-b48f-419d-aa4b-ad5dca7801db](https://investors.cloverhealth.com/static-files/149b80af-b48f-419d-aa4b-ad5dca7801db)
+
+Free Cash Flow (FCF) has also been talked about and has been affected as this company is in growth mode, however, it has improved tremendously: +31% increase from Q1 to Q2.  It will be interesting to see where it goes for Q3.  Definitely moving in the right direction toward getting into the black.
+
+Also much of the expense costs for Q2 were one-time line items related to stock compensation and the cost of warrants to the company (warrants along added -$134.5M in debt)
+
+As of the end of Q2, CLOV had $630M cash and cash equivalents in the bank, so they can sustain losses for awhile without issue.
+
+&#x200B;
+
+**HOW TO TRADE CLOV**
+
+OK, this is getting kind of long, so I may type up another DD with more supplementary info, but I want to get into some of the anomalies specific to CLOV if you choose to trade/invest in this stock.
+
+Short Attacks:  Watch out for what looks like a mass selloff right at market open almost every day, shorts always short millions of shares each morning to kill off momentum and scare paper hands and inexperienced traders.  It generally comes back after about 10:30-11am ET when the shorts return their shares because they're just looking to scalp 10-40 cents or so each day and then return them for some profit.  If we're buying up all the float, and not allowing them be be shorted, HF and short's wont be able to do this and we start to gain ground.
+
+Which brings me to this- IF there's anything I hope you learn from reading my DD today, it's this:  **DO NOT BUY SHORT-TERM CALL OPTIONS ON THIS STOCK.  If you do, they will most likely end worthless on Friday's and you will lose your money.**
+
+I know options are normally an attractive opportunity to get into a stock inexpensively because if it moon's at some point, you make a grip on a small investment, but I've been trading this for months, and seen it happen many times over- you will lose your money.
+
+Instead, BUY ACTUAL SHARES!   Help buy up the float and HODL!!  This is going to be a volatile potentially few months as we start making progress vs. the shorts to jack them with an impending squeeze, options have not been working, nor will they, it appears, in the short term.  There may be some opportunity to buy and profit from options once momentum is in bulls favor, but that time is not now.
+
+I hope this was helpful, I know it's long, but if you made it to the end here, really consider getting into this stock, it has a lot of things going for it and it's only $8 right now.  Even without the squeeze potential that exists, this could easily be $20-30 with it's extremely rapid growth of their Direct Contracting.  If you're holding it long, then when the squeeze does happen, it's just gravy.
+
+I may have missed a few things, but if so, I'll just follow this up with another post here in the next day or two.  Would love to hear all of your feedback and/or differing opinions on this.  Happy investing fellow autists!!!

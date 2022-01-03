@@ -1,0 +1,131 @@
+Ahoy there fellow autists, its ye swashbuckling DD writer back from the Seven Seas. After spending two weeks in rough waters hunting for a play profiting off of JPOW’s money printer inflation, me ship has settled on the docks of **ZIM International Shipping Services Ltd.** Before the facts are laid out, the following disclaimers and positions are stated:
+
+🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️
+
+**Disclaimers: This is not financial advice. Any trades that you make are your own responsibility and yours alone. This DD is simply a summarization of public facts and knowledge with analysis applied. Again, nothing written here is financial advice. Furthermore, please leave any politics at the door or I will personally make sure you are banned for unnecessary discourse.**
+
+**Furthermore, even with a market cap of $5B the options chain has high OI already on long term calls and higher premiums, helping avoid the risk of algos messing with the stock.**
+
+**Positions or Ban: -  Disclosure - I own 25 shares of ZIM and 4 calls.**
+
+https://preview.redd.it/ggcpnk32na871.png?width=823&format=png&auto=webp&s=88eee359418d068ee8c069c1b59ea4c9a2dce03e
+
+https://preview.redd.it/nwv91t42na871.png?width=907&format=png&auto=webp&s=43ed0d79a7ba7b2211eb8c085660f4367c3b75a2
+
+# Who be the Jolly ZIM?
+
+[ Check out the CEO's new whip🏎️ ](https://preview.redd.it/y3tkqug3na871.png?width=641&format=png&auto=webp&s=71d6fc653e958fedd7d2df0effa284ffcf14bbff)
+
+Zim International Shipping Services is an Israeli based international shipping company that is headquartered in Norfolk, Virginia. As Pirates of the Zimmabean, it is a Top 20 global cargo carrier, and makes it possible for you to order a pocket pussy with Prime delivery. Leaving the politics aside, $ZIM was founded in 1945 right when the nation-state of Israel was beginning to form hundreds of thousands of immigrants began to travel there. These people were the first ‘cargo’ that ZIM ever transported. $ZIM ships throughout this decade further served as Israel’s only naval cargo system during the 1948 war with Palestine as military, freight, and ration supplies were all transported by them. They further profited in the 1960’s off reparations money given by West Germany which was then used to increase their fleet of cargo ships for international transport. This allowed for direct shipments to and from the United States which was net industrial exporter at the time. This initial tie with U.S. goods allowed ZIM to persist throughout the decades and become ye pirate chad that it is today. If you want to read the entire story of $ZIM and how they roamed as rulers of the sea like the Gigachad Pirates they are, refer to this [link](https://www.zim.com/about-zim/history).
+
+As of the 21st century, $ZIM has spent the last two decades as a private firm paying debt off, surviving through the Great Recession and maintaining thin margins until the COVID pandemic. This past January they IPO’d as rival pirates roamed the land hunting for the latest booty (RTX 3080s), and settled at a share price of $15. **As of today, Zim is up about 300% due to extreme shipping bottlenecks and sheer demand of goods as Captain JPOW ignores what can only be described as Inflation Nation.** However, as you hornswogglers abandoned the value ship for riskier assets like $CUMMIES, $ZIM has proved itself to be the mightiest in the seas.
+
+The Pirates of the Zimmabean have a vast network that rivals that of Jack Sparrow and his whores. With trade across nearly every shipping route, the world is $ZIMs oyster and the seas are its bitch... Due to increased good prices, they are primarily profiting off of Asia-United States trade routes and Southeast Asian intra-trades.  To date, they have approximately 99 vessels, 11 main trade networks, and hundreds of different sub-routes within these networks to major cities and capitals all around the globe.
+
+&#x200B;
+
+[ The Pirates of the Zimmabean have taken over the African coast and Southeast Asia with ease.  ](https://preview.redd.it/01vnnjs5na871.png?width=1135&format=png&auto=webp&s=a6801f4e0ee6d6dcd4d3a66a895807967f03fc75)
+
+[ As $ZIM maintains its global superiority, the Americans have fallen  under their grasp and are a prime location for ZIM to transport and yeet  goods from.  ](https://preview.redd.it/j01h5ls5na871.png?width=1533&format=png&auto=webp&s=98f5a6026c0de719427266b8019a60bfe80c7f72)
+
+# Jack Sparrow’s Inflation Fetish:
+
+**As Jack Sparrow once said, “If you were waiting for the opportune moment, that was it.”** The COVID pandemic essentially destroyed the supply chain as cargo ships were blocked from docking, unloading or even loading any goods within pre-pandemic timelines. As a result, many Californian and African ports are still seeing wait times of 2-3 weeks as backlogged ships continue to unload due to the rippling effect of the slowdown. With all of these goods occupied in containers and commodities rising exponentially in price due to said backlogs, there is a global shipping container shortage. Ships are needing to use every container available while the ports themselves have none to load new cargo back on. This has further led to increased shipping times and serves a negative feedback loop which I will go into more detail later in this post.
+
+Aye, so you retards be wondering why this matters heh? Generally speaking, dry bulk ships and their cargo is measured in Deadweight TOnnage, or **DWT**, which measures the \*\*“weights of the cargo, fuel, fresh water, ballast water, provisions, passengers, and crew.”\*\*However, the main unit of measurement used for containerships is the **TEU, or Twenty-Foot Equivalent Unit**. This unit of measurement TEU refers directly to the length of containers themselves. These come in sizes approximately 20-feet long or **1 TEU**. Some containers also come in a standardized size of 40-feet long , which is about **2 TEU**s and is accounted for accordingly in the containership’s cargo. This is also used because although the weight of the shipments also affects various costs, to standardize contracts and general measurements, the mass of the cargo cannot always be measured exactly. Therefore the TEU value is a better way of measuring.
+
+There are several different metrics to quantify these shortages:
+
+1. The Shanghai Containerized Freight Index for TEU shows an astronomic rise from $1000 at the end of 2021 to **nearly $3700,** **a 370%** increase. As long as these shortages remain, which they appear to, this price will continue to increase. However, given the time it takes to increase supply and the number of ships available, it will be **2023 before shipping rates lower to average numbers.**
+
+**Note that the TEU cannot be converted to mass because it is closer to a measure of space. We do not know the contents of any given container, and therefore cannot calculate mass (although in some circumstances you can infer the mass).**
+
+1. Retail inventories are at their **lowest in nearly 25-30 years** based on shipping orderbook-to-fleet ratios. This metric measures the number of container, drybulk, and tanker orders relative to the number of pirate ships available to fulfill said orders. However, over the past decade since 2009, many shipping companies went bankrupt as container prices continued to lower while demand was met. This leaves $ZIM in a prime position to capture even more niche locations of the market. **Furthermore, the average duration to build new ships is approximately two years, indicating that until 2023, the supply of global cargo ships will remain the same.**
+2. Due to commodity prices rising for both lumber and steel, the cost of the average LNG powered ship is being renegotiated constantly. To date, a large LNG powered container and drybulk ship costs double what it originally did, going from about $100M for a state of the art version to $200M currently. Arrrgh, that’s right mateys, inflation nation is here.
+3. Based on Harpex data, these values are based on the cost of chartering the ships themselves.Currently, the cost to charter an 1,100 TEU ship is $18,750 USD per day, and the cost to charter an 8,500 TEU ship is $71,000 per day. This indicates that charter rates are **triple and quadruple the average rates over the past decade. Rates only peaked this high around 2007 near the previous commodities boom.**
+
+# ZIM Be Looting The Seas:
+
+[ Remember this fucker? He be the sealubber delivering your Amazon Prime dildos.   ](https://preview.redd.it/7un05tr8na871.png?width=674&format=png&auto=webp&s=444acd4b34b7ce82117c314d481f0d69b0ba21a3)
+
+Containership rates continue to moon past expectations, with current ships being chartered / booked through 2022 and 2023, with most of the industry believing that these rates will hold through 2024. Unlike regular tankers (Obligatory RIP Tanker Gang), containerships are always transporting and have continuous shipments for **multiple years.** In terms of contracts, much of $ZIM’s 99 vessels are already booked **through 2023 and potentially 2024 if rates sustain themselves**.
+
+In the overall global trade market, $ZIM is a smaller player, which surprisingly gives them an advantage. They have **20% of shipment capacity in long-term contracts and 80%  in short-term contracts.** The Chad CEO, Eli Glickman, has already clarified that most of their charter contracts are short-term because he **sees high rates persisting for a long time**. This means he can suck more money out of his clients in the short-term because they are desperate for ZIM’s services while ZIM has the upper ground. Additionally, long-term contracts generally come with a discount for the client since they ensure multi-year business for the shipping company. **ZIM** plays it smart by taking advantage of all the short term players who will pay a high premium for any charter service needed.
+
+Furthermore, $ZIM also caters to lots of smaller trade routes including **intra-continental shipments**. As mentioned above, some of their best charters are between various Southeast Asian countries and African ports as well. **By focusing on both smaller and major trading routes, $ZIM is able to avoid many of the cascading backlog effects since there are less containerships operating in their waters.** Based on charter versus order data, many of ZIMs older vessels are also being retired and therefore scrapped, which may actually help reduce backlog and make their newer updated ships much more profitable.
+
+**However, ZIM continues to expand as well**. It is now one of the **biggest importers between Asia and the US East Coast with direct shipments to NYC and Savannah.** They have also begun to send smaller containerships on routes between Taiwan and Oakland for Pacific shipments, **which helps avoid the many, many backlogs other shipment companies are facing in L.A. and San Francisco.** (I will discuss this next).
+
+# Coastal Mutiny:
+
+[ “Uh…. Captain? I don’t think your wife is going to get those limited edition Pickle Rick butt plugs in time.”  ](https://preview.redd.it/vx96xx6ana871.png?width=781&format=png&auto=webp&s=d0ccd8bb3d272f57d8860f989bd7a80af8bc9a28)
+
+“Yarr, these swashbuckling whores be cock blocking the ports these days. The ol’ corona shit itself on the docks and me pirate ships have no place to land and recuperate.” \~ Blackbeard
+
+Ever since good old Captain Corona set sail on our sorry asses, ports at nearly every major trading route have been cock blocked. If you thought the Suez Canal blockage was large, its volume was tinier than your dicks compared to Chinese ports like the Yantian. **On average, they have a volume of 250K TEUs but within the past 2 months, this has nearly halved and has not risen back.** In Los Angeles, massive port jams and a lack of container supply to onboard more shipments have been fueled by labour shortages. The reopening has started, but the ports are still fucked.
+
+In a statement from their competitor’s parent operator:
+
+*“In 2021 carriers have missed (slide) a total of* ***121 sailings*** *into the \[US\] West Coast and 21 into the East Coast. As demand remains at an all-time high and backlogs in Asia continue to expand, the most common question remains why? The answer is directly tied to congestion levels across the entire network. One well documented and most clearly visible factor are* ***the port delays which on average stands anywhere between 1-3 weeks across the West Coast.*** *With each vessel making multiple stops, this naturally prevents them from being able to return to Asia to meet their next rotational departure. The outcome is an increase in what is described as a slide sailing. This occurs when all vessels on a string are in principle late due to the many delays, and as a measure to resolve the situation,* ***one or more planned sailings will have to be removed to realign the schedules.*** *“*
+
+Ports and vessels continue to face COVID outbreaks due to the nature of their international trips, forcing temporary stops, quarantines, and ultimately delays in the overall market. However, what this does accomplish is more long-term shipping rates at high levels due to low inventory yet high demand and purchases. **Competitors like Maersk Shipping** are operating on 20% reduced capacity while **$ZIM continues to increase the number of routes and vessels being employed due to their mixed small and large route shipping strategy, helping them bang bardy wenches and gain massive booty.**
+
+# Massive Booty Growth:
+
+**Alrighty MATEYS, it is time to do the annual counting of the booty. The Pirates of the Zimmabean have banged mums, shipped goods, and looted tendies throughout the year for financial success that Jack Sparrow himself would nut for.**
+
+**In the first quarter, $ZIM beat predicted EPS by 25% for a total of $5.13 relative to $4.09 predicted.** They also beat revenue with a posting of nearly $1.7B. For the entirety of 2021, the forecasted EBITDA has also doubled since previous targets, to approximately **$3.3B relative to $ZIM’s own guidance of approximately $2.5B, indicating a 32% increase**.
+
+Borrowing graphs from another post,
+
+[ Compared to every other shipping company, $ZIM has the largest EPS.  Furthermore, $DAC, which used to hold many ZIM shares, has slowly freed  them.   ](https://preview.redd.it/c4kawbadna871.png?width=659&format=png&auto=webp&s=2d8d5b935a1ea6c191aef723bf57adbee553416d)
+
+[ At the same time, $ZIM also has the lower P\/E ratio despite massive predicted EPS beats upwards of 30&#37;.   ](https://preview.redd.it/16zczdadna871.png?width=603&format=png&auto=webp&s=f91545f85941091a55f362fd1b2a7526010233af)
+
+Looking at $ZIM’s debt and leverage ratios, its competitors generally have about 3-5x debt-to-equity ratios after needing to raise capital and pay off business costs as a result of low investments in shipping. ZIM on the other hand stuck its golden crow up every crevice of the industry and maintains a **1.2 debt-to-equity ratio**, **a 66% decrease from 2 years ago**. In one year they payed off nearly **2 years of debt and continue to pay it off using the funds raised from this years growth.** It is important to note that this ratio is also lower than what most companies of similar size have. $ZIM also repaid $75M in bonds back to $DAC in April, which will also be beneficiary towards Q2 earnings.
+
+ZIM’s market cap is around **$5B while they have nearly $881 million in Free Cash Flow.** This is a ratio of about 5.67 which is quite good for most companies, and especially good for the shipping industry. Given current rate prices, it would not be surprising that this ratio goes down to about 3.
+
+Further comparing this value to ZIM’s forecasted EBITDA of **$3.3 Billion** by Citi Bank, and taxes of approximately 8.3%, the forecasted earnings for this year are approximately **$3.02B** which is nearly **60% of ZIM’s current market cap**. Using this value and the number of shares currently as approximately 114,508,115, **the final predicted EPS based on current guidance is about 26.37.**
+
+# With a potential EPS of 26.37, about 30-50% percent is being distributed as dividend, indicating a lower dividend of $7.91 per share and an average of $10.5 per share which is 24.5% yield. This is unheard of in terms of dividend and may attract Old Man Boomer as well.
+
+**Note: ZIM has already paid a $2 special dividend this year and plans to do so again in September.**
+
+# Assuming an average P/E of 3 based on current values, ZIM could be worth up to $79 by the end of the year, or about 83.7% upside. However, I believe that factoring in conservative estimates and it’s already 300% growth this year, $ZIM has a fair value around $60, which is still a 39% upside.
+
+# The Microsoft of Shipping:
+
+The Pirates of the Zimmabean learned the ways of electric dildos and cancer causing cellular waves and have utilized this \~cutting edge\~ technology to maximize the customer experience. Most companies be using old-fangled 1950’s technology and wooden sticks for sexy times late at night. ZIM is beyond that. On their digitization page, \[ZIM Digitals\]([https://www.zim.com/services/digital-services](https://www.zim.com/services/digital-services)), it advertises their custom software **myZim** to easily manage shipments, view various shipping rates, and make calculations about costs and deliveries. There are also more complex features such as tariff and toll charges as well as shipment tracking and **container tracking**. One thing that makes them quite different is a dashboard to see the pollutant impact of a client's shipment based on routes and the vessel size as well as shipment weight.
+
+One more controversial aspect that I saw is their **collaboration with $BABA aka Alibaba**, **Sparx Logistics, and Wave**, to implement **blockchain technology** for electronic billing services. From the **TImes Of Israel article**, *“Wave’s application functions through a “secure decentralized network,” the company said, and is free for shippers, importers and traders, requiring no IT or operational changes. The application makes sure that the digitized document remains true to the original throughout the shipment, detecting forgeries if they arise."*
+
+**All of these changes show me that ZIM is dedicated to changing its outlook and company for the better to adapt to new trends and technologies that will take them one step further past the traditional shipping companies.**
+
+# Analyst ANALysis:
+
+As always, it is important to consider the analyst side of the price since those groups dictate the market. **Jeffries rates ZIM as a strong buy with an average price target of $53 and an upper target of $60.** The lower target is $40 but this most likely will change for the better after Q2 earnings.
+
+**Zacks Investment Research** upgraded shares of ZIM Integrated Shipping Services from a "hold" rating to a "strong-buy" rating and set a $43.00 price target on the stock.
+
+However, \*\*many analysts are still at the lower end and have an average rating of about $39.\*\*This is most likely a conservative estimate and ZIM is most likely undervalued based on the current financial stats.
+
+# TL;DR / Conclusion:
+
+**Based on the financial analysis and current trends, ZIM is a longer term play with earnings catalysts upcoming for August 18th. Therefore August calls and LEAPS are ideal, as well shares to capitalize on the MASSIVE dividend. However, this is not financial advice.**
+
+# ZIM is a continuously growing, strategic shipping company, with leadership that continues to improve their services. Despite having much larger competitors, its fundamentals amidst current rates show that it is still undervalued. I believe it can reach $60 and my positions are contracts of Aug 50C and shares. I be off now, enjoy ye tendies, arghhhhh and remember, this is not financial advice.
+
+# Sources:
+
+**\[Zim Digitals\](**[https://www.zim.com/services/digital-services](https://www.zim.com/services/digital-services)**)**
+
+**\[Nasdank Info\](**[**https://www.nasdaq.com/market-activity/stocks/zim/earnings**](https://www.nasdaq.com/market-activity/stocks/zim/earnings)**)**
+
+\[Other ZIM Analysis\]([https://www.reddit.com/r/investing/comments/l9unrf/containership\_boom\_ongoing/](https://www.reddit.com/r/investing/comments/l9unrf/containership_boom_ongoing/))
+
+\[ZIM DD\]([https://www.reddit.com/r/Vitards/comments/mssma4/due\_diligence\_zim\_integrated\_shipping\_services/](https://www.reddit.com/r/Vitards/comments/mssma4/due_diligence_zim_integrated_shipping_services/))
+
+\[Article 1\]([https://www.timesofisrael.com/using-blockchain-israels-zim-eyes-sea-change-in-musty-shipping-sector/](https://www.timesofisrael.com/using-blockchain-israels-zim-eyes-sea-change-in-musty-shipping-sector/))
+
+**\[My DD Writing Song\](**[**https://youtu.be/jEg9P6-ysJM**](https://youtu.be/jEg9P6-ysJM)**)**

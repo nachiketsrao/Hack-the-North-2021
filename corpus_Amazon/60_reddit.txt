@@ -1,0 +1,243 @@
+Glad everyones having fun with MVST. If you’ve liked the recent price action on that, here's another EV supplier play that I believe has similar multibagger potential. Important bits bolded and tldr at the bottom if you can’t read too well.
+
+**Table of Contents:**
+
+I. Introduction
+
+II. Overview
+
+III. Partnerships
+
+IV. Sales
+
+V. Advantage
+
+VI. Connections
+
+VII. The Plunge
+
+VIII. Financials
+
+IX. Growth and Long Term Strategy
+
+X. Conclusion
+
+**I. Introduction:**
+
+Proterra designs and manufactures zero-emission electric transit vehicles and EV technology solutions for commercial applications. Founded in 2004, Proterra is a monster in electric bus manufacturing in the United States, with over 600 busses delivered, 750 million in backlog, and over 20 million miles of service[ already bagged.](https://www.proterra.com/) The company has a very bright future no matter what, but the Infrastructure bill makes that future a whole lot brighter.
+
+The bipartisan Infrastructure Bill has about 1 trillion dollars for various projects and initiatives with WSJ reporting that it is expected to include “**$39 billion in new funding** to modernize public transit and[ replace thousands of buses](https://www.wsj.com/articles/infrastructure-agreement-on-major-issues-reached-by-bipartisan-group-gop-negotiator-says-11627487459) with zero-emission vehicles”.
+
+Now, the specific language of the bill has not been written yet, but even a fraction of this $39 billion would represent an **absolutely massive, and I mean truly gargantuan, increase in funding for electric busses**. Right now, the main way electric busses get funded is through the Federal Transit Administration’s Low or No Emission Vehicle Program (“Low-No”) [which has only given about $600m over the last six years](https://www.atlasevhub.com/data_story/more-than-2-6-billion-in-public-funding-for-evs/). No, that's not $600m per year, t**hat's $600m overall**. That means that funding for electric transit busses is about to jump from around an average of $100m per year to having access to a potential $39 billion. Even just $1 billion of this would represent a **1000% increase in funding**. This legislation represents a seismic shift in the electric bus market that would supercharge any companies in this particular sector, with analysts predicting this new money will balloon the US ebus market[ five-fold to $2.7 Billion by 2024 alone.](https://www.reuters.com/business/sustainable-business/five-facts-why-electric-buses-are-key-bidens-green-agenda-2021-07-14/)
+
+Two companies stand out in this regard: Proterra, and BYD.
+
+BYD is a Chinese manufacturing company that, among other things, manufactures a shit ton of electric busses. In China, they fill contracts ranging in the [tens of thousands](https://insideevs.com/news/521895/china-byd-plugin-sales-june2021/). In the US, their subsidiary has completed some of the largest electric bus contracts in the US and is aggressively moving to expand production, technical capacity, and acquire more contracts.
+
+They have one big problem though. Politicians in both the Republican and Democratic parties have acknowledged the rise of China linked energy companies as a threat to US national security. Nobody wants to move from having OPEC hold us by the balls by controlling oil supplies to China suddenly having an undue influence on the very means of public transportation in our streets.
+
+Due to this, at the end of 2019[ Congress passed language](https://www.wsj.com/articles/congress-wants-to-ban-chinese-buses-railcars-in-defense-bill-11575927925) in the National Defense Authorization Act that bars use of federal funds to purchase Chinese busses. In fact, they [explicitly called out BYD by name](https://www.freightwaves.com/news/lawmakers-slam-china-controlled-truck-maker-byd-as-threat-to-u-s) as a national security threat and prime target for blacklisting from taxpayer money.
+
+This means that there is a relatively good chance that BYD will struggle to receive much of the proposed funding for bus electrification in the upcoming Infrastructure Bill. Even with them having a unionized, American workforce in 99% American factories, they still have not been able to convince politicians that they match the requirements for “Buy American” initiatives.
+
+Therefore, a sizable amount of the remaining money designated for electric bus adoption will fall to the other top electric transit bus maker in the United States: Proterra.
+
+**II. Overview:**
+
+Based in deep blue California with a factory in red South Carolina, Proterra is the ideal vehicle to advance Democrats' vision of enacting deep climate change fighting policies as well as providing good, well paying American jobs to boost local manufacturing industries. Indeed, Proterra has already been recognized by the current administration as vital to future Democratic political ambitions, with President Joe Biden[ touring their plant virtually](https://www.greenvilleonline.com/story/news/local/greenville/2021/04/20/joe-biden-visit-greenville-sc-virtual-local-electric-bus-manufacturing/7300675002/) and Vice president Kamala[ touring their partner](https://www.schoolbusfleet.com/10141979/thomas-built-buses-gets-visit-from-vice-president-harris-during-earth-week) Thomas Built Busses in person.
+
+Transportation in the US currently accounts for[ 29% of all US emissions](https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions), making it the highest contributing sector to CO2 levels. A strengthening of public transit and an increase in electric bus adoption[ would make more of a difference than almost any other policy](https://mobile.reuters.com/video/watch/why-electric-buses-are-key-to-bidens-gre-id732925804) the White House could enact.
+
+Despite this though, only[ 2% of US busses currently are electric](https://electricvehicles.in/electric-bus-revolution/). Comparatively, China, at the end of 2017, was hitting at least[ 17% of busses being electric](https://www.sustainable-bus.com/electric-bus/electric-bus-public-transport-main-fleets-projects-around-world/) while, overall, [99% of electric busses world wide](https://content.sierraclub.org/evguide/blog/2018/05/when-it-comes-electric-buses-china-killing-it) are being produced in and for China. This is not even mentioning huge electric bus orders in both India and throughout Europe that easily outpace America's own efforts. The United States is badly losing the Green tech race, by almost every measure.
+
+The Infrastructure Bill, however, promises to turn that all around. And a land where no one wears shoes is a prime opportunity for a shoe manufacturer.
+
+Due to this, there are many companies that will inevitably benefit. New Flyer, Lion Electric company, Vicinity Motors and other electric bus makers will most likely see significant upside from upcoming government subsidies and contracts. However, Proterra stands out as the number one domestic pure electric bus maker in the United States with extensive recognition by the US government.
+
+More significant than any of this though, is that the main advantage Proterra has over other electric transit bus companies is that **PROTERRA IS NOT AN ELECTRIC BUS COMPANY**. Though most people, including the government, recognize Proterra as a leader in the US ebus market, their true potential and current market strategy is so, so much more.
+
+Proterra has three modes of revenue: Powered, Transit, and Energy.
+
+* **Transit:** designs and builds the busses
+* **Powered:** develops and distributes electric powertrains and battery system for various commercial vehicle partners
+* **Energy:** offers full scale electric support infrastructure in terms of design, build, financing, operations, maintenance and energy optimization.
+
+This means that while building electric busses is currently their bread and butter, their business is increasingly having to do with **Proterra Powered** and being more of a pick and shovel play: providing complete battery packs, technology, and powertrains to other companies looking to go electric. To simplify this, it means that instead of trying to build a whole new electric vehicle and market it to potential customers, Proterras strategy is instead just focus on the battery and electric parts while partnering with already established big name brands to let them build the actual vehicle. This allows for them to straighten profit margins and avoid competition with older companies.
+
+In essence, this massively expands their potential market penetration and enables them to surmount being pigeonholed into one particular sector, like how many of their competitors are in the commercial transit bus market.
+
+**III. Partnerships:**
+
+And before you think this is some pie in the sky vision they have, the reality is that Proterra is already the #1 leader in electric commercial vehicles with a ton of key partnerships with established blue chip companies. These partnerships are the foundation to Proterras long term strategy, allowing them to expand into new markets for vehicles to electrify. As of now, they are involved with powering.
+
+* Thomas school busses
+* Van hool coach busses
+* FCCC stepvans
+* Optimal shuttle busses
+* Komatsu excavators
+* Volta delivery trucks
+* Bustech transit busses
+* Lightening commercial vans
+* And just recently announced partnerships with ROUSH CleanTech and Penske Truck Leasing to develop Ford Motor Co's F-650 all-electric commercial truck, as well as a new partnership with Taylor Machine Works Inc. to develop an all-electric material forklift handler.
+
+And of course, this isn’t even getting into how Daimler Trucks, which is the **leading heavy-duty truck manufacturer** in North America, is a[ major Proterra investor](https://www.freightwaves.com/news/daimler-trucks-invests-in-proterra-electrification-spac) and technology partner. This particular connection gives Proterra credibility with larger, more established corporations, giving increased opportunities for expansion such as how Proterra works through Daimler subsidiary Freightliner Custom Chassis Corporation to build delivery trucks for companies such as **Fedex, UPS, and Amazon**. This massively expands their source of revenue, as yearly sales for this type of vehicle[ measure 200,000 compared to just 8,000 for transit busses](https://www.forbes.com/sites/alanohnsman/2020/02/28/electric-busmaker-proterra-using-its-silicon-valley-tech-to-make-green-freightliner-trucks/?sh=511c1e06351c). In fact, they estimate that by 2025, the bulk of their revenue will actually come from these “secondary” sources of income as opposed to their so far main business of electric transit busses.
+
+**IV. Sales:**
+
+Busses are only the tip of the iceberg of what Proterra is aiming to be. Beyond just electrifying just about every other vehicle offered in the commercial market, Proterra offers something that I personally have never seen from any other bus company: end-to-end electric vehicle solutions including charging stations and Proterra developed management software.
+
+The main appeal of Proterra is that they have developed an integrated technology ecosystem of different products that promotes sales that they describe as being “sticky”. **What this means is that once you buy one Proterra product, you're incredibly likely to buy something else as well**. Buy a bus - might as well buy their chargers - buy their charges - might as well buy their software system, and so on.
+
+Impressed with their transit busses? Well lucky for you your yellow school bus fleet is about to expire and the company you already have good relations with and have [a positive view of also makes that product](https://thomasbuiltbuses.com/bus-news-and-events/news/montgomery-county-public-schools-approves-the-2021-02-25/). Repeat business is a big plank of how Proterra operates. Currently, [80%](https://www.proterra.com/wp-content/uploads/2021/04/PTRA-ACTC-Analyst-Day-Presentation-4.8.21-FINAL-1.pdf) of Proterras Transit customers end up making an additional purchase from their Proterra Energy division. A perfect example of this is how Miami recently upped its Proterra bus fleet from 33 to a total of 75 busses, and then went ahead and[ hired Proterra to install one of the largest fleet charging systems in the U.S](https://www.proterra.com/press-release/miami-fleet-electrification/). Reputation is king with emerging technologies, and Proterra has deep networks with almost every transit agency in the US.
+
+It's also important to note, circling back to the infrastructure bill, that on top of whatever money ends up being designated for transit busses, that there is also **$7.5 Billion** **for developing charging stations** and $**2.5 billion for school busses**, both areas that Proterra can take advantage of, as they offer full scale fleet charging stations and their partnership with Thomas Built busses means they are[ actively working with the number one school bus maker in the United States](https://www.greencarcongress.com/2021/05/20210506-tbb.html).
+
+Going even farther, Proterra is fully **vertically integrated** almost all the way down their supply chain, with battery cells as one of the only third party components that is not built in house. However, they have secured around 2 GW of cells through 2022 through LG Chem, and are **currently planning their own battery facility**. That means that not only can they tap into government money meant for EV producers, but they can also take advantage of any funds allocated towards American battery producers, [a part which most likely will make up](https://www.hklaw.com/en/insights/publications/2021/07/climate-and-clean-energy-policy-state-of-play) a sizable portion of the 3.5 trillion dollar reconciliation bill that is currently being worked on.
+
+**V. Advantage:**
+
+Proterras main advantage over other competitors is their head start on research in this sector and data obtained that you can only get from over a decade of real world experience. Proterra is currently on their 5th generation battery design and their 5th generation bus, with a combined over 20 million miles driven over their various vehicles. Furthermore, the partnerships and connections they have (both business and political) already established emphasize their first mover advantage.
+
+Proterra also holds over **81 patents** and offers unique services such as their **APEX Connected Vehicle Intelligence System**, which is a cloud based data platform that helps customers manage and monitor their fleets, allowing them to optimize ownership and operations as well as providing state of the art analytics. Working this **SaaS** approach into their overall business model is pivotal in differentiating Proterra from other companies. Additionally, there is also potential to use programs like APEX to **transform Proterra Vehicle charging stations into Utility Grid Assets** which would offer another avenue for revenue and make their systems more attractive to prospective buyers. Proterra is the leading competitor for this necessary next step for all electric vehicle makers and[ is leagues ahead of any rivals](https://www.altenergymag.com/article/2020/12/the-promise-of-v2g-technology-%E2%80%94-and-how-it-could-accelerate-the-clean-energy-revolution/34214).
+
+**VI. Connections: It’s all about who you know**
+
+I believe Proterras connections are **unparalleled** by any company and have established them as a preeminent force in both the **business and political world** that most other companies would be hard pressed to match. I won’t go through all of them, but to highlight a few:
+
+Jack Allen: Chief Executive Officer and Board Chairman
+
+* Over three decades of experience in the driving core businesses at Navistar International Corporation (**one of the largest trucking companies in the world**) serving as Executive Vice President and Chief Operating Officer President of their North America truck and parts division, President of Navistar’s engine group, and has also has served as Vice President and General Manager of the company’s parts organization.
+
+Jennifer Granholm: Former Proterra board member (resigned to take cabinet job)
+
+* Current **Secretary of Energy** for Biden admin (the DoE is responsible for dealing out loans, contracts, and grants relating to electric busses and other vehicles.)
+* CNN political contributor (media connections)
+* Former Michigan Governor (deep ties with auto industry and championed auto bailout in 2008)
+
+Ryan Popple: Co-founder and Executive Director
+
+* **Early employee of Tesla**, served as senior director of finance with a focus on strategic planning, technology cost reduction and corporate finance.
+
+Dustin Grace: Chief Technology Officer
+
+* Nine years of powertrain development expertise from **Tesla Motors**
+* Worked R&D at Honda for four years.
+
+Josh Ensign: Chief Operating Officer
+
+* Vice President of Manufacturing at **Tesla Motors**
+* Led global operations in Honeywell International’s automotive and aerospace businesses
+
+Jochen Goetz: Board member
+
+* 30 years experience and currently serving as Head of Finance & Controlling at **Daimler Trucks & Buses**
+* Lead positions at Mercedes-Benz Trucks, Powertrain, and Daimler Trucks North America divisions. He was the head of Planning and Reporting for **Mercedes-Benz Cars** and the Daimler Group. Since April 2016, Goetz has served on the board of directors of Mitsubishi Fuso Truck and Bus Corporation.
+
+Audrey Lee: Director of Arclight (entity that took Proterra public)
+
+* Clean Energy for Biden co-founder. This council has been described as Biden's **bridge to the private green energy sector**, and has undoubtedly been the driving force behind Bides tour of Proterra and continued close cooperation between the company and government contacts.
+
+In addition to all this, Proterra has also hired two Obama-Biden white house officials to lobby the government on Proterras behalf: Pete Gould who was associate director of government affairs for the Department of Transportation, and Christine Turner who held numerous trade-related positions throughout the administration, including on the White House National Security Council. Their lobby firm is also helmed by Brandon Hurlbut, who was chief of staff at the Department of Energy, a top energy adviser to Obama at the White House, and co-chaired Clean Energy for Biden.
+
+And lastly, notable investors in Proterra include the Generation Investment Management, (a fund partly managed by **Al Gore**), Tao Capital Partners (run by the Democratic megadoner, including the current governor of Illinois, Pritzkers clan), and BlackRock (which **current National Economic Council Director Brian Deese** previously worked at and who also just so happened to join Biden for his Proterra factory tour.)
+
+Safe to stay, Proterras leadership and connections are absolutely stacked with heavy hitters in the electric battery implementation sector, trucking and vehicle development industry, and in the highest echelons of our government. I have personally never seen a company so well managed with experienced professionals that is as tightly ensconced with government officials as this one. In fact, these connections make Proterra resemble Lockheed Martin or Boeing more so than just your average bus manufacturer.
+
+And when those billions of dollars start being dispersed from the Infrastructure Bill, it will be these connections, connections none of Proterras competitors can boast of, that will make a key difference in levels of funding and access to further opportunities.
+
+**VII. The Plunge:**
+
+Despite all this though, Proterra stock has cratered almost 40% the last month.
+
+Why? There are four primary reasons for this.
+
+Pipe dumping
+
+* Pipe stands for Private Investment in Public Equity, and essentially means that after a company files an S-1, the lockup period ends and these investors are free to sell their shares.
+* Proterra filed its S-1 around July 12th and the share price quickly started sliding downward.
+* While PIPE investors chose to capture a 70% profit in the sixth months, this does not reflect a wider feeling about the future prospects of the company.
+* As of now the PIPE selling is over and the stock just needs something to juice it back up into a positive direction (something like, idk, billions of new funding suddenly becoming available)
+
+Spac name being tarnished
+
+* Proterra went public via a special purpose acquisition company this year, and thus is often associated with other companies that went public through a SPAC
+* SPAC companies like Lordstown have been a fiasco, and Nikola,[ well we all know how that is turning out](https://www.reuters.com/business/autos-transportation/us-charges-nikola-founder-trevor-milton-with-lying-investors-2021-07-29/).
+* This has really put a damper on any company even remotely associated in this space, and similar to Microvast, Proterra seems to be getting lumped in with more vaporware companies.
+
+Too many ipos
+
+* An incredible amount of companies are going public at the same time, and investors just can’t seem to settle on which ones to invest in. There have been[ over 400 ipos this year alone](https://www.statista.com/statistics/270290/number-of-ipos-in-the-us-since-1999/#:~:text=In%202020%2C%20there%20were%20407,as%20in%20the%20previous%20year.), twice as much as last year, and there's still five more months to go before the year ends.
+* “When you see a lot of companies coming public ... then that is a very bad sign for the averages because it means the stock market is getting flooded with new supply,”[ Mad Money](http://www.cnbc.com/mad-money/) host Jim Cramer explains.
+* Supply exceeds demand = low prices and dispersed attention
+* Big advantage of Tesla was that they were the only “shiny object” for EV on the market for a long time, which consolidated all interested in this sector into one single company. [That's no longer the case](https://www.washingtonpost.com/technology/2019/06/14/tesla-wants-everyone-drive-an-electric-car-now-it-risks-becoming-niche-brand/).
+
+Bad Press
+
+* There were a few articles either released or dug up last week that questioned the reliability of Proterras products. I won’t go too far into the specific issues though, as most if not all problems listed were with Proterras 1st generation busses. They are currently on their 5th generation of electric busses.
+* There was a singular issue with the bus chassis showing cracking in Philadelphia, but these issues are superficial and specific to one custom made model on a specific route that [does not affect Proterras overall designs](https://delawarebusinessnow.com/2021/07/dart-not-seeing-the-problems-that-idled-septas-electric-buses/).
+* Additionally, much of this bad press has spawned from conservative media sources, due to the fact that this is such a closely Democrat associated company.
+
+While detrimental to the stock in the very short run, these issues are thankfully not due to any inherent weakness of Proterras product or marketing strategy and thus, do not represent an undue threat to its future potential. I fully believe Proterra will rebound soon as it gets more attention and mainstream name recognition.
+
+As for the specific issues raised by the conservative articles, [here is Proterras response](https://www.proterra.com/americas-transition-to-electric-buses/), as they can give a better rundown on how meritless these articles are then I can.
+
+**VIII. Financials: Significant Numbers**
+
+Here's a link to Proterras[ full financial breakdown](https://www.proterra.com/wp-content/uploads/2021/01/ACTC-Proterra-Investor-Presentation.pdf): I won’t put it all here but here are some highlights.
+
+* Current market cap: $2.22B
+* Current stock price: 10.70
+* 2017-2025 CAGR is 50%
+* 800m cash on hand
+* No debt
+
+Projections:
+
+* 2021E Rev: $246M
+* 2022E Rev: $439M
+* 2023E Rev: $838M
+* 2025E Rev: $2566M
+
+The biggest thing to note here is that these projections were done before the infrastructure was even beginning to be considered, which means **it is highly unlikely that the insane amount of funds in the current Infrastructure Bill were factored into specifically in the early year projections**. The implementation of the bill will juice these projections to a degree I don’t think anyone can really expect.
+
+I do know for a fact that the partnerships announced in the last few months are not currently priced in, as they constitute more of the 2023-25 revenue. These moves being made recently, such as the partnership with Rouch and Taylor Machine Works  Inc. (**a partnership which by the way Proterra stole from BYD**) this early, will most likely move the projections up a bit.
+
+Part of the reason I won’t go too far into financials is that the passage of the Infrastructure Bill in its current form will **flip Proterras potential on its head.** It's already been steaming full ahead but new funds like this will of course change things.
+
+The Infrastructure Bill passing and their first quarterly report as a public company on **August 11** is the prime catalyst for what I see as whether the potential for this company is real or not. August 11th will really give us a good look into whether the company is holding up to its projections and how the financials are looking going forward. More news on their battery factory development and announcements on more corporate/government partnerships are all possible, with the forward guidance going to be of critical importance.
+
+Now Citigroup does have a **PT of $16** for them, but as of yet the stock hasn’t gained much attention from Wall Street. I believe this is due to the fact hedge funds are **too busy looking at where the puck is, not where it's going to be**. Very similar to how the Morgan Stanley analyst for some idiotic reason only used Microvasts current factory output stead of including their factories under construction, most hedge funds are **too caught up in Proterras past that they are incapable of seeing where it is going.** The Infrastructure bill will supercharge Proterras bus business while Proterras Powered market strategy and big name partners have the ability to ride the infrastructure wave into unimaginable heights, a position few other companies are in a similar position to do so clearly and obviously.
+
+**IX. Growth and Long Term Strategy**
+
+Proterra currently has a battery and transit factory in Industry, California and another transit facility in Greenville, South Carolina. Backlog dating to their initial January 2021 presentation will keep their factories going until early 2022. This does not take into account the multiple contracts and research partnerships they have announced since.
+
+They currently have capacity to **produce about 680 busses per year** and are aggressively working to hire more technicians and engineers to reach this potential as soon as possible. They’re[ recruiting like crazy](https://recruiting2.ultipro.com/PRO1047PROTI/JobBoard/e33a1c2e-8d7a-4008-851e-f7bd1d7bf788/?q=&o=postedDateDesc&w=&wc=&we=&wpst=), with many positions being graveyard shifts, which reinforces their past statements of moving to a system where they’re pushing out busses 24/7.
+
+This will allow Proterra to capture even more market share of emerging electric sectors while maintaining their dominance in the electric bus field, of which they already have **50% US market share.**
+
+Speaking of their busses, **75% of total materials in the busses are sourced from the US**. This is significant as the Biden administration has[ just recently announced a proposal](https://www.detroitnews.com/story/business/autos/2021/07/28/biden-moves-increase-buy-american-requirement-75-2029/5395360001/) to raise the Buy American standard immediately from its current level of 55% to 60%, to 65% by 2024, and to 75% by 2029. The fact that Proterra is already operating at the 2029 level means that this will not affect their financials but will potentially cause disruption in other manufactures, forcing them to revise their financial forecasts.
+
+**How are they trying to Grow?**
+
+Proterra, which went public just recently like Microvast, is using their current war chest of about $800 million to grow in three ways: **Research and development, Growth Capex, and Domestic Cell Capacity and co-investment**. R&D on battery tech and creating more efficient systems is easily the most important direction Proterra needs to double down on, so it's good to see them devoting significant resources (200-300m) to further developing their battery designs and energy storage devices. And as I’ve already said, developing a strong, steady, and hopefully fully in-house battery production chain will be key to bringing Proterra to the next level, an objective they seem to already acknowledge and are moving forward to.
+
+From this, it's helpful to view Proterra as not an electric bus company that does research to further that goal, but more of a research company that happens to build very good electric busses in order to support more research. **43% of their workforce is apprised of engineers and technicians and it shows**. This research will assist in continuing to streamline their production and build on their already lowering cost, such as how the **cost of batteries has fallen 85% since 2010**. The research has also instigated other developments that make their busses world leading in terms of technology and also in consistently[ breaking records](https://www.greentechmedia.com/articles/read/proterras-electric-bus-breaks-a-world-record-for-range).
+
+Proterra is very forward thinking and is consistently looking for new ways to grow and expand. The **TAM of the electric commercial vehicle market is 260 billion** and the **charging market is 37 billion**, and Proterra so far hasn’t even come close to scratching the surface of what they can do. Construction diggers, dumptrucks, airport shuttles, forklifts, flatbeds, bucket trucks, cement mixers, mining transports and so much more are all prime targets for electrification and there just straight up isn't any other companies that are moving as aggressively as Proterra to capture this market. Leveraging their connections, reputation and capital derived from their eclectic transit bus foundation, Proterra can **outmaneuver** and **outcompete** any single competitor in a particular commercial vehicle sector through their holistic end-to-end full cycle product catalogue.
+
+And when I say Proterra is forward thinking, I mean really forward thinking. Back in 2017 (when most other bus makers were just beginning to shift to electric or hadn’t even made a prototype yet) Proterra initiated the [world's first autonomous bus program](https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/article/21073560/autonomous-vehicle-technology-preparing-for-the-next-wave-of-innovation-in-public-transit). This tech will eventually allow them to increase safety, lower costs, and make every step of public bus transit more efficient. The fact that they are already actively working on such a revolutionary concept when most other players are still struggling to go all-electric demonstrates that Proterra not only thinks years ahead, but acts as the market leader in ebus technology
+
+And besides AI, Proterra also has their eye on another pretty futuristic goal, going so far as to engage in talks with the Pentagon about [​​electrifying military vehicles](https://freebeacon.com/biden-administration/proterra-founder-gets-one-on-one-interview-with-biden-pentagon-official/). Non-frontline vehicles, such as construction trucks, diggers and movers used by the Army's Corps of Engineers for domestic American infrastructure projects don’t run the risk of having to compensate for battlefield conditions and are **prime targets for electrification**. When these vehicles inevitably go electric, the fact that Proterra is already having these conversations with DoD officials puts them in a prime spot to secure future contracts. It also doesn’t hurt that Proterra has already partnered with Komatsu (who not only build construction equipment but has **years of experience building military vehicles**), its co-founder Ryan Popple is **ex-military**, AND that CEO Jack Allen formerly helmed Navistar who just so happens to **make a ton of vehicles for the military**. If any company is going to get military contracts, these guys are right up there able to compete with legacy players like Oshkosh, except Proterra actually has the required electric experience and is ready to hit the ground running.
+
+And of course, Proterra is also looking towards the environmental sustainability of its product down the line. This past spring, Proterra partnered with Nevada based Redwood Materials, created by **Tesla co-founder JB Straudel** to recycle its used batteries, [becoming the first publicly announced partnership between Redwood and an automaker](https://techcrunch.com/2021/03/29/recycling-startup-redwood-materials-is-partnering-with-proterra-to-supply-ev-battery-materials-sustainably/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJzLFjFV-sVe4ZnZ_436pmkCz6pU7XtluBu607V1mJrh4rnlhtJbbnivUORpzzNYAeTn6vntRnjUdAatXHojjJRjae0WLrU7xigLai7ki40aUFuEGi5Ce2cAm361wdTyI79zueSnH2j6NC8zUd8Jyi5UMkUSfXPpUive2TMSYv5x). This not only further reinforces their Tesla connection, but also again demonstrates how Proterra is looking years down the road to ensure the wild profitability and success of their company.
+
+**X. Conclusion:**
+
+There is a huge gap in the EV market as well as in how we are strategizing to fight climate change, and Proterra is the only company that can meet both needs simultaneously. While most attention is being paid to the potential of the consumer electric vehicle space, few are considering just how we are going to electrify all those other vehicles that make up our society. You can’t just take a battery built for a sedan and stick it into a bus or a tractor and call it a day. The process takes time, money, failures, and, yes, even more time.
+
+While the legacy automakers are each racing to develop their own battery tech and specific innovative technology for consumer cars, Proterra is positioning itself to leverage its almost 2 decades of battery research and powertrain experience to partner with almost every commercial vehicle sector to provide the real world tested technology they need before they even have a thought to develop it themselves. The potential of Proterra is absolutely massive and so far, few have truly realized this.
+
+tldr: Proterra has been able to leverage their position as an early pioneer in the electric transit bus market into partnering with the leading companies in each commercial vehicle sector -Thomas built school busses, Daimler stepvans, etc- to circumvent trying to outcompete legacy players and instead combine their technical, patented breakthrough technology with well established reputations to become the #1 commercial vehicle developer over the next few years. Coinciding with the release of the Infrastructure Bill, they are set to dominate this market and become a behemoth of industry with billions of dollars in revenue in only a few short years.
+
+Positions: August, September, and November 12.5 and 15 calls, as well as 300 PTRAW, and adding more every paycheck I get. I am not a financial advisor.

@@ -1,0 +1,63 @@
+So, here I'll gonna bring **my worthless POV on Unity**, but first of all - a 1 minute background:
+
+**Unity is a game engine, which is the most important infrastructure of game making** \- before game engines appeared, game developers had to calculate every stupid pixel on the screen by themselves, then a lot of wrappers appeared (OpenGL, etc) and after that the game engines. The **game engine allows the developer to connect the code, graphics, music, physics, and basically everything together.**
+
+Most of the large companies develop and use their own game engines. But as far as I concern, the only public, known, large and practically adopted by developers are Unity and Unreal Engine (we'll back to that shortly).
+
+&#x200B;
+
+Let's get back to Unity:
+
+As a game developer (also ML/DL, but who cares), I've used many frameworks and game engines for more than 15 years, hell, I even used "dark basic" when I was young, and I can say that **Unity is the only time I felt at home**.
+
+Now **I know you don't give a shit about my experience, so let's talk business**.
+
+**The GOOD stuff:**
+
+Unity solves one of the major problems of native growth in game making and that's a FULLY CROSS PLATFORM ENGINE, that means that I can develop once, and **my stupid stuff would work PC, Android, iOS, Xbox, Playstation, Virtual Reality, Web..**. You got the idea...That work of being cross platform is INSANELY HARD, which means there is a huge leap to create a competing product. Even the best open source game engines have a very limited amount of devices they support, which means that as a developer an open source game engine might be a risk for me in terms of growth and future support.
+
+TL;DR 1:  **Cross Platform**
+
+Unity got a huge asset store, which is a crazy source of revenues from stupid developers like me, that means that even if I'm totally not profitable - Unity might have some revenue from me without investing a penny or a minute of support team.The huge asset store makes it very easy for new developers to do their first steps in the platform, and like Maya vs 3DSmax or Nikon vs Canon - the first one you've touched is gonna be the only one you'll know.
+
+TL;DR 2: **Easy step in, huge asset store, revenues even from non-profitable games**
+
+Next, the future. Game industry is growing and we all know it, but what Unity got that it would outperform the market? Glad you've asked, they got everything.Unity supports Machine Learning infrastructures which can be connected easily to many application - well that's too general right? So let me put it like that:3 years to the future, self driving cars are more and more popular and... regulated. When you regulate it you also have to test it - digitally. Unity is one of 2 (!) game engines that practically gonna be available for that task.Virtual Reality is also a trend - guess how most developers develop for it. Also it might enter the movie industry and stuff like that.
+
+TL;DR 3: **Tons of "room to grow" - VR, Algorithms and algorithms testing**
+
+As I've mentioned, Unity got only one real competitor - Epic - which got  Unreal Engine that does basically the same. Epic are not public but hopefully will, but currently Unity is just the only exposure to this kind of product. If I had to choose, I would just put my Happy Hippos on both.
+
+TL;DR 4: **No publicly traded competitors**
+
+Lastly, Unity can grow without a single phone call. There is no major difference for Unity to support 1K users or 1M (just like Google or Facebook) - if we compare it to companies like TTOW, Nintendo and even Xbox-Microsoft and Oculus (Facebook) - they all had to invest ton of money for content creation and physical platform making.
+
+TL;DR 5: **Unity have to spend almost 0$ for each new user**
+
+&#x200B;
+
+**Now for the BAD stuff:**
+
+Unity price was very high, how much high? At the pick Unity passed EA (!) in terms of market cap. That's high.
+
+It's currently at 35% discount right now, and it still might considered high - but do notice it's around 50%-60% more than IPO day (PLTR fore example is already multiplied - I think they were out on the same day).
+
+TL;DR 6: **High Price (whatever that means...)**
+
+Another bad thing - Unity had relatively bad quarter - their revenue went up but they earnings were still negative... Why is that? Well... first of all they've **donated something like** 750,000 shares, which is like **80M$** \- that's exactly the margin they needed to publish a profitable quarter - you know what that means for the next one...
+
+TL;DR 7: **Last quarter was good revenues but bad earnings - mostly due to stupid reasons**
+
+As I've mentioned, large companies generally use their own game engines, that's a lot of money the currently Unity miss.
+
+Lastly, Epic might go public sooner or later, it won't be a surprise if $U would go down some percents at the same day. But for the long run, ETFs would buy both of the stocks (like ARK/ARKK did with Unity) and that would bring the price up.
+
+TL;DR 8: **Their only real competitor might go public sooner or later**
+
+**That's it, if you survived everything tell me what you think.**
+
+For me I think I'll just buy the dip and hold forever since the growth is crazy and the world just getting more and more digital but please do your math since no one know what's gonna be.
+
+Disclaimers: **I know nothing about nothing. I'm not an investment advisor and don't take any advice from me - or in general don't just listen to a random stupid guy on the internet and all that, read about it yourself.**
+
+**I'm just a developer that enjoy and know to appreciate the platform and its cross platform abilities for my game.**

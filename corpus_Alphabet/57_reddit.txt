@@ -1,0 +1,77 @@
+Ladies and gentlemen,
+
+it's your boy chimpu with the trading range for the upcoming week, SPY between 200 and 8.000, personal bias moon.
+
+Now that I got your attention I want to present you a lengthy (yawn) analysis of Amazon (AMZN) stock. For the tl;dr look out for the rockets. Seriously, some lost components of that SPCE rocket might fall onto you so watch out.
+
+I spare you from why Amazon is the obvious winner this year, we all know that. My focus rather is on valuation and also a little bit of TA (I know it's bogus but good enough for confirmation bias).
+
+So from a valuation standpoint of view Amazon has gained 68,65% ytd. This seems like a good bull run outperforming the broader market. However, since the beginning of July, the stock started to trade sideways not gaining any traction to the upside.
+
+[YTD performance](https://preview.redd.it/7athhpnnds461.png?width=1515&format=png&auto=webp&s=037cc4d739a1ce7867c645318e770a7d24b571b3)
+
+However, those 68% do not tell the true story. We have to look back to the 19th February 2020. The stock closed at $2.170. Days and weeks later, the rona crashed the market and Amazon went down with it (to the 1600s). From the pre-rona high till Friday close (Dec 11), Amazon gained *only* 43,7%.
+
+[pre-rona till today gain](https://preview.redd.it/u7bcxq5afs461.png?width=1920&format=png&auto=webp&s=2dbb287cdaeeb247f42ea7037723630f42d677bd)
+
+That is, in all honesty not the best performance in the market considering the stellar rise of the Snowflakes, Nios, Palantirs, Fastlys & co. And I don't want to compare these stocks with Amazon, because Amazon of course fights against the law of the large numbers and is a 1.6T dollar behemoth that moves slower by nature.
+
+Btw: The yellow line above seems like a good trend line being a support several times in recent weeks, doesn't it?
+
+Now, valuation:
+
+The classical valuation metric is P/E ratio. Amazon currenty trades at a 91 P/E ratio on a trailing twelve months basis. This is slightly above the historical average during the last 2 years or so (I don't want to talk about 2015 when there were no earnings or when it traded at a 1000 multiple).
+
+[TTM P\/E ratio](https://preview.redd.it/6nqmxgjqgs461.png?width=1920&format=png&auto=webp&s=91895116667b2fe9de1319018e66441b080e0ca8)
+
+For a FY2020 prediction we have to look into the guidance that Amazon gave us, which - if we take the middle of it - would lead us to about the same TTM EPS by the end of FY2020 and therefore the same P/E ratio (\~90). Amazon, using these numbers wil report about $17.5 bn in earnings.
+
+That 90 P/E ratio may sound more expensive than it was pre-Covid, but it misses one vital fact: The Covid-related extra expenses + the money Amazon invested into its business in 2020 ([amazon grows physcial space by 50% in 2020](https://www.inddist.com/company-expansion-consolidation/news/21142476/amazon-expects-to-grow-its-physical-space-by-50-this-year)). At least Covid-related costs are temporary only and thus in the mid-term future these extra expenses will be additional pure cash on Amazon's earnings statement. But how high were those extra costs related to the rona? Adding up the sum Amazon itself expected in their Q1, Q2 and Q3 2020 report this reaches $10 bn (4+2+4bn), see [Amazon's Qs reports](https://ir.aboutamazon.com/quarterly-results/default.aspx). So the (conservative, as Amazon always crushes earnigns guidance and eastimates in recent times) $17.5 bn + $10 bn would sum up to $27.5 bn earnings. Let's assume Amazon doesn't grow earnings in 2021, with a stock price of $3100 that would now lead us to a forward P/E ratio of 56,7. Now that doesn't seem too expensive anymore for a company that will this year grow revenues by about 35% and just having grown their Q3 earnings 96% YoY.
+
+Assuming above that Amazon's earnings will stall, while Amazon's revenue growth definitely will slow in 2020, this almost definitely won't be the case for earnings in 2021 due to the effects mentioned above. Other effects propelling Amazon's earnings higher will be classical economy of scale arguments, e.g. cost efficiency in the logistics department as Amazon continues to build its own cost saving delivery infrastucture. Another factor for that is that the business segments with the highest margins will be the ones growing their revenue the most, namely AWS, the ad segment and the recurring prime subscription fees.
+
+Amazon's recent move into the pharmacy business should not be disregarded but isn't even necessary to drive Amazon's numbers higher.
+
+And we should also expect Amazon to blow out earnings. They will beat to the upside both top and bottom line, driving numbers higher and multipes even lower. Use google trends to find out yourself with the [google trends search tool](https://trends.google.de/trends/explore?date=2019-09-01%202020-12-12&geo=US&q=%2Fm%2F0mgkg) (it is worth to be mentioned that the google trends search tool doesn't really reflect the growth, as the average basket size per order at Amazon grows as well as this feature of course only tracks people who go to google first and type "amazon" to go to their website instead of visiting it directly or - more important - using the app. It just gives you an idea).
+
+***Approaching Amazon's valuation on a Cash flow based modell***
+
+Above we approached valuation with an earnings-focused modell and saw that in the not too distant future Amazon will be able to slowly lower their earnings ratios approaching the likes of Apple, Alphabet or Miscrosoft (in the central or upper 30s).
+
+However, if we ever based our investment decision about Amazon on a earnings multiple modell, the stock would have never been a buy and we missed out the entirety of this growth story. Therefore, in my opinion it is better to measure Amazon's value on a Cash-flow basis. This not only allows us to understand the actual profitability and margins of the business, but also shows how heavily Amazon invests in its business to expand and grow by all measurable figures.
+
+Of the greatest interest to me is the Operating Cash Flow (OCF). Amazon's FY2017 OCF was $18.5bn and now is at about $52.2bn on a TTM basis. This is an incease of 176% in less than 3 years.
+
+[Amazon's OCF 2017-TTM](https://preview.redd.it/ulu1b59mos461.png?width=1920&format=png&auto=webp&s=f168135fd272e024f23e5a589ecaaf486b1ee838)
+
+For comparison, Microsoft: MSFT's OCF at the end of theor fiscal year in June 2017 was at $39,5bn, now it is at $66,2bn, which is a growth of 67,6% in a time of 3,5 years.
+
+[Microsoft's OCF 06\/2016-TTM](https://preview.redd.it/6rnhdsv6ps461.png?width=1920&format=png&auto=webp&s=06ebf214f9049a8dda0489badc1a0bbb8e5f4058)
+
+Both are amazing growth rates, both are amazing companies, Amazon is a true growth stock and Microsoft sits somewhere between growth and value.
+
+&#x200B;
+
+If - again looking at the Cash Flow statement of Amazon above - one can see the immense amount of money Amazon is investing in its business. On a TTM basis this amounts to more than -$35bn Investing Cash Flow. And as I mentioned above, we can physically see this growth and these costs looking at the porches of the sUbUrBaN wOmEn'S houses drowning in Amazon parcels. This amount of parcels can only be delivered by expanding the logistics infrastructure, warehouse capacity and workforce. And this expansion is right there above, in the TTM Investing Cash Flow -$35bn. Once Amazon has grown to a fully unfolded, mature company with the groundwork being laid years ago, these investing expenditures will decrease and in combination with further economy of scale synergies their earnings will be propelled higher and higher.
+
+But we are right now nowhere near a truly mature Amazon. With the growth rates Amazon has today, it will be the largest listed company of the US rather sooner than later.
+
+***Now an itzy bitzy of TA***
+
+Look at the first chart I posted at the very beginning of the analysis. You see a tightening triangle. Amazon bounced of the lower support time several times in recent weeks building higher lows. At the same time Amazon made lower highs since the Sept. 2 "crash". Amazon is poised to breakout soon. Last week was calendar week 50. Calender week 50 is from a historical perspective Amazon's worst by far. That being behind us now leaves us with a stronger momentum, especially when Christmas is over and with regards to the upcoming FY2020 report late January.
+
+&#x200B;
+
+[seasonality of Amazon's stock, gay circle is CW50](https://preview.redd.it/bj2mpu1zss461.jpg?width=1384&format=pjpg&auto=webp&s=14949b76c48efe273895f91429235d6a816cc798)
+
+Short term, Amazon also made some green hammers into the close on Thu and Fri which leaves me hopeful on a strong momentum for next week if not the Pfizer vaccine news crashes the stay-at-home-stocks entirely (Amazon unjustified as it did not rally some 500% like those mentioned before but rather 43%). But: No matter what might happen in the short or medium term, Amazon will be on a moon mission with papa Bezos being rocketman on his dick shaped space needle.
+
+Thanks for reading.
+
+&#x200B;
+
+Tl;dr: Amazon to the moon.
+
+[$10.000 per share by 2025 at least, mark my words.](https://preview.redd.it/wzbhiib2us461.png?width=160&format=png&auto=webp&s=db5859e92296e5daf0b0826190ce11a85982077a)
+
+Positions: $20.000 in knock-out warrants being knocked out at a threshold of around $2.100 a share (which equals about 20 stocks, e.g. stock price rn is 3.100, knock-out is 2.100 -> difference is 1.000. 20.000 invested / 1.000 = reflects the daily gains/losses of \~20 shares.)

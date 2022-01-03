@@ -1,0 +1,82 @@
+# The Definition Of Market Manipulation
+
+>"Market manipulation is the act of artificially inflating or deflating the price of a security or otherwise influencing the behavior of the market for personal gain." - Investopedia
+
+According to most retail investors this means that market manipulation is when an entity with a huge portfolio that buys or sells a large amount of stock can cause large price movements. This is one type of market manipulation, but not what I want to talk about today.
+
+&#x200B;
+
+# How in 1930 Wyckoff Described What's Happening Today
+
+[Richard D. Wyckoff](https://preview.redd.it/r0dndnl3zk671.jpg?width=324&format=pjpg&auto=webp&s=66b39741d9950f15d90c73b5b49e384104492e03)
+
+**Who Is Wyckoff?**
+
+>*Richard Demille Wyckoff (1873–1934) was an early 20th-century pioneer in the technical approach to studying the stock market. He is considered one of the five “titans” of technical analysis, along with Dow, Gann, Elliott and Merrill. At age 15, he took a job as a stock runner for a New York brokerage. Afterwards, while still in his 20s, he became the head of his own firm. He also founded and, for nearly two decades wrote, and edited The Magazine of Wall Street, which, at one point, had more than 200,000 subscribers. Wyckoff was an avid student of the markets, as well as an active tape reader and trader. He observed the market activities and campaigns of the legendary stock operators of his time, including JP Morgan and Jesse Livermore. From his observations and interviews with those big-time traders, Wyckoff codified the best practices of Livermore and others into laws, principles and techniques of trading methodology, money management and mental discipline.*
+
+**Why I'm Including it in This Post?**
+
+>*From his position, Mr. Wyckoff observed numerous retail investors being repeatedly fleeced. Consequently, he dedicated himself to instructing the public about “the real rules of the game” as played by the large interests, or “smart money.” In the 1930s, he founded a school which would later become the Stock Market Institute. The school's central offering was a course that integrated the concepts that Wyckoff had learned about how to identify large operators' accumulation and distribution of stock with how to take positions in harmony with these big players. His time-tested insights are as valid today as they were when first articulated.*
+
+Basically in 1930 near his death he started writing books about what he learned during his life to make retail investors understand the market better, illustrating all his knowledge in a reddit post is impossible and today I want to focus only on market manipulation.
+
+# Who Is The "Composite Man"
+
+>*“…all the fluctuations in the market and in all the various stocks should be studied as if they were the result of one man’s operations. Let us call him the Composite Man, who, in theory, sits behind the scenes and manipulates the stocks to your disadvantage if you do not understand the game as he plays it; and to your great profit if you do understand it.”* (*The Richard D. Wyckoff Course in Stock Market Science and Technique*, section 9, p. 1-2) 
+
+Based on his years of observations of the market activities of large operators, Wyckoff taught that:
+
+1. The Composite Man carefully plans, executes and concludes his campaigns.
+2. The Composite Man attracts the public to buy a stock in which he has already accumulated a sizeable line of shares by making many transactions involving a large number of shares, in effect advertising his stock by creating the appearance of a “broad market.”
+3. One must study individual stock charts with the purpose of judging the behavior of the stock and the motives of those large operators who dominate it.
+4. With study and practice, one can acquire the ability to interpret the motives behind the action that a chart portrays. Wyckoff and his associates believed that if one could understand the market behavior of the Composite Man, one could identify many trading and investment opportunities early enough to profit from them.
+
+# The Importance Of Liquidity
+
+Let's say a stock is sitting at $20 but a "Pro" thinks it could make it to be worth $40, large investors may not accumulate a high number of shares at one time as this would cause a sudden change in the stock price. Instead they will take advantage of weak market sessions to slowly accumulate their target number of shares.
+
+Once they have accumulated their target number of shares and want to sell for the same reason as before, they can't unload everything at once or they would affect the market again.
+
+But how can they unload their shares at maximum profit? Through manipulation. They can do it by making that shady little company look like it will become the next Apple, and they manipulate the newspapers to do it.
+
+[FOMO](https://preview.redd.it/4ikowb6j5l671.jpg?width=1024&format=pjpg&auto=webp&s=949686266619575afa3c565a32df772ddf11aa1b)
+
+They create FOMO (Fear Of Missing Out) in small retail investors, and that brings a lot of volume on that stock. If you thought the goal of the market makers was to inflate the stock price through this type of manipulation, you're wrong.
+
+Consider an institutional investor who bought 5,000,000 shares of a company at $1 that now sits at $3, has a lot more information about that company than you do, and knows that company is bad and likely to release bad news in a few weeks. Everyone knows that in order to sell something you need a buyer willing to pay the price you're offering, so how can he dump 5,000,000 shares of stock unnoticed in a few weeks and get away with it? He's going to start making people think that this company has something very big coming up, that he's going to make a 500% move and you're going to miss out. People start "FOMOing" and bring huge volume to that stock, with more people willing to buy he can sell all his shares faster and get out of that stock as quickly as possible. He doesn't care if the stock makes a 100% move in the meantime because of this sudden interest, he only cares about getting out. And guess what, later on, when the bad news is released, the market maker will be the winner while a lot of retail investors have been burned.
+
+&#x200B;
+
+>“You have often noticed that a stock will sell at the highest price for many months on the very day when a stock dividend, or some very bullish news, appears in print. **This is not mere accident.**  
+>  
+>**The whole move is manufactured.** Its purpose is to make money for inside interests — those who are operating in the stock in a large way. And this can only be done by fooling the public, or by inducing the public to fool themselves.”
+
+This was written in 1930! 90 Years ago! Buy the rumour sell the news.
+
+# Market Manipulation 5.0 And How You Are Helping To Make It Happen
+
+After what happened with meme stocks in the last month a lot of people started looking to invest, without any knowledge and trusting the advice of people on reddit and other social media many found themselves losing a lot of money on some stocks that look very good.
+
+&#x200B;
+
+What is happening now is that some big institutions probably pay influencers and use bots to make some companies look much better than they really are. The problem is that many people trust other DDs (Due Diligence) too much and end up thinking that a stock is really good and they buy some stocks. What's worse is that a lot of times people who have invested in some companies end up becoming like extremists and start "propagandizing" when they see that they are losing money. 
+
+&#x200B;
+
+Basically what is happening is that I (and probably you too) am noticing a lot of people or groups who buy for example a stock at $10 because it is full of potential (pumped by a market maker) and when they find themselves owning it with a 30% loss they start trying to convince people that it will soon go up. This is ethically wrong and to avoid getting caught in this you should ALWAYS do your research. If you don't know how to research ask the person who posted the sources.
+
+# How Can You Stop Losing Money On Bad Stocks
+
+* Don't trust anyone, do your own research
+* Ask for sources from those who publish DDs
+* Stay away from stocks that come from scam countries
+* If you see a lot of people saying a stock is going to go up stay away
+* Don't buy a stock that people say will CERTAINLY have good news coming (example: "stock X will get FDA approval next week" usually won't and will fall into oblivion)
+* If you're losing on a stock, stop saying on social media that it will surely rebound
+* If you buy a stock you MUST stay current on it, you can't just buy and forget about it
+* If a stock has a news related to a sector unrelated to it stay away (for example a tourism stock says it will do something in the hot sector of the moment, this is usually done to temporarily pump up the stock)
+* SELL THE NEWS
+
+# Conclusion
+
+English is not my first language, I hope I have expressed myself correctly. I used information from StockCharts and Financial Post. I know this is a different post than the average one here, so I hope you enjoyed it! If you have any questions write them in the comments or send me a DM! You can follow me here on Reddit to stay updated on my posts!

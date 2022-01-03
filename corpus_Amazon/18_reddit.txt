@@ -1,0 +1,30 @@
+This is an unplanned supplement to my prior DD on the eve of Rocket Lab’s de-spac. 
+
+I had dozens of comments listing key points/catalysts that I had initially missed, because I was keen on being the first to post a legal DD about rocket lab (SPACs aren’t allowed so when I first posted it months ago, it was taken down). In addition, there has been interesting news regarding the space launch industry as a whole, specifically with respect to satellite constellation launches for providing greater accessibility to affordable high bandwidth internet, all over the world (yay), and real-time global surveillance via satellites with 50cm camera precision (kinda & oh no).
+
+News
+1. Amazon Project Kuiper 🔥 - Amazon had announced its own internet satellite constellation project to launch 3k satellites by 2026-2029. Initial 6 or 9 flights assigned to ULA. RKLB’s constellation supporting rocket, Neutron, is set to be ready to launch in 2024, ready in time to *maybe* capture some business from Amazon IN ADDITION to all of the ISPs that are going to be banging launch providers doors down, to not get left out of the next great revolution in global internet coverage. 
+2. RKLB’s space systems business 👀 - RKLB just announced it had signed a deal to supply reaction wheels “for a number of undisclosed satellite constellations.” AFAIK satellites need 3 reaction wheels to control their orientation on all 3 axes (keeping a 4th as backup). Their production facility at initial capacity will output 2000 a year. 2000 / 4 == 500 satellites a year they are expecting to provision. For reference they’ve only launched 100 satellites themselves so far.
+3. Astra (ASTR) 😪 - had 2 failed launches last weekend in a row, still haven’t made it to orbit, still valued at about 1/2 that of rocket lab (what is wrong with this market). Launch reliability should carry a premium, rocket lab has a proven track record of launch reliability.
+4. Firefly (private) 😪 - watching their livestream of launch right now, and it’s not going too well (called an abort). But we’ll see how it goes…
+
+Some Key Upcoming Events
+1. September 8, Earnings 🍿 - likely will hear status updates regarding larger neutron rocket, as well as their space systems business (please tell us about the contracts regarding reaction wheels mentioned above).
+2. Lunar Mission 2021 (probably Q4) 🌝 - do I even have to say anything? What other space startup is set to fly to the moon this year, for NASA? What doors will this open for them 🚪?
+3. September-October, Back to back to back launches for global surveillance company Black Sky 👀 - this is very interesting as rocket lab has never turned around rockets this fast before. Demonstrating extremely rapid launch cadence will be proving to customer that they can schedule launch on demand essentially. In months, eventually weeks but not years. I expect to also see rocket lab demonstrate reusability of their electron rockets, by catching some with a helicopter (not joking) 🚁.
+
+Summary:
+1. Rocket lab is in a much better position than other space startups that are either still in theoretical phase (never launched), and those that are trying to launch but just can’t seem to get their rockets flying in the proper direction (Astra).
+2. Entrance of tech giants and ISP heavy weights into satellite constellation business is evidence that we are on the brink of a satellite launching party (from all ISPs to avoid getting amazoned, and want to keep their consistently high cash flow business models: Verizon, AT&T, etc.). From all the launches, the planet might heat up a few degrees 😓.
+3. Their neutron rocket is being developed at the right time to compete with SpaceX for launch contracts for such constellations (I also really doubt any one launch provider has the bandwidth to take all the contracts).
+4. Their space systems business (reaction wheels for one), will be a nice revenue stream, even for the satellites that they don’t launch themselves, yet still develop and produce key parts of.
+
+Positions/Disclosure: I have a lot of shares
+
+Edit: Firefly’s launch just blew up 💥
+
+Edit 2: Rocket Lab successfully catching rocket with helicopter https://youtu.be/HOnNYWu6onU
+
+Edit 3: founder & CEO Peter Beck on what it takes to succeed in this industry go to 4:20 mark, you won’t be disappointed, (https://youtu.be/8ZMSG386dQw) hint ⚽️
+
+Edit 4: founder & CEO Peter Beck eating a hat, clearly to advance rocket lab’s space program (https://youtu.be/Rafa_WBFIyE)

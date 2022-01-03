@@ -1,0 +1,35 @@
+My fellow delinquents, I present to you the fundamental case for a meme stock that’s been floated around this sub: APXT
+
+What does it mean to have good fundamentals? It means that in addition to this stock getting lumped into the meme category and generating ridiculously fat tendies in the near-term, there’s also a sense of comfort from the downside protection (a foreign concept to many of us) the fundamentals of the company provide. As you’ll see below, at its current valuation, there is significant runway for APXT to go up on pure fundamentals that you can quantify and comfortably defend, and not purely on speculative hype that a lot of these other meme stocks seem to be propped up on.
+
+Since a lot of other posts in this sub cover what the company does, I’ll be brief. APXT is a SPAC to bring the company AvePoint public. AvePoint is a SaaS data management company that basically provides security offerings and solutions to “plug holes” associated with data transfer within the Microsoft Office cloud solutions. In other words, they help migrate, manage, and protect data in Microsoft 365. You can definitely read more in other threads, I think they do a good job with the qualitative stuff. The main takeaway is that it’s a legit business that has many diversified blue-chip customers and operates in an industry with strong tailwinds. Now, onto the good stuff.
+
+The hardest part of any investment is not determining whether a company is good or bad, it’s “is it worth the price?” Once the qualitative checkboxes are checked off (e.g., this company isn’t committing fraud, it’s not losing to competition, isn’t levered to the tits with debt, etc.), which they are for APXT, investors typically look at a few metrics for these software businesses to determine the appropriate valuation. These are TAM (Total Addressable Market), growth, recurring revenue, profitability, and churn, among others.
+
+**APXT TAM**: $33 billion (represents if all potential customers bought all available your products)
+
+**APXT Revenue Growth**: 25% per year (30% on a recurring revenue basis)
+
+**APXT Recurring Revenue**: \~78% of total revenue (2020); this represents subscription revenue that customers contractually pay year over year (e.g., spotify charges on a subscription based model while video games that you buy once are changed on a license/one-time revenue model)
+
+**APXT Profitability**: 14% EBIT margin (% of revenue that is kept as profits before the impact of interest expense (which there are none) and taxes)
+
+**APXT Churn**: N/A unfortunately
+
+**APXT Balance Sheet**: Looks clean – no debt, $252M of cash
+
+Based on all these metrics, you get a pretty complete financial profile for the business that you can compare to other publicly traded peers to triangulate around an appropriate valuation. Here is a sample of other high growth SaaS companies:
+
+https://preview.redd.it/lcz1w3bu8n461.png?width=853&format=png&auto=webp&s=cbd0d103fb750a4eaacc97323d108b31a2085466
+
+As you can see, APXT fits into this comp set quite well in terms of growth, profitability, TAM, and recurring revenue, though it is somewhat smaller in terms of revenue. But what about price? The everyday analogous way to think about price or valuation is shopping for clothes (or anything, really). Of course a custom tailored Italian suit complemented with Gucci loafers is going to be a much doper outfit than an oversized white Old Navy t-shirt complemented with oversized jhorts you got from Goodwill, but it also is going to cost you 1000x as much. Same principle applies to company valuations. Unfortunately there are no price tags on stocks – it’s a bit more complicated than just comparing straight up stock prices. You have to look at the stock price (x) the number of outstanding shares, which gets you the market cap, or the equity value. Then you have to add net debt (total debt minus cash). This resulting sum is called the company’s enterprise value (EV) and represents the worth of the entire company. For companies like these that have strong growth and no profits, the appropriate comparison to make is against each company’s EV divided by its Revenue. This represents the value of the entire company (based on the stock price) relative to its revenue, a fundamental metric. Companies with similar profiles in terms of growth, recurring revenue, etc. should have similar multiples. Going back to the previous clothing example, the suit + Gucci sleds are much better than the Big and Tall sloppy seconds, but once you normalize for the price (e.g., looking at the price divided by fundamental metric like quality of clothing), the relative advantage of the suit becomes much more muted. If the suit was just as cheap as the t-shirt and jhorts, then you’d obviously buy the former, because the price / fundamental metrics ratio is much lower. Same concept here with APXT. Let’s look at the same table above, except now with the EV / Revenue multiples
+
+https://preview.redd.it/1zpgx0qx8n461.png?width=853&format=png&auto=webp&s=6e6419e322dbfdb5a90d71ce905c781761ed798c
+
+As you can see, APXT has strong fundamental stats, and is relatively cheap (at 17.4x vs average of 20.8x), suggesting it is a good buy.
+
+For those who say these companies aren’t comparable on the basis of size – I completely hear you. All the comps listed here are bigger than APXT despite sharing otherwise similar characteristics. Okta and Ping both operate in security and the last 3 companies are direct companies APXT mentions in their investor presentation as having comparable profitability and growth above a certain size metric. For what it’s worth, I’ve done separate analyses showing that size isn’t a strong predictor of valuation (it’s more so growth and other fundamental metrics).
+
+To summarize, at $14.33 a share (closing price at 12/11/20), the company is worth \~$2.6B EV, representing a \~17.4x EV / Revenue multiple. For a SaaS company growing at 25% in a large market benefiting from strong tailwinds that has already achieved profitability, this multiple is somewhat conservative (read: low), and I can see it going much higher given the current market environment. Two years ago, I would never have dreamed of calling a company trading at 17x Revenue conservative, but times change and in the era of companies like DoorDash IPOing for absurd valuations (27x revenue), it’s certainly not unfathomable for a company like this to trade up to 25x, which translates to \~$19/share, representing a 33% upside from where it’s trading at today.
+
+Position: 2,500 shares purchased for $14.78

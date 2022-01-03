@@ -1,0 +1,5 @@
+Apple left Intel high and dry and now this...
+
+Microsoft (MSFT) is working on in-house chips for use in server computers that run on its cloud services, Ian King and Dina Ross of Bloomberg report, citing people familiar with its plans. The move adds to an industrywide effort to reduce reliance on Intel's (INTC) chip technology, King and Ross say. Microsoft is using Arm designs to produce a processor that will be used in its data centers and it is also exploring using another chip that would power some of its Surface line of personal computers, sources tell Bloomberg
+
+What now?

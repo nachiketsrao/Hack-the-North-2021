@@ -1,0 +1,21 @@
+In early 2010s, everyone thought Microsoft is a dead man walking -- a structurally declining business much like CSCO post dot-com. Its server business was under serious threat with the advent of cloud computing; its personal computing and productivity business were... stagnant, to say the least.
+
+But with the help of its scale, MSFT reoriented its entire towards new business models like cloud and SaaS. It opened up its Azure platform like AWS, and transformed Office into a huge ARR generating machine. The result? Its share price appreciation and valuation speak for themselves.
+
+On the other hand, IBM decided to double down on its on-prem centric business, paddling products like hybrid and private cloud. They decided to focus on their relationship with large accounts and didn't advertise their platform to the burdgeoning startup community. The result? Stagnation.
+
+&#x200B;
+
+[MSFT Total Return vs GOOGL & IBM; Jun 2010 - Jun 2021](https://preview.redd.it/2ka28m57s1871.png?width=1245&format=png&auto=webp&s=bcbe29c54238d49cebbc82c4b686eedea910364f)
+
+&#x200B;
+
+[MSFT EV\/Fwd EBITDA vs GOOGL & IBM; Jun 2010 - Jun 2021](https://preview.redd.it/8ij17j1cs1871.png?width=1251&format=png&auto=webp&s=959b94d33dffec3ef3d6071e3ac40a2a5de78ec2)
+
+&#x200B;
+
+Fast forward to today, everyone thinks VIAC is dead. Its linear business is under the threat of streaming platforms like NFLX, and its ad business under structural decline thanks to programmatic advertising platforms like GOOGL's Adwords, which are miles better in terms of targetability and traceability.
+
+The response from VIAC management has been a swift shift into streaming. They bought Pluto, which enables Adwords-like targetted advertising; consolidated their vast media assets into P+; and reconstituted the entire company's leadership to focus more on streaming.
+
+Will VIAC become more of a MSFT or an IBM in the age streaming? I think chances are good for the former.

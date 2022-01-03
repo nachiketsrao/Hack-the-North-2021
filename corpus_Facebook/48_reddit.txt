@@ -1,0 +1,63 @@
+Huya - is now a good time to buy?
+
+TL/DR - Egaming is huge and growing, Chinese version of Twitch = Huya, they also own Nimo TV which is expanding their presence internationally.  Beaten down recently, looks like it's finding support, growing revenues and profitable.  Huge war chest on the balance sheet.
+
+HUYA Inc. (NYSE: HUYA) – Price: 15.xx
+
+\# shares outstanding: 236,100,000
+
+Market cap: 3.57 billion 
+
+Cash and equivalents: $1.63B (\~$7/share) <-- auditor is PricewaterhouseCoopers
+
+Monthly Active Users (MAU): 179M (80M mobile) – 19% growth
+
+[https://www.statista.com/statistics/1082915/china-huya-quarterly-average-monthly-active-users/](https://www.statista.com/statistics/1082915/china-huya-quarterly-average-monthly-active-users/)
+
+Viewership up 40% - longer, stickier engagements with active users.
+
+[https://www.fool.com/investing/2021/03/26/huya-latest-earnings-more-room-for-growth/](https://www.fool.com/investing/2021/03/26/huya-latest-earnings-more-room-for-growth/)
+
+NimoTV – outside of China platform 30M MAU, area of focus for growth.
+
+Q4 Revenue – 458.3M, only 26.9M was advertising (only 5.8%! and growing 44.6% YoY)
+
+[https://finance.yahoo.com/quote/HUYA/analysis?p=HUYA](https://finance.yahoo.com/quote/HUYA/analysis?p=HUYA)
+
+2020         2021E                2022E
+
+Revenue:            1.67B      1.91B (14.4%)   2.25B (17.8%)
+
+Net Income:       128M      160M (25%)      266M (66.3%)
+
+EPS:                        0.57       0.68                  1.13
+
+Huya is an online video game streaming service that is branching out into other verticals. The majority of their revenue comes from paying users who “donate” to their favorite streamers. This market has gotten a little more competitive with streamers being offered higher payouts elsewhere, so analysts have been ratcheting down their expectations. Huya has been upping the ante and is paying to keep their market position intact.  They overtook their rival DouYu last year as the number one in China.
+
+Tencent owns about 1/3 of the company, and is trying to merge it with their competitor which it also owns roughly a third of, DouYu. The merger is stalled with the CCP due to monopolistic concerns. Ultimately, if it does go through the combined company would take back pricing power, and be attractive for software companies to make deals with as they would own \~80% of the Chinese gaming streaming market. If it doesn’t go through, it’s also good because HUYA is winning anyways, so would expect them to continue to take market share from the competition.  Also, it's heavily shorted on merger arbitrage so there would be an unwind trade.
+
+The company reported earnings on March 23rd which beat by a penny, and the stock began its descent, closing the day down 12.5% to close at $22.36. At $17.76, it is now down another \~21%.
+
+Here’s where things get interesting… you’ve got a company that is growing earnings at 20+% with a fortress of a balance sheet. If you ex out the cash, you’re buying a cash flow positive company at 10.76, with expected earnings of $1.14 next year, if you stick a boring 15x multiple on this and knock 2022 EPS down to $1, 15x1 = 15 + $7 cash = $22, but if you put the growth valuations into it, it probably gets a 20x PE (FB is 22 x 2022 EPS), and it could rally to $27 by year end. I could use some fluffy price sales ratio to jam this higher, or just remind you that this hit $36.33 earlier this year and was over $50 back in 2018. I think it’s headed higher, way higher, what am I missing?
+
+I remember when Facebook debuted and it had huge engagement, but made no money, I feel as though it took them a while to find the right balance of advertising/monetization opportunities and perhaps they held back in order to keep up their user engagement.  Nobody likes getting spammed with ads. This company is doing something similar, their advertising revenue is miniscule, but with such massive user engagement, they have huge potential to monetize those viewers.  I would expect some solid growth in advertising revenues in the next couple of years, this is the opportunity I am most excited about with this company.
+
+Cathie Wood owns some, Morgan Stanley and Renaissance Technologies were buyers in q4 2020, and when the 13-Gs were filed, this took off like a rocketship.
+
+For those who like charts and stuff, it recently had a MACD crossover, it looks oversold, and appears to be trying to form a bottom. My crayons say the next level of resistance is down around $15 though.
+
+[https://stockcharts.com/h-sc/ui?s=HUYA](https://stockcharts.com/h-sc/ui?s=HUYA)
+
+This has 34.5% of its float shorted as of March 31st, and the chart doesn’t look like short covering. 13-Gs coming out in May, earnings in June.
+
+This is not financial advice, please comment your thoughts below.
+
+I am long 200 shares @ 17.57, and contemplating buying another 300 or a few LEAPs.  I'm just waiting to see what happens to the stock when the 50dma and 200 dma cross over.  It is incredibly hard to find GARP plays in this market, what am I missing?
+
+Some other DDs I have read when the price was higher:
+
+[https://www.reddit.com/r/wallstreetbets/comments/llni06/huya\_the\_only\_undervalued\_tech\_stock/](https://www.reddit.com/r/wallstreetbets/comments/llni06/huya_the_only_undervalued_tech_stock/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/lfrqtw/huya\_sklz\_flashing\_dd\_sleeping\_esports\_streaming/](https://www.reddit.com/r/wallstreetbets/comments/lfrqtw/huya_sklz_flashing_dd_sleeping_esports_streaming/)
+
+[https://www.reddit.com/r/stocks/comments/lflejw/huya\_the\_most\_undervalued\_stock\_in\_the\_market/](https://www.reddit.com/r/stocks/comments/lflejw/huya_the_most_undervalued_stock_in_the_market/)

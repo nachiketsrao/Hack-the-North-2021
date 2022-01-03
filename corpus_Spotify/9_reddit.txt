@@ -1,0 +1,157 @@
+Posting here to offer a little perspective on what some apes saw as a quick hype play.
+
+It was evident that PSFE had finally found bottom last week after months of daily short attacks.  For months, we saw all the tell-tale signs of market manipulators expertly shaking out retail shareholders with order flow, short volume, massive block trades and 13F’s showing institutions steadily loading up.  In this context, just as PSFE was to be officially added to the Russell 1000 and 3000 indexes, it seemed a little suspicious that Paysafe was suddenly being hyped and trending on WallStreetBets.  I had to wonder if this was an engineered event to generate more liquidity since market makers were clearly running out of sellers right when they had to fill a lot more institutional orders.
+
+That’s all just monkey brain theory that ultimately doesn't matter because my plan is to hold PSFE long-term.  There is a clear strategy with this company that will take some time to come to fruition and I want to be in on the ground floor, before all the rosy ER’s come in.  With a fintech that does roughly as much transactional volume as Square and, despite recent reports, has similar growth to PayPal, it’s no surprise that institutions want to accumulate at levels so low that the stock is almost completely de-risked from a long-term perspective.
+
+The comprehensive DD below is for the diamond handed apes who may have been caught in the recent hype. Know that you’re not alone. We saw the same thing right after CNBC’s Jim Cramer called Paysafe, “the ultimate stock for this moment” and market analyst Steve Grasso repeated his calls for it go to “$45/$50 and then settle in before moving higher from there.”  After initial spikes, deep-pocketed short-sellers methodically crushed retail holders, eventually bringing the price down to where it was last week.
+
+But informed short sellers knew they couldn't push too far because that price was really not far from the price paid by noted fund managers like Dan Loeb (Third Point 41.5 million shares), David Tepper (Appaloosa Management, 10 million shares), Aaron Cohen (Survetta Capital, 13 million shares), Dipanjan Deb (Francisco Partners, 20 million shares) and Leon Cooperman (personally owns 1.1 million shares).  A price probably lower than paid by Wells Fargo’s several funds (12 million shares) and even by Blackstone when they raised their initial stake of 123 million shares to a total of 160 million shares.^(1)  Also, it’s worth noting that, since they all decided to invest, Paysafe has created significant value including securing new revenue streams in the US iGaming market and expanded partnerships with Coinbase, ESL Gaming, Luckbox, and Microsoft among others. ^(2)
+
+With a presence in 120 countries, Paysafe is an extremely diversified global payment processor: #1 global leader in iGaming, #2 global digital wallet, #4 globally in integrated merchant processing. Ever since private equity groups Blackstone and CVC took Paysafe private, they’ve been going through a major restructuring to reduce risk, increase margins and profits. It's because they are still very much in the middle of that process that I like it so much as an investment opportunity. Here are a few key points:
+
+&#x200B;
+
+* In 2017, private equity groups Blackstone and CVC raised their bid five times to ultimately to take Paysafe private for $3.9 billion.^(3)  Blackstone says their typical investment term is “upwards of 7-10 years” ^(4) which aligns with the investment time-frame implied by an inside source close to those negotiations who said, “There is a fundamental change in the way we pay for goods and services, away from the cash and cheques of our parents’ age,” adding that the private equity firms “have a decade-long thesis that this shift will only grow and grow and they want to get in now.” ^(5)
+* Under Blackstone/CVC’s stewardship, Paysafe grew revenue 65% from $864 million to $1.418 billion (28% CAGR pre-Covid). Last year, due to Covid-related brick-and-mortar business and sporting event closures, along with their long-standing strategic decision to exit specific high-risk Asian revenue channels, 2020 revenue stagnated.  This is the reason they recently reported only 5% YoY quarterly growth.  In their Q1 ER, management noted that, without those channel exits they would have reported growth in the “mid to high teens.”  But even if you include 2020’s stagnant growth, their overall revenue growth since 2017 was still 18% CAGR. This is roughly the same as PayPal’s current projected growth. ^(6,7)
+* A few months ago, Paysafe was brought public through a reverse merger transaction with acclaimed deal maker Bill Foley, Chairman of Fidelity. The deal paid down $1.2 billion in debt and gave Blackstone/CVC about $5.6 billion in cash and shares.^(8)  The fact that Blackstone's recent 13F shows they bought back 37 million shares, combined with statements from them and Paysafe's board, indicates that they did this deal, not for a mere 44% gain on a four year investment, but because Bill Foley is an extraordinarily successful and well-connected deal maker who has a proven track record for generating exponential growth.
+* Inorganic growth through M&A is a major pillar of Paysafe’s strategy going forward.  Bill Foley, now Chairman of Paysafe and a major shareholder, is a proven M&A synergy wizard, particularly in the financial services arena.  Foley took Fidelity National Financial from $3 million market cap to $10.8 billion. Yeah, that’s and “m” and a “b”.  Over just the last five years, Foley grew Ceridian 3.3X ($4.2B to $14B), Dun & Bradstreet 5.6X ($2B to $11.3B), and Black Knight 8.7X ($1.6B to $14B).  Through his proven M&A playbook, Foley also grew FIS from $2.5 billion to over $91 billion market cap. That’s a 36x return.  He says  “Those characteristics of FIS are right in line with what we plan on doing with Paysafe.” ^(6,9)
+
+**Deleveraging, increasing margins and profit**
+
+* Paysafe recently confirmed they are on track to meet 2021 projections of $1.53 billion in revenue, $930-$970 million in gross profit, double-digit growth and expanding 30-35% EBITDA margins, and $103 billion in transactional volume.  Paysafe’s already strong $362 million in 2020 free cash flow was reported to be on track for 29% growth in 2021.  Notably, their multi-year projections don’t include growth from their "active M&A pipeline" and their ongoing US iGaming expansion (projected at 55% CAGR).
+* Q1's earnings disappointed some because, as part of their restructuring, they had $90 million in one-time non-recurring expenses associated with the merger and paying down $1.2 billion in debt. The company noted: “Results included interest expense of $58.5 million, an increase of 53% compared to the prior year, reflecting the expense of capitalized debt fees as a result of debt repayment on March 31, 2021. Net loss also included share-based compensation of $72.4 million, compared to none in the prior year due to shares vested on completion of the Transaction."
+* Take away the $90 million in one-time expenses and, rather than reporting a $49 million loss, the company would have reported $41 million in quarterly net profit, thereby beating all analyst estimates. All signs indicate they are on track to beat estimates going forward, although I have noticed a few platforms raising those estimates recently.
+* In addition to paying down $1.2 billion in debt, an improved Moody’s credit rating has enabled the company to refinance roughly a billion at a 1.25% lower interest rate, with an option to reduce it another 25bp.^(10)  Foley says: “One of the keys to this transaction and value creation for our shareholders is the reduction of Paysafe’s leverage ratio to 3.6x Debt/EBITDA.”  Notably, this Debt/EBITDA ratio is far better than the majority of their fintech peers, and the resulting improved margins stand to make it better still.
+* The combined effect of overall recent debt management will be a savings of around $92 million annually.  This secures higher margins, increased cash for M&A and higher profits which, in my view, will lead to raised price targets and positive price action catalysts.
+* As part of their restructuring to cut down on operating expenses and further increase margins, Paysafe has recently forged agreements with Snowflake and AWS as they move to cloud-based integration for easier migration between their platforms, easier cross-border payments and planned expansion into global banking as a service, having identified a $58 trillion TAM.
+
+**Highly competitve**
+
+* Unlike other payment processors, Paysafecard enables those without basic ID metrics, credit cards, or even bank accounts (the 1.7 billion “unbanked” globally) to engage in eCommerce in over 50 countries. This segment grew 63% YoY.  Just yesterday, Microsoft introduced Payesafecard to its Xbox platform in 22 countries.
+* In various segments, Paysafe has recently expanded their partnerships with FOX bet, Roblox, Fortnight, Coinbase, Amazon, Twitch, Microsoft/Xbox, bet365, ApplePay, Draftkings, Spotify, Youtube, Visa, Betfair, PayLease, ESL Gaming, Luckbox, Amelco, BetMGM, Ceasar’s, and Pointsbet among many others.
+* \#4 globally in integrated merchant processing, Paysafe’s proprietary scalable electronic payment platform was voted “Best Omni-Channel Payment Solution”, “Payment Processor of the Year,” and “Best Payment Method.”
+* They are #2 globally in the digital wallet space with a presence in 120 countries. They own Neteller and Skrill, which was voted “Best Digital Wallet” for “best consumer take up”, “most innovative technology” with “greatest potential to disrupt current ecosystems.”
+* People are usually more likely to leave reviews when a payment platform doesn’t meet their expectations. That said, Trustpilot rates Paysafecard as “Excellent” (4.7/5 stars-31,981 reviews), Paysafe’s digital wallet Skrill as “great” (4.1/5 stars-18,037 reviews) and Skrill Money Transfer as Excellent (4.8/5 stars - 8,349 reviews). ^(11)
+   * By contrast, Truspilot rates Stripe as “Average 3.4/5 stars- 6,208 reviews), Venmo as “bad” (1.2/5 starts - 222 reveiews), Zelle as “bad” (1.2/5 stars - 326 reviews) and PayPal as "bad" (1.2/5 stars-18,555 reviews). ^(12)
+
+https://preview.redd.it/1axvo1n3sl871.png?width=475&format=png&auto=webp&s=ca4bb0678156d9737029ff6a3075728bd54e8940
+
+&#x200B;
+
+**“At Paysafe, the iGaming market volume was estimated to be $3.4 billion in 2019, and is now projected to reach $47 billion in 2025.”**
+
+**“It’s our job to be there first and to make sure we dominate."** \- Bill Foley
+
+&#x200B;
+
+* Paysafe is the #1 global leader in iGaming payment processing, a space that is extremely difficult to enter, due to managing risk and a very complex regulatory landscape. Paysafe’s advantage here is a large aspect of its MOAT, as discussed below.  Paysafe is often an integrated back-end payment processor so most don’t realize they are using it but they are already integrated with 75% of all US iGaming operators. Paysafe is actively laying the groundwork for their US expansion in the wake of a US Supreme Court decision allowing state-legalized sports betting.
+* Bill Foley says, "It’s going to be a land grab. We want to be out there about 10 miles ahead of everybody else…we’re seeding the future growth right now by state and by operator... The day a state opens up, we are there ready from a regulatory perspective, from a risk perspective, and from a product perspective... I have a vision that we should be THE digital wallet and have tie-ins with every major casino company that’s headquartered or located in Las Vegas. There will be money to be made for everybody... We’ve got a wide landscape we can attack. It’s pretty exciting”
+* In his letter to investors, fund manager Dan Loeb said, “We believe the US is poised to become the largest online gambling market globally as it begins to deregulate state by state and Paysafe is exceptionally positioned to capitalize as the global market leader.”
+* Compass Point analyst Michael Del Grosso, who initiated coverage with a $19 price target, noted, “PSFE operates in high-growth verticals, has a unique advantage in its consumer and merchant facing solutions, and offers exposure to a secular growth opportunity in the potential legalization of iGaming in the United States,” adding, “we believe there is upside to our forecasts in the event of state-level legalization of iGaming.” ^(13)
+   * Recent headlines since Del Grasso wrote that:
+      * "New York State Legalizes Online Sports Wagering"
+      * "Maryland Online Sports Betting Bill Passes Legislature"
+      * “New Hampshire sports betting deal approved overwhelmingly; Hogan likely to sign"
+      * "Arizona governor signs bill legalizing sports betting"
+      * "Wyoming Legalizes Sports Betting"
+      * ”Delaware igaming revenue up 74.3% year-on-year in March"
+      * "Pennsylvania gambling revenue rockets 162.7% in March - The biggest increase was recorded for sports wagering, where revenue rocketed by 326.1%"
+      * “Caesars Entertainment (Paysafe partner) announced Official Sports Betting Partner of NFL"
+      * “Michigan’s online sports betting launch hailed a success, Ohio could follow this year”
+      * “Ohio legislators doubling down on legalized sports gambling”
+      * “Louisiana Begins The Process of Legalized Sports Betting”
+      * “Path to legalized Texas sports betting becomes more clear”
+      * “NC lawmakers make push to legalize sports gambling to generate funding for schools”
+      * “Florida poised to offer sports betting under major gambling deal”
+      * “Legal Sports Betting Could Get To California Sooner Than You Think”
+      * “Canada legalizes single-game sports betting”
+
+&#x200B;
+
+* Every analyst covering Paysafe rates it as a "Buy". A few quotes :
+   * RBC Capital 5-star analyst Daniel Perlin: “We believe PSFE offers a unique combination of digital wallet capabilities, accelerated cash conversion for consumers who would otherwise be out of the ecommrece loop, and integrated payments, all focused on specialized & complex end-markets, which creates a competitive moat and pricing power.” “recent underperformance is largely due to the complex nature of PSFE’s business and the FTAC II transaction” and adds his view that Paysafe offers one of the best combinations of services in online payment space: “PSFE has created a unique two-sided network enabling merchants to accept online & in-store payments (in specific niche verticals), while also offering consumers a digital wallet & eCash solution, which converts cash-heavy users to digital users. We believe it’s this combination that enables PSFE to generate superior take rate economics vs. peers.” ^(14)
+   * BMO Capital, 5-star analyst, James Fotheringham: “PSFE is a global leader in iGaming (online betting related to sports, poker, and other casino games, as well as lotteries and bingo). Indeed, 36% of PSFE’s revenues are from global iGaming. That is far more than for any of its peers.” iGaming deposit volumes in the U.S. will grow “at more than five times the rate of growth elsewhere in the world” with a "5-year CAGR (compound annual growth rate) of between 40% to 55%." ^(15)
+   * Evercore ISI analyst David Togut 'praised Paysafe for its “robust risk management operation,” and its high rankings in several key performance indictors globally, including cash network, stored digital wallet value, and amount of partnered independent merchants.' ^(16)
+
+&#x200B;
+
+**MOAT:**  **“robust risk management operation”**
+
+So why does Paysafe dominate iGaming and how is it able offer eCommerce services to the 1.7 billion globally who can't even manage to have bank accounts or credit cards?
+
+Their industry leading multi-jurisdictional regulatory expertise offers a durable advantage in spaces where competing fintechs are hesitant or unwilling to enter. CEO Philip McHugh from transcript : “When we talk about a deep and a wide MOAT, this is absolutely one of the areas that we see that benefit where it’s hard to copy.…We have over 300 professionals dedicated to risk, compliance, and analytics. That is very, very rare in the payments space. It’s a real strength of ours. We’ve been able to track some of the top people in the industry, including the former CRO from PayPal, and we’ve upgraded the team, we’ve built some real data capabilities, and we see this continuing to be an area of differentiation for Paysafe versus others.”
+
+“We can de-risk some transactions where the market has abandoned many of these players…we bring millions of consumers into the ecosystem. We bring unique ways to pay and access funds that a typical card processor certainly can’t do. When you have that two-sided network, you change the conversation. When we speak to some of our largest iGaming customers, we’re not only talking about take rates and comps, we’re talking about revenue-generation, we’re talking about attracting the types of customers that they want and they need in their ecosystem. That’s a really, really powerful position to have.” ^(9)
+
+&#x200B;
+
+**Valuation:**
+
+A while back I looked at a basket of fintech peers including PayPal, Square, Nuvei, Repay, Shift4, Adyen, Affirm, BILL, GPN, and Paysign.
+
+* Paysafe reports 30%+ EBITDA margin,  mid to high teen EBITDA growth, and $362 million in free cash flow (now on track to increase 29%),
+* By comparison, a third of the peer group reported negative EBITDA, half reported negative EBITDA growth, and a third negative free cash flow.
+* Paysafe also has better EPS than over half the group and better Debt/EBITDA ratio than 3/4 of them.
+* The group's collective growth rate of \~12.5% is in the range of Paysafe's 10-13% projections but the company's estimates may be intentionally conservative as they do not take into account their current expansion into US iGaming nor do they factor in their "active M&A pipeline."  Foley is apparently known for under-promising and over-performing.
+* As noted above, Paysafe was growing 28% CAGR pre-Covid, but taking into account last years slow down due to Covid-related business closures and strategic channel exits, it grew at 18% CAGR, a rate on par with PayPal's projected growth.
+
+Given all the above factors, it seems fair to look at Paysafe's potential price based an average of the multiples for the above peers:
+
+Paysafe’s share price with average of sector peer multiples:
+
+* EV/EBITDA ratio : $122.09
+* EV/Rev ratio : $83.91
+* EV/FCF ratio : $87.86
+
+Average: $97.95
+
+More realistic price after removing all outliers in each category which put PSFE share price over $100
+
+* EV/EBITDA ratio : **$50.75**
+* EV/Rev ratio : **$44.64**
+* EV/FCF ratio : **$44.18**
+
+**Average : $46.52**
+
+In a nutshell, the basket of sector peers has an average growth within Paysafe’s conservative projections yet they trade at 350-750% higher multiples. With Paysafe having better financials than most, it is hard to argue that this is proportionate. Either the entire field has to come down or Paysafe has to go up.  While I don't necessarily agree with his time frame, market analyst Steve Grasso's call for "$45/55" may actually be quite reasonable.
+
+&#x200B;
+
+Edit: Just realized that Paysafe’s pre-Covid YoY revenue growth (24%) was actually much better than PayPal’s (15%).  This suggests that once Asia channel exits are no longer affecting YoY quarterly growth, there is reason to suspect that growth will rise back up to the high teens or higher.  However, in case people didn’t catch it in the transcripts, Q2 YoY growth may still be dampened by those channel exits since they didn’t complete until mid-year 2020.  My expectation is that we’ll see growth ramping up more in Q3 and Q4.
+
+&#x200B;
+
+**Sources:**
+
+(1) see fintel or other source for institutional ownership. (bot mods won't allow link)
+
+(2) [https://www.reddit.com/r/PSFE/comments/oak2jx/paysafes\_value\_creation\_trajectory\_is\_very\_much/](https://www.reddit.com/r/PSFE/comments/oak2jx/paysafes_value_creation_trajectory_is_very_much/)
+
+(3) [https://www.wsj.com/articles/blackstone-cvc-to-buy-paysafe-for-3-9-billion-in-latest-online-payments-deal-1501830827](https://www.wsj.com/articles/blackstone-cvc-to-buy-paysafe-for-3-9-billion-in-latest-online-payments-deal-1501830827)
+
+(4) [https://pws.blackstone.com/wp-content/uploads/sites/5/2020/09/the\_life\_cycle\_of\_private\_equity\_insights.pdf](https://pws.blackstone.com/wp-content/uploads/sites/5/2020/09/the_life_cycle_of_private_equity_insights.pdf)
+
+(5) [https://www.reuters.com/article/us-paysafe-group-m-a-idUSKBN1AK0KN](https://www.reuters.com/article/us-paysafe-group-m-a-idUSKBN1AK0KN)
+
+(6) [https://www.sec.gov/Archives/edgar/data/1818355/000119312520311998/d54063d425.htm](https://www.sec.gov/Archives/edgar/data/1818355/000119312520311998/d54063d425.htm)
+
+(7) [https://www.paysafe.com/fileadmin/content/pdf/Analyst\_Day\_presentation\_March\_9\_\_2021.pdf](https://www.paysafe.com/fileadmin/content/pdf/Analyst_Day_presentation_March_9__2021.pdf)
+
+(8) [https://sec.report/Document/0001104659-20-089252/](https://sec.report/Document/0001104659-20-089252/)
+
+(9)  [https://www.sec.gov/Archives/edgar/data/1818355/000119312520311837/d18843d425.htm](https://www.sec.gov/Archives/edgar/data/1818355/000119312520311837/d18843d425.htm)
+
+(10)   [https://www.globalcapital.com/article/b1s344yyc1zccx/paysafe-preps-post-spac-refi](https://www.globalcapital.com/article/b1s344yyc1zccx/paysafe-preps-post-spac-refi)
+
+(11) [https://www.trustpilot.com/review/www.paysafecard.com](https://www.trustpilot.com/review/www.paysafecard.com)
+
+(12) [https://www.trustpilot.com/review/www.paypal.com](https://www.trustpilot.com/review/www.paypal.com)
+
+(13)  [https://www.streetinsider.com/Analyst+Comments/UPDATE%3A+Compass+Point+Starts+Paysafe+Group+Ltd.+%28PFSE%29+at+Buy%3B+All-In+on+an+iGaming+Opportunity/18197588.html](https://www.streetinsider.com/Analyst+Comments/UPDATE%3A+Compass+Point+Starts+Paysafe+Group+Ltd.+%28PFSE%29+at+Buy%3B+All-In+on+an+iGaming+Opportunity/18197588.html)
+
+(14) [https://www.nasdaq.com/articles/billionaire-david-tepper-places-bet-on-3-strong-buy-stocks-2021-06-04](https://www.nasdaq.com/articles/billionaire-david-tepper-places-bet-on-3-strong-buy-stocks-2021-06-04)
+
+(15) [https://themoneymanifesto.com/2021/06/21/paysafe-is-ready-to-ride-the-igaming-wave-analyst-says-buy/](https://themoneymanifesto.com/2021/06/21/paysafe-is-ready-to-ride-the-igaming-wave-analyst-says-buy/)
+
+(16) [https://finance.yahoo.com/news/paysafe-poised-profit-085250018.html](https://finance.yahoo.com/news/paysafe-poised-profit-085250018.html)

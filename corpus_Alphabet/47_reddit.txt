@@ -1,0 +1,57 @@
+#DOW
+
+Apple (AAPL) (Information Technology/Technology Hardware, Storage & Peripherals) is reportedly willing to help Japan Display (6740 JT) amid sluggish iPhone sales, according to sources cited by WSJ.
+
+Boeing (BA) (Industrials/Aerospace & Defence), Airbus (AIR FP, EADSY) (Industrials/Aerospace & Defence) - Korean Air has ordered 20 Boeing 787 Dreamliner aircraft and agreed to lease another 10. The deal includes a commitment to purchase a further 10 new 787-10s and 10 additional 787-9 airplanes, valuing the total agreement at USD 6.3bln (at current prices). The order hands Boeing a much-needed boost following a slow start to the Paris Airshow, in which Airbus logged 123 orders on the first day to Boeing’s nil. Elsewhere, Air Lease (AL) placed an additional order with for five Boeing 787-9 Dreamliners, whilst Amazon (AMZN) leased 15 737-800 jets.
+
+JP Morgan Chase (JPM) (Financials/Diversified Banks) is reportedly working on a digital banking project in London, newswires reported citing sources. Sources say the bank is “busy hiring high level developers with full-stack and cloud-based dev skills for the new project, along with other personnel." 
+
+Merck & Co (MRK) (Health Care/Pharmaceuticals) announced that the FDA has approved its KEYTRUDA cancer therapy drug. Elsewhere, Merck & Co and AstraZeneca (AZN LN, AZN) (Health Care/Pharmaceuticals) announced that the European Commission has approved their LYNPARZA drug, which treats ovarian, fallopian tube or primary peritoneal cancer.
+
+Microsoft (MSFT) (Information Technology/Systems Software) has resumed sales of its Huawei laptops as it looks to get sell down its existing inventory. The co. added that it believes it can continued to provide updates to people who have already own Huawei devices.
+
+United Technologies’ (UTX) (Industrials/Aerospace & Defence) Collins Aerospace has secured over USD 1.5bln in agreements covering its Power & Controls and Aerostructures business units.
+
+Verizon (VZ) (Communication Services/Integrated Telecommunication Services) - US Senator Rubio has filed legislation aiming to block Huawei from seeking damages in US patent courts. This follows the Chinese tech co. making demands that Verizon pay USD 1bln for patented technology.
+
+NASDAQ 100
+
+Alphabet (GOOG, GOOGL) (Communication Services/Interactive Media & Services) and Sanofi (SAN FP) announced a joint venture which aims to use emerging data technologies to change how medicines and health services are delivered.
+
+Amazon (AMZN) (Communication Services/Interactive Media & Services) announced on Tuesday that it would lease 15 Boeing 737-800 cargo, through a partnership with General Electric's (GE) GE Capital Aviation Services. The 15 aircraft will be in addition to the five Boeing 737-800s already leased from GECAS, announced earlier this year as the e-commerce giant looks to further expands its air network.
+
+Cognizant (CTSH) (Information Technology/IT Consulting & Other Services) announced that it has agreed to buy Zenith Technologies, a private life sciences technology company based in Cork, Ireland.
+
+Facebook (FB) (Communication Services/Interactive Media & Services) has unveiled plans to launch its cryptocurrency, called Libra, marking the social media co.’s latest effort to expand beyond social networking and move into online financial services.
+
+Nvidia (NVDA) (Information Technology/Semiconductors) and Volvo (VOLVF) (Consumer Discretionary/Automobiles) have partnered to jointly develop a decision-making system for autonomous vehicles and machines.
+
+Tesla (TSLA) (Consumer Discretionary/Automobiles) is to reportedly to re-vamp its Asia business as the electric automaker shifts its focus to China.
+
+#S&P 500
+
+Alexion Pharmaceuticals (ALXN) (Health Care/Biotechnology) announced that Japan's MHLW has approved its ULTOMIRIS drug, a treatment for adult patients with paroxysmal nocturnal hemoglobinuria. The approval is based on results from two Phase 3 studies which demonstrated solid results.
+
+AT&T (T) (Communication Services/Integrated Telecommunication Services) has won the bidding for spectrum licenses covering over 98% of the US population, following the close of FCC Auction 102. Elsewhere, the telecoms co.’s WarnerMedia unit is reportedly nearing a deal with Star Wars: The Force Awakens director JJ Abrams, reported the NYT. 
+
+CBS Corp (CBS, CBSA) (Communication Services/Broadcasting), The E.W. Scripps Company (SSP) (Communication Services/Broadcasting), Fox (FOXA) (Communication Services/Broadcasting), TEGNA Inc. (TGNA) (Communication Services/Broadcasting) – The DoJ has reached settlements with CBS Corp, Cox Enterprises, The E.W. Scripps Company, Fox Corporation, and TEGNA Inc. to resolve an ongoing investigation into exchanges of competitively sensitive information within the broadcast television industry.
+
+Dish Network (DISH) (Communication Services/Cable & Satellite) has launched OnTech Smart Services, a new direct-to-consumer brand that will provide consumers with installation, set-up, and education for smart home devices/entertainment systems.
+
+General Electric (GE) (Industrials/Industrial Conglomerates) Aviation GE booked over USD 24bln in new orders for engines and services on the first day of the Paris Air Show. This included the largest engine order of all time, in which Indigo Airlines placed a USD 20bln order for GE Aviation’s CFM International LEAP-1A engines.
+
+Kellogg Co. (K) (Consumer Staples/Packaged Foods & Meats) has announced a reorganization plan, which will primarily impact operations in North America, in anticipation of pending divestiture of businesses to Ferrero International SA, with the project expected to be completed by the end of 2019.
+
+NiSource Inc (NI) (Utilities/Multi-Utilities) is reportedly mulling the sale of its Columbia Gas of Massachusetts unit. Reportedly the division could fetch USD 2bln, but is facing in excess of USD 1bln in disaster claims after last years deadly pipeline explosion.
+
+Raytheon (RTN) (Industrials/Aerospace & Defence) and Northrop Grumman (NOC) (Industrials/Aerospace & Defence) are teaming up to integrate Northrop Grumman's scramjet combustors into Raytheon's hypersonic weapons. Elsewhere, Raytheon are teaming up with Black Sage to provide drone detection and mitigation systems.
+
+#OTHER
+
+Alibaba (BABA) (Consumer Discretionary/Internet & Direct Marketing Retail) is shuffling top executives and business units ahead of its Hong Kong listing, the FT reported.
+
+Caesers Entertainment (CZR) (Consumer Discretionary/Hotels, Restaurants & Leisure) activist shareholder Carl Icahn thinks the casino co. is demanding too much in its buyout talks with Eldorado Resorts (ERI), reported the NYT.
+
+Spirit AeroSystems (SPR) (Industrials/Aerospace & Defence) announced its role in Airbus’ (AIR FP, EADSY) Wing of Tomorrow program, to which it will contribute the development of solutions essential for the fabrication and assembly of leading edges, wing boxes and lower wing covers.
+
+Uber (UBER) (Industrials/Rail & Road) and Middle Eastern ride-hailing app Careem will remain separate companies until at least Q1 2020, when Uber's acquisition is likely to close

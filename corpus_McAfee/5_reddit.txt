@@ -1,0 +1,15 @@
+With cloud computing becoming more relevant than ever, the need for high level cybersecurity has reached its peak. In comes McAfee:
+
+McAfee Corp is the device-to-cloud cybersecurity company. It is engaged in protecting consumers, enterprises, and governments from cyberattacks with integrated security, privacy, and trust solutions. The company's Personal Protection Service provides holistic digital protection for an individual or family at home, on the go, and on the web. Its platform includes device security, privacy and safe Wi-Fi, online protection, and identity protection, creating a seamless and integrated digital moat. For enterprises and governments, it offers a comprehensive cybersecurity solution that protects its customers against adversarial threats across cloud, on-premise, hybrid environments and endpoint devices. It operates in two business segments namely Consumer and Enterprise. 
+
+McAfee (MCFE) IPO'd quietly towards the end of 2020 and was lost in the hype of PLTR and many other public companies. However, with earnings approaching us next week after the United States markets close on Tuesday, February 23, it is important that we re-evaluate this stock and its current price.
+
+Current Price: $19.47 at an 8 billion dollar market cap
+
+EOY Price: $40
+
+In the realm of cybersecurity, 2020 was all about cloud-based cybersecurity software names. Organizations were forced to migrate to cloud computing-based operations like never before, so there was huge demand for services from companies like Crowdstrike Holdings, Zscaler, and Octa, and prices for all three stocks increased by triple digit-percentages last year as a result.  McAfee is also a force to be reckoned with in the enterprise security market, where it counts 78% of the Fortune 500  and 86% of the Global 2000 as customers. The company’s Mvision enterprise product portfolio provides tools for protecting employee devices from hacking attempts. It also includes a growing lineup of solutions for securing backend assets such as public cloud deployments and workloads deployed in containers. 
+
+McAfee is expected to post 2.81 Billion dollars in revenue for the 2020 year, and earn a positive net income for the first time. I believe McAfee will be a dominate player in the cybersecurity industry for the years to come.
+
+Position: 100 shares and 10 contracts of June 2021 25C.

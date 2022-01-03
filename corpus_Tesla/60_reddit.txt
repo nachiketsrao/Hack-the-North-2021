@@ -1,0 +1,49 @@
+I think after the last earnings call there is a lot of incorrect information or straight out distortion of facts being put out by people and analysts alike here and would like to set the record straight with what I believe the facts are.
+
+**Production:**
+
+The company in their earnings call said they are on track to start production at the end of Sep 2021. If you actually listened to what they said, they said this is for test-builds that they hope to validate in Q4 and to deliver a few to some special early customers in Q1' 2022. They further said or implied that they expect regular commercial deliveries to start in Q2' 2022. Previously, they said on the Q1' 2021 call they had enough cash to ramp production to produce and deliver 1,000 vehicles this year. Now delivery (ignoring their special test-builds delivered to early customers) is pushed back to Q2' 2022. Maybe the word PRODUCTION is being misused to imply something other than what they are doing. I would suggest the correct term for what they are doing now is PRE-PRODUCTION. In any case this is semantics as revenue requires deliveries, not production.
+
+**Equity Line of Credit (ELOC):**
+
+There have been claims that there is a "Line of Credit" providing up to $400M in financing in place. In fact this is a complete misrepresentation. Below is the link to an SEC filing describing the agreement between RIDE and YA. Here are some key points and how the $400M is computed and why it does not mean anything.
+
+On 7/23/2021 they entered into the agreement with YA to purchase up to $400M of their Class A Common Stock over a 36 month period at RIDE's discretion (that should be a red flag there. As why would YA agree to this... well all will be explained). Per that filing, " The net proceeds that we may receive under the Purchase Agreement cannot be determined at this time...", which means that while RIDE can potentially receive up to $400M, they might receive far less but can't predict that amount, as it depends on the stock price.
+
+The agreement says that RIDE can only sell YA, up to 35,144,690 in shares, UNLESS, (1) they obtain shareholder approval to sell more or (2) the average price they sell the shares to YA at is over $7.48 per share. The price of the shares is 3% less than the "simple average of the daily VWAP's for the three trading days following notice to YA" There are also daily limits on how many shares RIDE can sell to YA at any time.
+
+So assuming 35M shares, at a current share price of about $5.8 that is about $204M before the 3% discount to market price that RIDE nets. For RIDE to net 400M, with selling 35M shares they need a share price of $11.4. Alternatively they need shareholders to approve selling much more than 35M shares (so just more dilution) or they need the average price to be over $7.48, which will allow them to increase the shares they sell, so also more dilution.
+
+In sum, at current market prices they net about $200M under this "Equity Line of Credit" or share offering. However, as selling shares will likely depress the price, they should net far less.
+
+[https://sec.report/Document/0001558370-21-009222/](https://sec.report/Document/0001558370-21-009222/)
+
+**Further Dilution:**
+
+Per the SEC filing below, it says that Mr. Burns can sell 50% of his shares by 10/23/2021. Steve Burns owns 46.4 million shares, so assuming he sells when his shares are unlocked he can sell 23.2M shares end of Oct 2021. While in theory not "dilutive" the end of lock-ups tend to have a similar impact by flooding the market with more shares than demand for them.
+
+[https://sec.report/Document/0001104659-21-090313/#tSTTR](https://sec.report/Document/0001104659-21-090313/#tSTTR)
+
+**Cash Position:**
+
+Per their Q2 earnings call and reports they have about 366M in cash on hand at 6/30/2021. In their earnings report they suggested about 200M in operating expenses for the rest of 2021 and about 215M in CAPEX. While they suggested they can time some of the payments in Q3, this comes to about 415M in cash needed to get through the year. That is about 50M cash short.
+
+Going back to their ELOC, at current share price they can raise about 200M, so assuming they raise the funds without dropping the share price that leaves them  with 150M at year end. It is reasonable to assume that their quarterly cash needs will only increase as they attempt to get to production (this has been the case so far for them and has been the case by every other auto maker as far as I can tell) means that for Q1' 2022 they will need over 200M.  The conclusion is obvious, that on top of the current share offering, if the share price does not go up, they must issue more shares. Further, they project regular commercial deliveries in Q2' 2022 so the money they need will not be insignificant.
+
+**Other Sources of Funds:**
+
+The Company suggested that they are getting a valuation on their plant and equipment in order to possibly borrow funds against that. They suggested that the value is much more than the book value of about $300M. The fact is, a lot of their equipment will be installed and modified to their specs and will not be suitable without additional cost to another manufacturer. This means that fire sale value, or what someone might actually lend against it, will likely be far less than the book value. Perhaps to Lordstown, the value is higher, but to a third party that is a very doubtful assumption. As to the factory itself, it was an old plant that GM shut down. This is not something people are looking to buy. For EV's, you see with Tesla, Lucid, and others they are looking or building new factories with layouts designed for EV's and not ICE vehicles. I would again doubt the factory has much value for a lender. Hard to know what they can borrow using their plant and equipment as collateral, but it clearly will not be much.
+
+**Conclusion:**
+
+Given the dilution and share unlocks coming and their downward pressure on share price, as it stands now the company will have difficult raising sufficient funds to get to production. For the company to be viable, it must have its share price go up first to enable them to raise funds favorably. As evidenced by today's price action, this company is not attracting substantial shareholder inflows, so it remains unclear how the share price increases first to enable them to raise sufficient funds. So based on the current share price, I don't understand how this company, even if they do everything right going forward, can succeed.
+
+**Some Other Thoughts:**
+
+None of the above analysis is dependent on whether the in-wheel tech works or not or is a good candidate for a commercially viable electric truck. I have for several months expressed substantial doubts about the tech and RIDE's ability to execute and have no reason to assume otherwise. In any case, even if it could work, structurally RIDE is not in a position anymore to commercialize it.
+
+I actually also have an issue with Price Targets analysts are setting here. Either you have to have a high price target or a near-zero one. An in-between target makes no sense as current share price means they are headed to insolvency before they can produce anything. This company is either a $10+ investment or a <$1 investment, there is no in-between.
+
+**TL,DR price-target <$1 and bankruptcy in Q4' 2021 or Q1' 2022 (if they are lucky they push it off till Q2' 2022).**
+
+Positions: a bunch of $5 Puts for Jan 2022 that are currently up about 20%.

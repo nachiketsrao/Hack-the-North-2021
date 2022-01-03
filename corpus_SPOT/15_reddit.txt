@@ -1,0 +1,166 @@
+# I. Introduction
+
+Sorry for the wall of text - but if you are serious about trading **please read through this -** I think you all could really benefit from a bit of intermarket analysis - and I see way too many victims of ignorance here who could prevent their losses by understanding these relatively simply concepts.
+
+This sub is primarily focused on IWM names (Russell 2000/Small Caps). If you look at that stock - **it's been sideways for almost a year**. No secret you all have been losing tons of money as of late on your favorite names (Except MVST - nice one there).
+
+In my eyes - for the best probability of success - you always want to be playing the names that are within the strongest index at the time (or simply playing the strongest index itself). I determine which is the strongest via charting plus some simple intermarket relationships.
+
+Last year during the recovery we got a huge **everything rally** \- that is not usually the case. Money constantly rotates from sector to sector - this is how it usually is - and how it's been for most of 2021. For instance - notice today (8/102021) tech is dropping while financials, materials and other inflation camp names are pumping. This is one of many useful correlations.
+
+# II. The Indices
+
+The indices are large groups of stocks lumped in together that usually move in unison. Most of you probably already know this. I'm just going to list out what each index is and what it focuses on.
+
+**S&P 500 (SPY, SPX, ES)**
+
+*from Wikipedia*
+
+"The Standard and Poor's 500, or simply the S&P 500, is a stock market index that tracks 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices."
+
+Basically a compilation of most large caps in the United States. Great gage of overall market health - and sort of a cross between the other two large cap indexes (Nasdaq 100, Dow Jones).
+
+**Nasdaq 100 (QQQ, NDX, NQ)**
+
+*from Wikipedia*
+
+"The Nasdaq-100 is a stock market index made up of 102 equity securities issued by 100 of the largest non-financial companies listed on the Nasdaq stock market. It is a modified capitalization-weighted index. "
+
+These are going to be mostly your large cap growth names (tech stocks) - but there are a few boomer names in there. Just more heavy on the growth side than the other indexes.
+
+**Dow Jones Industrial Average (DIA, DJIA, YM)**
+
+*from Wikipedia*
+
+"The Dow Jones Industrial Average, Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of 30 prominent companies listed on stock exchanges in the United States."
+
+These are going to be your "boomer" names - I like to call it the boomer index. Value, materials, healthcare etc. Not really any growth names in there (except AAPL, CRM I guess). One thing I like to note is that **all the names in Dow Jones are present in the S&P 500 - the Dow is the most closely correlated index to the S&P** (about a 0.92 correlation iirc).
+
+**Russell 2000 Index (IWM, RUT, RTY)**
+
+*from Wikipedia*
+
+"The Russell 2000 Index is a small-cap stock market index of the smallest 2,000 stocks in the Russell 3000 Index. It was started by the Frank Russell Company in 1984. The index is maintained by FTSE Russell, a subsidiary of the London Stock Exchange Group."
+
+These are all your small cap names. There is also a Russell 1000 and Russell 3000. Notice how many more companies are in here than the other indexes. This one isn't going to be moved by one or two stocks. Small caps usually benefit from risk on environments (they are perceived to be riskier) - but note the more speculative growth ones will lag in those situations.
+
+These are also **meme stocks - pretty much every single one is in a Russell Index.** If you are someone who likes to play memes - you always want to watch IWM. When this one is popping off is when they will be making a run.
+
+# III. Risk On vs Risk Off (Inflation vs Deflation Camp)
+
+Moving onto more practical applications of this information. I could do a section on Forex, Bonds, etc. - but honestly you only need to know what they are to apply the analysis that I do.
+
+The primary narrative driving the market in recent times is whether we are getting inflation or deflation - and this has dictated the flow of money.
+
+**Risk On (Inflation Camp)**
+
+Risk-On is described as a rotation from save haven assets into riskier assets. If market participants believe in high inflationary pressures, they will want to invest their cash into **"risk" assets** including, stocks, real estate etc. to combat the residual effects of inflation on their money. Additionally, they believe we are now in a rising rate environment (rates already at zero, likely to increase in the future), which would help benefit **value stocks, financials/banks, energy, specific forex/currencies**, anything that benefits from low rates (currently).
+
+More specifically, **banks benefit from a gradual steady increase in interest rates.** Banks make an interest rate spread on deposits received versus money lent. In a rising rate environment, they are able to pay lower interest on their deposits and make a larger spread on their loans.
+
+Commodities, materials (energy), and consumer/defensive stocks **benefit from inflation** as they are able to pass on rising costs to consumers. Additionally, value/defensive stocks typically have a strong track-record of recurring dividends and share buybacks to provide yield to shareholders. Conversely, in later stages of rising rates, investors may divest from growth or tech stocks because rising rates have a direct effect on liquidity and cost of capital. **When rates are high, debt is heavier and money is more expensive.**
+
+AUD/JPY is an easy forex pair to watch for risk on movements based on the Australian economy in relation to Japan. A**UD is seen as a "risk" currency**, whereas **JPY is seen as a "safe haven"**. When AUDJPY is increasing, typically this is a sign of "risk-on". This is only one of many pairs to watch for in Forex Markets, considering Forex Markets are much larger than the stock market.
+
+Remember, in the early stages of inflation, small caps or tech stocks will perform well because the negative impact of inflation on sitting in cash; however, if the federal reserve is required to combat hyper/stagflation worries, they will raise rates and growth or tech stocks may perform poorly in that environment. Furthermore, **Dow Jones Industrial Average (boomer)** names will usually outperform, and investors today may be pricing-in this effect.
+
+Equities as a whole will generally do well in a risk-on environment. Stocks are considered a hedge for inflation, but watch-out for JPOW and his antics later on.
+
+**Risk Off (Deflation Camp)**
+
+This is the opposite of risk-on. Money rotates out of risk assets into safe havens. People in the deflation corner believe inflation is transitory, asset prices will decline, and virtually **assume the Federal Reserve won't have to raise rates**. In low inflation or deflationary environment, money flows **to safe haven assets out of risk assets**. Participants would hoard cash (increasing in value) and wait for asset prices to decline. They would invest in **bonds, safe haven currencies, speculate on an increase in volatility, and save cash to reinvest later.**
+
+In recent times - growth performs well here because when interest rates are low - money is cheaper to borrow. **Growth depends on debt to continue it's operations. Most of them also don't make money and so they have** **no yield.**  An increase in interest rates will raise the cost of capital making it harder for companies to generate higher returns. With rising rates, a company has to pay a higher interest expense that lowers their overall profitability. Lower profits lead to lower cash flows, which lead to a higher required rate of return for investors, all of which lead to a lower valuation for the company's share price. Note this is primarily due to recent macroeconomic events - and in the past all equities have been considered risk on.
+
+Bonds outperform because investors believe rates to remain low or fall further. They'd be able to receive a **"higher" interest rate today versus in the future.** Bonds are typically safer than equity because they are first in-line in the event of a liquidation (bankruptcy) and earn a fixed rate of return. Additionally, the **USD, JPY, CHF** perform well because they are a 'safe-haven' currency. The US Dollar is still considered the world's reserve currency. (Trust in the US Economy/Risk Free) In addition, deflation has a natural increase in the dollar's value.
+
+The VIX performs well because it's **essentially a measure of how hedged SPX players are**. If you are expecting deflation in assets - you are expecting prices to drop for the most part - and so you want to be hedged on your long positions (or make straight bear bets).
+
+**In Summary**
+
+Today, the Federal Reserve has created a low interest rate environment to stimulate the economy; through allowing participants to borrow funds "cheaper" or lower rates. This stimulates demand, supply, borrowing, lending... overall growth. Asset prices are attempting to "price-in" the future state of the economy.
+
+If you believe that inflation is here to stay, then you'd want to shift into risk-assets. If you believe that inflation is 'transitory', then you'd want to move towards safe haven assets. Ultimately, you could assume that the Federal Reserve controls the narrative and that any major movements in the flow of money, cost of debt (change in rates), could have a positive or negative impact on asset prices. In either scenario (in the future), inflation can lead to higher interest rates causing a drop in asset prices or deflation worries can keep interest rates low and fuel the rally for longer than one would expect. I hope that makes sense.
+
+<Risk-On>
+
+* Financials
+* Commodities
+* Value
+* Materials
+* Real Estate
+* **Basically Most Equities**
+* AUD/JPY (AND OTHER RISK-ON CURRENCY PAIRS)
+
+<Risk-Off>
+
+* Bonds
+* Dollar
+* VIX
+* Growth/Disruptor Equities (SOMETIMES - THIS IS A NEW CORRELATION STEMMING FROM COVID MAKING TECH NAMES SAFE HAVENS AMONG OTHER UNPRECEDENTED FACTORS)**
+
+# IV. Practical Applications
+
+First let me go over the tickers I watch for each rotation -
+
+<Risk On>
+
+* YM (DIA)
+* RTY (IWM)
+* CL (Crude Oil Futures)
+* ZC (Corn Futures)
+* AUD/JPY
+
+<Risk Off>
+
+* DXY (Dollar Index)
+* ZB (30 Year Treasury Bonds)
+* TNX (10 Year Treasury Index)
+* VIX (The "Fear Index")
+* NQ (QQQ)
+
+Glancing at a watchlist of these will give you a quick picture of where money is flowing at the moment - but in order to predict the odds of future movements (and more profitable ones) - I perform technical analysis on all of these names.
+
+Basically - I analyze all the indices and only play the one that is the strongest from a technical standpoint. I further filter these signals and determine position sizing by analyzing their correlated assets.
+
+For instance - if **DIA** is breaking out - and **ZB** is breaking down - this is confluence for a risk on rotation. The more confluence - the higher probability you have of success in any play.
+
+On the contrary, if **DIA** is breaking out - and **ZB** is rallying - this is a sign one of the moves is likely fake - and a signal I have lower odds of success. Subsequently, I want to size smaller.
+
+***Let's take a look at one example in which QQQ (Growth, Risk Off) caught the rotation this past May. This is a perfect example of Bonds and Growth moving in unison to provide a high probability long trade in QQQ and TLT. Note: I just use trendlines and volume for my technical analysis. No indicators.***
+
+QQQ - https://ibb.co/wwhXm2k
+
+The red circle is Nasdaq on **5/13.** You can see that is the day it bottomed - and every day since then pretty much Nasdaq and Growth assets have been leading. Not only that - but on **6/22** it broke a huge technical setup (the big red line) - which triggered a ton more upside.
+
+TLT - https://ibb.co/kyzWcsP
+
+The red circle here is also **5/13.** You can see that is also the day that TLT (ZB or Bonds) bottomed - and every day since then except for the past three days - it's held the same uptrend. Not only that - but on **6/22** it also broke that big red line - which was a downtrend stemming from last year - triggering more upside here as well. We also broke out of that teal symmetrical triangle, which provided more confluence for the move.
+
+I try to assign a signal strength to each move in order to make it easier for my monkey brain to understand.
+
+* **Indexes:** 3
+* **Bonds:** 2
+* **Everything Else:** 1
+
+You will see a lot of people say bonds are everything - and in my experience that is very true. Last year we had an extremely odd situation where risk parity was fucked - but in recent times it has come back. Correlations almost always revert to the mean at **some point**. Subsequently - you could watch just bonds and the indices and efficiently track the flow of money.
+
+# V. Divergences
+
+Correlations are not perfect. If they were - everyone would be a billionaire. There are times when we get divergences and things move opposite of the way they usually do. Like I said - they **almost** **always revert to the mean** at some point - but the catch is the divergence could blow your account before it reverts back. If you are good with technicals you can easily spot when a setup you are trying to play breaks down and stop loss accordingly - but the key point here is **always have a stop loss when playing correlations.** Lots of people think they can average down infinitely and eventually profit off the arbitrage that comes with assets reverting to the mean - but **the market can stay irrational longer than you can stay solvent.**
+
+# IV. TL;DR
+
+The main thing to takeaway here is the indices. If QQQ is weak - maybe you want to take a look at DIA. If IWM is sideways - maybe you want to take a look at QQQ. Keep your head on a swivel and don't be too biased towards one sector. **If you can effectively track the flow of money - you can theoretically catch every rotation.**
+
+Also - you don't have to apply the technicals I do to track it. That's just my method. Lot's of people use complex macroeconomic analysis to assess these sorts of things, among other methods. I'm just too smooth brained for that.
+
+I hope this helped you all - and if anyone has questions drop it in the comments.
+
+\---
+
+Edit: One final note since I know the more advanced people will likely comment on this. I know QQQ/Growth has not always been risk off - this is a new thing. I was trying to explain things from the perspective of recent times as correlations shift with macroeconomic changes.
+
+We haven't had a true deflationary environment in over a decade - and subsequently the market rotations have been more about pricing in rate hikes/rate cuts than rotating in and out of equities as a whole.
+
+Last Edit: Added some clarification - fixed some formatting stuff.

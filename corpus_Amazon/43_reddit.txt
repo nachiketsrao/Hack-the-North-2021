@@ -1,0 +1,17 @@
+Hello. On August 12th, something very strange happened. The url amazon.com/affirm no longer led to an error message. In fact, it redirects to a link that says "Pay over time with Affirm" in the tab title, and, if you're on the app it says "Search in Pay over time with Affirm" in the search bar. ipad view: https://imgur.com/rGLmrwy
+
+If you do a "view page source" you can ctrl+F and see the "08-12" that verifies that this url was set up on 8/12.
+
+Now let's explore the url it redirects to. It has a specific "node ID" in it. https://www.amazon.com/b?node=23376591011
+
+Upon reviewing what this means, a node ID is set up for a specific category of product. For instance, this is what the url for their Kindle overview page looks like: https://www.amazon.com/b?node=17717476011 An identical URL with a different node ID.
+
+It seems very unlikely they set up a specific node ID url if something wasn't brewing.
+
+Now lets look at other evidence. A few months ago, someone noticed during checkout the word "option" that had not been there before, yet there was only one pay over time option. See the third line down: https://imgur.com/g0jqN4c
+
+Someone also noticed that when you used to search for "Amazon Affirm" on google it used to come up with a robo-generated search result mentioning Affirm. They do this with basically anything you search to generate clicks. But, a couple months ago, this robo-generated search result removed as if they were trying to hide something. Here is what used to come up: https://imgur.com/3uE52wt
+
+So what could all this mean? It could be something as simple as Amazon will promote Affirm's upcoming debit card on their website, but why would they promote a competing card? At the moment Amazon only offers their own cards. Or.. it could be a full-blown partnership or buyout. We don't know, but something is going on.
+
+Also, don't question why I was routinely visiting error message URLs. I have no life and was hoping one day I'd find something and I did.

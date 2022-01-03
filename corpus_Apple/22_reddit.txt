@@ -1,0 +1,18 @@
+https://www.cnbc.com/2021/04/09/white-house-set-to-host-google-intel-ceos-to-discuss-computer-chip-supply-chain.html
+
+Chief executives from companies including Google parent Alphabet, AT&T, Intel and General Motors are set to participate in a White House virtual summit on Monday addressing the global semiconductor shortage.
+
+ If you bought $INTC day after my original DD you'd be up 13% already in 1 month:
+https://www.reddit.com/r/wallstreetbets/comments/lslau3/i_believe_intc_intel_will_be_the_greatest_value/?ref=share&ref_source=link
+
+More DD that Intel is **seriously** undervalued:
+
+* Entering the GPU market could gain Intel serious market share given that it competes with RTX 3080/6800 XT given that you can't buy these cards anywhere: https://wccftech.com/intel-first-high-end-xe-hpg-dg2-gaming-graphics-pictured-rumored-specs-performance-rtx-3080-performance/
+* Intel making massive investments in American manufacturing plant in Arizona, putting them at a competitive edge over AMD and NVIDIA and Apple which all buys their chips from 3rd party suppliers. $20B in investments in Arizona plants - https://newsroom.intel.com/news-releases/idm-manufacturing-innovation-product-leadership/ https://www.crn.com/news/components-peripherals/gelsinger-intel-will-expand-manufacturing-make-chips-for-others
+* Intel remains dominant in the datacenter/server space, especially with next release keeping them on par - https://www.forbes.com/sites/moorinsights/2021/04/07/intels-launch-of-ice-lake-makes-a-statement/?sh=67a003a635ff "The company has strengthened its position against an immediate threat posed by EPYC in the datacenter by closing the feature gap and doubling down on crucial enterprise workloads."
+
+
+
+Positions Disclosure: I currently hold 300 shares of $INTC and 4C $100 strike EXP 1/21/22
+
+Disclaimer: The above references an opinion and is for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.

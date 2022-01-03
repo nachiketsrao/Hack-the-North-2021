@@ -1,0 +1,63 @@
+Spotify is going to tank at least 67% in 1-3 years. My Due Diligence.
+
+**Disclosure: I am trying to get a margin account to get approximately $5000 in long puts but the process of getting a margin account is taking a while.**
+
+*“The streaming services have a bad situation, there’s no margins, they’re not making any money,” he said. “Amazon sells Prime; Apple sells telephones and iPads; Spotify, they’re going to have to figure out a way to get that audience to buy something else.”*
+
+*-Jimmy Iovine (head of apple music & former prolific music industry exec)*
+
+**I want to warn investors that Spotify stock will fall and I suggest everyone short spotify (long put or short stock).**
+
+Current short interest: Approx 1.32%
+
+Competitors Streaming: Spotify (Premium and free tier), Apple Music (Premium), Youtube Music (Premium and free tier), Soundcloud (Premium and free tier), Tidal (Premium and free tier), Pandora (Premium and free tier), Amazon music (Premium), Prime music (free w/ Prime), Deezer (Premium and fee tier).
+
+Buying Music: Itunes, CDs
+
+**Facts to understand before Due Diligence:**
+
+“2/3rds of all music sales comes for three companies”
+
+Labels: Universal, Warner, Sony
+
+In the Itunes era Steve jobs forced the pricing of singles at $1. In the music streaming era, Labels/Artists and Publishers/Songwriters/Composers get paid fees when music is streamed called: Performance and Mechanical. Most of the rates are determined by Pseudo-government back entities except for the performance fee for the labels/artist, which is negotiated (still not even a penny). The economics is that Music Suppliers( artist/labels/publishers/songwriters/composers) all complain that they make absolutely no money, ie Taylor swift meltdown b/c of spotify, Tidal being created.
+
+Streaming Services have two tiers free and premium. Free tiers make absolutely no money for Music suppliers. Another thing about the music industry is that music streaming companies negotiate their own payouts with labels/artist. To give an idea on the payout rate Tidal>Apple>Spotify>Youtube. Youtube pays a paltry amount and the argument is if music is banned on Youtube people will post unofficial songs anyway then no money will made and Youtube will not be sued because (I can’t find the exact phrasing online) Youtube is a new innovative medium and is therefore protected in both European countries and the US from liability. Therefore Youtube has very low payouts becauses ads amount to very little revenue. Spotify has 75 million Premium members and 95 million members in its free tiers. The free tier dilutes the amount of money Music suppliers get. Apple music has 50 million users including free two month trials and has no free tier, which means it pays the most out besides Tidal.
+
+“90% of its revenues from premium service subscriptions and 10% of its revenue from advertising via the company's free, limited-access service.”-Merrill Lynch on Spotify
+
+**Due Diligence**
+
+The facts are very important to understand before making an investment decision. The music industry is beginning to grow again but revenue is at approximately 18 billion compared to 24 billion in 1999 (not including live performances). What does this mean? The internet has almost decimated the profitability of the music industry. Artist are unhappy and so are record labels with how much they get paid to the point that new legislation is constantly being introduced through lobbyist to reform the music industry.
+
+**Porter Five Forces**
+
+**Supplier Power**
+
+Labels/artists are suppliers who are forced to accept lower amounts of money for their music because of the internet BUT will still be insanely tough negotiators for their music. Not having control of your suppliers is bad for profits. Since streaming services can’t create music/ successful artist, they will essentially never have control over their suppliers.
+
+**Competition**
+
+Next the industry has has numerous competitors and is looked at as a value added service for larger companies ie google, amazon, apple. Therefore a lot of competition makes negotiating power with music suppliers very bad especially if there is an industry leader, Apple, which does not have a free tier which means they pay more per stream. This means labels have a strong negotiating power when dealing with Apple’s competition. Spotify’s size is replaceable in the long term and therefore their negotiating power based on their size is severely mitigated.
+
+**Substitute Product**
+
+A substitute product for streaming is illegally downloading music or just listening to youtube. Therefore, raising prices of the streaming services from $9.99 is impossible b/c dont want consumers to leave platforms. Also, Steve Jobs is notorious in the music industry because he was able to negotiate $1 per song on the guise that it was a way for the music industry to recover from napster. However, when given the option consumers no longer bought albums with undesirable songs, which caused a rapid decline for the music industry. Therefore, Apple will probably not budge for a while with raising its 9.99 price anyway because Apple is focused on the happiness of its consumers on iphones and macs not labels/artists or making money on streaming.
+
+**Buyer Power**
+
+The nail in the coffin for Spotify is that all music streaming platforms have the same content. Because exclusive music content is negative for PR, Apple has moved away from it. Spotify could never really afford exclusive content from the get go. Therefore, all music streaming platforms have the same content and the only way they can really differentiate themselves is through music curation, which is very trivial for most consumers and I suspect all services will have a huge curation focus eventually.
+
+Furthermore, switching costs from platforms are very low and there is only monthly subscriptions.
+
+**Fin**
+
+When spotify’s multi year deals current streaming rates with labels end, they will be drained of all profits they believed they were eventually going to make after negotiating. Spotify’s only real value is that they have 200 million people who use their platform. There business will however never run a profit. I would value Spotify’s eventual subscriber of paying and non paying users (est up to 280 mill) at 3-10 billion dollars (valuation includes 10% of Tencent Music ownership). Therefore my best case scenario estimate is that spotify is **320%** overvalued. Therefore, I recommend long term puts and shorting before earnings. If you have any long position on Spotify you have been **warned**. This industry is worse than the airline industry.
+
+**For more info**: Here is an excellent article that has a wrong opinion but has great facts to better understand the numbers of the spotify and the streaming industry.
+
+r/[http://www.goodwatercap.com/thesis/understanding-spotify](http://www.goodwatercap.com/thesis/understanding-spotify)
+
+Universal sells 100% stake 600 mill, Warner unknown stake, Sony sells half stake for 750 million.
+
+Edit: Correction Warner sells entire stake for 500million, Universal has an unknown stake

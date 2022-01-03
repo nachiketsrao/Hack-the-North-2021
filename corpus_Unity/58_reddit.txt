@@ -1,0 +1,55 @@
+This week, instead of doing my typical DDDD, since I've gotten a bit too busy to do the actual research for them, I’ll instead be starting a series of posts where I summarize the chapters that have so far been released in Ray Dalio’s new free publication, “[The Changing World Order](https://www.principles.com/the-changing-world-order)”, as well as some of my thoughts on it. I’d recommend everyone read this on their own, but it’s fairly long and complicated, so I’ll dumb it down and shorten it if you don’t have the time or literacy level to read this yourself. This book contains Dalio’s most recent thesis, which he’s been working over for the past 18 months, but is definitely starting to become more important ever since the world went on lock down. The inspiration for this thesis comes from when he observed a confluence of certain events occurring.
+
+*I was seeing the confluence of*
+
+*1) high levels of indebtedness and extremely low interest rates, which limits central banks’ powers to stimulate the economy*
+
+*2) large wealth gaps and political divisions within countries, which leads to increased social and political conflicts*
+
+*3) a rising world power (China) challenging the overextended existing world power (the US), which causes external conflict. The most recent analogous time was the period from 1930 to 1945. This was very concerning to me.*
+
+With this idea, he researched centuries of world history, from an economic, monetary, and geopolitical perspective, and studied how world powers rise and fall. Being one of the most famous investment managers of all time, he had access to policy makers, leading economists, and statisticians to help research and form his thesis on examining the cycles of debt, domestic wealth, and international wealth throughout history. Many of these ideas are related to things I have personally looked into and written about before, and have used this as a source of inspiration to form my own ideas.
+
+**Who Is Ray Dalio?**
+
+Ray Dalio is possibly the world’s most important hedge fund manager, as well as one of the world’s wealthiest people, with a net worth of $19B. He is the founder and Chief Investment Officer of Bridgewater Capital, which is the world’s largest hedge fund, and manages the assets of everyone from pensions and endowment funds to government sovereign wealth funds and even **central banks** using global macroeconomic trends as the basis of its investment strategies.
+
+**Chapter One - The Big Picture in a Tiny Nutshell**
+
+This chapter looks at the three most recent powers that have controlled global finance through control of the reserve currency, the Dutch, British, and Americans, as well as some other important countries, and looks at patterns in how they rise and fall from the world stage.
+
+*Productivity*
+
+On a big picture, learning and the accumulation of knowledge has been the driving force of improving human productivity over time. However, learning happens slowly over time, and can’t explain the existence of sudden shifts in productivity seen in the modern day. Instead, these are caused by a number of forces, 17 to be exact, which tend to transpire in natural cycles over time, coinciding with the rise and fall of empires. Of these cycles, the most important ones are the debt, credit, wealth gap, and geopolitical cycles.
+
+[Productivity Graph](https://preview.redd.it/3ic8q5b1er751.png?width=1328&format=png&auto=webp&s=95e6453b60637a6dae758f3dca30cf269c8611a1)
+
+[Productivity vs US Equities](https://preview.redd.it/xh8hxuh3er751.png?width=1376&format=png&auto=webp&s=d87315a7249dc6e6f9429b76d556691f795eeb6d)
+
+These cycles start as a period of reconstruction following some sort of crisis, followed by a period of prosperity. These times of prosperity eventually become overextended as debt bubbles form eventually leading to some collapse. This debt collapse acts as a stress test to the economy, destroying the weak and inefficient parts of the economy, where business models used to make sense in a different time, but are now becoming obsolete. Once the weak has been eliminated, and the economy and debt has been restructured, the economy can then once again reconstruct and prosper once more.
+
+*Shifts in Power*
+
+Within these productivity cycles, shifts in wealth and power between countries can also occur.
+
+[Estimates of Relative Standings of Empires](https://preview.redd.it/w37e35e5er751.png?width=1600&format=png&auto=webp&s=643c686f6922a58efe733ce309ce489748b4b58b)
+
+For most of history, China was the leading power in the world, up until the 1600s. The Dutch, starting in the 1600s, became a rich global empire, before being overtaken by the British in the late 1700s, and the United States in the early 1900s. Here, wealth and power is measured as a combination of education, competitiveness, technology, economic output, world trade, military strength, financial strength, and reserve currency status. All of these factors tend to follow its own trends across empires during their rise and falls.
+
+[Archetypical Rise and Declines of Factors of an Empire](https://preview.redd.it/pyo7mv98er751.png?width=1526&format=png&auto=webp&s=8c2c31f3abeccdc58e8e1b0f727772df947664ca)
+
+The rise of an empire is characterized by a nation being led by strong leadership, education, work ethic, unity, capital allocation, and several other mutually reinforcing factors, sustaining the rise. In all the cases seen in recent history, we see a coordination between economic, political, and military forces during this rise, propelling the strength of the empire. The Dutch created the Dutch East India Company, the British had the British East India Company, the US has the military-industrial complex, and China has Chinese state capitalism.
+
+The peak of an empire occurs when the successes of the rise sow the seeds of the decline. A classic example of this is the middle income trap, where prosperity leads to a rise in the cost of labor, which makes the nation less competitive compared to other nations. As generations change, the work force slowly loses the people that achieved wealth and success through hard work in challenging environments towards a generation of workers that inherited their wealth from previous generations and no experience in dealing with economic hardship and challenges, leaving them more unprepared for it.
+
+Being the producer of the world’s reserve currency gives them this “exorbitant privilege” of being able to borrow massive amounts of money, increasing their purchasing power. However, this weakens the nation in the long term, since this naturally leads to over-borrowing to finance domestic over-consumption and maintain the empire’s military force overseas, especially as it’s much more politically popular to do so rather than cutting spending or increasing taxes. Initially, the over-borrowing strengthens the empire and is self-reinforcing, as it increases returns for foreign borrowers of the nation’s debt. However, this also eventually causes a shift of wealth from richer debtor countries to poorer ones, and is the beginning of the end of the reserve currency. This happened with the Dutch in their peak from other European countries, the British from the US and British colonies, especially during the World Wars, and now the US from China today. 
+
+The decline of the empire happens when the excesses from the top are reversed in a vicious cycle, and a competitive power gains relative strength. We see debt becoming very large, central banks no longer being able to stimulate economic growth, and eventually the printing of money leading its eventual devaluation. Large wealth gaps, which naturally builds out during prosperity, leads to political extremism on the left and the right, making it harder for the government to effectively address their issues as politicians are unable to agree on policies and potentially seeing a rise in autocratic governments who are able bypass the political process. As the wealthy begin to fear that wealth is in danger from hostility by politicians towards it, they relocate their capital to safer places and currencies (capital flight). This becomes a self-reinforcing cycle as tax revenues decrease as this happens, leading towards more pressure for governments to increase taxation even more, until they eventually outlaw the outflow of capital from their economies, causing even more panic from the wealthy.
+
+A country’s economic and military position becomes challenged by some rising power, increasing the pressure towards the incumbent power to spend more to maintain their position and defending their interests, leading to more over-borrowing and weakening their long term finances. Eventually, the cost of maintaining their geopolitical position outweighs the cost of maintaining their overextended empire. This was seen with the downfall of the Dutch East India company and the Dutch Empire, and the decolonisation period of the British Empire. For the US, this would be the American overseas bases and global military influence and presence, rather than actual colonies.
+
+[Reserve Currency Transitions](https://preview.redd.it/bw35458ber751.png?width=1400&format=png&auto=webp&s=5094f5e357d84b7b2c689d2ffbbc474e760aafe2)
+
+Today, the US is seeing the signs of the beginning of an empire’s decline and the end of the long term debt cycle, with large debts and classic monetary policy no longer being stimulative to the economy, large wealth inequalities, political polarization, at the same time of rising power, China, challenging the US in capital markets, technology, and trade.
+
+Chapter 2 and Chapter 3 will be covered in a future posts. As always, I'll be starting threads for anyone curious on my positions and any changes in them (completely unrelated to the contents of this post).

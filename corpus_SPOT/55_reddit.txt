@@ -1,0 +1,23 @@
+In stock screener choose following settings:
+
+- new 20-50 day high 
+- relative volume over 1
+(and whatever else you want)
+
+Then switch from daily timeframe to weekly and look for pattern.
+
+What to look for: We are looking for a 3 consistently rising volume bars on a WEEKLY timeframe. 
+
+If you take a look at the most recent strong moves in meme stocks, you will find that this pattern is present quite often. Usually, immediately after it’s formation, the stock price goes to the moon.
+
+Here’s a few examples of how this pattern looks like on chart. 
+For your convenience I marked a buy point with an arrow.
+[WKHS](https://i.imgur.com/QQ9VFxS.png)
+[NKLA](https://i.imgur.com/T0lhfLL.png)
+[ZM](https://i.imgur.com/d9BBMEr.png)
+[SPCE](https://i.imgur.com/gwAqJht.png)
+[PLTR](https://i.imgur.com/2LVT9iY.png)
+[PTON](https://i.imgur.com/wCZt1jO.png)
+[TSLA](https://i.imgur.com/TUdFvca.png)
+
+And that's actually it. Hope it helps.

@@ -1,0 +1,11 @@
+I'm thinking of placing a $20k bet on Crowdstrike's IPO next week as I believe cloud based cybersecurity overall is a strong sector for investment with increasing surface vulnerable to cyber attacks, hackers becoming increasingly sophisticated and incumbents in the sectors becoming less effective. Regarding Crowdstrike:
+
+&#x200B;
+
+* **Valuation:** Targeting a valuation of $3.7B to $4.5B which at the middle of the bracket would set it at a 13x ARR valuation. Which may seem high given the Bessemer's SaaS index average 10x ARR valuation but is fairly reasonable given its revenue growth of 121% YoY compared to the \~20% YoY growth of entries on this index.
+   * High growth peer which include other recent IPOs such as Zoom, PagerDuty, Zscaler, Okta, MongoDB, Elastic and Coupa trade in the 20-35x which would imply  a valuation of $6.3B to $11B for Crodwstrike based on its $312.7M of ARR representing a nice upside
+   * Carbon Black trades at a much lower ARR multiple (approx 5x) but analyst estimates only forecast a 15% growth YoY while crowdstrike has been growing in the triple digits
+   * [Cloud Index](https://www.bvp.com/bvp-nasdaq-emerging-cloud-index) 
+* **Large market:** TAM of $24.6 in 2019 expected to reach $29.2B for its corporate endpoint, threat intelligence, vulnerability management, managed security and service management offering
+* **Competition:** Cloud-based providers such as Cylance (acquired by BB in 2019) and carbon black don't have nearly the same growth profile and visits on multiple forums can give  a glance as to why. Crowdstrike seems like a strong favorite in terms of performance, detection and response, value, implementation and management,  support and cloud features. Other competitors include legacy players such as Symantec and McAfee
+* **Gaining international traction:** 23% of revenue was from international customers in FY19, up from 16% in FY18

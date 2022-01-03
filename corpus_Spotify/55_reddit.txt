@@ -1,0 +1,41 @@
+ Technicals:
+
+    VIX	17.38	Neutral
+    US10YR	1.634	UP  
+
+News:
+
+    Biden $1.8 Trillion Family & Education Plan
+    CDC Eases Outdoor Mask Guidelines for Vaccinated People in USA  
+
+High Frequency Mentions:
+
+    Apple investors looking for iPhone growth 	- Wall Street Journal / CNBC
+    Tesla is now sitting on $2.5 billion coin	- CNBC
+    Yum Brands tops earnings estimates	        - CNBC
+    Boeing sixth consecutive quarter loss	        - CNBC  
+
+Trending Tickers:
+
+    BA, US10Y, TSLA			             - CNBC
+    MSFT, GOOG, AMD, PINS	                     - YAHOO	  
+
+Earnings:
+
+    AMD, Microsoft, Alphabet 		     - After Prev Market Close
+    Boeing, Spotify, Shopify 		     - Before Market Open
+    Apple, Facebook, Logitech, eBay, Teladoc     - After Market Close  
+
+Economic Calendar (ET/GMT):
+
+    0700/1200	Mortgage Applications
+    0830/1330	Goods Trade Balance
+    1030/1530	Crude Oil Stocks Change
+    1400/1900	Fed Interest Rate
+    1430/1930	Fed Press Conference  
+
+\*SP500 Daily Interval Data Below\*
+
+&#x200B;
+
+[SP500 Daily Interval](https://preview.redd.it/mkt6r3zsywv61.png?width=185&format=png&auto=webp&s=86f53a90bc4ce4f99cb0607bd305dcf930b46587)

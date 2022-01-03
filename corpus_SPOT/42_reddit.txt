@@ -1,0 +1,260 @@
+Alright retards, put down your peanutbutter and tuna sandwiches and listen up.
+
+For too long there’s been a load of DD about $CRSR on here, a lot of it is just parroting the same old points over and over again, giving only bullish sentiment and rocket emojis without any insight into the actual gaming industry.
+
+Hopefully my DD will give you a better understanding of where $CRSR fits into the gaming market. This DD is meant to be balanced, all DD should have bearish points and bullish points imo, so this is not the DD to fuel your conformation bias, sorry, but maybe you'll get slightly aroused at certain points 🚀🚀
+
+As for my experience - I’ve been gaming for the last 20+ years playing many different types of games. I actually have a degree in Computer & Video Games but don’t work in the sector these days. But I’m still a keen gamer and build gaming rigs, and game on PS5 as well.
+
+I’d also like to point out from the start that I really like Corsair. I own shares and do build PCs using their components. They are not my go-to choice for every component, and i'll explain why later in this DD.
+
+As always, this isn’t financial advice, it’s the ramblings of someone who’s spent too long scouring the internet for a 3200mhz stick of memory. I’ve also done a TL;DR at the end with nice bullet points for those knuckle-dragging retards who can’t read more than a few paragraphs at a time.
+
+&#x200B;
+
+# Corsair has been smashing earnings
+
+We’ve seen this so many times before in other DDs so I won’t focus on it too much but it’s good for perspective. The rate at which Corsair has been increasing its revenue is pretty impressive.
+
+In their Q1 2021 earnings, they reported **net revenue of $529.4 million**, which is a year-over-year **increase of 71.6%**
+
+Their gamer and creator peripherals segment **net revenue was $175.9 million**. A huge **increase here of 131.9%**
+
+Corsair’s gaming and components segment also grew, with a **51.9% increase to $353.5 million**.
+
+Clearly the demand for Corsair products is there, with increasing demand, increasing revenues and profit. Most expect Corsair to beat earnings again in their Q2 report next week.
+
+Their market share is also impressive, with (by Corsair's own claims and from research from NPD Group) a total component market share of 41.9% and about 20% for peripherals. I can’t seem to find very recent market share figures since IPO, since you need to pay for market analysis and I’m a peasant who can’t afford it, but from what I can find Corsair is:
+
+**1st** in Keyboards
+
+**3rd** in Mice
+
+**4th** in Gaming headsets
+
+**2nd** in Streaming gear
+
+**1st** in High performance memory
+
+**1st** in Cases
+
+**1st** in PSUs (power supplies)
+
+**1st** in Cooling solutions
+
+&#x200B;
+
+# How does Corsair fit into the gaming market?
+
+As you probably know, the gaming market is a fucking behemoth. It’s bigger than the music and movie markets combined, and is only getting bigger.
+
+The pandemic has further fuelled this market, with new gamers joining as they were sat around at home and needed something to do that wasn’t jacking off. So they built epic RGB gaming rigs. I think these new customers will stick around in the industry for years to come. Building a PC is a bit like smoking crack, your current rig doesn’t quite achieve the maximum FPS possible, so you’re always on the look out for the next component that will give you a slight boost, you’re always chasing that high.
+
+The PC building market and console market vary widely in terms of generational changes. With consoles, you get a change of console generation, most people buy the new one all at the same time or within the same year or two. With PC building, gamers will be constantly upgrading bits and pieces of their rig to keep it up to date, there's no seismic generational shift like there is with consoles. It’s rare for gamers to throw an entire gaming rig away and build from fresh.
+
+Corsair is a mid-tier component maker. Their products fit into the ‘not the cheapest, but not the most expensive’ category. This is the same in terms of quality, performance and reliability - they offer good quality products that have decent reliability and the performance is usually pretty good. In some cases, as I’ll mention later, their products are basically identical to other manufacturers. This mid-level position in the market is probably one of the reasons they make it to the number 1 spot in terms of sales for several component categories. Gamers want good bang-for-buck and decent reliability when it comes to components. They spend hours and hours researching this, and usually know exactly what they are buying, if it's a good deal, and if it's going to perform the way they want it to.
+
+Also it's important to point out that the term *best components* is a relative and sometime subjective term. Taking price out of the equasion, the *best* component is the one that works in your rig to deliver maximum performance and not cause a bottleneck. Sometimes it's a cheaper one, sometimes it's a more expensive one.
+
+&#x200B;
+
+# Who is the Corsair customer?
+
+The Corsair customer is a mid-tier (and sometimes high-tier) PC rig builder. Younger teenagers/kids often use Corsair as their marketing and branding appeals to them. They love RGB fans, and Corsair basically puts RGB in absolutely everything, these days even on RAM sticks and built into the GPU cables. Console gamers are also included in this customer base, mostly for headsets and streaming gear.
+
+The extreme ultra-nerd PC builder who spends hours and hours pouring over spec sheets and benchmarks might not use Corsair unless there was a reason related specifically to their build like compatibility with other components, or perhaps a part was on offer at their chosen retailer. Have a look at some build guides online and a lot of the time their no-holds-barred builds often won’t include Corsair components, or only one or two. There are so many variables that go into building a PC, it’s not just a case of buy whatever components you like the look of. It all has to work together.
+
+&#x200B;
+
+# The misconceptions of Corsair
+
+**The first misconception of Corsair is that their components and products are the absolute best in the industry** \- the ultimate in luxury component, the ‘Apple’ of gaming if you will.
+
+Corsair is mostly a mid-tier component maker. Their components are good value for money, work well and are reliable but there are companies out there that make higher quality components, some that make lower quality ones and some that make pretty much identical ones.
+
+The components market is extremely crowded, there are a lot of companies competing for the same margins on the same products: NZXT, CoolerMaster, Noctua, G.Skill, Fractal are just a few of the dozens of companies in this space. I'll go over the competitors later in this DD.
+
+Once you start to peel back the surface of the gaming market, you’ll realise that actually a lot of these companies are pretty much the same in terms of the products they sell. In some cases the spec is almost identical and in reality some of the time it doesn’t really matter what brand of component you put in your rig (as long as its not a cheap knock-off), the performance will be roughly the same, or in many cases identical. For example, the Corsair Hydro Hxxxi series are basically the exact same products as the NZXT Kraken X series, just with a different fan arrangement, branding, exterior LED arrangement and exterior shroud.
+
+**This leads me neatly onto my second misconception that Corsair has a massive moat.** Unfortunately it doesn’t have a huge moat against the other companies in the component space in terms of actual products that compete or compare with each other. The acquisition of Elgato was a nice move, though, and in the streaming market does give them an edge over some other competitors with an expanded product lineup. But in terms of their moat over other component manufacturers, in some cases, they don't have one at all.
+
+**The third misconception of Corsair is that gamers have extreme brand loyalty towards specific component manufacturers.** Gamers usually want one thing when building a rig: the absolute maximum performance for their budget. Looks and RGB often come secondary to this.
+
+While some gamers do have some brand loyalty (particularly some of the younger kids who are less experienced at building rigs) and Corsair strengths in branding and advertising help this, I don’t think there’s *extreme* brand loyalty amongst gamers who build their own rigs and have spent years doing so. I don’t think I’ve ever seen someone who exclusively built their rig with Corsair components because they specifically wanted to out of brand loyalty, except [Linus from Linus Tech Tips on YouTube](https://www.youtube.com/watch?v=wEIKFxHzzac&t=194s), which was a paid-for sponsor by Corsair.
+
+The price is an important factor here, and in many cases gamers will just buy a stick of RAM, for example, from one manufacturer over another simply because the price is different, or the specific stick is on offer at the time they build their rig. They also might be limited to what kind of AIO cooler they can get due to the other components they are using such as the size restrictions in their case. There's a lot of variables that go into making a sale right then and there, and a lot of the time Corsair doesn't stand-out as the absolute leader in some components that warrant gamers spending the extra money if their parts are more expensive at that given moment in time.
+
+I would say there is more brand loyalty around core components of a rig - like CPU or GPU.
+
+&#x200B;
+
+# Some Corsair components aren’t actually made by Corsair
+
+Corsair doesn’t actually manufacturer all its components. Many of their products are actually OEM products, rebranded and built by another manufacturer.
+
+Corsair AIO CPU coolers are all made by either Asetek or CoolIT.
+
+Corsair PSUs are made by Seasonic, GreatWall, Flextronics, CWT or Chicony.
+
+Corsair RAM have chips made by Samsung, Micron or SK Hynix.
+
+So what does this mean? Generally it means that there is often minimal or no difference between some products that are sold under many brands within the PC component market. Gamers will often say “Look at the underlying product, rather than the brand” when comparing two almost identical products. You could compare a Seasonic PSU to a Corsair PSU, and end up finding that they are actually almost identical, and underneath it’s actually just a Seasonic PSU with a Corsair logo slapped on it.
+
+Now this isn’t always the case, OEM rebrands are not always an identical item, the end brand may  modify the products they take from OEM before selling it to the customer. They can also request specific changes to an OEM part from the manufacturer. In some cases this can change the performance of the component, for example using different fans on an AIO cooler can cause performance increases/decreases depending on how said fans displace air through the radiator fins.
+
+This is seen a lot with GPUs - for example Nvidia release a ‘Founders Edition’ of all their cards which is basically the standard card. Then all the GPU manufacturers such as MSI, Gigabyte, ASUS, Zotac etc will built their on shrouds and fan arrays onto the cards, with their own branding and brand-specific features. The base card and chip are always the same, but there can be slight performance differences between the cards in terms of active cooling and power consumption.
+
+But rebranding OEM parts doesn’t mean the quality of the part is reduced, and this doesn’t seem to be the case with Corsair.
+
+What OEM parts can do though, in the case of Corsair, is reduce its moat. For some products Corsair has little to no edge over the competition, and often if you go onto some of the PC building subreddits and compare an OEM Corsair PSU (made by Seasonic) and an actual Seasonic PSUs, most of the replies will suggest buying the Seasonic one since Seasonic are the original manufacturer. There are arguably slightly better offerings from Seasonic vs Corsair in terms of PSUs in some instances, even though the underlying product is similar, with better warrenties if something goes wrong in the future. Being the original manufacturer seems to also hold some value amongst gamers.
+
+To further this, in some cases, you can cut out Corsair alltogether and go direct to the manufacturer to get almost the exact same product - this is the case with AIO Coolers, you can build-your-own direct from Asetek. Gamers don't usually do this, many of them probably never heard of Asetek, they are an OEM so don't really target end-consumers, their customer is companies like Corsair.
+
+&#x200B;
+
+# Corsair’s branding and marketing
+
+By this point in the DD you're probably asking why Corsair has some products that have absolutely no moat, but are still best-sellers. And here is one way that Corsair shines over its competition: branding, marketing, collaboration and visability.
+
+They sponsor eSports tournaments, give away free kit to increase exposure and work with streamers to increase brand awareness. Also just look at their website, it's head-and-shoulders above many of their competitors in terms of functionality, look and feel.
+
+Their targeted marketing seems to be paying off. With collaborations and sponsorship with YouTubers, targeting younger audiences with their stylish, colourful branding and RGB unicorn puke, I think Corsair can continue to lead the market in terms of sales by continuing their marketing.
+
+Corsair is not new to the gaming space, it was founded way back in 1994, so this long term pedigree in the market place definitly helps with their visability.
+
+&#x200B;
+
+# Corsair’s competitors
+
+Corsair has a lot of competitors. Dozens of companies compete in the PC gaming space. Corsair is somewhat unique in the way that you can basically build an entire PC almost exclusively from Corsair components, so it doesn’t have a direct like-for-like competitor in that sense, but there are many, many competitors who compete with them for specific components.
+
+**Logitech - Peripherals and streaming gear**  
+Corsair and Logitech compete over peripherals and streaming kit. Logitech is often compared to Corsair on this sub, probably because it’s one of the only other companies relating to gaming that trades on the stock market, but they are actually pretty different companies, with different target markets and different products. While Logitech does target gamers for some products, it also has a substantial ‘productivity’ target - peripherals for people working from home or in the office, in creative fields and so on. Personally I don't find the two companies *that* comparable, but they do compete in some product lines so have added them here.
+
+**Razer - Peripherals, cases, pre-built desktops**  
+In terms of peripherals, Razer, Corsair and Logitech often compete for the top three spots on any ‘Best gaming keyboards/mice this year’ blog post. They make similarly good quality peripherals, but often where Razer falls down is their QA and longevity. They are often slightly more expensive than Corsair, many say Razer is ‘style over substance’. They also compete for the headsets portion of the console market.
+
+Peripherals in general are very subjective, everyone has differing opinions on which one they prefer in terms of quality, usability and comfort so other than looking at sales figures, it's pretty hard to figure out which supplier produces the *best* peripherals.
+
+In terms of their hardware, though, Razer are allegedly somewhat unreliable in that aspect, with users complaining of poor QA issues. Razer compete with Corsair for PC cases, which they offer two choices - a full sized ATX and a Mini-ATX. Recently Razer also entered the pre-built market, with the Tomahawk Gaming Desktop, a small-form-factor pre-built rig.
+
+Razer in general are pretty expensive, targeting the high-end gamer who has money to burn. You could argue that Razer is the Apple of the gaming world, with stylish ultra-expensive laptops. Judging by user reports online though, their QA and performance doesn't quite live up to the price tag.
+
+**Turtle Beach - Headsets**  
+Corsair and Turtle Beach compete directly with gaming headsets. This is not PC specific, console gamers will also buy headsets from either of these suppliers.
+
+Many say Turtle Beach is massively undervalued, it does trade on the Nasdaq under the ticker HEAR. Personally I find their headsets disappointing, I own one and it was expensive, not comfortable to wear, the audio quality isn’t great and has a cheap plasticy feel. That’s just my opinion though, they are a popular choice amongst many gamers.
+
+**NZXT - Components and pre-built gaming rigs**  
+I feel like NZXT is one of the closer ‘all-round’ competitors of Corsair. While they don’t sell all the products that Corsair offers, they do sell cases, AIO coolers & fans, PSUs, RGB lighting and recently motherboards (which Corsair don’t offer at all).
+
+Their products are good quality, their cases are nicely designed, popular and easy to build in. NZXT also have started selling pre-built rigs, like Corsair, to add further revenue streams.
+
+In my opinion NZXT could be one of the main rivals to look out for in terms of a major competitor in coming years, because they could increase their product lines to compete more directly with everything Corsair does.
+
+In some cases, as I’ve described previously, NZXT and Corsair products are almost exactly the same. The AIOs sold by both companies are actually manufactured OEM by Asetek, with changes to the fans, exterior shroud and so on, but the underlying product is pretty similar/the same in some cases.
+
+**Seasonic - PSUs**  
+As i've mentioned elsewhere in this DD, Seasonic actually produce some of Corsair's PSUs, they are an OEM supplier. Seasonic make some of the best PSUs in the industry, in terms of quality, reliability and customer support (i.e. warrenties etc). This quality does filter down to Corsair's OEM PSU units, but many gamers will reccomend going to the original manufacturer when buying a PSU.
+
+It's worth noting that when gamers buy a Corsair PSU, some of the money they pay for it goes directly to Seasonic (depending on model, Corsair gets its OEM PSUs from multiple suppliers depending on the model). I don't know the exact margin figures for these PSUs, so can't make a judgement on if this positive or negative (i.e. does Corsair make a tiny margin on their PSUs becuase they give the OEM manufacturer most of the money of the sale, or do they actually make better margins than manufacturing them in-house becuase it's costly to do so).
+
+**A few other competitors in the component space**  
+**Fractal Design** \- They make cases and a few AIO CPU coolers which are OEM made by Alphacool.
+
+**CoolerMaster** \- Makes keyboard, mice, cases, AIO coolers (they are a main manufacturer), air fans, monitors.
+
+**Noctua** \- They compete directly with Corsair in terms of air cooling. Corsair recently started offering the A500, a fan CPU cooler for those who didn’t want to use AIO cooling, but it doesn’t perform as well as many cheaper or equally priced Noctua or Deepcool competing products. In some instances a decent Noctua air cooler will outperform a Corsair AIO cooler for less money.
+
+**G.Skill** \- Compete with Corsair on RAM. G.Skill are often used in high-end rigs, with built-in RGB, decent clock speeds and some of their sticks are ultra-low-latency for maximum performance. This RAM is quite popular at the moment, I regularly see it in build videos on YouTube.
+
+**Crucial** \- Compete with Corsair on RAM. Crucial can be a slightly more budget choice, some of their sticks are bare, without RGB or fancy heatsinks, but their performance and reliability is good.
+
+**Kingston, Patriot, HyperX** \- Compete with Corsair on RAM at mixed prices and performance levels.
+
+&#x200B;
+
+&#x200B;
+
+# Revenue increases during the pandemic - a one-off?
+
+One of the main reasons for Corsairs current sideways trading, in my opinion, is the uncertainty that has come from the pandemic.
+
+Some analysts and investors have taken this huge revenue rise in the last year or so as a ‘one-off’ caused by the pandemic. To a certain extent, I’d argue that this is correct. The pandemic did cause a huge influx of customers into the sector in general.
+
+The real test for Corsair here will be if they can continue to grow their revenue after the pandemic is completely over. It does look positive, with their revenue continuing to climb in their recent January 2021 earnings report. I feel that in the short-term we may see a slight slow in revenue growth, but over the long term it will continue to increase. The customers that built their first PC during the pandemic won’t go anywhere.
+
+For that reason, Corsair is a long term hold. It’s possible we will see some sharp rises as the result of earnings announcements, for example if they absolutely obliterate the estimates to the point where no-one expected it.
+
+&#x200B;
+
+# How can Corsair grow?
+
+Growth (of products, not revenue growth), is something that can hold back the share price. Many of the products Corsair sells might not see any further innovation. For example, a CPU air or AIO cooler is pretty much as good as it gets these days, it's unlikely we will see that many technological improvements in this area, so gamers have less of an incentive to upgrade. Cases is another one - you can literally keep PC cases for a decade without ever needing to change it.
+
+For other components, however, there are more tech improvements. RAM is one of them - DDR5 memory will be coming out this year. This could offer further incentives to gamers to upgrade other components while they upgrade to DDR5 RAM. However, the changeover for RAM usually takes years, as we saw in the past with DDR4 RAM when it came out, so gamers might not all rush out to buy new sticks as soon as it comes out. Often the clock speeds on launch are often slower than later on in the generational cycle, and the prices are expensive so it's likely those top-tier gamers with high-end rigs who will upgrade their RAM at release but many mid-level gamers will wait a bit before upgrading.
+
+Continuing doing what they are doing in terms of increasing revenue through existing product sales might not cut it in this instance. As i’ve mentioned elsewhere in this post, their moat for many products isn’t big, and in some cases non-existent, and I feel like many institutions and analysts have looked at this during their research, and it's made them uneasy. Future mergers and acquisitions could be the key. They’ve already acquired Elgato, which gave them a foothold in the streaming market, and acquired Origin to be able to sell pre-built rigs.
+
+They also released the Corsair One a few years ago, a pre-build compact workstation/gaming PC. It has had a pretty decent reception from some of the online reviews. Although most PC custom builders turn up their noses at pre-builts, and yes you can build a superior performing rig yourself, they have a place in the market in my opinion.
+
+There are plenty of gamers out there who want a decent gaming PC that's simple, compact, good looking and high performing, but don't want the hassle of learning about all the components and figuring out how to put it together. They also want the warranty that comes with a pre-built, and the ease and peace-of-mind that comes with sending it back to Corsair if it breaks. Corsair seem to have a pretty decent returns policy regarding this too - they will pay for the courier service both ways, you can drop it into a physical repair center and will even send you fresh packaging if you threw yours away when you bought the rig initially.
+
+&#x200B;
+
+# The elephant in the room
+
+Yep, the elephant in the room is EagleTree. EagleTree Capital is the major shareholder of Corsair, and has helped them grow for the last 4 years or so. At one point they held over 60% of the shares of the company, and in recent months have been selling off sizable chunks of their position.
+
+Obviously this probably isn't good for short term rises in share price, we could see them sell off larger chunks of their position in the coming months. The flip-side of this is that it could just be scheduled profit taking, and may not effect the share price whatsoever.
+
+&#x200B;
+
+# You can do your research on $CRSR here on Reddit
+
+We are somewhat blessed to literally have a shit ton of customer insight right here on reddit, something we don't often get. There are several PC building and gaming subs that have millions of members who regularly discuss, at length, the pros and cons of every component and brand imaginable. Here are some of the biggest subreddits: r/gaming r/pcmasterrace r/buildapc r/battlestations r/Corsair r/Games r/pcgaming
+
+&#x200B;
+
+**TL;DR:**
+
+**Bullish points**
+
+* Excellent revenue and profit growth. The fundamentals are super strong.
+* Earnings are expected to grow a further 21% in the coming year.
+* Proactive expansion into new sectors such as streaming (which will likely grow in the future) and pre-built PCs
+* Wide range of good quality, reasonably priced products, many of which are best sellers within the market.
+* Strong marketing and branding that increases exposure and visability of their products globally.
+* Did extremely well during the pandemic, increasing its customer base.
+* In terms of financial fundamentals, very undervalued at the moment.
+* The video games industry in general is only going to increase in size and revenue, and streaming will likely increase with it.
+* In terms of share price, there’s decent support at this level.
+* New generations of products entering the market could be beneficial to Corsair - for example DDR5 memory is just around the corner. This can have knock-on positivity for Corsair in that if gamers want to upgrade to DDR5 RAM, they might need/want to upgrade other components too.
+
+&#x200B;
+
+**Bearish points**
+
+* Some suggest their recent revenue spurts are a ‘one-off’ due to the pandemic. We could see a reduction or slow in revenues in the coming months/years. The uncertainty surrounding the return to ‘normality’ after the pandemic could make investors hesitent to invest.
+* Many of their products are almost identical to others from competitors in the same market, the moat in some cases isn’t significant or even existent.
+* EagleTree dumping shares could have an effect on share price.
+* The margins on many products in the sector are quite small.
+* For some products, there’s a level of innovation that might not be improved upon. A fan is a fan, and that’s it. There’s no growth in some specific lines of products to obtain sales from users ‘upgrading’ when there’s nothing to upgrade to.
+* The PC components market is exceptionally crowded.
+* Corsair has a fair amount of debt, although it is well covered by operating cashflow.
+
+&#x200B;
+
+# Conclusion
+
+As I said at the start of this DD, I really like Corsair. They are a well run company, with incredible revenue growth, solid fundamentals, decent products and a good foothold in the market.
+
+Personally I don't buy the whole 'the pandemic is a one-off' take. We've already seen a continuation in revenue growth into 2021, even after lockdown restrictions are reduced or lifted, so I feel they will continue to make bank. While we might see a slight slow, overall Corsair will just keep growing in terms of revenue and profit. It will grow with the continuously growing gaming industry.
+
+I feel like this is a long term play with somewhat short term uncertainty. But I feel it’s a buy. I only have a small position as am about to go through a divorce, but will be adding to my position as soon as is possible.
+
+I don't suggest calls with short expiries, i've already been burned on this becuase i'm a dumbfuck. If you're gonna do options then leaps are probably ideal, or buy shares and sell covered calls against them. Shares is probably the play in general, but natrually that's jut my opinion, this isn't financial advice.
+
+I’ve tried to be as accurate as possible with this DD, if anything is incorrect, feel free to comment below and I’ll amend it.
+
+Godspeed apes 🚀🚀🚀🚀

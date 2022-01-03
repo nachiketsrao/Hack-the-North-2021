@@ -1,0 +1,75 @@
+**Disclosure:**
+
+Just a regular investor trying to figure out the value of KT Corporation. I am currently long via shares and July 2021 12.50 and 15.00 call options. 
+
+&#x200B;
+
+**History of my Due Diligence:**
+
+&#x200B;
+
+[First Post on 1/31/2021](https://www.reddit.com/r/DeepDueDiligence/comments/l9692t/kt_kt_corporation_top_korean_telecom_below_book/)
+
+[Second Post on 3/15/2021](https://www.reddit.com/r/DeepDueDiligence/comments/m5y5yc/six_week_update_on_kt_corporation_stock_up_11/)
+
+[Mind Map Chart I posted on 4/18/2021](https://miro.com/app/board/o9J_lLS1JWc=/)
+
+&#x200B;
+
+TL;DR - KT Corporation is in the middle of a transformation... from their traditional "MIT" businesses (Mobile, Internet and TV) into a digital services company with products and services that compare to Netflix, Spotify, Amazon Web Services, Mint App, AliPay, ... while also being on the cutting edge of Robotics and AI. 
+
+&#x200B;
+
+Stock Price on 1/31/2021 - $10.52
+
+Stock Price as of last close - $13.76 
+
+&#x200B;
+
+**Current price momentum:**
+
+Had a recent high of $14.20 after investors had digested the most recent earnings call about a week ago. On Friday the stock had a decent sell off at roughly 4%. Currently pulling back into previous support lines and the stock has had a recent 3 month upward trajectory. Based on the most recent conference call, I believe that any pullback should be bought and that the price will continue moving upward as we move into 2022.
+
+&#x200B;
+
+**Conference Call Highlight:**
+
+[Full Q1 Earnings PR Transcript and Conference Call](https://www.fool.com/earnings/call-transcripts/2021/05/11/kt-corporation-kt-q1-2021-earnings-call-transcript/)
+
+*"There were much progress in the financial sector as well. K Bank, whose deposit as of end of 2020 was 5 trillion, with customer-base of 1million 720thousand, and by expanding its partnerships and offering differentiated benefits, was able to grow total deposit to 12.1 trillion won, with 5 million 370 thousand customers as of April-end ’21.* ***We plan to further speed up the upward trend through additional capital increase before the end of the year.*** *"*
+
+K Bank is one of two internet banks in Korea and in 4 months, were able to grow from 1.72 million customers to 5.37 million customers. And note that last line- "SPEED UP the upward trend through additional capital increase". Speed up more than TRIPLING in 4 months? Unbelievable! The fact that they are saying for sure they can grow if they just put more money into is pretty impressive. I did some digging and it seems to be [because of a partnership with UpBit](https://www.koreatimes.co.kr/www/biz/2021/05/175_309191.html)... a top korean (censored) exchange.
+
+What is an internet bank, with 10 million customers worth? This new product is quite impressive and going to be a key thing to keep an eye on because [they want to spin-off Kbank and the current estimated value is about $7 billion dollars](https://www.koreatimes.co.kr/www/biz/2021/05/175_309191.html).
+
+&#x200B;
+
+**Major (to me) News/Updates Since My Last Post, 3/15/2021:**
+
+3/17/2021 - [KT beefs up cloud business](http://m.koreatimes.co.kr/pages/article.asp?newsIdx=305637) (talks about  "currently generating 400 billion won in cloud sales, but considering our infrastructure, we aim to achieve 1 trillion won by 2023.")
+
+4/08/2021 - [KT chosen to build national Indonesian Satellite Network](https://m.stock.naver.com/item/main.nhn#/stocks/030200/news/0004880999/office/277) (just shows the caliber of KT team... and I believe the infrastructure projects help build trust and acceptance within those countries for cloud services or media services- good strategy, imo).
+
+4/09/2021 - [KT to build second "Genie Music" in Vietnam](https://m.stock.naver.com/item/main.nhn#/stocks/030200/news/0003895173/office/011) (Genie music is their music streaming platform [which has 4.4 million subscribers](https://www.koreatimes.co.kr/www/tech/2021/02/129_303991.html). I really like the localized strategy and I believe the investments like this will pay off big in the long run... Vietnam has nearly 100 million people, for your reference.)
+
+4/14/2021 - [KT targets media and content growth](https://m.stock.naver.com/item/main.nhn#/stocks/030200/news/0004884958/office/277) (talks about "aim to secure 1,000 source IPs and produce more than 100 original contents by 2023)
+
+4/16/2021 - [Bank Salad equity investment... possible future acquisition](https://www.koreatimes.co.kr/www/biz/2021/04/602_307289.html) (like Mint app, [more background info on Bank Salad here](https://www.koreatimes.co.kr/www/biz/2021/05/513_277691.html))
+
+4/27/2021 -  [KT creates a "Korean Silicon Valley" with top school, Seoul National University](https://m.stock.naver.com/item/main.nhn#/stocks/030200/news/0004785297/office/009) (goal of establishing the largest startup fostering cluster in Asia and creating a self-sustaining startup ecosystem in which startup growth leads to vitalization of the local economy based on Seoul National University's excellent talent and research capabilities.)
+
+5/18/2021 - [KT Corp opens data center in Seoul, in response to increased demand](https://www.datacenterdynamics.com/en/news/kt-corp-opens-data-center-in-seoul-south-korea/) (this reiterates the growth targets mentioned in the 3/17/2021 article).
+
+5/21/2021 - [Korean Analysts predicting stock will double by 2022](https://www.kedglobal.com/newsView/ked202105210009) (Analysts seem to be digesting all the news and recent earnings postively... which is good to see. I believe Korean analysts are conservative, so to see headlines like this for a major company is interesting).
+
+Ongoing .... [A huge amount of patents being filed this year and last](https://www.quiverquant.com/patentsearch/ticker/KT?searchticker=KT). I haven't done too much research into their patent portfolio, but a couple new ones popped up this week which led me to the linked website. They seem to be protecting their 5G innovations a bunch...
+
+&#x200B;
+
+**Conclusion/Forecast:**
+
+KT is still significantly undervalued in my opinion, while there is significantly less risk than during the first time I posted about it, nearly 4 months ago.
+
+In my first post, I mentioned my personal target of $20-50 per share within 1-4 years. That is mainly based on technical indicators. I'm still not sure exactly how to value all KT's current assets and future growth. There is so much going on in the company with news nearly everyday, but all in Korean, making it a bit hard to follow.
+
+The more I research and follow the company, the more I realize it's setting itself up to be powerhouse not just in Korea, but in all of Southeast Asia... and it's succeeding. With a TTM net income of nearly 700 million dollars, a 50% dividend payout ratio and multiple high growth opportunities, why is it only valued at 7.4 billion dollars? What is fair value for $KT?

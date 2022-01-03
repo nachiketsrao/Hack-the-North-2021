@@ -1,0 +1,35 @@
+Alright you degens, here's the deal. Raven Industries is a small-cap [(but over $1 Billion market capitalization currently)](https://finance.yahoo.com/quote/RAVN/). Their highest market cap range was $1.75B in [September of 2018](https://ycharts.com/companies/RAVN/market_cap), with a huge dip due to the 'rona. So mods, don't think I missed the submission rules.
+
+**What Raven Industries Do**
+
+"Applied Technology" aka fancy tech for farmers. Field computers, guidance/steering, machine control, yada yada. Anything to get Jebediah out of his tractor and behind a tablet.
+
+"Engineered Films" - you need a big blanket to cover up an entire pond, but specifically made to protect the environment from hydrocarbon contaminants? You get Absolute Barrier Y30BAC, and you get a pond sized liner in a week.
+
+"Aerostar" - This is the big one. Raven provides quick deployment balloon systems for everything from surveillance and communication systems to monitoring atmospheric conditions. NASA loves these and so does Alphabet/Google [(check out Project Loon)](https://loon.com/), both current Raven customers. They're pretty much satellites you can deploy from the ground that can smell your last FD's rotting corpse from [19 miles high.](https://ravenaerostar.com/aerospace-and-defense/scientific-research)
+
+**WHY YOU ARE BEING SPOON FED ABOUT THIS STOCK**
+
+Our lord and savior, Cathie Wood and ARKQ has [initiated a position on RAVN.](https://www.benzinga.com/news/earnings/20/12/18582800/raven-industries-small-cap-agriculture-balloon-technology-stock-cathie-wood-likes) Moreover, they have since increased their stake from an initial $5 million to a current stake of around [$12 million in 2 months.](https://cathiesark.com/arkq-holdings-of-ravn) That's what prompted me to take a look at some of Raven's performance.
+
+**PERFORMANCE RELATIVE TO COMPETITORS**
+
+Pulling data from Fidelity's Key Statistics derived from Raven's latest Edgar filings, Raven has some interesting metrics:
+
+Gross Margin (Most Recent Qtr, Annualized): RAVN 40.27%, Avg Industrial Conglomerates 38.06%, putting them in the 75th percentile of Industrials. Solid but not mind blowing.
+
+Return on Equity (Most Recent Qtr, Annualized): RAVN 10.65%, Avg Industrial Conglomerates 11.75%, putting them in the 50th percentile of Industrials. Middle of the pack.
+
+Return on Assets (Most Recent Qtr, Annualized): RAVN 8.56%, Avg sector is 3.98%, putting them in the 92nd percentile. Now we're talking.
+
+According to the [Nov 24 earnings report](https://investors.ravenind.com/news-releases/news-release-details/raven-industries-reports-strong-third-quarter-fiscal-2021), the applied technology and Aerostar segments saw an increased revenue of 22% and 15% year over year respectively. Tractors go brr, balloons go prrrrt.
+
+Total Debt/Capital (Most Recent Qtr, Annualized): 3.03%, avg of sector is 57.13%. It has *extremely* low debt obligations relative to other industrials. Now normally this is where you say that they're idiots because they're not properly leveraging. But to that I say that this company is ran by a bunch of South Dakotans who listen to Dave Ramsey on their truck radios and avoid debt like its a minority they're not familiar with.
+
+&#x200B;
+
+I've had a lot of bourbon since I started writing this post, so I'll leave with this. I am bullish with 300 shares and 10 calls at varying strikes for May 2021 (furthest out I could go). The current options sentiment is massively bullish. I'm talking Call/Put ratio of 434:1 for today's volume, open interest C:P is 27:1. For the smoother of brains out here, that means that we can't have a bear hunting season, because thus far we cannot determine whether bears even exist.
+
+&#x200B;
+
+Cathie is love, ARK is life. Following her till the day I die.

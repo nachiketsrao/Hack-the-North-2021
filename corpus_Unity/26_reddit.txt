@@ -1,0 +1,70 @@
+PubMatic is a small-cap growth stock in the quite quickly growing adtech space, which may be facing further tailwinds from the reopening and trends such as CTV.
+
+Its valuation is lower than others in this space such as market darling The Trade Desk, while also growing faster.
+
+Large growth prospects and a reasonable valuation, combined with a low absolute market cap, provide a recipe for a successful investment.
+
+Buy potential multi-baggers while they’re small.
+
+
+
+Investment Thesis
+
+One of the core tenets of growth investing is a company’s relatively small market cap in light of a potentially large long-term opportunity. A small company with a differentiated technology or product in a large market could deliver supercharged returns if it keeps growing.
+This may exactly be the case with PubMatic (PUBM). The company operates an adtech platform, has a reasonable valuation, is growing fast, and has the relatively small market cap that growth investors would look for.
+I would contrast this stock with The Trade Desk (TTD). While they’re not exactly competitors, both operate in the adtech space. However, The Trade Desk has the opposite characteristics: while the company also reports respectable growth, it already has a much larger market cap and a high P/S valuation.
+Put differently, though, the investment thesis is that potentially PubMatic could replicate on the sell-side of this market what The Trade Desk has accomplished (both as a business and as double digit-bagger on the stock market) on the buy-side.
+
+Company overview
+
+As indicated, PubMatic operates in the adtech space. The company provides a sell-side cloud infrastructure platform purpose-built for digital, real-time programmatic advertising. As such, the company should benefit from general ad spend growth as well as some of the higher-growth areas in this space such as programmatic CTV (connected TV). PubMatic also expects some acceleration tailwinds from the reopening.
+In succinct terms:
+
+PubMatic has created a sell-side ad tech platform that leverages data-driven algorithms and tools to help content publishers and app developers maximize the value of their ad inventory.
+
+The reasoning behind such an infrastructure-driven approach is that advertising is inherently data-intensive, and also real-time. Hence, PubMatic can deliver increased value (such as higher revenue for publishers and higher ROI for buyers), and also innovate faster, by controlling the full stack from hardware to software. This also results in a cost advantage.
+The alternative approach is using public cloud infrastructure, which only allows for controlling the software stack.
+PubMatic also claims it benefits from consolidation of ad budgets on fewer sell-side platforms, resulting in increased market share. This occurs through Supply Path Optimizations or SPOs. As evidence for this trend, PubMatic disclosed that revenue from those arrangements nearly doubled in Q1.
+
+Lastly, to come back to the term “sell-side”. This can be contrasted to The Trade Desk, which is a demand-side or buy-side platform. In simple terms, the buy-side are those who buy advertising inventory, while the sell-side are those who offer ad space, anywhere on the internet. As such, the thesis really is that PubMatic may become (both as company and as a stock) on the sell-side what The Trade Desk has become on the buy-side.
+
+Q1 results
+
+In Q1, PubMatic reported $43.6M revenue, up 54% YoY. In particular, mobile and omnichannel video grew 83%, and represented 63% of total revenue. CTV grew 55% QoQ. Gross margin also increased from 65% to 72% due to increased utilization. This signals a scalable business.
+PubMatic’s accelerated growth over the last year is also evidenced by its increased TTM net retention, which has expanded from 112% to 130%, which is best-in-class for growth companies in general.
+
+Guidance
+
+PubMatic has guided for 33% growth for the year.
+While this implies a slowdown, some part of it does seem like sandbagging or conservative guidance: as discussed, the net retention was 130% in Q1, and growth in mobile and video also grew markedly faster than the overall business.
+
+Valuation
+
+PubMatic’s valuation should be considered compelling. At the stock’s current ~$40 price, the forward P/S stands at ~10x, which is over 3x cheaper than The Trade Desk. Obviously, the bullish case would be that given that both operate in the same market, PubMatic could deliver similar growth as the former, which would result in both long-term stock and valuation expansion.
+Although PubMatic certainly does not yet have same multi-year track record of elevated revenue growth yet as The Trade Desk, this stark difference in valuation arguably well offsets potential execution risks. At least in Q1, PubMatic was growing faster than The Trade Desk.
+
+Risks
+
+PubMatic’s growth has accelerated since COVID-19, and the company also expects continued tailwinds from the reopening, which should result in increased ad spend. However, a risk would be if growth would slow down to pre-pandemic levels; obviously, the best growth stocks, including The Trade Desk, are able to sustain elevated growth for years.
+Another potential risk are some of the recent and ongoing changes in the ad space, including changes in Apple’s (AAPL) policy and the phasing out of third-party cookies. However, PubMatic reports that the majority of its revenue comes from different identifiers than those two. As such, PubMatic actually views this is a competitive advantage, similar to how The Trade Desk has been boasting about how the Open Internet will prevail over the walled gardens. PubMatic is in fact investing in a portfolio of alternative solutions to the third-party cookie, including The Trade Desk’s UID 2.0 as well as Google’s (GOOG) (GOOGL) Privacy Sandbox (which includes the contested FloC).
+
+Note that The Trade Desk and PubMatic are not really competitors but rather partners, as The Trade Desk is a demand side platform. PubMatic says it is integrated with around 100 such platforms.
+A last risk I found was that although PubMatic especially touts its infrastructure, the company nevertheless seems to get more mixed reviews (i.e. a lower rating than TTD). This could imply it still has some way to go to truly become best-in-class.
+
+Primer on ads and cookies
+
+This section serves for those who aren’t all too up-to-date on some of the terms used here.
+As I would describe it, the core issues stem from privacy concerns regarding (third-party) cookies and tracking. This is leading to the phasing out of those cookies (now planned for 2023 by Chrome). However, this causes issues for the digital advertising market, which relies on targeted ads to increase their efficiency.
+As such, alternative, supposedly more privacy-friendly, tracking solutions are being introduced. One of the most well-known is The Trade Desk’s UID 2.0. Google, for its part, is backing on a collection of a few dozen of APIs, which it calls Privacy Sandbox. One of those is the controversial “FloC”, even though it does (more or less) achieve its goal to provide privacy without sacrificing targeting accuracy.
+Another point of dichotomy is regarding what some like to call the Open Internet vs. the walled gardens. The latter are the big ad platforms such as Google, Facebook (FB) and Amazon (AMZN).
+The gist is that those walled gardens have a privileged position given that they have an enormous amount of first-party data. Hence, they could survive the phasing out of third-party cookies quite unscathed.
+Some claim, for example, that it is in Google's interest to phase out those cookies, which could put Google at a competitive advantage as others would lose the ability to serve targeted ads.
+However, one might note that this dichotomy isn’t all that clear. For example, both Roku (ROKU) and Unity (U) (and likely plenty others) certainly wouldn’t be considered walled gardens among the likes of Google and Facebook. Nevertheless, both companies have said that given their own first-party data, they deem themselves to be quite unaffected by those changes in the ad landscape.
+Lastly, given the observation that there are so many alternative tracking solutions being developed, which may or may not conserve privacy, ultimately there may be relatively little tangible changes in the ad landscape. As such, the bottom line may be that the recent rally by the likes of The Trade Desk (due to Google’s Privacy Sandbox delay) is overblown.
+
+Investor Takeaway
+
+PubMatic offers a compelling proposition, both with its full-stack technology as well as with accelerated business results. In general, the company operates in the growing digital advertising market, and by being at the forefront with its technology and innovation, seems to be well-positioned for market share growth as well.
+The company has reported high growth, expanded margins, and a high 130% net retention in Q1. PubMatic is also capitalizing on the latest trends such as CTV, which grew 55% sequentially. While no stocks are risk-free, these are definitely signs that the company is able to capitalize on the growth opportunity in its adtech space.
+Just as importantly, compared to other growth stocks I have covered, both the company’s market cap and P/S valuation are rather low for growth stocks. That implies the risk is reduced, while the potential upside could be significant.
+Hence, bottom line is that PubMatic does not even have to exactly replicate The Trade Desk’s performance to deliver solid or even significant long-term investor returns. As I said about another small company a while ago, Sumo Logic (SUMO): buy potential multi-baggers while they’re small (and cheap).

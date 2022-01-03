@@ -1,0 +1,225 @@
+# Table of Contents
+
+1. TL;DR
+2. Purpose
+3. Cloudflare vs. Fastly Overview
+4. Content Delivery & Network
+5. Serverless Computing - The Event Driven Network
+6. Conclusion
+
+[Fastly on Reddit's r\/place](https://preview.redd.it/1oeznj8egmw61.png?width=794&format=png&auto=webp&s=a37e37ac8e96397360cfe98e2ca67fff72b18693)
+
+# TL;DR
+
+**Expectation: Acquisition by Google.**
+
+I discuss how to think about Fastly as an investment to folks who have reasoned that investing in cloud compute and networking is a good idea but may not necessarily understand how or why it’s a good idea. We focus on basic networking and the consequences of “serverless” computing; an architecture that has gained popularity in recent years.
+
+I’ve written about Cloudflare before in May 2020, on an account called u/codingprofessor, before taking DD writing more seriously. I claimed that Cloudflare would blow past $60 dollars and was critically undervalued due to COVID economics, their current position in web security, and serverless computing. I still view that Cloudflare and Fastly can both reach 40B+ marketcaps by 2023.
+
+&#x200B;
+
+[Don't doubt your vibe](https://preview.redd.it/bgr8i8qmmjw61.png?width=1148&format=png&auto=webp&s=2bf7e7d98c3282535be6240c354322969fdd4bb1)
+
+# Purpose
+
+To be frank, I was surprised by the hunger for knowledge and I really enjoyed debating some of the rather brazen people here. WSB has grown and in my view, our committed analysts can outpace Wall Street analysts at places like Morningstar or The Motley Fool. We have on-the-ground experience as laborers, customers, and digital-natives that often gets filtered out.
+
+Part of this is also due to the fact that I believe that investing in securities will become increasingly complex yet accessible for a typical retail investor which will either result in isolation or cooperation. Here are some recent DDs:
+
+* [Understanding Fintech: Square, Jay-Z, and the Future of Neobanks From an Industry Engineer.](https://www.reddit.com/r/wallstreetbets/comments/m50k8j/understanding_fintech_square_jayz_and_the_future/)
+
+&#x200B;
+
+* [Understanding Social Networks: Pinterest’s Idea Search Engine, Women’s Influence, and What Google+ Got Wrong. $PINS DD](https://www.reddit.com/r/wallstreetbets/comments/m8jd87/understanding_social_networks_pinterests_idea/)
+
+&#x200B;
+
+* [\*SIGH\* Understanding GameStop: Ryan Cohen, Customer Service, and The Great Long. How to Fight Scale With Precision and GameStop’s 30B+ marketcap.](https://www.reddit.com/r/wallstreetbets/comments/mb585a/sigh_understanding_gamestop_ryan_cohen_customer/)
+
+&#x200B;
+
+* [Understanding Mexican-American Trade: The USMCA and North America’s First Intercontinental Railroad. Kansas City Southern ($KSU) and Canadian Pacific ($CP) Merger DD.](https://www.reddit.com/r/wallstreetbets/comments/mejezz/understanding_mexicanamerican_trade_the_usmca_and/)
+
+&#x200B;
+
+* [Understanding The Infrastructure Bill: The Federal Goals, Employment Solutions, and AutoDesk's Role in the Post-COVID Economy.](https://www.reddit.com/r/wallstreetbets/comments/mjcpfw/understanding_the_infrastructure_bill_the_federal/)
+
+&#x200B;
+
+* [Understanding ROBLOX - Gaming's Role in Education Markets, Mass Media, and Financial Technology](https://www.reddit.com/r/wallstreetbets/comments/msq9jg/understanding_roblox_gamings_role_in_education/)
+
+&#x200B;
+
+* Is the average retail investor familiar with the network models that govern software like Fastly and Twilio? **(YOU ARE HERE)**
+
+At the end of the day, I am an educator and I believe that the goal of education is to engage a reader into a deeper curiosity or discussion, so that’s why I’m sharing my writing. I’m not here to convince you that this stock is even a good choice - but to explore the economics behind it.
+
+&#x200B;
+
+# Cloudflare vs. Fastly
+
+**- TL;DR Fastly makes stuff faster, Cloudflare is more general purpose. They can be used together.**
+
+[Support](https://preview.redd.it/8nw4s6mlojw61.png?width=1220&format=png&auto=webp&s=0060e02dd4363ce7e7cc4cf3b59b3438603b9bc7)
+
+This is a common question that is asked by investors interested in the cloud computing space from both novices and experts alike. In my view, the comparison isn’t very useful and usually illustrates some misunderstanding between the two product spaces. Fastly is focused on real-time services and acts as an optimizing layer for existing network providers. Cloudflare is a general network competitor. You can use both, and most do.
+
+&#x200B;
+
+[General purpose needs](https://preview.redd.it/8g9lk7uhwjw61.png?width=2314&format=png&auto=webp&s=bdaadd144aa9a0b64a37a3c05a6f236c965fefb6)
+
+In a crude sense, Fastly focuses on convenience akin to the services provided by Costco, while players like Akamai or Cloudflare focus on the convenience brought to you by gas stations or companies like Walmart. It’s not to say that one is better than the other, because it's not. They just solve different problems with completely different approaches. You may not go to Costco as often as you do Walmart, but when you go to Costco, you're picking up and utilizing a lot more.
+
+This explains why Fastly takes the approach to generally co-operate with other service providers and is able to provide a range of services for things like Snapchat storage, Spotify network meshes, Google Cloud services, and other real-time demands from the tech industry.
+
+&#x200B;
+
+>"While a convenience store is generally closer to a person's home, it has a limited set of items for sale. If the person drives a few more miles to the supermarket, they could get all of their groceries in one trip. In this case, convenience stores represent the approach taken by the legacy CDN's with many local POPs and the supermarkets represent Fastly's approach with fewer, larger ones."
+
+&#x200B;
+
+Cloudflare has ambitions to compete with the likes of companies like Amazon and attempts to be a general purpose solution for networking on the internet - it wants to make the internet more accessible, safer, and fair. Fastly seeks to solve specific problems on the internet. So in a nutshell, one is a general solution and the other is a specialized solution.
+
+An example of specialized needs provided by Fastly is like Reddit’s execution of the r/place experiment in 2017 - which allowed millions of users to collaborate and draw an image together pixel by pixel with rules and regulations in real-time.
+
+[Real-time collaboration services meets art and communtiy.](https://i.redd.it/2kf4qnoorjw61.gif)
+
+This is only one example of many. The way I like to frame it is by viewing real-time and collaborative services as a relatively new economic need, and thus a product like Fastly has a high demand from organizations that excel with these kinds of services. You may see associations with Fastly from places like Spotify, Ticketmaster, or The New York Times - all of which have specific needs or demands when it comes to content delivery and network management.
+
+[world-class research](https://preview.redd.it/m9muspwsrjw61.png?width=1594&format=png&auto=webp&s=72b18b1b49ed8aed906a2b9936beb1e29a5479a1)
+
+A big advantage that Fastly has in this regard is the fact that they often build their network with the intention of being world-class from top to bottom, from the code they write to the metals that build their points of presence. They are effectively able to choose their destiny as a product versus having to race the horses in competition. They research, experiment, and execute on the boundary of networking, making it a superb way to play the serverless and networking industry from a long point of view.
+
+The result of this approach means higher quality servers and less need to rely on the number of PoPs used.  This ultimately means that Fastly spends less on building and maintaining servers while being an order of magnitude faster at the same time. They are efficient and provide value per the dollar spent on their network from customers and internal alike.
+
+&#x200B;
+
+[the capex equation](https://preview.redd.it/s9n1xm5zrjw61.png?width=640&format=png&auto=webp&s=65e97432b694a884e1445db1793377e0f3eefa8c)
+
+Cloudflare's team of course counters this by saying that speed is not nearly as important as Cloudflare's ability to be compliant to global requirements. This is completely nonsense if you consider that in the long-term, Fastly's general approach is to solve specific problems rather than to function as a general purpose network.
+
+The compliance debate is a bogus marketing attempt when Fastly's speeds, in the microseconds, is exponentially faster than Cloudflare's serverless implementation that sits in the milliseconds range. This is frankly an example of how Matt Prince is warmer to investors and plays a stronger marketing game than Artur Bergman, who seemingly could not care to impress Wall Street funds and plays for the long-term.
+
+[Matt Prince's Hierarchy of Developer's Needs](https://preview.redd.it/9afefjyasjw61.png?width=1600&format=png&auto=webp&s=af129b27bf734c74c0d8a039341ff03b126af5c1)
+
+Why does this distinction matter? Well what of the requirements where networking speed and response times are critical, like hospital communications, stock market crashes, wildfires, or other problems unique to the challenges of running a network?
+
+&#x200B;
+
+>The way to think about this is, what do you pay for, right? I mean if you -- and where are these moments that are valuable. When Tiger Wood walks down with the 18th green the Masters and God willing he is able to do that again, that matters, that moment matters. Everyone is going to tweet about it, and everyone wants to see it, the company that is in charge of that cares desperately about that content. When you send a gift across the Internet, like it's not monetized in the same way, it's not as valued.. So where we have seen the value is in content that is highly valuable to customers and their end consumer, where they're willing to pay for it and the quality, and the security and the scale of that deeply matters. And we have always focused our work on that type of content. There's plenty of content that just scrapes by and is low commodity. Every month, they want a lower price. That's a different market from our perspective, and we're not in it." - Fastly CEO
+
+# Understanding Content Delivery
+
+**- TL;DR You have data, you cut the data into smaller pieces, send it across a network, and rebuild those pieces somewhere else.**
+
+[The global cache](https://preview.redd.it/a92mp9wesjw61.png?width=951&format=png&auto=webp&s=c98e66b61a7b13f89a4556399c8264a038bb16ac)
+
+It’s helpful to understand the 7  steps that protocols take as they travel across and through a network around the world. This model is known as the OSI model and it’s not necessarily the end-all-be-all model that governs the internet; but it is a useful framework to understand at a glance.
+
+There are many complexities that go behind these protocols and they are the subject of intense debate or research. At the same time, many of these steps follow a similar process - translate or transform the data that’s received and sent.
+
+&#x200B;
+
+[Edge computing, an extension of the cloud.](https://preview.redd.it/r5k1yknbyjw61.png?width=472&format=png&auto=webp&s=60bbe4420f4025c8c791d62c569453ce82a8a8b0)
+
+For example, the web browser translates the data into machine bytecode in a similar way that a networking router will need to translate information into a stream of 0 and 1 signals. This may not make too much sense yet, but just remember that it’s just a series of translations and preparations of data into different segments so that it could be read and understood by other pieces of hardware.
+
+&#x200B;
+
+[Email, zoom calls, pins, streams, different network flavors.](https://preview.redd.it/kvhajfjtujw61.png?width=1762&format=png&auto=webp&s=2570ebd03b9fd5c08989b0b5551d9eea2c5c3c44)
+
+&#x200B;
+
+1. **Application Layer:** You initiate a Zoom call. It has passed through the application layer using an real-time messaging protocol. It sends the video to the presentation layer.
+2. **Presentation Layer:** The video data is received and compressed. It gets sent to the session layer.
+3. **Session Layer:** A communication session is initiated. A network communication is initiated, with various receivers at some set of defined internet address routes.
+4. **Transportation Layer:** The data is further segmented and prepared for transportation.
+5. **Network Layer:** Once the data has reached this stage, the segments are converted to packets.
+6. **Data Link Layer:** The data is sliced into frames and delivered to the physical layer.
+7. **Physical Layer:** The frames are converted into a bitstream of 0s and 1s as a way to represent that final stage of data representation, which are signals that along a physical medium like a cable.
+
+&#x200B;
+
+[OSI Model](https://preview.redd.it/68fe020vsjw61.png?width=640&format=png&auto=webp&s=6f4ae86782c3c87978af6e4a9bf46d1b0f695347)
+
+As the data reaches its destination, it goes through the 7 layer process again in the opposite direction, where the data is received at the physical layer and concludes at the application layer (the person who you sent an Zoom call to). There’s a reason that the network use trucks or mail deliveries as ways to compare the process as it can be strikingly similar at times.
+
+What are the complexities related to delivering a letter, a box of clothes, or a Home Depot truck full of metals and wood? So that’s the essence behind content-delivery networks - preparing information and delivering it with optimal paths.
+
+It’s worth taking some time to ponder and think about this. They may be words or ideas that you’ve heard - routers, bitstreams, addresses, and so on. What is the difference between collecting a Pinterest pin, playing a Spotify stream, or setting up a Zoom call without a video? How do we utilize location data when it comes to COVID containment efforts? What are the consequences of correcting a news article, fact checking a social media post, or reconciling the differences in video game connections in a game like Call of Duty?
+
+&#x200B;
+
+[Networking meets human experiences](https://preview.redd.it/d5nbigz1tjw61.png?width=690&format=png&auto=webp&s=d39cdad6269f4b7d224fff12e6c39adc60584d60)
+
+With this developing model in mind, consider again how Cloudflare is particularly invested in the overall health of a network, while Fastly is primarily concerned with pushing the network further. They seek to solve different platforms, while having obvious overlaps at the same time.
+
+# Serverless Compute - The Event Driven Network
+
+**TL;DR Serverless allows software engineers to spend more time building products.**
+
+[The event driven network](https://preview.redd.it/lhez9rq6tjw61.png?width=1260&format=png&auto=webp&s=fb377d7a5f2c3d3995c4c56ec0a5b925a860e0f7)
+
+What serverless architecture accomplishes is that it adds programmability and portability to the cloud clusters and the network. There are two major benefits to serverless computing:
+
+1. It grants developers access to complex functions out of the box.
+
+For example, if a developer wants to create a lightning fast application where taking an image of a crop plant returns some analysis about the health of the crop or warning signs that the crop image is showing, a serverless "function-as-a-service" can provide that capacity for a developer.
+
+https://preview.redd.it/bm6jwodptjw61.png?width=1360&format=png&auto=webp&s=29a9e9552a1f3874b8932e5baaabe5bf91c8fccd
+
+That image is stored with the provider to improve the quality of future recommendations and output as well. Given that the image taker is likely situated in a rural area, edge computing like this allows the application to complete this process much faster than communicating to a central server that is in a much farther location.
+
+&#x200B;
+
+[Functions as a service](https://preview.redd.it/1trzui6ctjw61.png?width=670&format=png&auto=webp&s=5501fee8d2a9a8e2e5bce681a6b86d6f48e69da3)
+
+2. It allows developers to spend more time working on application code rather than infrastructure tosupport it.
+
+Imagine that a product that benefits off real-time services and events has particular problems handling the amount of traffic that reaches their servers. A perfect example of this are the server failures of Rob-in-the-hood during spikes of activity or Reddit's own ability to handle surges of logins, registrations, and activity after events like GME's stock market explosion. Other historical problems were things like World of Warcraft's expansion releases, where servers were effectively "on fire" and required round-the-clock support.
+
+Edge computing effectively offloads some of these problems from central servers by making the network more programmable and effective. If an application I wrote suddenly has to manage 1,000,000 users, a serverless architecture allows for intelligent "autoscaling" - which means that services like Fastly will handle those problems for me. This ultimately results in a metered pay-as-you-go system.
+
+&#x200B;
+
+[The network as a utility](https://preview.redd.it/hq7l51wwtjw61.png?width=1000&format=png&auto=webp&s=c1f88e8d28b452a5bf0a7d0c560e22e8b2ba0f7a)
+
+The combination of these two benefits is pretty powerful, allowing a developer to essentially start up an idea from application to deployment at a much faster pace. I believe this should equip a reader with the ability to imagine the opportunity behind edge and serverless computing. Here are some simple questions I like to think about:
+
+&#x200B;
+
+[we've all been there.](https://preview.redd.it/ydk0hfx7ujw61.png?width=800&format=png&auto=webp&s=3c506b4d99dfd7e7f512f9d304f5c1e8f53e52e9)
+
+\- Can we improve the customer experience of swiping a card in a store or other network based currencies?
+
+\- How do we improve the security of individual network-connected devices?
+
+\- Are we able to improve the response times of emergency technologies like hospital or firefight dispatching?
+
+\- Are we able to better measure online engagement and create new interactive experiences?
+
+\- Will online video games require servers bounded by location?
+
+\- Would we be able to change camera angles when watching a sports stream?
+
+\- Can we improve the quality of industrial automation or logistics?
+
+\- Are we able to extend programmability to "node" based products like windmill farms or electric vehicle charging stations?
+
+&#x200B;
+
+[ 🚀](https://preview.redd.it/5otn5vekvjw61.png?width=2230&format=png&auto=webp&s=14201da0292e3f895dc829239999889d0af43add)
+
+Some of these questions are asked by Fastly themselves, as they list the following subjects of interest in their S-1:
+
+1. **API acceleration**. Accelerate and secure critical API responses at the edge for delightful application experiences, such as instant hotel lookup based on location and real-time inventory updates between retail stores and their online storefronts;
+2. **IoT**. Process and secure data from connected devices at the edge for instant results for time-sensitive applications;
+3. **Cloud migration**. Seamlessly migrate from data center to cloud, hybrid or multi-cloud environments, enabling the customer to take advantage of the functionality and cost savings of one or more cloud providers
+4. **Enabling redactedchain (block)**. Cache and accelerate individual transactions on the redactedchain (block) in real time.
+
+# Conclusion
+
+TL;DR Investing in some form of serverless computing is a good idea.
+
+You may have noticed that I did not discuss financials. This is mostly because these details do not nearly weigh as much as the general understanding of the product, which is content-delivery and serverless computing. In my view, the economic consequence of these architectures far outweighs any other metric that could measure the future value of a company like Fastly. Most of my DD writing follows this principal; I'm far more focused on economic consequences and incentives of an industry player rather than data-points that can be fixed in time like a recent earnings or financial report. Those things need to just check out.

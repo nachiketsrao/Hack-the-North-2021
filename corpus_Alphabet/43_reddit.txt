@@ -1,0 +1,191 @@
+I joined Palantir in early 2007, back when it was a penny stock (I paid $0.011/share for my initial stock options). As one of the first 50 employees, I wrote code for the core product, then transitioned into a Forward Deployed Engineer role, and ultimately led Palantir’s Philanthropy Engineering Team. 
+
+I came to WSB for the fucking hilarious Palantir memes, but I stayed for the education and DDs. I’m on the tendies train with GME and BB, so I figured I’d give back to the sub with a DD on PLTR in advance of Demo Day. 
+
+Important caveat for the mods and alphabet regulators reading this: I left Palantir in 2015 to co-found Ada Diamonds. I no longer have any insider knowledge about Palantir. All I am sharing in this DD is publicly available information with links to my sources, as well as my personal strategy for the Palantir shares I own free and clear.  Neither Foundry nor Apollo were launched when I was employed at Palantir, so I am excited to see the demos of both, as well as how far Gotham has come in the last 6 years.
+
+Lots of words below, so here’s the TL;DR for those of you that can’t read good: By 2030, I believe that PLTR could have a $250 billion market cap. I’ve yet to sell all of my 20% that is unlocked and am largely diamond hands-ing my soon-to-be unlocked 80% until PLTR is past Mars and approaching the asteroid belt. 
+
+Why am I so bullish? I view Palantir as the kid-brother of Salesforce (more on this thesis below), and I think PLTR is just fueling up. If Palantir continues to execute well in the decade ahead, I believe they will capture enough market share to grow like Salesforce has in the last 8 years:
+
+&#x200B;
+
+https://preview.redd.it/aubihrloscd61.jpg?width=635&format=pjpg&auto=webp&s=c2f897fda6f7c75a8a315dab02aaa4909b40dd6e
+
+TL;DR of the TL;DR - (lots of rocket emojis and some Mars emojis)
+
+Positions or ban:
+
+* More than enough PLTR shares to cover Cathie’s latest purchase
+* r/smallstreetbets on GME and BB (shares)
+* A boomer portfolio of low risk bonds
+
+It’s also worth flagging that many other early employees are in the same boat (rocketship) as me. Unlike alumni of some of the quick to IPO companies, we’ve been responsibly diversifying for over a decade in the private markets. In addition to private market sales, Palantir did multiple internal liquidity events where employees could sell 10% of their holdings to a large Palantir investor as part of oversubscribed fundraising rounds.
+
+Thus, it’s not a question of what I am doing with my remaining 80%, but instead a question of what I am doing with my remaining \~35%. I’ve used pre-IPO PLTR tendies to buy a nice house, 1,635hp of cars, nice vacations with friends, etc. So, I’m diamond hands-ing my remaining PLTR stock with a decade long diversification plan, as I believe PLTR will far outperform the market, just like CRM, TSLA, and the FAANGs have done in the last decade.
+
+Also, most of the bears I know from Palantir (including those that quit, got fired, pushed out, or flamed out) long ago sold most/all of their shares. The alumni I keep in touch with are collectively long-term bullish as well.  
+
+I’m going to break this DD down into a few sections:
+
+1. What is Palantir
+2. Examples of Palantir in Action
+3. Why CRM is the closest comp to PLTR
+4. The Under Discussed ‘Secret Sauce’ of Palantir
+5. What I’m looking for during Demo Day
+
+\_\_\_
+
+**What is Palantir?**
+
+Palantir is one of two things:
+
+1. The best product on the market to help organizations make better decisions
+2. The best product on the market to help organizations find, fix, and finish/prosecute malicious actors & dark networks.
+
+You can add as many buzz words as you want on top- SaaS, AI, big data, operating system for data, UBL, deviant philosopher, cloud, Skynet, link analysis, off-road rollerblades, GIS, ML, terrorist hunting, multi-level security, etc.- but at the end of the day, large organizations pay 8 to 10 figures for Palantir because Palantir is the best product available to help them: A) make better decisions and/or B) find bad guys.
+
+\_\_\_\_\_
+
+**Examples of Palantir in action- #1** **World Food Program (WFP)**
+
+The WFP delivers 15 billion meals per year in 80 countries around the world. WFP uses Palantir’s Foundry to bring together data sources from across the organization, enabling staff to access and analyze programmatic and operational data in a secure, unified environment to make better decisions.
+
+The sheer scale of WFP’s operations, assisting some 90 million people in about 80 countries, means that even small efficiencies in operational and supply chain management can lead to dramatic savings. WFP generates vast amounts of data through the purchasing of 3 million metric tons of food every year and the delivery of 15 billion rations across dozens of development projects worldwide. 
+
+Making this data accessible across the organization helps WFP become even more efficient in multiple programme areas, including cash-based transfers, supply chain optimization, and nutritional requirements.
+
+The WFP literally won the 2020 Nobel Prize for their incredible work to help those in need, powered by Foundry.
+
+Sources: 
+
+* [https://www.wfp.org/news/palantir-and-wfp-partner-help-transform-global-humanitarian-delivery](https://www.wfp.org/news/palantir-and-wfp-partner-help-transform-global-humanitarian-delivery)
+* [https://medium.com/palantir/palantir-and-the-world-food-programme-9d8b418dd94b](https://medium.com/palantir/palantir-and-the-world-food-programme-9d8b418dd94b)
+* [https://www.wfp.org/stories/world-food-programme-chief-lauds-front-line-staff-and-partners-after-nobel-peace-prize-win](https://www.wfp.org/stories/world-food-programme-chief-lauds-front-line-staff-and-partners-after-nobel-peace-prize-win)
+
+\_\_\_\_\_
+
+**#2 - National Center for Missing and Exploited Children (NCMEC)**
+
+NCMEC is a non-profit that leads the fight against the sexual exploitation of minors, as well as a few other garish responsibilities, such as the solving of cold cases of murdered children.
+
+NCMEC is congressionally mandated to securely hold evidence of crimes against children (aka child porn), and works closely with law enforcement bodies around the world (Interpol, FBI, etc) to find, arrest, and prosecute the producers and distributors of heinous material.
+
+NCMEC has been using Palantir since 2010 to ingest evidence, find clues in the evidence, and connect the dots to find the perpetrators. In 2019, NCMEC received 16.9 million images/videos of exploited children, and COVID has caused an exponential increase in online exploitation of minors.
+
+Of all the work I did in my 8.5 years at Palantir, this was my most important work. I can’t get into details of sources and methods (for obvious reasons) but I can say with absolute certainty that many truly evil perpetrators of crimes against children are behind bars thanks to the power of Palantir’s products in the hands of NCMEC analysts. Without the power of Palantir’s products, many of these pedophiles would still be abusing children today. 
+
+There’s an important part to the DD to understand here - Palantir is entrusted with the most sensitive data in the world by some of the most important and high functioning organizations in the world. It takes decades to develop the technology and trust required to provide audit logging and access control sufficient to handle this type of data, and that is a huge moat of Palantir.
+
+Sources:
+
+* [https://medium.com/palantir/fighting-child-exploitation-with-big-data-86868bad559e](https://medium.com/palantir/fighting-child-exploitation-with-big-data-86868bad559e)
+* [https://www.cnn.com/2020/05/25/us/child-abuse-online-coronavirus-pandemic-parents-investigations-trnd/index.html](https://www.cnn.com/2020/05/25/us/child-abuse-online-coronavirus-pandemic-parents-investigations-trnd/index.html)
+
+\_\_\_\_\_
+
+**#3 - Hurricane Sandy** 
+
+When Superstorm Sandy ravaged New York, all communications methods (phone, internet, cell towers, etc) went down in large areas. As a result, information was scarce, and the response was disorganized, chaotic, and ineffective. 
+
+In less than a week, my team (the Philanthropy Engineering Team) built and deployed a brand new satellite-based system to manage response efforts by hacking and deploying simple Garmin satellite communicators that are used by hikers and sailors. 
+
+In partnership with Team Rubicon, a kick ass non-profit group of military veterans that respond to natural disasters, we used these devices to support some of the hardest hit communities.
+
+Here’s Bill Clinton and me talking about the project:
+
+[https://www.youtube.com/watch?v=Ch0yCcTRSa4](https://www.youtube.com/watch?v=Ch0yCcTRSa4)
+
+Team Rubicon is a data-driven organization, utilizing Palantir extensively to collect, catalog, and analyze information during operations and inform the rest of Team Rubicon’s support functions. Palantir Operators train members on Structure and Damage Assessments using the Palantir Mobile application as well as provide crucial situational awareness information for Command and General Staffs and government Emergency Managers during approved Federal Emergency Management Agency (FEMA) Public Assistance Programs. 
+
+[https://teamrubiconusa.org/blog/remote-support-a-crucial-part-of-tr-operations/](https://teamrubiconusa.org/blog/remote-support-a-crucial-part-of-tr-operations/)
+
+\_\_\_\_\_
+
+**#4 -Disrupting Ukranian Mafia from Laundering Body Parts**
+
+One of the areas I supported in my time at Palantir was data-driven investigative journalism. Here’s a demo of Gotham being used by the International Consortium of Investigative Journalists (ICIJ) to integrate and analyze dozens of data sources to expose a criminal enterprise that was stealing dead bodies, laundering the bodies without the required testing for diseases, and selling human tissue for a profit. 
+
+Note that this demo of Gotham is 8 years old, so you might be interested to compare this to Demo Day to see how far Gotham has come:
+
+[https://www.youtube.com/watch?v=hLyWXGaaMYA](https://www.youtube.com/watch?v=hLyWXGaaMYA)
+
+Here’s the results of the investigation: Safer knee surgeries, skin grafts, etc.
+
+[https://www.icij.org/investigations/tissue/our-blog/](https://www.icij.org/investigations/tissue/our-blog/)
+
+\_\_\_\_\_
+
+**#5 - United Airlines & Airbus**
+
+This work started after I left Palantir, but I want to mention it as it touches on the network effects of Palantir, and it highlights the core utility of Palantir’s products: improving high-stakes decision making.
+
+Palantir & Airbus’ Skywise breaks down traditional data silos by bringing together an airline's operational, maintenance, and aircraft data with data provided by Airbus. Now, airlines can use massive-scale sensor data, maintenance systems, aircraft schedules, passenger bookings, and more in one environment. On top of this data asset, Skywise offers a diverse analytical suite for operators to make sense of that data in both code-free and code-based environments.
+
+[https://www.palantir.com/solutions/skywise/](https://www.palantir.com/solutions/skywise/)
+
+“Deployed on United’s instance of Palantir Foundry, these models aim to minimize discounted cash flows spent on maintenance activities and maximize operational flexibility in the face of air travel demand uncertainty. The aircraft storage optimization recommends the best storage states (parked vs. active vs. prolonged) and locations (internal & external) for nearly 800 mainline aircraft. The return-to-service model recommends which specific aircraft to return at which time in the future and how to utilize our available maintenance capacity (internal & external) to ensure they’re airworthy when we need them. Since we don’t know when air travel demand will recover, the models need to account for slow recoveries, fast recoveries, and everything in between, then produce a single, discrete solution that considers all likely scenarios. In practice, this means the models help create plans to execute specific maintenance activities over the next several years; it also means when our Network Planning team unexpectedly asks for N planes by a certain date, the models help decide exactly which planes we should provide."
+
+[https://www.linkedin.com/pulse/how-data-science-optimizing-united-airlines-pandemic-tom-romanowski/](https://www.linkedin.com/pulse/how-data-science-optimizing-united-airlines-pandemic-tom-romanowski/)
+
+\_\_\_\_\_
+
+**Why CRM is the closest comparable to PLTR**
+
+Instinctually, people compare Palantir to the traditional consultancies and system integrators: Booz, Boeing, Raytheon, Accenture, etc. 
+
+Yes, Palantir is currently competing with those types of organizations for various contracts, but Palantir is fundamentally different than those entities, as Palantir is a \*product\* company leveraging repurposable platforms, versus a services company seeking to deploy as many contractors as possible, and bill as many hours as possible to reinvent the wheel over and over again.
+
+From a technology standpoint, Salesforce (CRM) is the closest comp to Palantir. 
+
+I say this as a computer scientist who has written core features for Palantir Gotham, written integrations between Salesforce and Palantir, and written tens of thousands of lines of Apex and Lightning code for Salesforce.
+
+* Both are cloud based SaaS data entry and analysis platforms. 
+* Both can ingest or access existing data/systems to provide analytics on that 3rd party data.
+* Both have dynamic ontologies capable of modeling virtually any data set and any use case. 
+* Both have granular access control to information at the property level.
+* Both have default tools and visualizations, as well as no-code builders.
+* Both have robust APIs and programing languages for bespoke tools and capabilities.
+* Both have (deserved) reputations and niches; however, both are general purpose tools to help organizations make better decisions.
+
+Salesforce started with CRM data entry (easy) and has matured to offer higher level analytical capabilities and AI. Palantir was always focused on advanced analytical capabilities, and it would be trivial to build a CRM capability on top of Palantir’s products.
+
+I run my entire business on Salesforce. Lead gen -> diamond selection -> bespoke CAD creation for custom jewelry -> hand production -> delivery -> service as well as ERP functions of inventory management, shipping/logistics, etc. I could easily replatform my business from Salesforce to Palantir in a month or two, if Palantir chose to sell its products to small and medium businesses (Which they shouldn’t, but I want to highlight that the two core technologies are isomorphic).
+
+It’s my belief that by 2030, **Palantir and Salesforce will divide the business analytics market like Android & iOS, Coke and Pepsi, or Facebook and Twitter.** CRM will lead in market share of small and medium sized businesses, whereas PLTR will lead in market share for governmental organizations and larger scale businesses.
+
+Don’t believe me? It’s little discussed, but Palantir does offer a competing Sales/CRM product:
+
+[https://www.palantir.com/solutions/sales-and-revenue/](https://www.palantir.com/solutions/sales-and-revenue/)
+
+Still don’t believe me that CRM and PLTR are converging technologies? Salesforce bought a company founded by two Palantir employees, RelateIQ, for $390 million dollars in 2014. Salesforce’s headline on the purchase?
+
+Goodbye Relationship Management. Hello Relationship Intelligence.
+
+Goodbye CRM. Hello data analytics.
+
+\_\_\_\_\_
+
+**The ‘Secret Sauce’ of Palantir: Granular Access Control & Vetted Information Sharing**
+
+IMHO, the one thing that has not received enough attention in the IPO is Palantir’s ability to track the source and pedigree of every single piece of data in the system, empowering granular access control on a need-to-know basis, which enables organizations to share information across borders/boundaries.
+
+Big data is hard. Providing granular access control to big data is much harder. Convincing sensitive organizations that your tech is safe enough to share classified information with other countries/organizations is even harder. 
+
+I cannot overstate how difficult access control is at scale and why it’s a key part of Palantir’s present and future value.
+
+Here's recent videos from Palantir explaining the tech:
+
+* [https://www.youtube.com/watch?v=7zqE8J4WKOU](https://www.youtube.com/watch?v=7zqE8J4WKOU)
+* [https://www.youtube.com/watch?v=Xbo65u9Yt1o](https://www.youtube.com/watch?v=Xbo65u9Yt1o)
+
+\_\_\_\_\_
+
+**What I am looking for on Demo Day:**
+
+* Has the usability & approachability of Gotham significantly improved? 
+* How flexible/customizable is the Gotham Object viewer? (Salesforce is FAR superior here versus my 2015 knowledge of Gotham)
+* How mature are the admin tools and speed to deploy? Are they mature enough that 3rd party contractors can create and manage Palantir instances? 
+* Is there a robust marketplace for 3rd party tools, data sources, and plugins?
+* What is the AI offering, and how does that help organizations improve decision making?  
+* Will there be enough rocket emojis used in the presentation to win over WSB?

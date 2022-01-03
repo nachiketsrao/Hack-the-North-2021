@@ -1,0 +1,43 @@
+**TLDR: MM's don't have to buy millions of shares at close. It's closer to 500-300k. Options are hedged over their lifetime retards and not just with shares. But YOLO $60c or $25P if you want a good bet**
+
+Off the bat, I'm not trading IRNT. However there are posts like [this](https://www.reddit.com/r/wallstreetbets/comments/ppzol3/irnt_the_final_stand/), [this](https://www.reddit.com/r/wallstreetbets/comments/ppurkl/irnt_what_happens_when_more_calls_are_exercised/), and [this](https://www.reddit.com/r/wallstreetbets/comments/ppnz36/breaking_the_market_with_irnt_the_2nd_saga/) gaining traction clogging up my feed and they're so fucking wrong it'd be criminal if it wasn't ignorance. Modeling delta hedging and gamma squeezes happens to be my thing, I invented the model for it which notably predicted something you may have heard of. ([here](https://www.reddit.com/r/wallstreetbets/comments/kvjbuk/gamestop_melvin_capital_put_positions/?utm_source=share&utm_medium=web2x&context=3))
+
+I'm not here to make friends but to save a few people some dollars because the info they're working with is ~~flawed~~ outright wrong. Generally there's this idea MM's have to buy millions and millions of shares today after close.
+
+>If the stock closes above $45, MM’s will be forced to buy 5 MILLION additional shares. They will fight us and spread FUD because they know that they are fucked
+
+&#x200B;
+
+>If every one of them is exercised, market makers will need to buy roughly 9 million shares to fulfil their obligations
+
+&#x200B;
+
+>if we buy and hold shares to go above 45$ by Friday, we can trigger an **infinite squeeze**.
+
+This is just fundamentally wrong and misunderstands how market making of options is performed.
+
+**Market makers don't just buy a million shares on the expiration date**. That would be insane and frankly, people smarter than either of us are on the other side. Some moron with a piece of chalk came up with the equation called Black Scholes. It describes American options pricing well enough so we'll use that one. MM's usually use a mix of binomial tree and Monte Carlo models but you can read up on those later.
+
+Delta Δ is the rate of change with respect to price. In the BS model that is Δ = ∂C = Φ(d1). Now that doesn't mean anything but think about Δ as the %  chance an option expires itm (implied moneyness). This is also the directional risk for a MM who wrote the contract. **MM's have to hedge all their directional risk** for a few reasons not limited to 1. going bankrupt 2. taking positions against clients. They make their money from scalping the B/A and IV crush. (Options are priced that if Δ neutral, the MM makes money if IV decreases and loses if it increases)
+
+Here's the first important thing. The directional risk Δ of a contract is hedged over its lifespan. Not just all at once. So all those contracts people are talking about, most of them are already hedged.
+
+Second, MM's hold both sides of the trade on the books, i.e puts and calls. These positions balance out in a directional sense so you need to look at the net Δ, not just outright call buying. MM's can buy back the call contract on expiration with the put premium and take a much smaller loss than you'd think.
+
+Third, options can be hedged with other options because of this exact scenario. Then the net remaining directional risk can be hedged while trading fewer shares. Options aren't all written with underlying shares. Think about spreads. "You created" two contracts, sold one bought the other, and created two contracts on one lot of shares someone else owns. Same idea applies here.
+
+**So with that said we can take a look at the options chain.**
+
+&#x200B;
+
+https://preview.redd.it/snbj0jmwn2o71.png?width=1108&format=png&auto=webp&s=5198d95029bf0dd792fc5ae17e75eca96d2b1092
+
+This is a good view on how the chain is moving shares around. The spot when I modeled this was \~$41. The bars correspond to the amount of shares being bought for contracts of each strike when the spot moves through a $1 range of the spot on either side. The abnormal things here are the changes around $30, $45, and $60. That's not super helpful but those are the strikes the underlying is going to be pushed towards one way or the other. It's not going to stay around $40.
+
+&#x200B;
+
+However I did do the math of call deliverables for today and importantly I did it correctly. If we assume that "magical" closing price of $45, then we hedge all the contracts $45 and under 100%. Everything else is zero. Then we look at the difference between how the contracts are hedged now to get the max shares needed to deliver on every contract.  This comes out to 2.34M shares MAX. Even worse, maybe 30% of those will be exercised. Probably closer to 15% which is 351000 shares settled. A bunch will be cash settled (bought back), atm contracts may not get exercised if it's a net loss, and if the owner is extra special they may totally forget to exercise.
+
+There's the problem with the posts above. There's a critical misunderstanding of how market making works and its going to lose people money. Thats all folks.
+
+If you so desire, I'd trade around the above significant strikes. 55c betting on 60 or a short play for $25p

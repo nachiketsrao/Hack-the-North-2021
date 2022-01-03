@@ -1,0 +1,38 @@
+# Welcome to WSB!
+
+\---
+
+Additional reading: 
+
+* [What in the world is WallStreetBets?](https://www.reddit.com/r/wallstreetbets/comments/l8694g/what_in_the_world_is_wallstreetbets/)
+* [Basic Guide to WSB Culture and Lingo](https://www.reddit.com/r/wallstreetbets/comments/l7fr21/basic_guide_to_wallstreetbets_culture_for/)
+
+\---
+
+Posts on r/WallStreetBets are \*highly moderated\* compared to other subreddits. We remove a tremendous amount of content every day.
+
+Here's why:
+
+* A submission should have been a comment in the daily thread ("Commentposting")
+   * **Text Submissions**: If your text isn't particularly useful, funny, long, or unique then it should have been a comment in the daily thread and not a submission. Submissions must add something new to the conversation.
+   * **Image Submissions:** If your image isn't related to the markets and unique, then it probably doesn't belong on WSB. This includes posts like memes with simple captions, art, non-newsworthy screenshots, etc. If you have to rely on a comment or title, it's probably not a good post.
+      * Gain / Loss  / YOLO Screenshots are the exception, and the minimum requirement here is a $2.5K change in value in options or $10K change in value in shares. YOLOs must be above $10K in options, or $25K in shares. Posts **must** include screenshot of positions, and comments **must** include rationale for why you made these particular trades.
+* A submission contains misinformation
+   * While we can't catch everything, posts that contain false or misleading information will be removed and the users banned. You're encouraged to demand the author for "proof or ban". If they can't prove a claim, tag a mod and the author will get banned.
+      * Note: This only applies for things which are stated as objective facts.
+* A submission contains NO-NO CONTENT
+   * WSB is a big sub and to avoid us being shilled at every corner, we automatically remove content that mentions small cap stocks (Below $1B market cap), cryptocurrencies, NFT, and SPACs.
+* A submission is purely political
+   * Part of what makes WSB great is that we don't do politics here. No one cares about your political opinion unless it makes you money. WSB does not have an agenda or political goal.
+* A submission includes advertising, self-promotion, fundraising or begging
+   * Come on. I mean really. Make your money in the market, not off other WSB users.
+
+You can find all this in more detail in [our rules](https://www.reddit.com/r/wallstreetbets/about/rules).
+
+Breaking these rules often leads to getting automatically banned (by a bot) for a few days.
+
+This isn't personal, we're just asking you to take a break and lurk the community for a little bit. We're... "special".
+
+\---
+
+If you've made it this far, thank you for being a valuable part of a community that's grown incredibly quickly over the past few months.

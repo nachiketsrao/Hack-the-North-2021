@@ -1,0 +1,39 @@
+Attention fellow glue-sniffers,
+
+It has been 10 glorious month since my last post regarding Tesla, [here](https://www.reddit.com/r/wallstreetbets/comments/jx4hl6/sp_inclusion_and_the_tsla_hug_of_death/). It worked out...well.
+
+The time has come to revisit our favorite meme stock coming into the end of 2021, as lil Tesla shakes off the flaccidity and grows turgid in Charlie Sheen tiger-blood fashion.
+
+**Catalysts:**
+
+These are the catalysts for stock movement. Your personal feelings on the matter are irrelevant, which is important to keep in mind. You are going to be judging how the market and others react en masse, not how well your own blinking 40 watt manages to read tea leaves.
+
+1. **Full Self Driving Beta (FSD)**  -  Tesla offers driver assist functionality that goes beyond the scope of most driver assist programs. Far beyond. It is not widely known just how far ahead Tesla's neural net (NN) technology and software stacks that run FSD are. There are two key dates related to this catalyst. 9/11 is the rollout of a fully integrated v10 release to FSD beta testers, then, according to Elon, the next release will be 9/24 for 'the button'. The button is supposed to offer FSD beta to a wider audience of nearly 360k testers. This is *not* going to be a quiet affair. The more relevant piece amongst our slightly glue-inebriated brethren is actually that it allows *deferred revenue recognition for 3Q21 for collected FSD premiums*. This could be a significant upside surprise in 3Q earnings, which are expected to be reported around 10/26. Some WS analysts will back them out as 1 time recognition, but even they will need to begrudgingly agree that they should have retroactively revised trailing earnings upward if they plan on backing it out. New revenues are a big deal on WS. A potential per share recognition just for FSD of $.80 is on the table, which would take the WS estimates of $1.45 and jump it to $2.25 for a casual 55% beat, even if it were the only upside potential. Even if it were universally backed out, which I don't believe it will be (as it is partially recurring) the headline upside risk is big and would be splashier than a PTA moms meeting with guest appearance by Jason Momoa.
+
+2. **Tesla's Problem Getting It Up**  -  Tesla has had a flat year. After a blowoff top following my last post the stock has lost steam and spent *a full 8 months* consolidating so far. That it is a bummer for the people that held it during that time, but it is a golden opportunity for a keen-eyed dingus with a share allergy. The thing to observe here are the future year earnings per share estimates. They are going up. And up. And up. Like God damned clockwork. There hasn't been a month where future year '22 estimates didn't increase in '21, and the average earning estimate increase in the past 6-months is... 27% (to $7.287 eps in '22). What has the stock done during this time? Apparently it has drunk whiskey and fixated on overly-inverted nipples, from my experience. The stock trades around $730, down $170 per share from its high earlier in the year. Granted, coming into the year with that blowoff top means that your calendar year statistics are going to be fucked, but still, the mourning period is over and Tesla should be hitting on the waitress at this point. Taking a look at the 5-year chart it looks like WS agrees. Ordinarily increases in estimates correspond to increases in share price with a positive correlation. Tesla shares are currently lagging this incredibly strong indicator for future earnings, and historically speaking WS has *underestimated* true earnings by a fairly large margin. 2Q showed us an absolutely insane beat from Tesla, and in 3Q I expect one of the greatest beats of all time in terms of both deliveries (should be announced early Oct) and EPS. Given the long consolidation period, I believe the managed funds currently underweight Tesla will be scrambling to pick it up either slightly before 3Q earnings in order to hedge, or immediately after the beat in a desperate attempt to avoid a massive underperformance against their benchmark from being underweight. Tesla's consolidation and increasing earnings have made the stock a much more enticing future year multiple for big funds that previously would have viewed it as outside of their risk tolerance. mini-TLDR: Funds aren't afraid to buy at this price point anymore.
+
+3. **Reconciliation Bill Passage**  -  This trigger is expected end of September. All federal budgets need to be submitted by 9/15, and then the house will attempt to pass a 'reconciliation bill' for the federal budget that includes a fairly innocuous line item that didn't make it into the first infrastructure bill. A *$7,500 rebate incentive for all Electric Vehicles*. If this passes as currently drafted it would be an enormous catalyst, effectively making Tesla's entire offering of vehicles much much cheaper. Tesla already has a several month long backorder, but if this portion of the bill passes unchanged Tesla gets the opportunity to either hike prices for even more absurd gross margins, or allow the rebates to help make their vehicles (which are already very popular) more accessible, further damaging legacy auto manufacturers like GM and F who are reliant on their internal combustion vehicle revenues to subsidize their EV lines.
+
+4. **Berlin / Austin Gigafactories**  -  Both Gigafactories are currently considered wildcards in terms of WS production estimates. With '21 estimates for Tesla deliveries hovering around 850k units, it doesn't appear to be factored in. In 1Q Tesla delivered 184k, and 2Q at 201k, so it stands to reason that Tesla is expected to hit the 850 in 3Q and 4Q just on the back of production out of Giga Shanghai and Fremont. If either Austin or Berlin comes online during 4Q (or as early as Oct, as has been reported) the deliveries could be meaningfully revised upward, not just for '21, but '22 as well, where consensus deliveries are a laughable 1.15m. If things start to look like these two factories are coming online in October, it would be a significant catalyst for upward PT revision.
+
+**What this means:**
+
+An absolute metric shitton of catalysts are coming to a head at the tail end of 3Q and into early 4Q.
+
+WS EPS estimates will continue to climb. The disparity between share price and future year revenues will continue to pressure FY EPS.
+
+This thing looks primed for another breakout.
+
+**What can go wrong?**
+
+If the catalysts begin to whiff, it might be time to ditch out on the trade, or revise lower. I'll be keeping an especially close eye on passage of the EV incentive, and the news coming out of Berlin and Texas.
+
+Very little value is currently given to FSD in the valuation models WS creates, so I am less concerned about hiccups on that front. I am looking for a positive headline splash there.
+
+**Conclusion:**
+
+I believe Tesla could actually move from its current $730 price point to a retest of $900 during the reporting season for 3Q earnings.
+
+For this reason I am picking up $800/$850 call debit spreads for 11/19, which I personally view to be somewhat conservative. I also snagged a couple extremely cheap $900/$950 call debit spreads 11/19.
+
+I think all the signs are there that Tesla is finally ready to make an upward move once again. You can hop on the train with me if you want, or you can encourage me to copulate with myself, either way is fine with me.

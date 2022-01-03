@@ -1,0 +1,64 @@
+Hello, my fellow ADHD "day traders". Together, let's hyperfocus on Matterport. This following DD is my PhD thesis that I've compiled on this stock. If you don't know about Matterport, start off with my [introductory post here](https://www.reddit.com/r/wallstreetbets/comments/ou2ap9/mttr_bringing_3d_photogrammetry_experiences_to/). Also, check out some other bullish sentiment [here](https://www.reddit.com/r/wallstreetbets/comments/owofq2/the_stock_that_mttrs/).
+
+TLDR: Matterport is a software company that enables individuals and enterprise clients to efficiently create digital 3D models of physical locations.
+
+\[The bot isn't letting me post certain links. Gotta remove em\] 
+
+## Let’s Begin With an Analogy:
+
+Amazon started selling books with a *vision* to expand into many products. Matterport is doing something similar. They’re targeting some specific industries such as real estate and a few others. However, the *vision* goes far beyond this.
+
+## Indexing of 3D models:
+
+Matterport’s CEO RJ Pittman (formerly at Google, Apple & eBay) [spoke in 2008](https://www.youtube.com/watch?v=aH6q2NOTFAE) about Google’s plan to index the world’s images. This is the essence of what Matterport is going to do with 3D models. **They’re actively indexing the world’s fastest-growing database of 3D models.** This process will be automated and powered by AI.
+
+Why does this MTTR?
+
+## The Apex
+
+Let’s talk about APEX Imaging Services \[Link blocked by Bot, just google it\]. Apex is [utilizing Matterport’s](https://matterport.com/industries/case-studies/apex-imaging-services-brings-store-experiences-life-3d-site-survey) products to bring 3D building information and visualization to storefronts.
+
+**APEX serves multiple companies such as:**
+
+* **Starbucks**
+* **Home Depot**
+* **Chipotle**
+* **7 Eleven**
+* **CVS**
+* and even **Chick Filet**
+
+These 3D models enable retailers to take measurements of the store without sending somebody out to do it in person.
+
+Most importantly, the features of these stores are *MASS-SEARCHABLE* because of indexing. With indexed 3D buildings, you can search for every Starbucks that has a 5 sq foot bathroom. Instantly see specific features in stores. Corporate can click a few buttons and get whatever data they need.
+
+**Indexing Applications for Real Estate:** These searchable features carry over to real estate. Want to find an apartment with large closets? Just click a few buttons. I don't actually have any idea if this applies in real estate I just figure that it will.
+
+I mean, after all, newer generations value integrity and honesty in real estate listings. 3D tours enable users to experience a more transparent and honest representation of the space they’re looking into. Many agree that [pictures in real-estate are becoming misleading](https://www.macleans.ca/economy/realestateeconomy/real-estate-photos-are-distorting-reality-frustrating-would-be-home-buyers/).
+
+Not to mention, being able to measure space to see if that couch will fit. It's a real value prop.
+
+## The potential of searchable, indexed, 3D buildings is huge.
+
+Just look at their partnership with Facebook AI. (Search "Habitat AI Facebook") 
+
+That’s right. They’re [training AI on 3D datasets](https://www.youtube.com/watch?v=YDNamn-mYAQ). Matterport’s ever-expanding database of 3D buildings will fuel AI researchers in the coming years. Not to mention the datasets can be used for training robots in simulation.
+
+This means Matterport could inadvertently accelerate our ascent towards an AI apocalypse. How could you not be bullish?
+
+## Explosive Android Market Potential:
+
+Android Capture is Matterport’s upcoming app which will enable a huge amount of onboarding onto Matterport’s subscription platform. Much of their growth can be attributed to their recent iPhone app, but that's only 20% of smartphone owners.
+
+80% of smartphone owners own an Android device.  Matterport’s stock will pop when they release Android capture. I’m unsure about the specifics of how that'll work, whether it uses traditional photogrammetry, or will be supplemented with user-owned lidar attachments for Android.
+
+## The Team:
+
+>A goal without a plan, is just a wish. And they’ve got a plan.
+
+New hires are coming in from Slice, Grubhub, and other startup companies. Their reliable and quickly growing team is the sole reason they’ll accomplish their plan.
+
+## In-conclusion
+
+Thanks for momentarily skimming through this post that I spent the past hour writing. I’ll continue to post fresh and relevant updates on Matterport as more news comes around.
+
+**My positions:** 100 shares @ $14.00

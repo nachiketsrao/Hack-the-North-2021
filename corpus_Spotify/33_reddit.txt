@@ -1,0 +1,183 @@
+Every time I see another pump article on the “next Chinese Tesla” because deliveries, I get triggered and have to put on chilled cow on spotify for 3 hours. Although entertaining, “NIO is going to squeeze like GME, all aboard!” comments on stocktwits is making my testicles feel like tiny furrowed cerebrums and not because it’s cold AF outside.
+
+So I had to put together some pleb research on TSLA, NIO, XPENG & LI for you to scoff at. This is NOT financial advice, I just don’t like these stocks.
+
+**1. Positions**
+
+[https://imgur.com/qKMQHBo](https://imgur.com/qKMQHBo) Yeah my lazy ass needs to switch off.
+
+A few more 2023s, I just went sniping randomly yesterday. Full disclosure, I also hold and sell CCs on my Tesla shares, so this play doubles as somewhat of a hedge for me. Sorry, not up to YOLO standards, I'm a lil biatch.
+
+**2. The Chosen Ones: NIO & XPENG**
+
+Did you ever look at TSLA and think, god damn that shit is overpriced? Then look at the price to sales and realize, holy fuck it is? Then looked at it a month later and the price doubled? Well guess what, NIO and XPENG are trading even higher than TSLA.
+
+Current PS as of 2/10/2021
+
+\- TSLA: \~25
+
+\- NIO: \~40
+
+\- XPENG: \~41
+
+\- LI: \~19 (It’s because their flagship SUV is hybrid electric +ICE, insane PS reserved for pure bloods only)
+
+Let’s compare. These guys aren't coding the next Gran Turismo 8, but let’s look at high margin tech anyways.
+
+\- NFLX: \~10
+
+\- ABNB: \~28
+
+\- PLTR: \~72 (peter pan stock)
+
+Actual automotives, old, unsexy, fell from grace, like your grandma’s teets
+
+\- TM: \~0.8
+
+\- F: \~0.4
+
+\- VWAGY: \~0.5
+
+I did some monkey spreadsheet math to forecast their updated TTM Revs after Q1. Don’t ask me how I did that, the answer either won’t impress you, or straight up glide over your smooth brain and I need you to focus on what’s important right now.
+
+Q1 2021 PS if MC doesn’t change
+
+\- TSLA: \~22
+
+\- NIO: \~29
+
+\- XPENG: \~26
+
+\- LI: \~14
+
+Yep, still overvalued AF. Before we get into the nuts and butts, there is always the risk (lotto upside in our case) that macros choke and correct >20% because of some black swan (I mean it’s 2020s, Murphy has been trying to prove a point). When this happens, we know what gets hit hardest, the ones with the high forwarding looking, rosy multiples. These EV stocks will get beat up worse than that washed up highschool varsity prom king’s girlfriend.
+
+Some other lotto events include China stocks being delisted, and who can forget the audit risk on those poorly cooked books, but enough to win the Great Chinese Bake Off.
+
+Can they grow Revenues though? Let's look.
+
+**3. Revenue Growth Stunted**
+
+You might be one of those Stocktwats and you’re thinking; “but but... they’ll ramp deliveries exponentially and grow Revenues just like TSLA did back in 2018!” \*Smacks you in the face\*, no they won’t and here is why.
+
+Chinese people love brand name shit. I repeat, Chinese people love brand name shit. Quantitatively, go look at LVMH sales in China. The figures on Chinese tourists going on vacation, spending without looking at the price tag (naw they definitely check for them deals) is incredible. They’re not there to look at some antiquated tower (way better architecture back home), they tryin to get those furry Gucci Slips on discount (they are ugly AF btw). Tesla is no different, people worship Musk over there. You could probably sell his panties online, and some Chinese billionaire will pay millions for it, just like they did for his Gene Wilder house in LA. Qualitatively, I called my cousins in China, confirmed, he couldn’t stop jizzing at the slight mention of Tesla.
+
+Why does this matter? Owning a TSLA is like owning any other brand name shit in China, social status. Social status is EVERYTHING to much more of the population in China vs. RoW. The biggest difference is, you’re not going to be able to buy a knock-off TSLA in some shady, cigarette smoking thug’s closet on the 2nd floor of a Chinese dumpling street stand.
+
+TSLA just ramped the Model Y in China and started deliveries in Jan. [That shit sold out in a matter of days.](https://electrek.co/2021/01/06/tesla-sells-out-model-y-electric-suv-china/) If you’re not buying one, you basically have to settle for an uglier wife (this is probably not much of an exaggeration). Well guess who has been selling mostly midsize SUVs without much competition from TSLA and achieving recording breaking deliveries up until now?
+
+NIO: 100% SUVs
+
+Xpeng: 40% SUVs
+
+Brand aside, some triggered specs nerd out there is thinking “Well, ultimately people will decide based on specs and value, not brand alone.” Fine, let’s take a look at what aspects of an EV people care about.
+
+Let’s break it down apples to apples for these SUV EVs
+
+Tesla Model Y- Price: \~$52,800
+
+\- Range: 594 km (Kilometers for the apes)
+
+\- 0-100km Acceleration: 5.1s
+
+\- Charger network: 20,000+
+
+NIO EC6
+
+\- Price: \~$57,200
+
+\- Range: 430 km (605 if you pay \~$9k for a bigger battery)
+
+\- 0-100km Acceleration: 5.4s
+
+\- Charger network: 290+
+
+Xpeng G3 520
+
+\- Price: \~$30,580
+
+\- Range: 520 km
+
+\- 0-100km Acceleration: 8.6s
+
+\- Charger network: 866+
+
+You may be thinking the G3 520’s price tag is looking pretty attractive. Then you imagine the future wife you’ll be banging, yeah, trade up for that Tesla boi.
+
+“But JJ, NIO has battery swap tech! It’s perfect for China’s dense cities!” If you know anything about product market fit, battery swapping for EVs is like trying to bang a gerbil's anus. First of all, battery swap stations are way more expensive to build, stock and maintain. Crazy upfront build out costs and battery requirements kill your rate of expansion (shit is important for demand). [Tesla superchargers are spreading like wildfire](https://www.scmp.com/business/companies/article/3120578/tesla-starts-v3-supercharger-production-new-shanghai-factory) and become recurring revenue generators over time, while battery swap stations stay cost centers over time, breakeven at best. That’s why NIO tries to charge a $150 subscription fee, I’d rather get pornhub subs for the whole family. Oh btw, you can’t even do it yourself, you have to give it to a service technician to do the swapping for you. Be realistic, these wealthy, classist Chinese dirtbags (I’m Chinese and know some first hand) don’t want some lowlife service tech to sit on their mothball leather.
+
+Back to battery swapping and product market fit. Look, [Tesla tried this in 2013](https://techcrunch.com/2013/06/20/tesla-shows-off-a-90-second-battery-swap-system-wants-it-at-supercharging-stations-by-years-end/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAE0JxnRip8JKTQ9hYnvdEiU-EGgAt6RW47Mq0A7ZuzTcGFLVQKn_NUtf1M3CkQ2cr8dUxg3JtIp_G19l7z2s00l9g0WiGbkkMioZLCFNMr5D73kJ3LgwEAEXxNaD11mDTZCLIhfebIWvDzxCab8BRiANI1OHd1pocFU69FweZwNd), decided it was dumb, abandoned it and decided to make charging super fast and let you watch the actual Great British Bake Off while you wait. In 20 fuckin 13 some of you were still going through behavioral therapy and reading Robinhood as a picture book.
+
+Lastly, the people buying EVs above the $50k range have easy access to charging, especially Tesla’s network. So, battery swapping for cars above $50k is serving a niche market, a handicap, and a money losing operation.
+
+“But JJ… China EV Market Growth! They may have a smaller share right now, but the Pie grows for everyone!” Maybe, but if you look at [the 2020 EV market growth](https://insideevs.com/news/481465/china-plugin-car-sales-december-2020/), most of that came from guess who? Tesla. Oh, and a $8k mini, pretty much a golf kart that Tyrian would be uncomfortable in.
+
+Solar & batteries are money losing businesses right now for Tesla, but people are pricing in some of those rosy projections into the valuation. Nio and Xpeng haven't even hinted at the idea because people in China live in 3D printed skyscraper boxes. Home solar and battery doesn’t make sense, but this also means no revenue opportunity.
+
+Oh and let’s not forget about autonomy… no, let’s forget about it (for now).
+
+International expansion you say? Sure Nio and Xpeng trying to expand oversees to... Norway. No way has the population size of a small Indian wedding. Let's be honest here, would americans buy a "made in china" EV over a Tesla or even Ford/GM EV? I'm Chinese and I wouldn't even fuckin touch that shit.
+
+Back to Cars, to make matters worse for Chinese EV players, [Tesla has already designed a budget model](https://insideevs.com/news/486843/tesla-confirms-25k-car-sold-globally/). Unfortunately, it’ll be hard, like wiping ass with sandpaper, for Xpeng and Nio is follow suite in this space because of... MARGINS. Let's look at this next.
+
+**4. Your margin is my opportunity - JB Retiree**
+
+History lesson; how did China become #2 in GDP globally? They industrialized their massive population, kept the RMB artificially deflated to undercut the world through exports. Sure, quality suffered, but everything was "made in china" at some point. This is all to say, you can always increase demand by reducing price, and you can optimally reduce price if you have better margins than your competitors (or have the cash to sustain a loss to not bleed out before they do).
+
+Let’s look at the current state of margins.
+
+Q3 2020 Gross Margins
+
+\- Tesla: 23.5%
+
+\- Nio: 12.9%
+
+\- Xpeng: 4.6%
+
+\- Li Auto: 19.8%
+
+We’ll have to revisit Q4 margins when everyone reports in a few weeks. But wow, it’s not even close for Nio and Xpeng. This is not even taking out Tesla’s solar & battery margins, which are negative, like when your mom finds out you YOLOed your college tuition on \[redacted\] at $400.
+
+“But JJ, that’s not fair, Nio and Xpeng are still ramping!” First of all, so is Tesla, just on a larger scale. I mean, they are building factories like Starbucks locations. But fine, just taking a peak at margins for Tesla in earlier “ramp” years.
+
+2017: 18.9%
+
+2016: 22.8%
+
+2015: 22.8%
+
+This may not look right, something must be wrong you’re thinking. Well, let’s we take a look under the hood, you won’t find Trayvon Martin.
+
+\- Battery is the main cost of an EV. Tesla has been working on battery tech from the beginning, they invented and are [retiring the “skateboard” design, saying it’s obsolete](https://www.teslarati.com/tesla-retires-skateboard-vs-structural-batteries/) because they got something better, while Chinese EV companies are busy copying it. Ay caramba!
+
+\- For the batteries them selves, just look at battery output distribution. Both Nio and Xpeng rely on CATL for their batteries in China. But so does everyone else at an Indian wedding, including Tesla. Either everyone is going to be supply limited, or someone is going to have to pay more. You can pay more when you have better margins to work with/bleed cash. At least Tesla will have their own way out soon enough.
+
+[https://imgur.com/ZacBvhz](https://imgur.com/ZacBvhz)
+
+Can you find Nio, Xpeng or Li Waldo?
+
+\- Tesla’s electronics are industry leading, [Mario knows](https://www.teslarati.com/tesla-model-3-sandy-munro-analyst-data-video/). Neo and Xpeng on the other hand outsources most of the Chips (Nvidia) and hardware (Mobile eye). When you outsource, you ultimately have less margin, control, speed and ability to freely synergize.
+
+\- Tesla is also [literally stamping entire cars](https://electrek.co/2020/08/25/tesla-start-operations-worlds-largest-casting-machine/) like crispy cream donuts. It's almost if Chinese EVs are trying to take on Megatron’s fuckin Fusion Cannon with blow darts. Nio on the other hand [abandoned plans to make their own factory](https://www.theverge.com/2019/3/5/18252244/nio-ev-startup-factory-shanghai-cancelled-jac-motors) due to cash shortage and [partnered with JAC](https://cntechpost.com/2020/12/05/how-does-nio-build-cars/). A short term plat that won't help margins in the long run.
+
+\- You know how Tim Apple gets a hard on every time he talks about service margins, EVs have some of that too.
+
+\- In car entertainment: Tesla is building an app store, while Nio and Xpeng outsources
+
+\- EV Charging: Tesla has the biggest network, Nio has $ losing battery swap, while Xpeng relied on and pays government network
+
+\- Connectivity: Startlink? \*shrugs\*
+
+\- Autonomous driving: Tesla is rolling out subs for FSD, and I wouldn’t trust Nio and Xpeng’s software with your wife’s boyfriend’s life
+
+**5. Closing**
+
+Look, Nio is backed by Tencent and Bidu. Xpeng is backed by Ali. Their balance sheets pass the acid test with flying colors, so they can bleed cash for awhile. But Tesla has a meme lord at the helm. Let’s not forget some of the giant local players like BYD, who is backed by Bigly Buffet himself. There is also SAIC, Great Wall, Geely, BAIC, Chang Jiang, Kandi, and dozens more names you don't know, just like the name of your cousin's mail in bride. Tesla copy cats are literally coming out of the woodworks, when buyers have a paradox of choice, the clear pick defaults back to the trusted brand, guess who?
+
+CCP has already been 3 steps ahead of Biden (I mean, who isn't, lol) and EV bullish years ago. Matter of fact, EV subsidies (which Nio and Xpeng survive off of like a bums on opioids in the streets of San Francisco) are already [getting cut by 20% in 2021, and phased out by 2022](https://fortune.com/2021/01/05/china-electric-vehicle-subsidies-sales-tesla/). I'll let you figure out what happens to deliveries when subsidies get cut, again comes back to magins and cash. If it comes down to EV price wars, I don't think it'll be Nio and Xpeng winning the bleed out. It'll be more like Matrix 3, rather than 1.
+
+I’m no voodoo magic chart nerd, but Nio tested $65 resistance again yesterday and failed. Xpeng in general looks like it’s peaked. Google search interest has spiked and all the little virgin armchair analysts on YouTube have pumped it 10 times over. I’ll wait for their earning numbers in a few weeks to take the temperature again. I'll likely add more to the position then, will update.
+
+At the end of the day, Nio and Xpeng may trade sideways for much longer than I can stay solvent, but fuck it, I’ve spent too much time on this, so sunk cost is set in hard, change my mind.
+
+TL;DR Not sure when, but bet on EV bubble popping with Puts on Nio and Xpeng. Better to sit on the side lines for Tesla and Li Auto

@@ -1,0 +1,72 @@
+Hello everyone, me again. You might know me for my writings on a variety of companies. Usually I go long on companies, but in light of the recent success of my bearish Lucid due diligence, I've decided to continue my bearish streak with this new bearish DD on Iqiyi. I do have a bullish, long, thesis on a financials company that I intend to write at some point, but that point in time is not today. This DD was initially much lengthier but I lost it all and had to start from scratch today.
+
+Please note before you begin that I have something of a background in foreign policy and political science. It is what my undergraduate degree was on after all, but that doesn't mean I am always right. As with everything, while you can somewhat guess as to the Chinese thought process, there is always an element of risk. Furthermore, the volatility around Chinese stocks is ever present. I may exit my position at any time, including before the announcement I believe will occur, occurs (If said announcement, which I think will happen, happens). As it stands, the majority of inflows have been from retail Chinese investors, and Chinese hedge funds.
+
+Iqiyi has had an unwarranted rise in its share-price since yesterday morning from 8.31 to 10 dollars exactly or an almost 20% swing in the span of two days. The only real piece of news was the announcement of a new VR headset in its line of vr headsets, and a general small rebound in Chinese stocks over the last 2 days. I feel that this is a trap, and I will explain why below.
+
+But before I do so, I should state what Iqiyi is. Iqiyi is regarded as a "Netflix" of China, and also makes VR headsets for gaming and entertainment purposes.
+
+&#x200B;
+
+**Part 1: The Fundamental Bear Thesis For Iqiyi**
+
+1. Iqiyi is, in a word, a negative cash flow machine queen. What do I mean? Well, she loses money hand over fist. In 2020 she lost 1.09B dollars, and in Q2 of 2021 she lost  $216.4 million dollars, leaving her with 1.9B in cash, cash equivalents, restricted cash and short-term investments. Her total shareholder equity was 1.02B. She has not once made money in her 11 year existence, and in the words of her CEO to Reuters it will take five years from now for her to MAYBE turn a profit.
+2. Iqiyi is not actually the largest video streamer. That title belongs to Tencent, and then Youku which is the Chinese equivalent of Youtube and Netflix combined. All three of them are losing money, which indicates to me that they are in fierce competition with each other for subscribers and are willing to undercut each other. Each operates a freemium service.
+3. Revenue per user is significantly less for the Chinese variants of US streaming sites as Chinese users are significantly less willing to spend on content, and as such the average spend is less than 2 dollars per user.
+4. Furthermore, Iqiyi has stiff competition from game streaming companies Huya and Doyou. It also has stiffer competition from social media streaming companies like Douyin (Tiktok), Xigua, and Billibilli. In point of fact, these companies are why Iqiyi actually LOST advertising revenue: "iQiyi’s online advertising revenue, eroded by the strong growth of China’s short video players like Kuaishou and ByteDance’s Douyin, dropped by 17.5% year-on-year in 2020, and it has also seen a decline in the number of subscribed users."
+5. Compliance costs for China's new data privacy law, and algorithm law, ensure that operating expenses will rise. Furthermore, Iqiyi has already fallen afoul of these laws and has been told to rectify the situation or be fined or suspended.
+6. These new data privacy and algorithm laws make the ad inventory for Chinese stocks less useful
+7. The 996 Culture in China has been declared illegal by the Courts and there is likely to be a crack down on it, which will mean higher labor costs unless Iqiyi wants to lose man hours that it needs to create content.
+8. Labor unions have been "encouraged" by China, and now JD and Didi both have one. Those two will not be the only ones, and I expect Iqiyi to form one sooner rather than later. This will translate to higher expenses.
+9. Tencent and Alibaba both approached Baidu about buying Iqiyi but backed off amidst concerns they could trip up Chinese anti monopoly concerns. The chances of Iqiyi being acquired are almost nil.
+10. Iqiyi might have its key software enterprise designation, which gives it tax advantages, revoked. That means materially higher losses.
+11. Taiwan has already banned Iqiyi and Tencent from operating in Taiwan and if tensions increase, they could find themselves shut out of places like South Korea and Japan.
+12. Their new VR product announcement is literally anathema to what the CCP has stated it wants to do.
+
+&#x200B;
+
+1. [Alibaba Warns of Higher Taxes as China Crackdown Widens (yahoo.com)](https://finance.yahoo.com/news/alibaba-said-warn-higher-taxes-053625858.html)
+2. [Chinese video streaming platform iQiyi may turn profit in five years (disruptive.asia)](https://disruptive.asia/chinese-video-streaming-platform-iqiyi-turn-profit-five-years/)
+3. [iQIYI launches new all-in-one VR headset QIYU 3, further expanding its premium VR gaming ecosystem (yahoo.com)](https://finance.yahoo.com/news/iqiyi-launches-one-vr-headset-040500421.html)
+4. [Video Streaming App Revenue and Usage Statistics (2021) - Business of Apps](https://www.businessofapps.com/data/video-streaming-app-market/)
+5. [iQIYI Announces Second Quarter 2021 Financial Results | iQIYI, Inc.](https://ir.iqiyi.com/news-releases/news-release-details/iqiyi-announces-second-quarter-2021-financial-results)
+
+**Part 2: China Will Likely Limit Streaming Screen Time for Minors Due to Myopia concerns.**
+
+Everyone stood up and paid attention when China called gaming "spiritual opium," and everyone freaked out when they restricted gaming time for minors to 3 hours a week. However, what's not said is why:
+
+"Official distaste for video-games is aggravated by worries about the country's myopia epidemic, a combined side-effect of constant cramming plus screen glare. An estimated 81% of high school students are short-sighted, according to government figures cited by state media in June; Xi is officially concerned, as is the military. The government has already banned for-profit tutoring and is pushing to reduce homework loads. To prevent children from simply shifting to other forms of on-screen entertainment, more online restrictions are likely. Officials are also preparing to reverse decades of systemic under-investment in physical fitness infrastructure like public sports facilities and parks."
+
+This has a three-fold affect. Advertisers most covet the age demographics that will likely be limited by these new laws meaning less advertising revenue, there will be less subscribers or subscriber growth will slow because of a shift in focus to outdoor activities, and compliance costs will increase significantly.
+
+I also believe that there is a significant probability of this, because Xi has essentially already made this a must have priority, and he shows no signs of stopping.
+
+[Xi’s anti-screen campaign will reshape family time | Reuters](https://www.reuters.com/breakingviews/xis-anti-screen-campaign-will-reshape-family-time-2021-08-31/)
+
+**Part 3: China is erasing the media industry in a haphazardly selective manner**
+
+First came the suggestion to "ban" Idol competition programming, which resulted in Iqiyi banning them. Coincidentally these were one of their most popular programs. Then, came the actual banning of idol fan groups recently alongside the slamming of idol culture, which means that it will be harder for Iqiyi to drum up interest in its original programming through the use of talented actors and actresses that are well known.
+
+Then came the erasure of Zhao's movies and shows after she ran afoul of the CCP. As Iqiyi produces a significant sum of its own shows, this is a real concern.
+
+Then the rumors of a huge crackdown on numerous actors and actresses (as much as 47):
+
+"In a video last Friday, Zhou suggested Chinese celebrities with foreign passports could be next on the list for "cancelation." This, according to the director, might include 58-year-old martial arts actor Li, who holds Singaporean citizenship.
+
+"You should run. The house may come down on you next month," said Zhou.
+
+In another post on Sunday, the director claimed 30-year-old Canadian actor [Kris Wu](https://www.newsweek.com/kris-wu-underage-sex-allegations-statement-weibo-1610951)—currently being held in Beijing on suspicion of rape—had handed Chinese authorities a list of 47 celebrities."
+
+The ability of the CCP to direct the removal and erasure of works that streaming services paid for, especially if they directly funded it, is a huge risk to these money losing machines.
+
+[Jackie Chan, Jet Li Blacklist Rumors Swirl Amid China Celebrity Crackdown (newsweek.com)](https://www.newsweek.com/jackie-chan-jet-li-blacklist-rumors-swirl-amid-china-celebrity-crackdown-1624949)
+
+[China's iQiyi halts 'idol competition' programs amid criticism (yahoo.com)](https://ca.sports.yahoo.com/news/chinas-iqiyi-halts-idol-competition-103707541.html)
+
+[China’s Celebrity Culture Is Raucous. The Authorities Want to Change That. - The New York Times (nytimes.com)](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
+
+Conclusion:
+
+I picked up 10P's for January and March today. I believe that gives me enough time to wait for the bureaucracy that is the CCP to allow for my thesis to come to fruition. I believe any professionals in this company currently are not doing their clients, or themselves, any favors. In point of fact, I think it's a dereliction of duty to be in Iqiyi OR Tencent right now.
+
+ [IQ - $10.00 | Robinhood and 31 more pages - Personal - Microsoft​ Edge (gyazo.com)](https://gyazo.com/9fb9648eb5485b7327cf252781c593bd) 

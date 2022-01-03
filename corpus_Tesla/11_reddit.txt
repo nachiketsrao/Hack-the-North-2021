@@ -1,0 +1,233 @@
+**tl;dr:** a promising EV business which stock plummeted on PIPE unlock + probably shorties are catching the ride down under + insiders gobbling up a bunch of shares at a discount right before a bunch of high profile conferences. LFG[⚡](https://emojipedia.org/high-voltage/)[🚗](https://emojipedia.org/automobile/#:~:text=%F0%9F%9A%97%20Automobile%20(Car)%20Emoji)**🚀🚀🚀**
+
+# Part 1: Intro
+
+Hello degenerates and welcome to my first ever DD! Let's see if it finally gets approved - been getting taken down for the stupidest of reasons...
+
+Wait, do we even need a DD for a ticker like this? Well k...
+
+Not going to lie here - even though I’m in tech, worked at startups for most of my life and currently at a “woke” FAANG I don’t give 2 craps about EV - would much rather cruise in a good ol’ Porsche or Lambo. That is unless EV can bring in some $$$, now we’re talking.
+
+I learned about [$REE](https://ree.auto/) while following u/caddude42069 \- more precisely by checking out his new [sub](https://www.reddit.com/r/2point5to1M) where he’s trying to go from \~$2500 to a cool $1M. Dude’s had some good plays in the past so when he [posted](https://www.reddit.com/r/2point5to1M/comments/pjs8q2/1st_trade_call_me_a_ree_tard/) that $REE is his first trade in that challenge I got intrigued. Usually I don’t YOLO into plays without doing my own DD and couldn’t find much on Reddit (only this post about upcoming [catalysts](https://www.reddit.com/r/wallstreetbets/comments/phbfst/ree_automotive_catalyst/) and [this](https://www.reddit.com/r/wallstreetbets/comments/pktz93/ree_an_undervalued_gem/) “DD” trying to build on top of it) so here it goes…
+
+# Part 2: Fundamentals
+
+## 1. Qualitative
+
+## Company Profile
+
+*“REE Automotive Holdings, Inc., formerly 10X Capital Venture Acquisition Corp., is an automotive technology company. The Companys REEcorner technology combines traditional vehicle drive components such as steering, braking, suspension, powertrain and control into the arch of the wheel. The Company develops the electrical vehicle (EV) platform, which helps customers to create the range of EV and autonomous vehicles. Its segments include last mile delivery/ robot-taxis, Mobility-as-a-Service (MaaS), E-Shuttle and Mid mile delivery. The Company provides a basis for urban delivery vehicles or two passenger autonomous Robottaxi applications. Its platform creates the blank canvas to build the MaaS vehicle for both autonomous and human-drive applications. The Companys EV platform technology accommodates medium-duty commercial vehicles, which includes shuttles and medium zero emission delivery trucks.”*
+
+Think this is a pretty smooth brain explanation of what REE does but if you still need it dumbed down (like I did): they make a sort of a base/chassis for EV vehicles which other makers can build on top of. The idea is to make it in a way that a) optimizes the space b) minimizes time to market c) allows manufacturers/customers to build custom vehicles on top of it.
+
+They are best known for their skateboard platform, and no I don’t mean like the one you tried to do ollies on when you were in high school. In EV a skateboard platform is an architecture which directly houses all of the most critical components of an electric vehicle i.e. the powertrain, steering, suspension and braking components.
+
+&#x200B;
+
+[Red cars are the fastest - facts](https://preview.redd.it/mqla2b7lwbn71.jpg?width=305&format=pjpg&auto=webp&s=76d5c30842490a7dc5ebc68ca1a8f6faa0be5779)
+
+This is most probably why you haven’t heard of them before - they don’t focus on the consumer market but rather other makers who can build custom vehicles on top of it. Now while players like Tesla, who are trying to build \*everything\* themselves, probably won’t even look at $REE I see this as a major opportunity for all the other companies, especially ones who slept on the whole EV craze and are far behind.
+
+## Competitive/Competitor Analysis
+
+Fully scalable and completely modular, REE offers multiple customer benefits including complete vehicle design freedom, more space and volume with the smallest footprint, lower TCO, faster development times, ADAS compatibility, reduced maintenance and global safety standard compliance.
+
+Main competitors:
+
+* Xos Inc (1.5B)
+* Lion Electric Co (2.11B)
+* Niu Technologies (2.19B)
+
+Tbh as I said earlier I know nothing about the EV space - if there are any apes with more wrinkles around I'm more than happy to add their competitive analysis here. From my side the designs look like what I've seen in Ghost in The Shell type of animations when I was younger and is more than enough to get me on board.
+
+## 2. Quantitative
+
+## Share Price/ER
+
+**Share price (09/10 close):** $5.97
+
+**52 week range:** $5.48 - $16.66
+
+Ok… WTF happened here?!
+
+$REE went public in July 2021 via a SPAC and as we all know many of those haven’t been doing particularly well. $REE’s price was no different, slowly tumbling down before it performed a beautiful nosedive - minus 35% on 8/31. Why? Well the initial PIPE investors sold 30M shares - the full initial SPAC deal private investment amount. 10% of current outstanding shares. Yikes!
+
+So the game’s over, right? When early investors sell right after the lockup period it means the company will flop, right? Not necessarily… As the saying goes: “There are many reasons for insiders to sell, just one reason to buy”. As I said, I've worked in startups most of my life and saw first hand co-founders sell their shares back to the company for a dollar a share just a few years before they skyrocketed to $5-$10.
+
+So let’s go deeper down the rabbit hole and see if we can dig up something interesting…
+
+\*I’m trying to get this DD out asap before the Morgan Stanley conference, will fill out the financials later but they **aren’t very impressive** to say the least as of yet\*
+
+**Revenue: TBA**
+
+**Earnings per share (EPS): TBA**
+
+**Price-to-earnings ratio (P/E): TBA**
+
+**Projected earnings growth (PEG): TBA**
+
+**PEG ratio: TBA**
+
+**Debt-to-EBITDA ratio: TBA**
+
+**Price-to-sales ratio (P/S): TBA**
+
+**Price-to-book ratio (P/B): TBA**
+
+**Dividend payout ratio: TBA**
+
+**Dividend yield: TBA**
+
+**Return on equity: TBA**
+
+Ok so if the financials are also clearly… not the best to say the least. Then what gives? You’re not doing a good job selling this thing man. Why should I even keep on reading, this company looks trash🤦
+
+Let’s see what the analysts have to say...
+
+## Analyst Ratings
+
+Based on 3 ranked analysts offering 12 month price targets for REE in the last 3 months.
+
+The average price target is $16.67 with a high estimate of $20.00 and a low estimate of $15.00.
+
+&#x200B;
+
+[Green is my favorite crayon](https://preview.redd.it/zs6x7k4owbn71.png?width=1478&format=png&auto=webp&s=a610f4989645dda10227baa0c50f657d3e494a2f)
+
+For the very smooth brainers: **$16.67 > $5-$6** (good) and green = good.
+
+Finally something positive😅 While I find Igor’s estimate rather optimistic (and his own rank rather telling) the other 2 ratings look more reasonable (and in line with each other).
+
+Especially Osborne’s (who you can check out [here](https://www.tipranks.com/analysts/jeff-osborne)) justification is worth checking out:
+
+*“We are constructive on REE’s modular EV chassis approach* ***trimming the time and investment required in building new platforms***\*. Its REEcorner and REEboard aim to serve as building blocks for modular EV production. We are positive on its capability to provide mission-specific vehicles as in our view\* ***it opens several doors to optimization***\*, particularly in the\* ***commercial vehicle market***\*. REE’s flat chassis will\* ***enable space optimization***\*, yielding\* ***lesser trips via volume maximization***\*… The light and medium commercial vehicle markets are ripe for electrification given their “return to base” operation as well as focus on total cost of ownership (TCO), and we view REE as potentially well-positioned to unlock value.”\*
+
+This makes total sense - if you go and check out REE’s website and their design, having fleets of such vehicles can be a game changer in multiple industries. Reminds me of Zermatt where they only use electric buggies in the village, such a cool experience. Now imagine you’re the main company providing solutions for them globally.
+
+# Part 3: Catalysts/Good News
+
+## 1. Past
+
+**Key Collaborations Secured:**
+
+* [Magna](https://investors.ree.auto/news-releases/news-release-details/ree-automotive-signs-strategic-collaboration-agreement-magna)
+* [Navya](https://investors.ree.auto/news-releases/news-release-details/navya-and-ree-automotive-announce-they-have-signed-agreement)
+* [Hino](https://investors.ree.auto/news-releases/news-release-details/hino-motors-and-ree-automotive-sign-business-alliance-agreement) (Toyota subsidiary)
+* [AAM](https://investors.ree.auto/news-releases/news-release-details/aam-and-ree-automotive-jointly-develop-new-electric-propulsion)
+
+**UK 17M$ funding**
+
+Last month REE [announced](https://investors.ree.auto/news-releases/news-release-details/ree-automotive-awarded-17-usd-million-funding-uk-government) obtaining £12.5M (\~$17M). The investment is in line with the UK government’s ambition to accelerate the shift to zero-emission vehicles and de-carbonize the UK’s transport networks.
+
+The UK funds will allow REE to facilitate commercial production of its REEcorner technology and ultra-modular electric vehicle platforms, including engineering design, validation, verification and testing and product homologation.
+
+**Global EV Platform Company of the Year**
+
+Just a few days ago Frost & Sullivan named REE the global EV platform company of the year. You can read more about it [here](https://investors.ree.auto/news-releases/news-release-details/frost-sullivan-names-ree-automotive-2021-global-ev-platform).
+
+## 2. Upcoming
+
+[**Texas HQ**](https://investors.ree.auto/news-releases/news-release-details/ree-automotive-will-open-its-us-headquarters-and-first)
+
+*“Establishing our U.S. headquarters in Austin, Texas best positions us for growth and rapid expansion,” said Daniel Barel, REE’s Co-Founder and CEO. “Austin is fast becoming a worldwide home for elite technology professionals. REE needs to continue growing and thriving, and Austin’s dynamism and entrepreneurial spirit definitely fit REE’s culture and values. Our U.S. presence will allow us to capitalize on the incredible opportunities in the U.S. market and put us closer to our North American-based customers and partners, including Magna International and JB Poindexter, as we work together to develop and deliver modular EVs.”*
+
+I think this is great news - all the cool kids are moving to Texas (where as we know everything is bigger and better). It will also give them much more US exposure.
+
+**September Conferences**
+
+10 days ago REE announced that they will participate in a series of Investor Conferences this month. Daniel Barel, the Co-Founder and CEO, will present in these conferences and discuss REE’s business model, production strategy and the rapid change in the automotive landscape with the adoption of EV platforms on a global scale. Might this be why the insiders bought in?
+
+* Cowen's 4th Annual Global Transportation & Sustainable Mobility ConferencePresentation scheduled for Thursday, **September 9** at 9:20am ET Register to webcast
+* Morgan Stanley Virtual 9th Annual Laguna Conference Tuesday, **September 14**
+* [Evercore ISI Autotech & AI ForumPresentation](https://investors.chargepoint.com/events-and-presentations/event-details/2021/Evercore-ISI-Autotech--AI-Forum---New-Paradigms-in-Mobility--Electrification--Compute/default.aspx) scheduled for Wednesday, **September 22** at 8am ET Register to webcast
+* [DA Davidson 20th Annual Diversified Industrials & Services Conference Presentation](https://wsw.com/webcast/dadco57/register.aspx?conf=dadco57&page=ree&url=https://wsw.com/webcast/dadco57/ree/1745220) scheduled for Thursday, **September 23** at 11am ET Register to webcast
+
+# Part 4: Risks
+
+**Another Lockup Expiry**
+
+As I mentioned before the lock-up for the original PIPE Shares (30M) expired 1.5 months after the merger and caused a 35% drop. Yikes.
+
+According to the [SEC filing](https://investors.ree.auto/node/7191/html) (“ORDINARY SHARES ELIGIBLE FOR FUTURE SALE“ section) 180 days after the merger date (22 July 2021) so \~late January 2022 the lock-up for the remaining 188,722,998 shares held by legacy shareholders expires.
+
+**Shorting**
+
+According to IBKR there are still 1,310,981 shortable shares available. Yes, the fee is hovering around 100% but this still can be shorted even lower, though personally I think it unlikely to go below the 52-weekly low without major negative news. I mean it would have to be worse than a 30M share sell-off...
+
+**Delays, no more partnerships, widespread adoption**
+
+Hey, it’s hardware. And EV. Loads of things can go wrong.
+
+# Part 5: Insider Trading & Institutional Holdings
+
+We finally got to the part that actually made me pull the trigger on this deal.
+
+So you remember that 30,000,000 shares sell-off after the initial PIPE lock-up expiry? Of course you do, I can’t shut up about it.
+
+Well guess who gobbled up a fair amount of them?
+
+&#x200B;
+
+https://preview.redd.it/nw452a9rwbn71.png?width=2316&format=png&auto=webp&s=94cbd02e2655ec5aab3c06bf2c756dca2b7c7b94
+
+Yup, Thomas Hans, one of the Directors (and a founding partner of ​​10X Capital), and Weisburd David, REE’s COO snatched a cool $2,000,000 worth of shares between $5.66 and $5.97.
+
+Remember that saying about insiders selling and buying? Call me a tinfoil-hatter but imho they just don’t want to look weak or they know something. The timing right before the conferences looks very sus to me. Maybe they know something?
+
+# Part 6: Option Flow
+
+Not gonna lie and sugarcoat - I’m an option n00b and would love someone with more experience (and access to better tooling) to have a look at the current options flow and sentiment, from my naive understanding this look bullish.
+
+&#x200B;
+
+https://preview.redd.it/2siktx3twbn71.png?width=1059&format=png&auto=webp&s=f51ab77c1a733f6ac1c207fdc48b89b163442a7b
+
+# Part 7: Short Squeeze Checklist
+
+So yeah, short squeeze potential… Not really a fan of that terminology as I don’t think we’ve seen many real squeezes but still find it useful to look at some key data points:
+
+**Market Cap:** \~1.8-2B
+
+**Outstanding shares:** \~229M
+
+**Public Float:** 11.85M according to Fintel and Yahoo Finance but I’m assuming it must be much higher with the recent 30M lock-up expiry? MarketWatch is reporting 72.78M which might be too much, though.
+
+**Short Shares Availability:** 1,300,000
+
+**Short Borrow Fee Rate:** 93.45% (spiked to 110-180% apparently last week but don’t have historical data)
+
+**Utilization:** 26%
+
+**Short Interest % of Free Float:** N/A according to ORTEX (finviz/yf showing \~13% but again that data might be stale)
+
+**FINRA Short Volume Ratio (10d avg):** 51.33%
+
+**FTDs (7.23 - 8.13 avg):** $8.84 / 267,455.3529 shares
+
+**Average Days on Loan:** N/A according to ORTEX
+
+I’ll be frank with you - I believe in $REE going to $8-10 based on the analyst reports, partnerships, the tech and insider buying. I don’t really see this as a squeeze play, though. There are plenty of shortable shares available, utilization isn’t high, float is relatively large. But who knows, maybe the shorts are digging themselves deeper as we speak - there were some interesting FTD spikes 2-3 weeks ago.
+
+# Part 9: Positions - $18k “YOLO”
+
+Disregard the combo - was trying out the new broker
+
+* 1667 shares
+* 87x Oct15’21 7.5C - Sept conference play
+* 42x Feb18’22 10C - “long” term play
+
+&#x200B;
+
+https://preview.redd.it/ebdf6gjvwbn71.png?width=2602&format=png&auto=webp&s=c94da6dec0a236378467ed9dacf42177b590cf21
+
+As usual *NOT FINANCIAL ADVICE* \- treat carefully, you can clearly say I’m an ape with very barebone and rudimentary financial skills but I make up for it with huge cohones!
+
+**Edit1:** IBKR shortable shares went down to 1,260,000 i.e. \~50k less than pre-market. Someone really doesn't like this stock and is trying to pummel down the price.
+
+**Edit2:** IBKR showing less and less shortable shares, now at 1,213,000 yet the utilization is staying the same, let's see what happens. The price action is vaguely familiar and resembles last week - the day before the Sept 9th conf when this had a nice runup. Let's see if history repeats itself.
+
+**Edit3:** tldr to the top for the ones with 0sec attention span
+
+**Edit4:** Morgan Stanley's Adam Jonas just [initiated coverage](https://www.benzinga.com/news/21/09/22925015/morgan-stanley-initiates-coverage-on-ree-automotive-with-underweight-rating-announces-price-target-o) on REE with an initial price target of... $5... Looking at his other EV past ratings this is pretty bullish to me, the market also didn't go haywire because of it (yes, we're a bit down in PM).
+
+**Edit5:** people asking if i'm still in - yes, if this drops to $5 I'll consider doubling down.

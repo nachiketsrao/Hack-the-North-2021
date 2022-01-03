@@ -1,0 +1,152 @@
+Let me start by saying I've invested nearly $6MM in what I believe to be a generational investment opportunity brought about by significant cost disruption in satellite launch costs, innovations in marrying satellite technology to low-earth orbit ("LEO") applications, and advances in LTE network architecture.  We are early in the commercialization of LEO and $ASTS is at the vanguard.
+
+Inside of SpaceX, most investors rest their hat on the value of Starlink, which will provide FIXED-POINT broadband to customers, albeit at very high costs and with unclear quality.  They value is at $40bn+.  This equates to $200 per share for $ASTS, by way of comparison.  So there "is a there, there" in terms of what we are playing for here.
+
+Just like Facebook found out after it's IPO, the real market is and always will be in **MOBILE**. Starlink cannot translate to mobile unless you intend to haul a trailer behind you with a satellite dish.  See below for an artist rendition of Starlink's mobile solution vs. ASTS' actual mobile solution - your existing handset
+
+&#x200B;
+
+[Haha - let's get back to business...read on](https://preview.redd.it/g1qny0og6k571.png?width=918&format=png&auto=webp&s=a6899104fbe13f6bf1e69417ade25940a9aee38b)
+
+$ASTS AST Spacemobile has re-imagined what's possible after the significant cost disruption in satellite launch, which has allowed it to marry two key innovations to provide satellite connectivity to A REGULAR MOBILE DEVICE:
+
+&#x200B;
+
+1. Because launch costs are just a fraction of what they used to be, $ASTS is launching satellites 10x as large as those of traditional satellite phone satellites. This allows the satellite to do the work, not the phone
+2. By innovating with software, $ASTS can make the satellite connection work with existing LTE      networks by only working with the carriers' ground terminals to compensate for the Doppler effect; importantly, ASTS works with any normal phone without requiring any modifications
+
+Here is the overview of the **FACTS**
+
+**PRODUCT:**
+
+• ASTS is building the first-of-a kind and **only** space-based cellular broadband network that is **direct-to-device**; a consumer’s existing handset will work with ASTS’s service in tandem with traditional terrestrial mobile service - ASTS also works with IoT enabled devices
+
+• The constellation utilizes low and mid-band frequencies shared with partners on a non-interference basis; ASTS does not use mobile satellite spectrum but instead delivers service over spectrum allocated for terrestrial mobile use
+
+• ASTS utilizes high throughput backhaul to terrestrial networks
+
+• The service will eliminate coverage gaps, is compatible with all phones, provides broadband data speeds, and is accessible via one-click on a user’s device
+
+**MARKET:**
+
+• ASTS is targeting the large mobile 5G market, specifically in markets where terrestrial infrastructure (e.g. towers) is less developed
+
+• ASTS is a beneficiary of the following secular trends: i) falling launch costs, ii) high smartphone penetration, iii) broadband demand iv) 5G IoT proliferation
+
+• ASTS cites 3.3BN people who are covered but not connected to cellular broadband and another 700MM people who are not covered by existing networks and not connected
+
+• Key regional opportunities include India, Africa, and Equatorial regions
+
+• The service is well-suited for low/medium density sites as well as for emergency back-up during natural disasters
+
+**MANAGEMENT:**
+
+• CEO Avellan holds 18 patents and was the founder of Emerging Markets Communications (sold for $550MM in 2016)
+
+• The deep executive ranks include executives from Orbital ATK, Globecomm, NASA, and Maxar • The team has 161 scientists and engineers, 34 of whom are PhDs
+
+**COMPETITION:**
+
+• ASTS competes with high-cost legacy providers, including Iridium • Legacy satellite providers require unique handsets for users to connect
+
+• ASTS also competes with the build-out of standard terrestrial 5G mobile equipment • Competitor Lynk advertises a similar product but appears significantly behind both with respect to commercial, financial and technical milestones
+
+**OTHER:** Investors include Vodafone, Rakuten, American Tower, and Samsung; all of whom recently invested in the Company's latest financing.  The Company's own coverage banker at Barclays QUIT his job to join ASTS.  The dogs are eating the dog food.
+
+**TIMELINE:**
+
+• April 2019 – BW 1 was launched (the test satellite), validating system architecture and proving they could connect a mobile phone to a satellite and connect to an LTE system  • 2H 2021E will launch BW3, which is a scaled version of the constellation satellite • 2H 2022E/1H 2023E first commercial launches of 20 satellites for Equatorial coverage, with 110 satellites by YE 2023 and 168 satellites by YE 2024
+
+**ANALYSIS - THIS IS MY OPINION, AND SUBJECT TO DISCUSSION AND DISAGREEMENT**
+
+• ASTS is an exciting event-driven story stock with open-ended upside that is cemented in reality by proven entrepreneurs, significant industry backing, and *bone fide* strategic agreements in place that address key commercial aspects of the business
+
+• Management funded the seed capital for the business, highlighting their confidence and ‘skin in the game’
+
+• Targeting mobile 5G is a ‘**big idea**’ that augments that excitement generated by fixed-broadband players such as Starlink while addressing the cost accessibility issues that are likely to be present in developing markets
+
+• The stock benefits from a dynamic where it cannot be disproven, leaving investors free to speculate and discount key assumptions, including service penetration among partner carriers and ARPU
+
+• The investment set-up is favorable since a high capital intensity space venture is poorly suited for private markets, yet requires the capital available in the SPAC market – the set-up is not a ‘foist’ by private market investors onto unsuspecting retail investors but instead a legitimate capital raising exercise to fully-fund the project and remove financing risk
+
+• With 1-year lock-ups on existing investors and PIPE investors, there will be limited free float in what amounted to a “public Series C” financing
+
+• Given future CAPEX, Wall Street banks will see a large future banking opportunity and likely initiate favorable coverage on the Company
+
+**RISKS:**
+
+• While the *BlueWalker* satellite provided proof-of-concept, there are questions around whether ASTS will work at scale when the constellation is deployed
+
+• Users might experience significant battery drain on their devices when using the service, reducing appeal for full tower placement
+
+• Realized user penetration and ARPU remain uncertain as well as the ability to raise future capital for full system deployment at prices that avoid excessive dilution
+
+• ASTS will depend on capital markets to fully fund its growth and is susceptible to potential funding risk
+
+**INVESTMENT CHECKLIST:  Good hygiene to make sure something can make money as an investment**
+
+***BUSINESS MODEL***:  ASTS will receive a 50/50 revenue split with its carrier partners including Vodafone and AT\&T; given its large, fixed cost base, the Company expects to generate 90% asset-level EBITDA margins that provide significant operating leverage and cash flow
+
+***GO-TO-MARKET:***  In-place binding agreements with carriers provide ASTS with access to >1.3BN existing customers without having to independently market to or acquire customers (or directly bear the cost of churn) • Phase 1 will target key Equatorial regions and cover 1.6BN people; subsequent phases expand into Europe and N. America – the total system will require 168 satellites by 2024
+
+***DEFENSIBILITY***: ASTS has 750+ patents as well as a first-mover advantage • Commercial progress reinforces the Company’s technical lead in the market
+
+***CAPITAL***: ASTS is capital intensive and subject to capital availability to complete its full system • Once the constellation is complete, the Company benefits from extreme operating leverage and should have extremely high cash flow conversation
+
+***TRACTION***: ASTS appears to have extraordinary commercial partnership traction, however, it is yet unclear what end-user uptake the usage will be • Technical traction was ‘proved’ by the April 2019 launch of the *Bluewalker 1* test satellite
+
+***FINANCIALS***:  With a market cap of \~$1.8bn, the company is expected to generate >$1bn of EBITDA by 2024 based on 168 satellites launched, 27MM total subscribers, with an ARPU of $2.50 per user
+
+Below are projections:
+
+&#x200B;
+
+https://preview.redd.it/q78k3rkk6k571.png?width=878&format=png&auto=webp&s=7d03a94e2c9ae9c58e278e62d613cbf19d02dee8
+
+When thinking about a hypothetical valuation, I pro-forma the numbers and apply a multiple in-line with the tower companies.  I treat depreciation as a real cash expense
+
+&#x200B;
+
+https://preview.redd.it/xp15x4om6k571.png?width=488&format=png&auto=webp&s=8fb6a1526b293fc54c82ed510c351f8288b69a1b
+
+**TECHNOLOGY DETAILS**
+
+***OVERVIEW***: AST & Science (“ASTS”) has designed a large aperture satellite system to provide ‘direct-to-device’ service to normal phones
+
+***BOOMBOX IN SPACE:***  ASTS’ satellites are \~10x bigger than the norm because they are essentially cell-phone towers in space. With a 900-square meter array, the system is a large **“loud”** system that can connect with a regular mobile phone. Traditional satellite phones “listen hard” whereas ASTS simply produces a loud signal to connect to regular mobile phones
+
+***SOFTWARE:***  ASTS’ system does not require a special chipset on the phone because of its proprietary back-end software system that allows for interconnection to existing terrestrial spectrum and telecom networks. The “magic” of the technology is the back-end software that allows the system to utilize terrestrial spectrum, seamlessly interconnect over existing networks, and talk directly to an LTE system; ASTS is 6G forward compatible
+
+***BACKHAUL***:  Once the signal is collected from a handset, ASTS sends the data back on B-Band satellite spectrum to a ground gateway system. The phone-satellite connection is native to the carrier’s terrestrial spectrum
+
+***CAPACITY***:  Each satellite can handle 1.2MM GB per month; extra capacity can be added by directing additional satellites at an area
+
+***WHAT DO WE KNOW***:  What has ASTS done to prove its system?
+
+o *Bluewalker1* proved the RF could close (e.g. the power was sufficient to connect a normal phone) and that an LTE connection was achievable utilizing ASTS’ ‘magic’ software; ASTS launched a handset into space with the satellite on the ground to cost-effectively check an important element of technical diligence. *Bluewalker1* allowed for end-to-end connectivity testing, which has been reviewed over the last 1.5 years
+
+o *Bluewalker3* (2H 2021 launch) will be a scaled version of the system, which will de-risk components and demonstrate the full technology. BW3 will allow for software debugging to tune the full system
+
+***RISKS***:  Most of the risks are timing risks. For instance, *Bluewalker3* could spur the need to tune microns, which could delay the system deployment by months. The troubleshooting required will be the beam forming in patterns to maintain a connection while managing handoffs
+
+A launch vehicle delay could delay the testing by 60 to 90 days
+
+***BENT PIPE***:  The satellite itself is not complex – it is bent pipe in the sky; most of the design relates to distributing power. The satellite itself is not involved with processing or routing
+
+DISCLOSURE: I own 500,401 shares of common. Yes, this is a huge position. You only live once...invest carefully and with great vision.  To avoid accusations of being a shill, below is proof of my position.  I'm grateful for the moderators working with me so that I can meet the requirements to post!  I have a new appreciation for the depth of validation they require.
+
+I don't want to test my luck, but I have a bunch of cool memes to share later...made them while passing those long, cold days when this stock seriously sucked.
+
+&#x200B;
+
+[Proof of life \(or future death if this investment doesn't work\)](https://preview.redd.it/xyq67h3p6k571.png?width=1107&format=png&auto=webp&s=981c4fb304754aeec4ffe3416055839e19594b73)
+
+Same account from mobile phone:
+
+&#x200B;
+
+https://preview.redd.it/tz7oz0ur6k571.png?width=319&format=png&auto=webp&s=6ed58161df770aaf3f907e02ead30b9a11ae7cd7
+
+&#x200B;
+
+[Some trade lots for further proof](https://preview.redd.it/cugjotqs6k571.png?width=309&format=png&auto=webp&s=145dfab9a474127880916d636f06bf2678f47253)

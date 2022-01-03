@@ -1,0 +1,5 @@
+Nokia now has 160 5G deals, of which 63 are in active deployment. And Nokia is currently engaged in 60 trial periods where it’s competing to win the contract. Ericsson, which previously led Nokia, has only received 138 global 5G commercial contracts. Huawei had won 91 global 5G contracts.
+
+I suspect Nokia will have a favorable win rate as others try to compete with ReefShark. Nokia’s AI-enabled chip ReefShark which is used to power Nokia’s 5G base stations made up 44% of 5G sales. ReefShark is on track to reach 70% of 5G sales by year’s end. ReefShark is Nokia’s most recent semiconductor that powers its 5G base stations.
+
+The ReefShark chipset is smaller, decreasing the antenna size by half, which makes these base stations less bulky and obtrusive. It helps enable a 50 – 60% reduction in energy use compared to previous chips. This lowers the total cost of ownership for wireless providers and it is a great selling point.

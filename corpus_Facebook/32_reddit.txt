@@ -1,0 +1,127 @@
+Many autists wished for DD on $WISH. Here you go!
+
+The DD here is purely looking at WISH as a pure value play and doesn't include any short-squeeze related information.
+
+# Business
+
+To keep it simple,
+
+1. Wish is a global e-commerce platform that facilitates transactions between buyers and sellers.
+2. It allows sellers to list their products on Wish and sell directly to consumers.
+3. The merchants on the platform primarily offer ***unbranded products that are deeply discounted compared to the alternatives. Most of the merchants/products are from china.***
+4. They target customers looking for value goods people with annual income < 75,000 USD, plenty in US and Europe regions accounting for 90% of customers.
+5. Wish does not stock the products themselves or manage returns.
+
+# The Team
+
+1. *CEO* [*Piotr Szulczewski*](https://en.wikipedia.org/wiki/Piotr_Szulczewski) *a former Google Engineer*
+2. *Exec chair - Jacky Reses (known for Square and works with Bill Ackman at Pershing square)*
+3. *CTO - DannyZhang (Ex- Yahoo, ATT)*
+4. *Best in class Technology team of engineers mostly from Facebook and Google*
+
+Hunky dory there are so many e-commerce platforms why is WISH special ?
+
+# Value Proposition
+
+Looks at some of the stats here
+
+[Activity Snapshot](https://preview.redd.it/hp99fuab85471.png?width=728&format=png&auto=webp&s=14a48935ccd3b4142a9070ac354568d30eab0c10)
+
+WISH platform connects over ***100 million monthly active users in over 100 countries to over 550k global merchants***. Their main motto is to give users an affordable, personalized, and entertaining shopping experience leveraging their in house data science and marketing technologies.
+
+# Value Proposition to Wish Users
+
+The platform excels from the rest by making e-commerce
+
+**Affordable -** Offer unbranded products to value conscious customers at deep discounts
+
+1. **Accessible -**  built as a Mobile first platform for access across the world in 40 different languages
+2. **WISH Local -** Partner with 50,000 brick and mortar stores, use them as pick up facilities and also allowing the stores to list their products on the platform
+
+The standout features of the shopping experience
+
+1. **90% of user activity occurs through Mobile App**
+2. ***Discovery Based***  **- 70% of the sales on the platform do not come from a search query, meaning the user doesn't come to the platform to buy something that's on his mind but rather ends up buying a product browsing through the platform liking a deal**
+3. Their marketing programs are top notch and they use big data technologies and AI in their approach to make it highly personalized. They look at facebook, instagaram, emails and messages to customize their recommendations. ***ok most of you that have seen The social Dilemma on NFLX. you got it.***
+4. user experience is engaging and entertaining by having highly personalized feeds. on an ***average users spent over \~ 9 minutes a day*** on their platform in 2020
+
+# What's in for the merchants in addition to being able to sell their products ?
+
+1. access to 100 mil monthly users across 100 countries, digital presence for their stores
+2. Through **ProductBoost,** they are able to market their products by paying WISH as ad revenue. **This is very similar to a TinderBoost feature. 30% of merchants use this feature**
+3. WISH charges and offers logistics ensuring consistent delivery experience boosting their sales.
+
+# Revenue sources
+
+1. **Core Marketplace** \~ commission on the products being sold on the platform
+2. **ProductBoost** \~ marketing ad dollars coming from the merchants
+3. **Logistics** \~ providing logistics support to the merchants and getting paid
+
+[Q1 2021 Revenues](https://preview.redd.it/visfklyjd5471.png?width=753&format=png&auto=webp&s=651eb01f83d2c855e86ff5c6ce897a79f659aac1)
+
+**Quarterly comparison over the last 5**
+
+&#x200B;
+
+https://preview.redd.it/jz4lt230e5471.png?width=452&format=png&auto=webp&s=eaa8c8857459817ea600e4a8f242f33696aed8f4
+
+&#x200B;
+
+https://preview.redd.it/zkvsblq2e5471.png?width=435&format=png&auto=webp&s=2814730dbb80a17f44077eed6908f1dd3ef4d4b4
+
+# Cost and Expenses
+
+They are spending truck loads of money on user acquisition and marketing costs juts like any other early stage e-commerce player. In the long term they expect to spend 40%\~45% of their revenue in this area
+
+&#x200B;
+
+[Expected to be 40&#37;\~45&#37; going forward](https://preview.redd.it/vdxe4acke5471.png?width=393&format=png&auto=webp&s=a5dcbbfe8af527a2dc171ef2febb2a126481c6e9)
+
+# Oppurtunitues Ahead
+
+1. 43% of headcount involved in R&D related activities. Huge opp to drive efficiencies at scale
+2. 10,800 wish power users and influencers to market the platform, selected based on their social following, this would heavily propel the customers and merchants growth
+3. with covid-19 easing across the world, logistical nightmares would be eased
+4. Further scaling of Wish local to bring in more brick and mortar stores on the platform
+5. Adding new product categories and higher value products as needed by customers
+6. increased spending domestically in US due to monetary easing and stimulus
+7. Very solid base of long term customers, look at the chart showing the life time value of the users  from the time they started engaging
+
+https://preview.redd.it/02p5clfaf5471.png?width=458&format=png&auto=webp&s=8d21e4c0151bb62c784714e92477f7fb7a88133a
+
+# Valuation
+
+WISH , still not profitable with an EBITDA loss for Q1 2020 in the range of -60 million equals \~7% sales.
+
+The company doesn not have any financial debt, has \~ $1.5 to$ 2.0 B in cash.
+
+**Looking at their price to sales multiple, the stock is at a heavy discount compared to its peers**
+
+**As of close today,**
+
+|Platform|Price to sales ratio|
+|:-|:-|
+|ETSY|11.6|
+|SHOP|44.44|
+|SFIX (stitchfix)|3.844|
+|BABA|5.579|
+|Avg. Price to sales of 75 Retail (online) sales, data from A.Damodaran from NYU stern|4.52|
+|WISH|**2.861**|
+
+with a modest price to sales multiple of 5x, the stock should be trading at \~$24 to be modestly valued compared to other E-Commerce firms.
+
+***TLDR***
+
+*WISH is an undervalued stock play, heavilty discounted compared to its peers. Any price below \~$15 is a joke.*
+
+*I do not care about short interest, Gamma Squeeze but if it helps then bring it on. There were multiple rumors in the past that it's being acquired by Amazon, e-bay. I see institutional intrest to be coming back into the stock.*
+
+*Not selling a single share (1,000 shares at $10.56 avg) until it hits \~45. Might as well hit 60 if there are more WISHes from here.*
+
+**Positions or ban**
+
+&#x200B;
+
+https://preview.redd.it/pft77mzdz5471.png?width=339&format=png&auto=webp&s=40dbe49125a9591bf834a92420d3baee3ec60998
+
+&#x200B;

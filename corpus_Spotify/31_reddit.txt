@@ -1,0 +1,35 @@
+Some thoughts on API. No position yet. Want to see what you guys think. 
+
+>*API*
+
+**Industry attractiveness**
+
+\- RTE adoptions among Twitter, Spotify, Facebook
+
+\- Unverified rumors - Greenroom (Spotify) is built using API
+
+**Market bears misconceptions** 
+
+\- tying API to Clubhouse (Clubhouse sign up has slowed down drastically)
+
+\- tying API to the Chinese Education sector (going through regulation reform, 35% revenue in danger)
+
+**Competitive Dynamics**
+
+\- RTE (Agora business) doesn't use CDN which could provide better communication when networks/sites are down. The problem surfaced during recent Airline & bank websites went down due to major internet failure. Brad Altfest (Agora Director of BD posted a message around how Agora can help bank and airline prevent such risks in the future)
+
+\- Agora's new App Builder - zero coding and suitable for firms looking to have their own branded Zoom Calls.
+
+**Key developments**
+
+\- New partnership with HP. Felt like an early version of ROKU when it first partnered with TV manufactures
+
+\- [Symbl.ai](https://Symbl.ai) can transcript [Agora.io](https://Agora.io) stream into transcripts. A live demo code can be found here
+
+[https://github.com/symblai/symbl-agora-demo-app](https://github.com/symblai/symbl-agora-demo-app)
+
+\- Acquisition of Netless - The White-SDK from Netless is a cross-platform, real-time, interactive whiteboard solution. 
+
+\- partnership with HTC for VIVE to accelerate the adoption of VR innovation in real-time engagement
+
+The market is focusing on what Agora is doing now (Education, clubhouse), I felt maybe it's time to move in and focus on the next round - ROKU-like strategy and invading the mission-critical operations now relying on the internets.

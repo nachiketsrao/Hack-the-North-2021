@@ -1,0 +1,41 @@
+# TME
+
+Tencent Music Entertainment is a company that develops music streaming services for the Chinese market. After dropping over 30% in March and slowly bleeding off since, I believe it's in the perfect spot to make back a large amount of that loss.
+
+# So why did TME drop 34% in march?
+
+On March 24th [the SEC announced](https://www.sec.gov/news/press-release/2021-53) that they would be taking steps to enforce stricter financial oversight of foreign-owned companies. This meant that violators could be delisted from US exchanges. Being a Chinese company, fears of delisting caused the stock to plummet.
+
+# What has happened since?
+
+The following Sunday, Tencent Music [announced a 1 Billion dollar buyback](https://finance.yahoo.com/news/tencent-music-announces-record-1b-053445707.html) amid the selloff. The stock continued to decline into the first few weeks of April.
+
+However on April 21th things began to turn around.
+
+# So why is it a good buy now?
+
+**Technical Analysis:**
+
+https://preview.redd.it/2grvgjg79mv61.png?width=700&format=png&auto=webp&s=a7feec691c2d2c3108edbc94f4c49b50188b4fd7
+
+TME closed at 19.44 today off the back of 5 straight green days. Today it finally crossed the 200 MA which should provide strong support when moving higher.
+
+Looking up at the RSI we see a sharp bounce off 30 coinciding with the rise in share price. This still has plenty of room to climb as its only at 44 right now. This is bullish for sure, showing a strong upward trend and the stock rejecting being 'oversold'.
+
+Looking down now at the MACD crossing over the signal line again coinciding with the rise in share price. And just like with the RSI the MACD is low right now providing lots of room to grow. This again is bullish as the crossing of the signal line can be the start of a bigger move. We can further see this with the MACD histogram beginning to rise.
+
+**Fundamental Analysis:**
+
+The key to this stocks strong fundamentals is that the reason it dropped doesn't have anything to do with why the stock dropped in March. It dropped over fears of a potential delisting, but this seemed to be an overreaction. Now that fears have died down, the strong fundamentals of this stock can drive its price back upward.
+
+Tencent Music is a joint venture between Spotify and Tencent, both large and successful companies in their own right.  They create a strong partnership where Spotify provides the music expertise, and Tencent helps them navigate the Chinese market.
+
+Tencent Music has consistently met earnings and turned a profit year after year. Q1 earnings are on May 17th which could provide further support if strong.
+
+# Conclusion
+
+TME is super undervalued following a headline that doesn't change the company's fundaments at all. All signs point to a strong move upward in the following weeks.
+
+**Not financial advice, do you own DD.**
+
+**Position: None currently, planning to buy tomorrow morning.**

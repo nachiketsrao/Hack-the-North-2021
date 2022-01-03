@@ -1,0 +1,129 @@
+&#x200B;
+
+## Palantir Direct Listing
+
+Contrary to what many investors think, Palantir did not do an Initial Public Offering, "IPO," when it started trading on the New York Stock Exchange on September 30th, 2020. Instead, it did a Direct Listing.
+
+First, here's how an IPO generally works:
+
+>In an IPO, new shares of the company are created, and are underwritten by an intermediary. The underwriter works closely with the company throughout the IPO process, including deciding the initial offer price of the shares, helping with regulatory requirements, buying the available shares from the company and then selling them to investors via their distribution networks.  
+Source: [Investopedia](https://www.investopedia.com/investing/difference-between-ipo-and-direct-listing/)
+
+In short, Wall Street gets involved. It's very lucrative for it, and it makes most of its money when the stock hits the exchange. It "buys" a pile of low-price shares - or gets an allocation - and then profits handsomely when shares are offered to the public.
+
+In contrast, here's how a Direct Listing works:
+
+>"...the business sells shares directly to the public without the help of any intermediaries. It does not involve any underwriters or other intermediaries, there are no new shares issued..."  
+Source: [Investopedia](https://www.investopedia.com/investing/difference-between-ipo-and-direct-listing/)
+
+In other words, owners sell directly without much Wall Street involvement. Typically, with direct listings, there is no lock-up period. This is important and I promise I'll come back to this since it's a critical point.
+
+I won't get too far into the weeds about how direct listings work because it's distracting and not needed here. Instead, if you're overly interested in why a company might want to do a Direct Listing versus an IPO, then you can spend time reviewing this [Pros and Cons](https://assets.fenwick.com/legacy/FenwickDocuments/The-Pros-and-Cons-of-a-Direct-Listing.pdf) material:
+
+📷
+
+At this point, we can almost dive into the key question about the PLTR lock-up. However, I want to emphasize that IPOs generally have lock-up periods. Here's how [Andreessen Horowitz explains it](https://a16z.com/2019/07/02/direct-listings/) (skip down to my summary if you wish):
+
+>In a traditional IPO, existing company shareholders agree to a period, typically 180 days from the date of the IPO pricing, where they are restricted from selling, hedging, or distributing shares. While they are not mandated to do so by the SEC, investment banks usually ask for this because it allows for a set period of time for the company's shares to trade and establish a track record. Having a set amount of stock (the float) available for trading theoretically provides more predictability, allowing the stock to stabilize a bit before more share volume comes onto the market. On the other hand, the float in a typical IPO is such a small amount - usually \~10% of the company's total stock - that this artificial restriction also forces distortions for both investors buying large amounts (who have to build up their position gradually and typically have to wait until after the lock-up expires) as well as for others seeking the stock's true price (not enough volume in the true market of sellers and buyers to determine it).
+
+My apologies for the wall of text, but there are several important points if you care about PLTR's lock-up, and what it could mean for PLTR's stock price.
+
+Here's a quick summary.
+
+1. There's typically a 180-day lock-up period with IPOs but not direct listings.
+2. This is done to help the market establish a price track record.
+3. Typically about 10% of the entire float is available.
+
+If you read between the lines, this causes a certain level of scarcity or "pop!" when the stock starts trading, which insiders love. Furthermore, this creates a cliff because - in theory - when the lock-up period expires, shares flood the market and prices die off.
+
+We will come back to IPO lock-up expiration price adjustments in a short while. Before that, please allow me to explain more about how PLTR is not like other direct listings, but instead, it's far more like an IPO for our purposes here.
+
+## Do Not Compare SPOT and WORK to PLTR
+
+Both Spotify (NYSE:SPOT) and Slack (NYSE:WORK) went public through direct listings. However, to be perfectly clear, SPOT had no lock-up period for employees. Similarly, WORK had no lock-up period.
+
+Therefore, we cannot compare the price action of SPOT or WORK to PLTR in relation to any kind of lock-up period. It's literally impossible as far as I know. Perhaps there is some model we could use, but it would be oddly lubricated by theory, not practice or real-world data.
+
+I'm going to circle back to an earlier point about IPOs, namely that lock-ups are all about liquidity.
+
+>Since the actual float in a typical IPO is too small of an allocation to be a "full position" for very large mutual funds with multibillion dollar holdings, it's only when more shares come on the market through releasing the lock-up (the overhang) that these investors can build a larger and more substantial position with more liquidity.  
+Source: Andreessen Horowitz
+
+In other words, since the float is low, it's hard for whales, elephants and institutional investors to gobble up shares without driving prices up. Therefore, they often wait until the lock-up period is over. They are constrained, but this is also a source of buying power at a later time - a fact that most investors gloss over, but which helps to create a balance in the force after a lock-up.
+
+## Back Door Pressure Release Valve
+
+PLTR really is a different animal. Here's a curveball because it's something most retail investors simply don't know.
+
+>The company is 17 years old, so there may be pent-up demand to sell, although as the company had an active secondary market, anyone desperate to sell could have already unloaded.  
+Source: [The Information](https://www.theinformation.com/articles/palantirs-direct-listing-lockup-the-informations-tech-briefing)
+
+That's right. Although the company is "17 years old," its employees have had a financial safety valve of sorts through back channels.
+
+For example, I know from personal and direct experience that EquityZen offered deals to prospective PLTR investors. In fact, I almost took a bite.
+
+In other words, if you were a PLTR employee, and you wanted cash instead of your PLTR shares, you could have sold out before the direct listing.
+
+Therefore, that's a liquidation opportunity for cash poor employees. More importantly, PLTR had back doors open. Even if only marginal, I feel that helped shake loose the weak hands; price volatility stabilizer.
+
+Now we can shift over into exploring the real skin in the game. Here's where exposure and opportunity get most interesting.
+
+## Typical IPO Lock-Up Expiration Behavior
+
+How many shares of PLTR are available to trade? [Per MarketWatch](https://www.marketwatch.com/story/the-palantir-non-ipo-5-things-to-know-about-the-formerly-secretive-software-companys-direct-listing-11601351442):
+
+>For Palantir, though, years of venture-capital investments have created more than enough shares to launch public trading: roughly 1.64 billion, though that grows to 2.17 billion in a fully diluted formula that includes vesting options.
+
+As I write this, about 497 million shares are outstanding. So, my quick math tells me that about 23% of all shares fully diluted are currently outstanding. About 1.7 billion shares could potentially hit the market after the lock-up.
+
+I indicated above that with an IPO, you'll see 10% of the shares released. Here, with PLTR, we're already seeing over 20% of shares trading. It's over double the typical number of a newly listed company, so keep that in mind as well. Once again, there's less pressure on prices after lock-up.
+
+With all this as background, [here's how to put this in perspective](https://www.ig.com/en/trading-strategies/what-is-an-ipo-lockup-period-and-how-do-you-trade-it--191018):
+
+>A flood of new shares can come onto the market if the owners of those shares decide to sell. If the share price has soared since the IPO, then early investors may want to reap the rewards by selling some of their investments, or if the price has tanked, then they may look to reduce their exposure. However, it does not mean they will sell either way as they could look to retain shares in the hope of prices heading even higher, or because they believe shares could recover any value lost in the early days as a public company.
+
+Furthermore...
+
+>...if there is a sharp increase in the number of available shares available in a company then this pushes the price of a stock down. It is not unusual to see a stock's share price fall on the first day that the lock-up shares can be traded. In fact, if other investors (not subject to the lock-up period) begin to sell in the days before the lock-up expires, then this is a sign that they expect the share price to fall.
+
+So, price action alone won't exactly tell us what's going on. Current buyers might sell out of fear, or greed. And insiders might do exactly the same. It comes down to expectations about future prospects for the company since we don't know if selling is profit taking or hedging against the fear of a big loss.
+
+## Insights From Real World Data
+
+IG recently looked at [15 stocks with lock-up periods expiring in October](https://www.ig.com/en/trading-strategies/what-is-an-ipo-lockup-period-and-how-do-you-trade-it--191018). The majority of these stocks saw their prices fall before the lock-up expiration. This is quite logical. Yet, the good news is many stocks saw their prices bounce back three to five days later. A few of them saw no selling pressure at all. In fact, share price immediately went higher once the lock-up expired.
+
+I'll point out that you can expect volatility from traders who are cashing out or just making guesses ahead of time. But, if the company is strong and growing, the price will come back quickly with support. I'm speculating this would be from all those non-insider institutional investors who are finally able to take a bite of the apple.
+
+Here's how to put this together:
+
+* If share prices have skyrocketed since the IPO, some percentage of insiders will want to cash out, or sell some portion of their shares.
+* If share prices have fallen since the IPO, some insiders might want to wait for sunshine so they'll hold.
+* If share prices have fallen since the IPO, some insiders might want to sell to cut their loss.
+
+Also keep in mind that many insiders have free or very low-cost shares they've been holding for years. That could mean they don't need to sell as much to profit in a big way. Or they might wish to finally sell and move onward.
+
+## What To Do With PLTR
+
+According to BusinessWire, [the lock-up period](https://www.businesswire.com/news/home/20200929006146/en/Palantir-Announces-Additional-Update-Regarding-Outstanding-Shares-of-Common-Stock-and-Shares-Permitted-to-Be-Sold-Under-Lock-Up-Agreements):
+
+>"...is expected to continue until the start of the third trading day following the date of public disclosure of Palantir's financial results for the year ending December 31, 2020 (the 'lock-up period')."
+
+So, depending on the exact timing of the reporting of results, traders can start to play with the potential dips and the price stabilization shortly after.
+
+In theory, investors could short PLTR perhaps 7-10 days before the lock-up expiration. Or, traders could use short-term options - especially puts - to play the downside opportunity. It's unclear if there's enough downside potential to make this work. Then again, even a small dip could magnify profits because of option leverage. Please note that I'm talking here about short-term trades.
+
+Long-term investors who are bullish are probably going to see some kind of dip, but then reasonable price discovery and a lift back into a similar price range.
+
+In the grand scheme, there's probably not much to worry about as long as PLTR continues to grow like a weed. Small dips could actually be an opportunity to nibble, or back up the truck. Also consider the forces at play. Namely, insiders might be selling thereby increasing downside pressure. But outsiders - such as hedge funds, institutions, and even banks - might be inclined to load up on shares thereby increasing upside pressure. It can go both ways in a tug of war.
+
+Here's yet another thing to consider. If an investor is worried about PLTR's price right now, which is below $20, but waits to invest, there is the potential of a price run to $25 or even $30, or higher. If the price hits $30, but the lock-up expiration drives the price down, will it drop to $28, $25, $22, $20, $18, or much lower? In other words, the future "lock-up expiration dip" might still be well above the current price of about $18. In effect, a long investor might be forced to pay way more in an effort to hedge a drop in price caused by the lock-up expiration. Fear and uncertainty *appear* to keep investors safe whereas what could really happen is the opposite. Indeed, the price could run up so high that no dip big enough will ever manifest. It'll be the one that got away.
+
+I'll wrap up by saying that my research currently indicates that PLTR will likely see some downward price pressure from the lock-up expiration. However, I am not convinced the drop in price will be significant enough to warrant a delay in investing for the long term. At the same time, there will almost certainly be an opportunity for traders and speculators to use options to play in short time periods as we get closer to PLTR's lock-up expiration. Therefore, like so many things in life, it ultimately depends on the wants, needs and goals of individual investors to weigh the risks and rewards.
+
+I'm a long-term investor and I'm not worried. In fact, even if there is a rather large dip, it could encourage me to invest more. I'll determine my best path forward based on the growth of PLTR with respect to the value I see. In other words, as a net buyer and PLTR long, the ideal situation would be a huge price drop with a radical increase in growth and profits. I love discounts. But again, to be crystal clear, I don't expect a huge gap like this to appear. That's why I've gone long and continue to use LEAPS to play a long-term, forward game.
+
+-From Seeking Alpha's John Rhodes
+
+TLDR because OP is too lazy for one (or didn't read what he copy and pasted from Seeking Alpha):
+
+Lockup ends March or Feb.  There may likely be an opportunity to play downward pressure with short-term puts around lockup expiration - but the potential dip following may well NOT bring stock back down to current prices.

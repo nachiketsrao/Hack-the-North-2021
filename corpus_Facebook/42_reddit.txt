@@ -1,0 +1,83 @@
+TLDR;
+1. Recent Martech IPO
+2. SaaS business model, 121 NRR
+3. Small cap stock ($2.9 B) growing 40-50%
+4. Attractive multiple valuation vs. competition with lots of opportunity to double
+5. Leader in space with pricing power
+6. No options sadly but maybe someone can ask?
+
+**Introduction**
+
+Semrush is a SaaS-based marketing tool that enables users to get detailed insights about their SEO, SEM, Social Media, Content, Display advertising. They are a leader in the space and have gotten many awards for their product offerings. They offer a number of subscriptions ranging from $99/month (annual price) to $375/month with add-ons such as additional seats or additional features that cost $50-200/month.
+
+As someone who practices SEO and is very familiar with the space and their competition, I can definitely say SEM Rush is best in class and offers a robust suite of products that are incredibly beneficial for optimizing SEO & SEM. What's amazing about their product is that it's significantly cheaper than competitor offerings. Their average deal size is around $2,100/year which is ridiculous given how much value they provide their users. They have increased their pricing earlier this year and in the Q2 earnings call, they noted that churn was stable so far (still TBD of course).
+
+Also, SEM Rush benefits from being a leader in the search space that continues to grow exponentially per Google and Microsoft's earnings calls. Their social media marketing solutions will also be helpful given the growth of Facebook, Instagram, Twitter, Pinterest, etc.
+
+**Product Leadership vs. Competition**
+
+&#x200B;
+
+https://preview.redd.it/khes87bhr5h71.png?width=1851&format=png&auto=webp&s=0e504cfe54d5887b9d4df2d69cc3276784e9bd2c
+
+Per their Q2 earnings slide, this is where they see themselves vs. their competition. Of course, they are biased, but the awards they've earned, plus the recognition they've received confirms at least some of this promotional content. In addition, as someone who has used a number of the products listed in the above screenshot, SEM Rush is definitely a leader for sure in the space relative to its competition.
+
+Other notable competitors in the space are:
+
+\-BrightEdge  
+\-Conductor  
+\-Botify  
+\-DeepCrawl
+
+The reason I bring them up is that the above solutions are considered "Enterprise SEO" or "Enterprise marketing" solutions and thus have a starting package of $1,000+/month (i.e. 5-figure contracts), given SEM Rush's core offering, I think SEM Rush can continue to position themselves as a cost-efficient leader in the space and to investors, given where competition's pricing is at, SEM Rush will have some pricing power. I would say their closest competitor that offers similar product offerings at a reasonable price is Ahrefs and from what I'm reading, they are growing quickly too.
+
+**Financials**
+
+&#x200B;
+
+https://preview.redd.it/iusju9eyr5h71.png?width=590&format=png&auto=webp&s=032fdb5fb454584ea96b09e8e0df25e43743ff1d
+
+As you can see this is a high-growth company that COVID has definitely helped accelerate too. They've accelerated revenue sequentially and their YoY revenue growth accelerated from 35% in 2020 to 45%+ in 2021. Moreover, their sequential guidance, assuming if they can beat and raise like they did last year, means that revenue could very well grow 50%+ this year and if they can continue to grow 8%+ sequentially, we should see a 35%+ growth year in FY 2022 on some already impressive growth figures.
+
+**Gross Margin**
+
+Gross Margins for the business have increased steadily from 2018 to present:
+
+2018: 72.2  
+2019: 75.5  
+2020: 76.0  
+Q2 '2021: 77.3
+
+So this company has the potential to be very profitable with its continued margin expansion. Per their long-term targets, they hope to get GM to around 80%, so that's another 2%+. That's pretty impressive, even in the SaaS space.
+
+**Operating Margins**
+
+Their non-GAAP operating margins has continued to improve, where they started Q1'20 at -6% and the FY 2020 at -3.7%. In Q1 '21, they improved operating margins to 5.3% and in Q2 '21, they had operating margins of 1.2%. So they are definitely improving in this area esp. vs. last year which demonstrates their operating leverage and ability to achieve profitability. Moreover, their long-term operating margin target is 20%+.
+
+**Net Revenue Retention**
+
+As with any software company, net revenue retention is incredibly important since it helps fuel top-line revenue growth since existing customers are buying more ("land and expand") and you continue to generate new business.
+
+Their NRR in 2019 was 120%, in 2020 it was 114% largely due to COVID's impact in Q2 when everything was shut down and companies were getting lean. In Q1 '21 it was 116% and in Q2 '21 it was 121%. It seems that per the earnings call, management will continue to grow that figure with additional product offerings and add-ons.
+
+Here's a graph from their S-1 about their existing cohorts:
+
+**Customers**
+
+&#x200B;
+
+https://preview.redd.it/r94iuwikr5h71.png?width=975&format=png&auto=webp&s=5113b4f93f5490975b3f5979a88e16db42a40dee
+
+They continue to grow their customer base at a decent clip, with Q2 '21 customers totaling over 76k customers this was a 29% increase YoY and 5.6% sequentially. This is definitely impressive growth and as long as they continue to "land and expand" it should continue to contribute to their revenue growth. In the earnings call, management noted that 10k+ ARR customers grew 50%, so they are definitely seeing some up-market momentum.
+
+**Valuation**
+
+As of yesterday's close, SEM Rush had a EV/S multiple of 16.06 this compares to other martech solutions such as Hubspot ($HUBS) with an EV/S of 28.3 and Sprout Social ($SPT) with an EV/S of 34.7. It appears SEM Rush is growing faster than both of these companies and thus is ripe for some multiple expansion if they can continue to grow their revenue at the rates we've seen recently. I personally think the market is still in a "wait and see" mode since this is a new IPO and has only had 2 earnings releases so far. If they beat and raise next quarter, I would expect some material multiple expansion, similar to what we saw with Asana ($ASAN) where it took them 3 earnings reports to grow from an EV/S of mid-20s to 50+ (I don't expect SEM Rush to attain a 50+ multiple, just saying that there is definitely an opportunity for multiple expansion as long as they demonstrate their ability to impress the market).
+
+**Final Remarks**
+
+I think SEM Rush is an attractive small-cap ($2.9 B market cap) with a large and expanding TAM ($20 B per their S-1) thanks to the likes of tech behemoths Google/Microsoft/Facebook. They continue to innovate with strong product offerings that provide tremendous value to marketers all around the world at a fair price.
+
+**Disclosure: Long $SEMR (cost basis $21.25)**
+
+***I am not a financial advisor, do your own due diligence***

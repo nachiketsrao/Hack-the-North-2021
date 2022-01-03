@@ -1,0 +1,15 @@
+I decided to keep this short and sweet, basically just TLDR as much as I could.
+
+**Pros:**  
+\- $12b market cap, profitable, positive cash flow, stable financial position, doing share repurchases  
+\- Lots of innovation. New apps like the ability to accept payments directly via their platform. New partnerships with Facebook and Google to allow their users to advertise and sell on those platforms more seamlessly. Expanding in India  
+\- Currently sits at 52-week low (\~$70) b/c of the recent earnings miss (dropped \~15% from before the announcement). But this appears to be a short-term overreaction   
+\- Traded consistently in-range (\~$65-85) over the last 3 years, this looks to be the bottom of another such cycle before jumping back up.  
+\- Super cheap options / leaps with an implied volatility of just \~30%
+
+**Cons:**  
+\- No immediate catalyst. The play is reversion to the mean  
+\- Pandemic was a good thing for the company as many people tried creating online businesses from home. In the current environment, it is unclear what the trend is, reopening vs the variant. They missed their earnings target for Q2, and they provided a softer than expected Q3 sales forecast ($945m vs $948.6m, duh), but in-line full-year.  But their strategy seems to target both online and offline businesses, as well as not only attracting new customers, but also making existing ones more profitable. 
+
+**Positions:**  
+12 $75c for Jan-2022
